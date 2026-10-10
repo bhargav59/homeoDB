@@ -1,0 +1,23 @@
+{
+  "remedy_name": "CHLORALUM HYDRATUM",
+  "source_file": "raw_1772500754311.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/c/chlol.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      "Ammon"
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Bell",
+      "Opium",
+      "Apis"
+    ],
+    "incompatible": [],
+    "antidotes": [
+      "Ammon"
+    ]
+  },
+  "parsed_at": "2026-03-03T15:23:37.427Z"
+}

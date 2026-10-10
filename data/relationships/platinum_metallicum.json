@@ -1,0 +1,31 @@
+{
+  "remedy_name": "PLATINUM METALLICUM",
+  "source_file": "raw_1772504224378.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/p/plat.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      "Puls",
+      "the bad effects of lead"
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Rhodium",
+      "Stann",
+      "Valer",
+      "Sep",
+      "violent occipital headaches",
+      "dysphagia",
+      "caries of bones of feet)",
+      "Plat mur nat",
+      "Sedum acre (sexual irritability"
+    ],
+    "incompatible": [],
+    "antidotes": [
+      "Puls",
+      "the bad effects of lead"
+    ]
+  },
+  "parsed_at": "2026-03-03T15:23:37.700Z"
+}

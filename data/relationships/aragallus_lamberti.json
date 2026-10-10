@@ -1,0 +1,19 @@
+{
+  "remedy_name": "ARAGALLUS LAMBERTI",
+  "source_file": "raw_1772433121715.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/a/arag.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Astragallus and Oxytropis",
+      "two varieties of Loco Weed",
+      "also Baryta"
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "parsed_at": "2026-03-03T15:23:37.355Z"
+}

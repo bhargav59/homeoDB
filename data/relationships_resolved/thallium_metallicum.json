@@ -1,0 +1,39 @@
+{
+  "remedy_name": "THALLIUM METALLICUM",
+  "source_file": "raw_1772505371178.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Lathyr",
+        "resolved_name": "EUPHORBIA LATHYRIS",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Caust",
+        "resolved_name": "CAUSTICUM",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      },
+      {
+        "original": "Arg nit",
+        "resolved_name": "ARGENTUM NITRICUM",
+        "confidence": 0.55,
+        "method": "levenshtein_3"
+      },
+      {
+        "original": "Plumbum",
+        "resolved_name": "PLUMBUM METALLICUM",
+        "confidence": 1,
+        "method": "exact"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:11.435Z"
+}

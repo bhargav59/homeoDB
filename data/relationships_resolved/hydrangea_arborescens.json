@@ -1,0 +1,99 @@
+{
+  "remedy_name": "HYDRANGEA ARBORESCENS",
+  "source_file": "raw_1772502251422.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Lycopod",
+        "resolved_name": "LYCOPODIUM CLAVATUM",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      },
+      {
+        "original": "Chimaphil",
+        "resolved_name": "CHIMAPHILA UMBELLATA",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Berberis",
+        "resolved_name": "BERBERIS VULGARIS",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Pareira",
+        "resolved_name": "PAREIRA BRAVA",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Uva",
+        "resolved_name": "Uva",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Sabal",
+        "resolved_name": "SABAL SERRULATA",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Oxydendron",
+        "resolved_name": "OXYDENDRON ARBOREUM",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "affections of bladder",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "with pains in penis",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "worse",
+        "resolved_name": "BORAX VENETA",
+        "confidence": 0.55,
+        "method": "levenshtein_3"
+      },
+      {
+        "original": "eating",
+        "resolved_name": "Dr. Reckeweg R32, Homeopathic Medicine For Excessive Perspiration, Excessive Sweating Homeopathic Remedy",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "relaxed mucous membranes",
+        "resolved_name": "X",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "with excessive and depraved secretions",
+        "resolved_name": "X",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "imperfect digestion and assimilation)",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:09.898Z"
+}

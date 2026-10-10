@@ -1,0 +1,41 @@
+{
+  "remedy_name": "JALAPA",
+  "source_file": "raw_1772502458545.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      {
+        "original": "Elater",
+        "resolved_name": "ELATERIUM OFFICINARUM",
+        "confidence": 0.8,
+        "method": "substring"
+      }
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Camph",
+        "resolved_name": "CAMPHORA",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Colocy",
+        "resolved_name": "COLOCYNTHIS",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": [
+      {
+        "original": "Elater",
+        "resolved_name": "ELATERIUM OFFICINARUM",
+        "confidence": 0.8,
+        "method": "substring"
+      }
+    ]
+  },
+  "resolved_at": "2026-03-11T01:50:09.980Z"
+}

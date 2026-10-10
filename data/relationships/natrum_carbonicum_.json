@@ -1,0 +1,25 @@
+{
+  "remedy_name": "Natrum Carbonicum.",
+  "source_file": "raw_1772507953395_clarke_dictionary_w3.json",
+  "source_url": "https://www.homeoint.org/clarke/n/nat_carb.htm",
+  "relationships": {
+    "complementary": [
+      "Sep"
+    ],
+    "antidoted_by": [
+      "Camph",
+      "Chi"
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Nat"
+    ],
+    "incompatible": [],
+    "antidotes": [
+      "d by: Camph",
+      "Chi"
+    ]
+  },
+  "parsed_at": "2026-03-03T15:23:38.313Z"
+}

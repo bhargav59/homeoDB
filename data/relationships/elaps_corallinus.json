@@ -1,0 +1,17 @@
+{
+  "remedy_name": "ELAPS CORALLINUS",
+  "source_file": "raw_1772501406095.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/e/elaps.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Kino from Pterocarpus"
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "parsed_at": "2026-03-03T15:23:37.455Z"
+}

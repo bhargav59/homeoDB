@@ -1,0 +1,48 @@
+{
+  "remedy_name": "PHOSPHORUS",
+  "source_file": "raw_1772504117050.json",
+  "relationships": {
+    "complementary": [
+      {
+        "original": "Ars",
+        "resolved_name": "ARSENICUM ALBUM",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      },
+      {
+        "original": "its action",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      }
+    ],
+    "antidoted_by": [
+      {
+        "original": "Antidote to Phosph",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      }
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [],
+    "incompatible": [
+      {
+        "original": "Caust",
+        "resolved_name": "CAUSTICUM",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      }
+    ],
+    "antidotes": [
+      {
+        "original": "Antidote to Phosph",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      }
+    ]
+  },
+  "resolved_at": "2026-03-11T01:50:10.705Z"
+}

@@ -1,0 +1,18 @@
+{
+  "remedy_name": "CARBONEUM SULPHURATUM",
+  "source_file": "raw_1772500458945.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/c/carbn-s.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Potass",
+      "Benzin dinitric"
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "parsed_at": "2026-03-03T15:23:37.413Z"
+}

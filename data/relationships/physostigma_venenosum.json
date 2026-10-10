@@ -1,0 +1,28 @@
+{
+  "remedy_name": "PHYSOSTIGMA VENENOSUM",
+  "source_file": "raw_1772504126405.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/p/phys.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      "Atropia"
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "blepharo-spasms",
+      "pupils contracted",
+      "also: Muscarin",
+      "Conium",
+      "Curare",
+      "Gels",
+      "Thebainum",
+      "Piperazinum--(Uric acid conditions"
+    ],
+    "incompatible": [],
+    "antidotes": [
+      "Atropia"
+    ]
+  },
+  "parsed_at": "2026-03-03T15:23:37.695Z"
+}

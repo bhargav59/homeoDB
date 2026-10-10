@@ -1,0 +1,14 @@
+{
+  "remedy_name": "Dr. Reckeweg R33, Homeopathic Medicines For Convulsions",
+  "source_file": "raw_1772510593942_reckeweg_dilutions_w2.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:09.503Z"
+}

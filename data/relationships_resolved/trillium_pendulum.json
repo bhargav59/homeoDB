@@ -1,0 +1,81 @@
+{
+  "remedy_name": "TRILLIUM PENDULUM",
+  "source_file": "raw_1772505521549.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Trillium cernum (eye symptoms",
+        "resolved_name": "TRILLIUM PENDULUM",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "everything looks bluish",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "greasy feeling in mouth)",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "Ficus (hæmorrhages",
+        "resolved_name": "FICUS RELIGIOSA",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "menorrhagia",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "hæmaturia",
+        "resolved_name": "CATARIA NEPETA",
+        "confidence": 0.55,
+        "method": "levenshtein_3"
+      },
+      {
+        "original": "epistaxis",
+        "resolved_name": "X",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Hæmatemesis",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "bleeding piles)",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "Sanguisuga-Leech--(hæmorrhages",
+        "resolved_name": "SANGUINARIA",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      },
+      {
+        "original": "bleeding from anus)",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:11.507Z"
+}

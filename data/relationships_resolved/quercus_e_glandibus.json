@@ -1,0 +1,63 @@
+{
+  "remedy_name": "QUERCUS E GLANDIBUS",
+  "source_file": "raw_1772504415022.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Angelica (in tincture",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "five drops",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "three times daily",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "produces disgust for liquor",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "also for atony of different organs",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "dyspepsia",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "nervous headache",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "etc",
+        "resolved_name": "BETA VULGARIS",
+        "confidence": 0.7,
+        "method": "levenshtein_2"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:10.934Z"
+}

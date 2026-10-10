@@ -1,0 +1,52 @@
+{
+  "name": "MENTHOLUM",
+  "abbreviation": "Unknown",
+  "common_names": [],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Frontal headache, pain over frontal sinus, descends to eyeballs. Mental confusion. Supra orbital pain over left eye. Pain in face above zygoma with numbness. Pain in eyeballs. Coryza with post-nasal dripping. Cold sensation in nose. Eustachian tubes feel blocked and some deafness.",
+    "Tickling in the fauces. Stabbing pains in the prćcordia, radiating over entire chest. Short, dry cough, worse smoking. Asthmatic breathing, with congestive headache.",
+    "Muscular pain in cervical region, Soreness of lumbar muscles."
+  ],
+  "guiding_symptoms": [
+    "Frontal headache, pain over frontal sinus, descends to eyeballs. Mental confusion. Supra orbital pain over left eye. Pain in face above zygoma with numbness. Pain in eyeballs. Coryza with post-nasal dripping. Cold sensation in nose. Eustachian tubes feel blocked and some deafness.",
+    "Tickling in the fauces. Stabbing pains in the prćcordia, radiating over entire chest. Short, dry cough, worse smoking. Asthmatic breathing, with congestive headache.",
+    "Muscular pain in cervical region, Soreness of lumbar muscles."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Frontal headache, pain over frontal sinus, descends to eyeballs. Mental confusion. Supra orbital pain over left eye. Pain in face above zygoma with numbness. Pain in eyeballs. Coryza with post-nasal dripping. Cold sensation in nose. Eustachian tubes feel blocked and some deafness."
+  ],
+  "respiratory_symptoms": [
+    "Tickling in the fauces. Stabbing pains in the prćcordia, radiating over entire chest. Short, dry cough, worse smoking. Asthmatic breathing, with congestive headache."
+  ],
+  "gi_symptoms": [],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [
+    "Muscular pain in cervical region, Soreness of lumbar muscles."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Kali bich",
+    "Spigel"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/m/mentho.htm",
+    "title": "MENTHOLUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:00:07.411Z"
+  },
+  "confidence_score": 0.5
+}

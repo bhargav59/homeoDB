@@ -1,0 +1,81 @@
+{
+  "name": "ARGENTUM NITRICUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Nitrate of Silver"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Belching accompanies most gastric ailments. Nausea, retching, vomiting of glairy mucus. Flatulence; painful swelling of pit. Painful spot over stomach that radiates to all parts of the abdomen. Gnawing ulcerating pain; burning and constriction. Ineffectual effort at eructation. Great craving for sweets. Gastritis of drunkards. Ulcerative pain in left side under ribs. Trembling and throbbing in stomach. Enormous distention. Ulceration of stomach, with radiating pain. Desire for cheese and salt.",
+    "Headache with coldness and trembling. Emotional disturbances cause appearance of hemi-cranial attacks. Sense of expansion. Brain-fag, with general debility and trembling. Headache from mental exertion, from dancing. Vertigo, with buzzing in ears and with nervous affections. Aching in frontal eminence, with enlarged feeling in corresponding eye. Boring pain; better on tight bandaging and pressure. Itching of scalp. Hemi-crania; bones of head feel as if separated.",
+    "High notes cause cough. Chronic hoarseness. Suffocative cough, as if from a hair in throat. Dyspnœa. Chest feels as if a bar were around it. Palpitation, pulse irregular and intermittent; worse lying on right side; (Alumen). Painful spots in chest. Angina pectoris, nightly aggravation. Many people in a room seem to take away his breath.",
+    "Cannot walk with eyes closed. Trembling, with general debility. Paralysis, with mental and abdominal symptoms. Rigidity of calves. Debility in calves especially. Walks and stands unsteadily, especially when unobserved. Numbness of arms. Post-diphtheritic paralysis (after Gelsem).",
+    "Much pain. Spine sensitive with nocturnal pains, (Oxal acid) paraplegia; posterior spinal sclerosis."
+  ],
+  "guiding_symptoms": [
+    "Belching accompanies most gastric ailments. Nausea, retching, vomiting of glairy mucus. Flatulence; painful swelling of pit. Painful spot over stomach that radiates to all parts of the abdomen. Gnawing ulcerating pain; burning and constriction. Ineffectual effort at eructation. Great craving for sweets. Gastritis of drunkards. Ulcerative pain in left side under ribs. Trembling and throbbing in stomach. Enormous distention. Ulceration of stomach, with radiating pain. Desire for cheese and salt.",
+    "Headache with coldness and trembling. Emotional disturbances cause appearance of hemi-cranial attacks. Sense of expansion. Brain-fag, with general debility and trembling. Headache from mental exertion, from dancing. Vertigo, with buzzing in ears and with nervous affections. Aching in frontal eminence, with enlarged feeling in corresponding eye. Boring pain; better on tight bandaging and pressure. Itching of scalp. Hemi-crania; bones of head feel as if separated.",
+    "High notes cause cough. Chronic hoarseness. Suffocative cough, as if from a hair in throat. Dyspnœa. Chest feels as if a bar were around it. Palpitation, pulse irregular and intermittent; worse lying on right side; (Alumen). Painful spots in chest. Angina pectoris, nightly aggravation. Many people in a room seem to take away his breath."
+  ],
+  "modalities": {
+    "worse": [
+      "warmth in any form",
+      "at night",
+      "from cold food",
+      "sweets",
+      "after eating"
+    ],
+    "better": [
+      "from eructation",
+      "fresh air",
+      "cold",
+      "pressure"
+    ]
+  },
+  "mind_symptoms": [
+    "Thinks his understanding will and must fail. Fearful and nervous; impulse to jump out of window. Faintish and tremulous. Melancholic; apprehensive of serious disease. Time passes slowly (Cann ind). Memory weak. Errors of perception. Impulsive; wants to do things in a hurry (Lilium). Peculiar mental impulses. Fears and anxieties and hidden irrational motives for actions."
+  ],
+  "head_symptoms": [
+    "Headache with coldness and trembling. Emotional disturbances cause appearance of hemi-cranial attacks. Sense of expansion. Brain-fag, with general debility and trembling. Headache from mental exertion, from dancing. Vertigo, with buzzing in ears and with nervous affections. Aching in frontal eminence, with enlarged feeling in corresponding eye. Boring pain; better on tight bandaging and pressure. Itching of scalp. Hemi-crania; bones of head feel as if separated."
+  ],
+  "respiratory_symptoms": [
+    "High notes cause cough. Chronic hoarseness. Suffocative cough, as if from a hair in throat. Dyspnœa. Chest feels as if a bar were around it. Palpitation, pulse irregular and intermittent; worse lying on right side; (Alumen). Painful spots in chest. Angina pectoris, nightly aggravation. Many people in a room seem to take away his breath."
+  ],
+  "gi_symptoms": [
+    "Belching accompanies most gastric ailments. Nausea, retching, vomiting of glairy mucus. Flatulence; painful swelling of pit. Painful spot over stomach that radiates to all parts of the abdomen. Gnawing ulcerating pain; burning and constriction. Ineffectual effort at eructation. Great craving for sweets. Gastritis of drunkards. Ulcerative pain in left side under ribs. Trembling and throbbing in stomach. Enormous distention. Ulceration of stomach, with radiating pain. Desire for cheese and salt."
+  ],
+  "urinary_symptoms": [
+    "Impotence. Erection fails when coition is attempted. Cancer-like ulcers. Desire wanting. Genitals shrivel. Coition painful."
+  ],
+  "musculoskeletal_symptoms": [
+    "Cannot walk with eyes closed. Trembling, with general debility. Paralysis, with mental and abdominal symptoms. Rigidity of calves. Debility in calves especially. Walks and stands unsteadily, especially when unobserved. Numbness of arms. Post-diphtheritic paralysis (after Gelsem)."
+  ],
+  "skin_symptoms": [
+    "Brown, tense, and hard. Drawing in skin, as from a spider-web, or dried albuminous substance, withered and dried up. Irregular blotches."
+  ],
+  "sleep_symptoms": [
+    "Sleepless, from fancies before his imagination; horrible dreams of snakes, and of sexual gratification. Drowsy stupor."
+  ],
+  "fever_symptoms": [
+    "Chills with nausea. Chilly when uncovered, yet feels smothered if wrapped up."
+  ],
+  "complementary_remedies": [
+    "Ars",
+    "Merc",
+    "Phos",
+    "Pulsat"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/a/arg-n.htm",
+    "title": "ARGENTUM NITRICUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-02T06:33:10.861Z"
+  },
+  "confidence_score": 0.8
+}

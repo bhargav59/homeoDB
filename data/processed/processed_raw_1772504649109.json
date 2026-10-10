@@ -1,0 +1,43 @@
+{
+  "name": "SACCHARUM OFFICINALE",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Cane-sugar"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [],
+  "guiding_symptoms": [],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "amblyopia",
+    "cold pains",
+    "as if produced by fine",
+    "icy cold needle with tingling",
+    "as if frost bitten"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/s/sacch.htm",
+    "title": "SACCHARUM OFFICINALE - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:24:09.109Z"
+  },
+  "confidence_score": 0.32
+}

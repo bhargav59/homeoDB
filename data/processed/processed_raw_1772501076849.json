@@ -1,0 +1,58 @@
+{
+  "name": "CORALLIUM RUBRUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Red Coral"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Feels very large; violent pain as if parietal bones were forced apart; worse stooping. Eyes hot and painful. Deep-seated frontal headache with severe pain back of eyeballs. Pain aggravated by breathing cold air through nose.",
+    "Hawking of profuse mucus. Throat very sensitive, especially to air. Profuse, nasal catarrh. Inspired air feels cold (Cistus). Profuse secretion of mucus dropping through posterior nares. Dry, spasmodic, suffocative cough; very rapid cough, short, barking. Cough with great sensitiveness of air-passages; feel cold on deep inspiration. Continuous hysterical cough. Feels suffocated and greatly exhausted after whooping-cough."
+  ],
+  "guiding_symptoms": [
+    "Feels very large; violent pain as if parietal bones were forced apart; worse stooping. Eyes hot and painful. Deep-seated frontal headache with severe pain back of eyeballs. Pain aggravated by breathing cold air through nose.",
+    "Hawking of profuse mucus. Throat very sensitive, especially to air. Profuse, nasal catarrh. Inspired air feels cold (Cistus). Profuse secretion of mucus dropping through posterior nares. Dry, spasmodic, suffocative cough; very rapid cough, short, barking. Cough with great sensitiveness of air-passages; feel cold on deep inspiration. Continuous hysterical cough. Feels suffocated and greatly exhausted after whooping-cough."
+  ],
+  "modalities": {
+    "worse": [
+      "in open air, changing from a warm too cold room"
+    ],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Feels very large; violent pain as if parietal bones were forced apart; worse stooping. Eyes hot and painful. Deep-seated frontal headache with severe pain back of eyeballs. Pain aggravated by breathing cold air through nose."
+  ],
+  "respiratory_symptoms": [
+    "Hawking of profuse mucus. Throat very sensitive, especially to air. Profuse, nasal catarrh. Inspired air feels cold (Cistus). Profuse secretion of mucus dropping through posterior nares. Dry, spasmodic, suffocative cough; very rapid cough, short, barking. Cough with great sensitiveness of air-passages; feel cold on deep inspiration. Continuous hysterical cough. Feels suffocated and greatly exhausted after whooping-cough."
+  ],
+  "gi_symptoms": [],
+  "urinary_symptoms": [
+    "Ulcers on glans and inner prepuce, with yellow ichor. Emissions and weakened sexual power. Profuse perspiration of genitals."
+  ],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [
+    "Red, flat ulcers. Coral-colored, then dark red spots, changing to copper-colored spots. Psoriasis of palms and soles."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Bellad",
+    "Droser",
+    "Mephit",
+    "Caust"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/c/cor-r.htm",
+    "title": "CORALLIUM RUBRUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:24:36.849Z"
+  },
+  "confidence_score": 0.74
+}

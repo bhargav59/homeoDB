@@ -1,0 +1,53 @@
+{
+  "remedy_name": "HYDROCYANICUM ACIDUM",
+  "source_file": "raw_1772502241170.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      {
+        "original": "Ammon",
+        "resolved_name": "AMMONIUM BENZOICUM",
+        "confidence": 0.8,
+        "method": "substring"
+      }
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Cicuta",
+        "resolved_name": "CICUTA VIROSA",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Oenanthe",
+        "resolved_name": "OENANTHE CROCATA",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Camph",
+        "resolved_name": "CAMPHORA",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Lauroc",
+        "resolved_name": "LAUROCERASUS",
+        "confidence": 0.8,
+        "method": "substring"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": [
+      {
+        "original": "Ammon",
+        "resolved_name": "AMMONIUM BENZOICUM",
+        "confidence": 0.8,
+        "method": "substring"
+      }
+    ]
+  },
+  "resolved_at": "2026-03-11T01:50:09.928Z"
+}

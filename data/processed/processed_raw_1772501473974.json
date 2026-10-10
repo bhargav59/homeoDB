@@ -1,0 +1,41 @@
+{
+  "name": "ERIGERON CANADENSE",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Fleabane"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [],
+  "guiding_symptoms": [],
+  "modalities": {
+    "worse": [
+      "left side"
+    ],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [],
+  "urinary_symptoms": [
+    "Metrorrhagia, with violent irritation of rectum and bladder, and prolapsus uteri. Bright-red flow. Menorrhagia; profuse leucorrhœa; bloody lochia returns after least motion, comes in gushes; between periods, leucorrhœa with urinary irritation; pregnant women with \"weak uterus;\" a bloody discharge on slight exertion. Bleeding hæmorrhoids; nosebleed instead of menses (Bry)."
+  ],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/e/erig.htm",
+    "title": "ERIGERON CANADENSE - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:31:13.974Z"
+  },
+  "confidence_score": 0.44
+}

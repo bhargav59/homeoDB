@@ -1,0 +1,22 @@
+{
+  "remedy_name": "JALAPA",
+  "source_file": "raw_1772502458545.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/j/jal.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      "Elater"
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Camph",
+      "Colocy"
+    ],
+    "incompatible": [],
+    "antidotes": [
+      "Elater"
+    ]
+  },
+  "parsed_at": "2026-03-03T15:23:37.503Z"
+}

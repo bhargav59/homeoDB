@@ -1,0 +1,26 @@
+{
+  "remedy_name": "CARBO ANIMALIS",
+  "source_file": "raw_1772500418643.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/c/carb-an.htm",
+  "relationships": {
+    "complementary": [
+      "Calc phos"
+    ],
+    "antidoted_by": [
+      "Ars"
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Badiaga",
+      "Sepia",
+      "Sulph",
+      "Plumb iod"
+    ],
+    "incompatible": [],
+    "antidotes": [
+      "Ars"
+    ]
+  },
+  "parsed_at": "2026-03-03T15:23:37.410Z"
+}

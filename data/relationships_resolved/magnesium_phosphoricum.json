@@ -1,0 +1,59 @@
+{
+  "remedy_name": "MAGNESIUM PHOSPHORICUM",
+  "source_file": "raw_1772503078450.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      {
+        "original": "Bell",
+        "resolved_name": "BELLADONNA",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      }
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Kali phos",
+        "resolved_name": "KALI CARBONICUM",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      },
+      {
+        "original": "Colocy",
+        "resolved_name": "COLOCYNTHIS",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      },
+      {
+        "original": "Silica",
+        "resolved_name": "Silica Marina.",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Zinc",
+        "resolved_name": "ZINCUM METALLICUM",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      },
+      {
+        "original": "Diosc",
+        "resolved_name": "DIOSCOREA VILLOSA",
+        "confidence": 0.8,
+        "method": "substring"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": [
+      {
+        "original": "Bell",
+        "resolved_name": "BELLADONNA",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      }
+    ]
+  },
+  "resolved_at": "2026-03-11T01:50:10.234Z"
+}

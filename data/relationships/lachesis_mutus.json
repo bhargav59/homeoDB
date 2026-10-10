@@ -1,0 +1,28 @@
+{
+  "remedy_name": "LACHESIS MUTUS",
+  "source_file": "raw_1772502754342.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/l/lach.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      "Ars"
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Cotyledon",
+      "Nat m",
+      "Nit ac",
+      "Crotal",
+      "lancinating pains",
+      "headaches"
+    ],
+    "incompatible": [
+      "Acet ac"
+    ],
+    "antidotes": [
+      "Ars"
+    ]
+  },
+  "parsed_at": "2026-03-03T15:23:37.517Z"
+}

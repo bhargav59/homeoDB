@@ -1,0 +1,57 @@
+{
+  "name": "SARRACENIA PURPUREA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Pitcher-plant"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Hungry all the time, even after a meal. Sleepy during meals. Copious, painful vomiting.",
+    "Limbs weak; bruised pain in knees and hip-joints. Bones in arm pain. Weak between shoulders.",
+    "Pains shooting in zig-zag course from lumbar region to middle of scapula."
+  ],
+  "guiding_symptoms": [
+    "Hungry all the time, even after a meal. Sleepy during meals. Copious, painful vomiting.",
+    "Limbs weak; bruised pain in knees and hip-joints. Bones in arm pain. Weak between shoulders.",
+    "Pains shooting in zig-zag course from lumbar region to middle of scapula."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Photophobia. Eyes feel swollen and sore. Pain in orbits. Black objects move with the eye."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "Hungry all the time, even after a meal. Sleepy during meals. Copious, painful vomiting."
+  ],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [
+    "Limbs weak; bruised pain in knees and hip-joints. Bones in arm pain. Weak between shoulders."
+  ],
+  "skin_symptoms": [
+    "Variola, aborts the disease, arrests pustulation."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Tartar em",
+    "Variol",
+    "Maland"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/s/sarr.htm",
+    "title": "SARRACENIA PURPUREA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:06:57.765Z"
+  },
+  "confidence_score": 0.62
+}

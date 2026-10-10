@@ -1,0 +1,45 @@
+{
+  "remedy_name": "MEDUSA",
+  "source_file": "raw_1772503156532.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Pyrarara",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "Physalia",
+        "resolved_name": "Physalia.",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Urtica",
+        "resolved_name": "URTICA URENS",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Homar",
+        "resolved_name": "HOMARUS",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Sep",
+        "resolved_name": "SEPIA",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:10.277Z"
+}

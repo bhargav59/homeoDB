@@ -1,0 +1,47 @@
+{
+  "name": "CANCHALAGUA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Erythraea venusta-Centaury"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Congested. Scalp feels tight; head feels as if bound; burning in eyes; buzzing in ears."
+  ],
+  "guiding_symptoms": [
+    "Congested. Scalp feels tight; head feels as if bound; burning in eyes; buzzing in ears."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Congested. Scalp feels tight; head feels as if bound; burning in eyes; buzzing in ears."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [
+    "Wrinkled like a washer-woman's. Scalp feels tight, as if drawn together by India-rubber."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [
+    "Chill all over; worse in bed at night. Sensitive to cold trade-winds on Pacific Coast. General sore and bruised feeling; nausea and retching."
+  ],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/c/canch.htm",
+    "title": "CANCHALAGUA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:12:35.504Z"
+  },
+  "confidence_score": 0.44
+}

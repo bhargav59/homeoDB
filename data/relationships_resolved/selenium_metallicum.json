@@ -1,0 +1,66 @@
+{
+  "remedy_name": "SELENIUM METALLICUM",
+  "source_file": "raw_1772504828870.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      {
+        "original": "Ign",
+        "resolved_name": "IGNATIA AMARA",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      }
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Agnus",
+        "resolved_name": "AGNUS CASTUS",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Calad",
+        "resolved_name": "CALADIUM SEGUINUM",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Sulphur",
+        "resolved_name": "SULPHUR",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Tellur",
+        "resolved_name": "TELLURIUM METALLICUM",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Phosph acid",
+        "resolved_name": "PHOSPHORUS",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      }
+    ],
+    "incompatible": [
+      {
+        "original": "China",
+        "resolved_name": "CHINA OFFICINALIS",
+        "confidence": 1,
+        "method": "exact"
+      }
+    ],
+    "antidotes": [
+      {
+        "original": "Ign",
+        "resolved_name": "IGNATIA AMARA",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      }
+    ]
+  },
+  "resolved_at": "2026-03-11T01:50:11.177Z"
+}

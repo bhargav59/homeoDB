@@ -1,0 +1,57 @@
+{
+  "remedy_name": "ABIES NIGRA",
+  "source_file": "raw_1772371490593.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "(Lump in stomach--China",
+        "resolved_name": "CHINA OFFICINALIS",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Bryon",
+        "resolved_name": "BRYONIA",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      },
+      {
+        "original": "Pulsat)",
+        "resolved_name": "PULSATILLA",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      },
+      {
+        "original": "also other Conifers--Thuja",
+        "resolved_name": "THUJA OCCIDENTALIS",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Sabina",
+        "resolved_name": "SABINA",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Cupressus  also Nux vom",
+        "resolved_name": "CUPRUM METALLICUM",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      },
+      {
+        "original": "Kali carb",
+        "resolved_name": "KALI CARBONICUM",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:08.310Z"
+}

@@ -1,0 +1,47 @@
+{
+  "name": "MOMORDICA BALSAMICA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Balsam Apple"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Dizzy, contents of head feel lighter; mist before eyes."
+  ],
+  "guiding_symptoms": [
+    "Dizzy, contents of head feel lighter; mist before eyes."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Dizzy, contents of head feel lighter; mist before eyes."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "Rumbling, griping, colicky pains, starting from back, spreading over abdomen."
+  ],
+  "urinary_symptoms": [
+    "Painful and profuse menses; labor-like pains, followed by gushes of blood; pain at small of back coming towards front of pelvis."
+  ],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/m/mom-b.htm",
+    "title": "MOMORDICA BALSAMICA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:02:48.128Z"
+  },
+  "confidence_score": 0.5
+}

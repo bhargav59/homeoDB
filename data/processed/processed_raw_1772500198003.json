@@ -1,0 +1,56 @@
+{
+  "name": "CAJUPUTUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Cajuput Oil"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Hiccough, on slightest provocation.",
+    "Feels much enlarged. As if he could not get himself together (Baptisia)."
+  ],
+  "guiding_symptoms": [
+    "Hiccough, on slightest provocation.",
+    "Feels much enlarged. As if he could not get himself together (Baptisia)."
+  ],
+  "modalities": {
+    "worse": [
+      "about 5 am",
+      "night"
+    ],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Feels much enlarged. As if he could not get himself together (Baptisia)."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "Hiccough, on slightest provocation."
+  ],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Bovist",
+    "Nux mosch",
+    "Asaf",
+    "Ign",
+    "Bapt"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/c/caj.htm",
+    "title": "CAJUPUTUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:09:58.003Z"
+  },
+  "confidence_score": 0.62
+}

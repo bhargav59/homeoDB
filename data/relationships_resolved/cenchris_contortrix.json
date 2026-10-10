@@ -1,0 +1,27 @@
+{
+  "remedy_name": "CENCHRIS CONTORTRIX",
+  "source_file": "raw_1772500611501.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Ars",
+        "resolved_name": "ARSENICUM ALBUM",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      },
+      {
+        "original": "Laches",
+        "resolved_name": "LACHESIS",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:08.911Z"
+}

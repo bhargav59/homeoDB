@@ -1,0 +1,20 @@
+{
+  "remedy_name": "BELLADONNA",
+  "source_file": "raw_1772499943539.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/b/bell.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Sanguisorba officinals 2x-6x",
+      "a member of the Rosaceæ family",
+      "(Profuse",
+      "long-lasting menses"
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "parsed_at": "2026-03-03T15:23:37.382Z"
+}

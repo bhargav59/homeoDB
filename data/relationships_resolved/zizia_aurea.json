@@ -1,0 +1,45 @@
+{
+  "remedy_name": "ZIZIA AUREA",
+  "source_file": "raw_1772505927701.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Agar",
+        "resolved_name": "AGARICUS MUSCARIUS",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Stram",
+        "resolved_name": "STRAMONIUM",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      },
+      {
+        "original": "Tarant",
+        "resolved_name": "ARANEA DIADEMA",
+        "confidence": 0.55,
+        "method": "levenshtein_3"
+      },
+      {
+        "original": "Cicuta",
+        "resolved_name": "CICUTA VIROSA",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Aethusa",
+        "resolved_name": "AETHUSA CYNAPIUM",
+        "confidence": 1,
+        "method": "exact"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:11.772Z"
+}

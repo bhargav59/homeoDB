@@ -1,0 +1,61 @@
+{
+  "name": "LACHNANTHES TINCTORIA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Spirit-weed"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Sensation of heat-bubbling and boiling around heart region rising to head.",
+    "Right-sided pain, extending down to jaw; head feels enlarged; worse, least noise. Scalp painful. Sleepless. Circumscribed red cheeks; scalp feels sore, as if hair was standing on end; burning in palms and soles. Bridge of nose feels as if pinched.",
+    "Chilliness between the shoulder-blades; pain and stiffness in back.",
+    "Neck.--Drawn over to one side in sore throat. Rheumatism of the neck. Stiffness of neck. Pain in nape, as if dislocated."
+  ],
+  "guiding_symptoms": [
+    "Sensation of heat-bubbling and boiling around heart region rising to head.",
+    "Right-sided pain, extending down to jaw; head feels enlarged; worse, least noise. Scalp painful. Sleepless. Circumscribed red cheeks; scalp feels sore, as if hair was standing on end; burning in palms and soles. Bridge of nose feels as if pinched.",
+    "Chilliness between the shoulder-blades; pain and stiffness in back."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Right-sided pain, extending down to jaw; head feels enlarged; worse, least noise. Scalp painful. Sleepless. Circumscribed red cheeks; scalp feels sore, as if hair was standing on end; burning in palms and soles. Bridge of nose feels as if pinched."
+  ],
+  "respiratory_symptoms": [
+    "Sensation of heat-bubbling and boiling around heart region rising to head."
+  ],
+  "gi_symptoms": [],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [
+    "Chilliness between the shoulder-blades; pain and stiffness in back.",
+    "Neck.--Drawn over to one side in sore throat. Rheumatism of the neck. Stiffness of neck. Pain in nape, as if dislocated."
+  ],
+  "skin_symptoms": [
+    "Body icy cold; face yellow; tendency to sweat."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Dulc",
+    "Bry",
+    "Puls",
+    "also Fel tauri (nape of neck pains",
+    "and great tension there"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/l/lachn.htm",
+    "title": "LACHNANTHES TINCTORIA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:52:44.496Z"
+  },
+  "confidence_score": 0.56
+}

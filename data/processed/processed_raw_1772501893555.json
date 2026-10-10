@@ -1,0 +1,51 @@
+{
+  "name": "GENTIANA LUTEA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Yellow Gentian"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Acid risings, ravenous hunger, nausea, weight and aching in stomach. Inflation and tension of stomach and abdomen (Pothos). Colic, umbilical region sensitive to touch. Flatulence.",
+    "Vertigo, worse, rising or motion; better open air. Frontal headache, better eating and open air. Brain feels loose, head tender. Aching in eyes."
+  ],
+  "guiding_symptoms": [
+    "Acid risings, ravenous hunger, nausea, weight and aching in stomach. Inflation and tension of stomach and abdomen (Pothos). Colic, umbilical region sensitive to touch. Flatulence.",
+    "Vertigo, worse, rising or motion; better open air. Frontal headache, better eating and open air. Brain feels loose, head tender. Aching in eyes."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Vertigo, worse, rising or motion; better open air. Frontal headache, better eating and open air. Brain feels loose, head tender. Aching in eyes."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "Acid risings, ravenous hunger, nausea, weight and aching in stomach. Inflation and tension of stomach and abdomen (Pothos). Colic, umbilical region sensitive to touch. Flatulence."
+  ],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "dyspepsia",
+    "cholera infantum",
+    "weakness"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/g/gent-l.htm",
+    "title": "GENTIANA LUTEA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:38:13.555Z"
+  },
+  "confidence_score": 0.5
+}

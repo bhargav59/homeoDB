@@ -1,0 +1,49 @@
+{
+  "name": "FERRUM IODATUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Iodide of Iron"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Food seems to push up into throat, as if it had not been swallowed.",
+    "Coryza; discharge of mucus from nose, trachea, and larynx. Pressure beneath sternum. Scrofulous swelling of nose. Chest feels oppressed. Hćmoptysis."
+  ],
+  "guiding_symptoms": [
+    "Food seems to push up into throat, as if it had not been swallowed.",
+    "Coryza; discharge of mucus from nose, trachea, and larynx. Pressure beneath sternum. Scrofulous swelling of nose. Chest feels oppressed. Hćmoptysis."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [],
+  "respiratory_symptoms": [
+    "Coryza; discharge of mucus from nose, trachea, and larynx. Pressure beneath sternum. Scrofulous swelling of nose. Chest feels oppressed. Hćmoptysis."
+  ],
+  "gi_symptoms": [
+    "Food seems to push up into throat, as if it had not been swallowed."
+  ],
+  "urinary_symptoms": [
+    "Urine dark. Sweet smelling. Crawling sensation in urethra and rectum. Sensation as if urine were stopped at fossa navicularis. Difficulty in retaining urine. Incontinence in anćmic children."
+  ],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/f/ferr-i.htm",
+    "title": "FERRUM IODATUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:34:26.010Z"
+  },
+  "confidence_score": 0.62
+}

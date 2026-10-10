@@ -1,0 +1,33 @@
+{
+  "remedy_name": "FAGOPYRUM ESCULENTUM",
+  "source_file": "raw_1772501636448.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Dolichos",
+        "resolved_name": "DOLICHOS PRURIENS",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Bovista",
+        "resolved_name": "BOVISTA LYCOPERDON",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Urtica",
+        "resolved_name": "URTICA URENS",
+        "confidence": 1,
+        "method": "exact"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:09.622Z"
+}

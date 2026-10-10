@@ -1,0 +1,28 @@
+{
+  "remedy_name": "NATRIUM SULPHURICUM",
+  "source_file": "raw_1772503558492.json",
+  "relationships": {
+    "complementary": [
+      {
+        "original": "ary",
+        "resolved_name": "BARYTA ACETICA",
+        "confidence": 0.8,
+        "method": "substring"
+      }
+    ],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Natrum succinate (5 gr every 3 hours",
+        "resolved_name": "CINA MARITIMA",
+        "confidence": 0.8,
+        "method": "substring"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:10.462Z"
+}

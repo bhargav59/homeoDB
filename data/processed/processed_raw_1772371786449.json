@@ -1,0 +1,71 @@
+{
+  "name": "ALUMINA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Oxide et Aluminum-Argilla"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Abnormal cravings-chalk, charcoal, dry food, tea-grounds. Heartburn; feels constricted. Aversion to meat (Graph; Arn; Puls). Potatoes disagree. No desire to eat. Can swallow but small morsels at a time. Constriction of śsophagus.",
+    "Stitching, burning pain in head, with vertigo, worse in morning, but relieved by food. Pressure in forehead as from a tight hat. Inability to walk except with eyes open. Throbbing headache, with constipation. Vertigo, with nausea; better after breakfast. Falling out of hair; scalp itches and is numb.",
+    "Cough soon after waking in the morning. Hoarse, aphonia, tickling in larynx; wheezing, rattling respiration. Cough on talking or singing, in the morning. Chest feels constricted. Condiments produce cough. Talking aggravates soreness of chest.",
+    "Pain in arm and fingers, as if hot iron penetrated. Arms feel paralyzed. Legs feel asleep, especially when sitting with legs crossed. Staggers on walking. Heels feel numb. Soles tender; on stepping, feel soft and swollen. Pain in shoulder and upper arm. Gnawing beneath finger nails. Brittle nails. Inability to walk, except when eyes are open or in daytime. Spinal degenerations and paralysis of lower limbs.",
+    "Stitches. Gnawing pain, as if from hot iron. Pain along cord, with paralytic weakness."
+  ],
+  "guiding_symptoms": [
+    "Abnormal cravings-chalk, charcoal, dry food, tea-grounds. Heartburn; feels constricted. Aversion to meat (Graph; Arn; Puls). Potatoes disagree. No desire to eat. Can swallow but small morsels at a time. Constriction of śsophagus.",
+    "Stitching, burning pain in head, with vertigo, worse in morning, but relieved by food. Pressure in forehead as from a tight hat. Inability to walk except with eyes open. Throbbing headache, with constipation. Vertigo, with nausea; better after breakfast. Falling out of hair; scalp itches and is numb.",
+    "Cough soon after waking in the morning. Hoarse, aphonia, tickling in larynx; wheezing, rattling respiration. Cough on talking or singing, in the morning. Chest feels constricted. Condiments produce cough. Talking aggravates soreness of chest."
+  ],
+  "modalities": {
+    "worse": [
+      "periodically",
+      "in afternoon",
+      "from potatoes"
+    ],
+    "better": [
+      "in open air",
+      "from cold washing",
+      "in evening and on alternate days"
+    ]
+  },
+  "mind_symptoms": [
+    "Low-spirited; fears loss of reason. Confused as to personal identity. Hasty, hurried. Time passes slowly. Variable mood. Better as day advances. Suicidal tendency when seeing knife or blood."
+  ],
+  "head_symptoms": [
+    "Stitching, burning pain in head, with vertigo, worse in morning, but relieved by food. Pressure in forehead as from a tight hat. Inability to walk except with eyes open. Throbbing headache, with constipation. Vertigo, with nausea; better after breakfast. Falling out of hair; scalp itches and is numb."
+  ],
+  "respiratory_symptoms": [
+    "Cough soon after waking in the morning. Hoarse, aphonia, tickling in larynx; wheezing, rattling respiration. Cough on talking or singing, in the morning. Chest feels constricted. Condiments produce cough. Talking aggravates soreness of chest."
+  ],
+  "gi_symptoms": [
+    "Abnormal cravings-chalk, charcoal, dry food, tea-grounds. Heartburn; feels constricted. Aversion to meat (Graph; Arn; Puls). Potatoes disagree. No desire to eat. Can swallow but small morsels at a time. Constriction of śsophagus."
+  ],
+  "urinary_symptoms": [
+    "Excessive desire. Involuntary emissions when straining at stool. Prostatic discharge."
+  ],
+  "musculoskeletal_symptoms": [
+    "Pain in arm and fingers, as if hot iron penetrated. Arms feel paralyzed. Legs feel asleep, especially when sitting with legs crossed. Staggers on walking. Heels feel numb. Soles tender; on stepping, feel soft and swollen. Pain in shoulder and upper arm. Gnawing beneath finger nails. Brittle nails. Inability to walk, except when eyes are open or in daytime. Spinal degenerations and paralysis of lower limbs."
+  ],
+  "skin_symptoms": [
+    "Chapped and dry tettery. Brittle nails. Intolerable itching when getting warm in bed. Must scratch until it bleeds; then becomes painful. Brittle skin on fingers."
+  ],
+  "sleep_symptoms": [
+    "Restless; anxious and confused dreams. Sleepy in morning."
+  ],
+  "fever_symptoms": [],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/a/alum.htm",
+    "title": "ALUMINA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-01T13:29:46.449Z"
+  },
+  "confidence_score": 0.8
+}

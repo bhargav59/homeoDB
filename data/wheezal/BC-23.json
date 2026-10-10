@@ -1,0 +1,23 @@
+{
+  "name": "Toothache",
+  "url": "https://www.wheezalstore.com/product/29687098/Toothache",
+  "collection_id": "bio_combination",
+  "title": "Toothache",
+  "price": "₹99",
+  "description": "",
+  "image": "",
+  "scraped_at": "2026-03-26T05:29:24.867Z",
+  "composition": [
+    "Calc. Fluor. 3x",
+    "Ferrum Phos. 3x",
+    "Kali Mur. 3x",
+    "Kali Phos. 3x",
+    "Silicea 6x"
+  ],
+  "indications": [
+    "Dental pain",
+    "Sensitivity",
+    "Gum inflammation"
+  ],
+  "bc_number": "BC-23"
+}

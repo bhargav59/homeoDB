@@ -1,0 +1,65 @@
+{
+  "name": "EUPHORBIA LATHYRIS",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Gopher-Plant, Caper Spurge"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Nausea and vomiting of copious clear water, intermingled with white, gelatinous lumps.",
+    "Labored breathing. Breath cold, musty odor. Cough; first, a hacking, as from inhalation of sulphur; later on, paroxysmal, like whooping-cough, in regular paroxysms, ending in diarrhśa and vomiting, with sleepiness between each paroxysm.",
+    "Weak and fluttering heart-action. Pulse 120, full, bounding, somewhat irregular."
+  ],
+  "guiding_symptoms": [
+    "Nausea and vomiting of copious clear water, intermingled with white, gelatinous lumps.",
+    "Labored breathing. Breath cold, musty odor. Cough; first, a hacking, as from inhalation of sulphur; later on, paroxysmal, like whooping-cough, in regular paroxysms, ending in diarrhśa and vomiting, with sleepiness between each paroxysm.",
+    "Weak and fluttering heart-action. Pulse 120, full, bounding, somewhat irregular."
+  ],
+  "modalities": {
+    "worse": [
+      "touch and cold air"
+    ],
+    "better": [
+      "close room and sweet-oil application"
+    ]
+  },
+  "mind_symptoms": [
+    "Delirium and hallucinations. Stupor, coma."
+  ],
+  "head_symptoms": [
+    "Almost closed from śdema of lids."
+  ],
+  "respiratory_symptoms": [
+    "Labored breathing. Breath cold, musty odor. Cough; first, a hacking, as from inhalation of sulphur; later on, paroxysmal, like whooping-cough, in regular paroxysms, ending in diarrhśa and vomiting, with sleepiness between each paroxysm."
+  ],
+  "gi_symptoms": [
+    "Nausea and vomiting of copious clear water, intermingled with white, gelatinous lumps."
+  ],
+  "urinary_symptoms": [
+    "Inflammation of scrotum resulting in deep acrid ulcers, with intense itching and burning; worse, touching the parts from washing."
+  ],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [
+    "Erythema, beginning on uncovered parts, on face, and spreading over whole body; glossy, rough, śdematous, with burning and smarting. Fine bran-like desquamation following in the wake of the erythema. Eruption rough, scaly, smarting, and burning; when scratched forms deep, ragged ulcers; skin where ulcerated remains red."
+  ],
+  "sleep_symptoms": [
+    "Restlessness at night. Sleep disturbed, anxious dreams."
+  ],
+  "fever_symptoms": [
+    "Temperature increased. Body bathed in profuse perspiration, standing out like beads on forehead; later, cold, clammy perspiration on forehead."
+  ],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/e/euph-l.htm",
+    "title": "EUPHORBIA LATHYRIS - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:33:06.132Z"
+  },
+  "confidence_score": 0.8
+}

@@ -1,0 +1,21 @@
+{
+  "remedy_name": "CARBOLICUM ACIDUM",
+  "source_file": "raw_1772500408058.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/c/carb-ac.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      "Alcohol"
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [],
+    "incompatible": [
+      "Glycerine and vegetable oils"
+    ],
+    "antidotes": [
+      "Alcohol"
+    ]
+  },
+  "parsed_at": "2026-03-03T15:23:37.410Z"
+}

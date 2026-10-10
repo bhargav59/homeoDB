@@ -1,0 +1,68 @@
+{
+  "name": "SAMBUCUS NIGRA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Elder"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Chest oppressed with pressure in stomach, and nausea Hoarseness with tenacious mucus in larynx. Paroxysmal, suffocative cough, coming on about midnight, with crying and dyspnśa. Spasmodic croup. Dry coryza. Sniffles of infants; nose dry and obstructed. Loose choking cough. When nursing child must let go of nipple, nose blocked up, cannot breathe. Child awakes suddenly, nearly suffocating, sits up, turns blue. Cannot expire (Meph). Millar's asthma.",
+    "Hands turn blue. Śdematous swelling in legs, insteps, and feet. Feet icy cold. Debilitating night-sweats (Salvia; Acet ac)."
+  ],
+  "guiding_symptoms": [
+    "Chest oppressed with pressure in stomach, and nausea Hoarseness with tenacious mucus in larynx. Paroxysmal, suffocative cough, coming on about midnight, with crying and dyspnśa. Spasmodic croup. Dry coryza. Sniffles of infants; nose dry and obstructed. Loose choking cough. When nursing child must let go of nipple, nose blocked up, cannot breathe. Child awakes suddenly, nearly suffocating, sits up, turns blue. Cannot expire (Meph). Millar's asthma.",
+    "Hands turn blue. Śdematous swelling in legs, insteps, and feet. Feet icy cold. Debilitating night-sweats (Salvia; Acet ac)."
+  ],
+  "modalities": {
+    "worse": [
+      "sleep, during rest, after eating fruit"
+    ],
+    "better": [
+      "sitting up in bed, motion"
+    ]
+  },
+  "mind_symptoms": [
+    "Sees images when shutting eyes. Constant fretfulness. Very easily frightened. Fright followed by suffocative attacks."
+  ],
+  "head_symptoms": [
+    "Turns blue with cough. Red, burning spots on cheeks. Heat and perspiration of face."
+  ],
+  "respiratory_symptoms": [
+    "Chest oppressed with pressure in stomach, and nausea Hoarseness with tenacious mucus in larynx. Paroxysmal, suffocative cough, coming on about midnight, with crying and dyspnśa. Spasmodic croup. Dry coryza. Sniffles of infants; nose dry and obstructed. Loose choking cough. When nursing child must let go of nipple, nose blocked up, cannot breathe. Child awakes suddenly, nearly suffocating, sits up, turns blue. Cannot expire (Meph). Millar's asthma."
+  ],
+  "gi_symptoms": [
+    "Colic, with nausea and flatulence; frequent watery, slimy stools.",
+    "Urine.--Profuse urine with dry heat of skin. Frequent micturition, with scanty urine. Acute nephritis; dropsical symptoms, with vomiting."
+  ],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [
+    "Hands turn blue. Śdematous swelling in legs, insteps, and feet. Feet icy cold. Debilitating night-sweats (Salvia; Acet ac)."
+  ],
+  "skin_symptoms": [
+    "Dry heat of skin during sleep. Bloated and swollen; general dropsy; profuse sweat on waking."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [
+    "Dry heat while sleeping. Dreads uncovering. Profuse sweat over entire body during waking hours. Dry, deep cough precedes the fever paroxysm."
+  ],
+  "complementary_remedies": [
+    "Ipec",
+    "Meph",
+    "Opium",
+    "large doses required-fluid extract",
+    "1/4 to 1 teaspoonful three times daily"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/s/samb.htm",
+    "title": "SAMBUCUS NIGRA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:24:50.209Z"
+  },
+  "confidence_score": 0.8
+}

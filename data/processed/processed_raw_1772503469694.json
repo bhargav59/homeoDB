@@ -1,0 +1,61 @@
+{
+  "name": "NAJA TRIPUDIANS",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Virus of the Cobra"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Pain in left temple and in left orbital region, extending to occiput, with nausea and vomiting. Hay-fever, with dry larynx. Suffocative spells after sleeping (Lach). Eyes staring. Ptosis of both lids.",
+    "Grasping at throat, with sense of choking. Irritating, dry cough, dependent on cardiac lesions (Spong; Lauroc) Sticky mucus and saliva. Asthmatic constriction in evening. Asthma beginning with coryza.",
+    "Dragging and anxiety in præcordia. Feeling of weight on heart. Angina pains extending to nape of neck, left shoulder and arm with anxiety and fear of death. With the heart symptoms pain in forehead and temples. Pulse irregular in force. Threatened paralysis of heart, body cold, pulse slow, weak, irregular, tremulous. Acute and chronic endocarditis. Palpitation. Stitching pain in region of heart. Damaged heart after infections diseases. Marked symptoms of low tension (Elaps, Vipera)."
+  ],
+  "guiding_symptoms": [
+    "Pain in left temple and in left orbital region, extending to occiput, with nausea and vomiting. Hay-fever, with dry larynx. Suffocative spells after sleeping (Lach). Eyes staring. Ptosis of both lids.",
+    "Grasping at throat, with sense of choking. Irritating, dry cough, dependent on cardiac lesions (Spong; Lauroc) Sticky mucus and saliva. Asthmatic constriction in evening. Asthma beginning with coryza.",
+    "Dragging and anxiety in præcordia. Feeling of weight on heart. Angina pains extending to nape of neck, left shoulder and arm with anxiety and fear of death. With the heart symptoms pain in forehead and temples. Pulse irregular in force. Threatened paralysis of heart, body cold, pulse slow, weak, irregular, tremulous. Acute and chronic endocarditis. Palpitation. Stitching pain in region of heart. Damaged heart after infections diseases. Marked symptoms of low tension (Elaps, Vipera)."
+  ],
+  "modalities": {
+    "worse": [
+      "from use of stimulants"
+    ],
+    "better": [
+      "from walking or riding in open air"
+    ]
+  },
+  "mind_symptoms": [
+    "Broods constantly over imaginary troubles. Suicidal insanity (Aur). Depressed. Aversion to talking. Blurred speech. Melancholy. Dreads to be left alone. Fear of rain."
+  ],
+  "head_symptoms": [
+    "Pain in left temple and in left orbital region, extending to occiput, with nausea and vomiting. Hay-fever, with dry larynx. Suffocative spells after sleeping (Lach). Eyes staring. Ptosis of both lids."
+  ],
+  "respiratory_symptoms": [
+    "Grasping at throat, with sense of choking. Irritating, dry cough, dependent on cardiac lesions (Spong; Lauroc) Sticky mucus and saliva. Asthmatic constriction in evening. Asthma beginning with coryza."
+  ],
+  "gi_symptoms": [],
+  "urinary_symptoms": [
+    "Neuralgia of left ovary; often serviceable in obscure pain in left groin, especially in post-operative cases; seems to be drawn to heart."
+  ],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [],
+  "sleep_symptoms": [
+    "Profound, like a log, with stertorous breathing, a typical reptilian state."
+  ],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Serpent poisons generally"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/n/naja.htm",
+    "title": "NAJA TRIPUDIANS - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:04:29.694Z"
+  },
+  "confidence_score": 0.8
+}

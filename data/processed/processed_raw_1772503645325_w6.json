@@ -1,0 +1,62 @@
+{
+  "name": "TARENTULA HISPANICA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Spanish Spider"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Intense pain, as if thousands of needles were pricking into brain. Vertigo. Wants hair brushed or head rubbed.",
+    "Palpitation; præcordial anguish, sensation as if heart twisted and turned around.",
+    "Weakness of legs; choreic movements. Numbness of legs. Multiple sclerosis, with trembling. Twitching and jerking. Yawning with uneasiness of legs, must move them constantly. Extraordinary contractions and movements."
+  ],
+  "guiding_symptoms": [
+    "Intense pain, as if thousands of needles were pricking into brain. Vertigo. Wants hair brushed or head rubbed.",
+    "Palpitation; præcordial anguish, sensation as if heart twisted and turned around.",
+    "Weakness of legs; choreic movements. Numbness of legs. Multiple sclerosis, with trembling. Twitching and jerking. Yawning with uneasiness of legs, must move them constantly. Extraordinary contractions and movements."
+  ],
+  "modalities": {
+    "worse": [
+      "motion, contract, noise"
+    ],
+    "better": [
+      "in open air, music, bright colors, rubbing affected parts"
+    ]
+  },
+  "mind_symptoms": [
+    "Sudden alteration of mood. Foxy. Destructive impulses; moral relaxation. Must constantly busy herself or walk. Sensitive to music. Averse to company, but wants some one present. Ungrateful, discontented. Guided by whims."
+  ],
+  "head_symptoms": [
+    "Intense pain, as if thousands of needles were pricking into brain. Vertigo. Wants hair brushed or head rubbed."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [],
+  "urinary_symptoms": [
+    "Sexual excitement; lasciviousness reaching almost to insanity; seminal emissions."
+  ],
+  "musculoskeletal_symptoms": [
+    "Weakness of legs; choreic movements. Numbness of legs. Multiple sclerosis, with trembling. Twitching and jerking. Yawning with uneasiness of legs, must move them constantly. Extraordinary contractions and movements."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Agar",
+    "Ars",
+    "Cupr",
+    "Mag phos"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/t/tarent.htm",
+    "title": "TARENTULA HISPANICA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:07:25.325Z"
+  },
+  "confidence_score": 0.74
+}

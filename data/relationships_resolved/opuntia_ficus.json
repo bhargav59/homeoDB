@@ -1,0 +1,21 @@
+{
+  "remedy_name": "OPUNTIA FICUS",
+  "source_file": "raw_1772503822083.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Chaparra amargosa",
+        "resolved_name": "CHAPARRO AMARGOSO",
+        "confidence": 0.7,
+        "method": "levenshtein_2"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:10.563Z"
+}

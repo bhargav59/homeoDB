@@ -1,0 +1,53 @@
+{
+  "remedy_name": "CASTOREUM CANADENSE",
+  "source_file": "raw_1772500523269.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      {
+        "original": "Colch",
+        "resolved_name": "COLCHICUM",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      }
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Ambra",
+        "resolved_name": "AMBRA GRISEA",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Moschus",
+        "resolved_name": "MOSCHUS",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Mur acid",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "Valeriana",
+        "resolved_name": "VALERIANA OFFICINALIS",
+        "confidence": 1,
+        "method": "exact"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": [
+      {
+        "original": "Colch",
+        "resolved_name": "COLCHICUM",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      }
+    ]
+  },
+  "resolved_at": "2026-03-11T01:50:08.892Z"
+}

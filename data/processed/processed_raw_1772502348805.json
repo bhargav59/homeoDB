@@ -1,0 +1,63 @@
+{
+  "name": "INDIGO TINCTORIA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Indigo--Dye-stuff"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Metallic taste. Eructations. Bloating. Anorexia. Flushes of heat rising from stomach to head.",
+    "Vertigo with nausea. Convulsions. Sensation of a band around forehead. Undulating sensation through whole head. Sensation as if brain were frozen. Gloomy; cries at night. Hair feels pulled from vertex. Head feels frozen.",
+    "Sciatica. Pain from middle of thigh to knee. Boring pain in knee-joint; better, walking. Pain in limbs worse after every meal.",
+    "Nerves.--Hysterical symptoms where pain predominates Excessive nervous irritation. Epilepsy; flashes of heat from abdomen to head; fit begins with dizziness. Aura from a painful spot between shoulders. Reflex spasms from worms."
+  ],
+  "guiding_symptoms": [
+    "Metallic taste. Eructations. Bloating. Anorexia. Flushes of heat rising from stomach to head.",
+    "Vertigo with nausea. Convulsions. Sensation of a band around forehead. Undulating sensation through whole head. Sensation as if brain were frozen. Gloomy; cries at night. Hair feels pulled from vertex. Head feels frozen.",
+    "Sciatica. Pain from middle of thigh to knee. Boring pain in knee-joint; better, walking. Pain in limbs worse after every meal."
+  ],
+  "modalities": {
+    "worse": [
+      "during rest and sitting"
+    ],
+    "better": [
+      "pressure, rubbing, motion"
+    ]
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Vertigo with nausea. Convulsions. Sensation of a band around forehead. Undulating sensation through whole head. Sensation as if brain were frozen. Gloomy; cries at night. Hair feels pulled from vertex. Head feels frozen."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "Metallic taste. Eructations. Bloating. Anorexia. Flushes of heat rising from stomach to head."
+  ],
+  "urinary_symptoms": [
+    "Constant desire to urinate. Urine turbid. Catarrh of bladder."
+  ],
+  "musculoskeletal_symptoms": [
+    "Sciatica. Pain from middle of thigh to knee. Boring pain in knee-joint; better, walking. Pain in limbs worse after every meal.",
+    "Nerves.--Hysterical symptoms where pain predominates Excessive nervous irritation. Epilepsy; flashes of heat from abdomen to head; fit begins with dizziness. Aura from a painful spot between shoulders. Reflex spasms from worms."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Cuprum",
+    "Śstrus cameli",
+    "an Indian medicine for epilepsy"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/i/indg.htm",
+    "title": "INDIGO TINCTORIA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:45:48.805Z"
+  },
+  "confidence_score": 0.8
+}

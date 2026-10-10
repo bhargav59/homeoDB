@@ -1,0 +1,46 @@
+{
+  "remedy_name": "SILICEA TERRA",
+  "source_file": "raw_1772504901146.json",
+  "relationships": {
+    "complementary": [
+      {
+        "original": "Thuja",
+        "resolved_name": "THUJA OCCIDENTALIS",
+        "confidence": 1,
+        "method": "exact"
+      }
+    ],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Black Gunpowder 3x (Abscesses",
+        "resolved_name": "LAC CANINUM",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "boils",
+        "resolved_name": "ABIES CANADENSIS",
+        "confidence": 0.55,
+        "method": "levenshtein_3"
+      },
+      {
+        "original": "carbuncles",
+        "resolved_name": "CARBO VEGETABILIS",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      },
+      {
+        "original": "limb purple",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:11.207Z"
+}

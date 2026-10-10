@@ -1,0 +1,57 @@
+{
+  "name": "ARAGALLUS LAMBERTI",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "White Loco Weed-Rattle Weed"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Diplopia. Burning in eyes. Cracking of lower lip.",
+    "Weight on chest in region of ensiform cartilage. Constriction as of a wide band. Soreness of chest under sternum. Oppression.",
+    "Weakness of limbs. Pain in left sciatic nerve. Cramps of muscles on front of leg while walking."
+  ],
+  "guiding_symptoms": [
+    "Diplopia. Burning in eyes. Cracking of lower lip.",
+    "Weight on chest in region of ensiform cartilage. Constriction as of a wide band. Soreness of chest under sternum. Oppression.",
+    "Weakness of limbs. Pain in left sciatic nerve. Cramps of muscles on front of leg while walking."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [
+    "Great depression; worse in morning or evening. Cannot study. Cross, irritable, restless. Bewildered. Mental confusion and apathy. Desires to be alone. Difficulty in concentrating mind, absent-minded. Lack of ambition. Defective expression in writing. Restlessness and aimless wandering. Must concentrate his mind on walking."
+  ],
+  "head_symptoms": [
+    "Diplopia. Burning in eyes. Cracking of lower lip."
+  ],
+  "respiratory_symptoms": [
+    "Weight on chest in region of ensiform cartilage. Constriction as of a wide band. Soreness of chest under sternum. Oppression."
+  ],
+  "gi_symptoms": [],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [
+    "Weakness of limbs. Pain in left sciatic nerve. Cramps of muscles on front of leg while walking."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Astragallus and Oxytropis",
+    "two varieties of Loco Weed",
+    "also Baryta"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/a/arag.htm",
+    "title": "ARAGALLUS LAMBERTI - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-02T06:32:01.715Z"
+  },
+  "confidence_score": 0.62
+}

@@ -1,0 +1,45 @@
+{
+  "name": "AMBROSIA ARTEMISIAEFOLIA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Rag-Weed"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [],
+  "guiding_symptoms": [],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Smart and burn. Lachrymation."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "in hay-fever: Sabadilla",
+    "Wyethia",
+    "Succin ac",
+    "Ars jod",
+    "Arundo"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/a/ambro.htm",
+    "title": "AMBROSIA ARTEMISIAEFOLIA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-01T13:32:18.452Z"
+  },
+  "confidence_score": 0.44
+}

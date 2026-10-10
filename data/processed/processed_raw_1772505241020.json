@@ -1,0 +1,69 @@
+{
+  "name": "SYPHILINUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "The Syphilitic Virus - A Nosode"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Linear pains from temple across, or from eyes backward; cause sleeplessness and delirium at night. Falling of the hair. Pain in bones of head. Top of head feels as if coming off. Stupefying cephalalgia.",
+    "Aphonia; chronic asthma in summer, wheezing and rattling (Tart emet). Cough dry, hard; worse at night; windpipe sensitive to touch (Lach). Lancinating pains from base of heart to apex at night.",
+    "Sciatica; worse at night; better about day-break. Rheumatism of shoulder-joint, at insertion of deltoid. Run-around. Severe pain in long bones. Redness and rawness between toes (Sil). Rheumatism, muscles are caked in hard knot or lumps. Always washing the hands. Indolent ulcers. Muscles contracted in hard knots."
+  ],
+  "guiding_symptoms": [
+    "Linear pains from temple across, or from eyes backward; cause sleeplessness and delirium at night. Falling of the hair. Pain in bones of head. Top of head feels as if coming off. Stupefying cephalalgia.",
+    "Aphonia; chronic asthma in summer, wheezing and rattling (Tart emet). Cough dry, hard; worse at night; windpipe sensitive to touch (Lach). Lancinating pains from base of heart to apex at night.",
+    "Sciatica; worse at night; better about day-break. Rheumatism of shoulder-joint, at insertion of deltoid. Run-around. Severe pain in long bones. Redness and rawness between toes (Sil). Rheumatism, muscles are caked in hard knot or lumps. Always washing the hands. Indolent ulcers. Muscles contracted in hard knots."
+  ],
+  "modalities": {
+    "worse": [
+      "at night, sundown to sunrise, seashore, in summer"
+    ],
+    "better": [
+      "inland and mountains, during day, moving about slowly"
+    ]
+  },
+  "mind_symptoms": [
+    "Loss of memory; remembers everything previous to his illness. Apathetic; feels as if going insane or being paralyzed. Fears the night, and the suffering from exhaustion on awakening. Hopeless; despairs of recovery."
+  ],
+  "head_symptoms": [
+    "Linear pains from temple across, or from eyes backward; cause sleeplessness and delirium at night. Falling of the hair. Pain in bones of head. Top of head feels as if coming off. Stupefying cephalalgia."
+  ],
+  "respiratory_symptoms": [
+    "Aphonia; chronic asthma in summer, wheezing and rattling (Tart emet). Cough dry, hard; worse at night; windpipe sensitive to touch (Lach). Lancinating pains from base of heart to apex at night."
+  ],
+  "gi_symptoms": [
+    "Craves alcohol."
+  ],
+  "urinary_symptoms": [
+    "Ulcers on labia. Leucorrhśa profuse, thin, watery, acrid, with sharp, knife-pain in ovaries."
+  ],
+  "musculoskeletal_symptoms": [
+    "Sciatica; worse at night; better about day-break. Rheumatism of shoulder-joint, at insertion of deltoid. Run-around. Severe pain in long bones. Redness and rawness between toes (Sil). Rheumatism, muscles are caked in hard knot or lumps. Always washing the hands. Indolent ulcers. Muscles contracted in hard knots."
+  ],
+  "skin_symptoms": [
+    "Reddish-brown eruption, with a disagreeable odor. Extreme emaciation."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Merc",
+    "Kal hyd",
+    "Nit ac",
+    "Aur",
+    "Alum"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/s/syph.htm",
+    "title": "SYPHILINUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:34:01.019Z"
+  },
+  "confidence_score": 0.8
+}

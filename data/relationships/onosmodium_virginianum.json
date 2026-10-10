@@ -1,0 +1,20 @@
+{
+  "remedy_name": "ONOSMODIUM VIRGINIANUM",
+  "source_file": "raw_1772503778375.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/o/onos.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Nat mur",
+      "Lilium",
+      "Gels",
+      "Ruta"
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "parsed_at": "2026-03-03T15:23:37.681Z"
+}

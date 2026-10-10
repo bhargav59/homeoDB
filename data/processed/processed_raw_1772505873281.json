@@ -1,0 +1,50 @@
+{
+  "name": "YOHIMBINUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Coryanthe Yohimbe"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Agitation, with flying sensations of heat in face. Disagreeable, metallic taste. Copious salivation. Nausea and eructation.",
+    "Sexual.--Strong and lasting erections. Neurasthenic impotence. Bleeding piles. Intestinal hćmorrhage. Urethritis."
+  ],
+  "guiding_symptoms": [
+    "Agitation, with flying sensations of heat in face. Disagreeable, metallic taste. Copious salivation. Nausea and eructation.",
+    "Sexual.--Strong and lasting erections. Neurasthenic impotence. Bleeding piles. Intestinal hćmorrhage. Urethritis."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Agitation, with flying sensations of heat in face. Disagreeable, metallic taste. Copious salivation. Nausea and eructation.",
+    "Sexual.--Strong and lasting erections. Neurasthenic impotence. Bleeding piles. Intestinal hćmorrhage. Urethritis."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [],
+  "sleep_symptoms": [
+    "Sleepless. Thoughts of events of whole past life keep him awake."
+  ],
+  "fever_symptoms": [
+    "Rigor; intense heat, waves of heat and chilliness, tendency to sweat."
+  ],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/y/yohim.htm",
+    "title": "YOHIMBINUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:44:33.281Z"
+  },
+  "confidence_score": 0.44
+}

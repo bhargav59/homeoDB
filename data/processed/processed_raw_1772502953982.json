@@ -1,0 +1,71 @@
+{
+  "name": "LITHIUM CARBONICUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Carbonate of Lithium"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Acidity, nausea, gnawing, relieved by eating (Anacard). Cannot endure slightest pressure of clothes (Laches).",
+    "Urine.--Tenesmus. Turbid urine, with mucus and red deposit. Pain in region of right kidney. Free and colorless. While urinating, pressure in heart. Cystitis, subacute and chronic.",
+    "Tension, as if bound; better, sitting and going out. Externally sensitive. Headache ceases while eating. Trembling and throbbing. Pain in heart; extends to head. Dizzy states with ringing in ears. Both cheeks covered with dry, bran-like scales.",
+    "Constriction of chest. Violent cough when lying down. Air feels cold when inspired. Pain in mammary glands, which extend into the arms and fingers.",
+    "Rheumatic soreness in cardiac region. Sudden shock in heart. Throbbing, dull stitch in cardiac region. Pains in heart before menses, and associated with pains in bladder, and before urinating; better, after. Trembling and fluttering in heart, extending to back.",
+    "Paralytic stiffness all over. Itching about joints. Rheumatic pains throughout shoulder-joint, arm, and fingers and small joints generally. Pain in hollow of foot, extending to knee. Swelling and tenderness of finger and toe joints; better, hot water. Nodular swellings in joints. Ankles pain when walking."
+  ],
+  "guiding_symptoms": [
+    "Acidity, nausea, gnawing, relieved by eating (Anacard). Cannot endure slightest pressure of clothes (Laches).",
+    "Urine.--Tenesmus. Turbid urine, with mucus and red deposit. Pain in region of right kidney. Free and colorless. While urinating, pressure in heart. Cystitis, subacute and chronic.",
+    "Tension, as if bound; better, sitting and going out. Externally sensitive. Headache ceases while eating. Trembling and throbbing. Pain in heart; extends to head. Dizzy states with ringing in ears. Both cheeks covered with dry, bran-like scales."
+  ],
+  "modalities": {
+    "worse": [
+      "in morning, right side"
+    ],
+    "better": [
+      "rising and moving about"
+    ]
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Tension, as if bound; better, sitting and going out. Externally sensitive. Headache ceases while eating. Trembling and throbbing. Pain in heart; extends to head. Dizzy states with ringing in ears. Both cheeks covered with dry, bran-like scales."
+  ],
+  "respiratory_symptoms": [
+    "Constriction of chest. Violent cough when lying down. Air feels cold when inspired. Pain in mammary glands, which extend into the arms and fingers."
+  ],
+  "gi_symptoms": [
+    "Acidity, nausea, gnawing, relieved by eating (Anacard). Cannot endure slightest pressure of clothes (Laches).",
+    "Urine.--Tenesmus. Turbid urine, with mucus and red deposit. Pain in region of right kidney. Free and colorless. While urinating, pressure in heart. Cystitis, subacute and chronic."
+  ],
+  "urinary_symptoms": [
+    "Soreness of bladder; pain in right kidney and ureter. Turbid urine with mucus, scanty and dark, acrid; sandy deposit."
+  ],
+  "musculoskeletal_symptoms": [
+    "Paralytic stiffness all over. Itching about joints. Rheumatic pains throughout shoulder-joint, arm, and fingers and small joints generally. Pain in hollow of foot, extending to knee. Swelling and tenderness of finger and toe joints; better, hot water. Nodular swellings in joints. Ankles pain when walking."
+  ],
+  "skin_symptoms": [
+    "Scabby, tettery eruption on hands, head, and cheeks, preceded by red, raw skin. Dull stitch, ending in itching. Barber's itch (use high). Rough rash all over body, much loose epithelium, tough, dry, itchy skin."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Lyc",
+    "Ammon phos",
+    "Benz ac",
+    "Calc",
+    "Lithium chlor (symptoms of cinchonism"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/l/lith-c.htm",
+    "title": "LITHIUM CARBONICUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:55:53.982Z"
+  },
+  "confidence_score": 0.8
+}

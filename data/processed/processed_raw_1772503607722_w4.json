@@ -1,0 +1,47 @@
+{
+  "name": "RICINUS COMMUNIS",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Castor-oil"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Anorexia with great thirst, burning in stomach, pyrosis, nausea profuse vomiting, pit of stomach sensitive. Mouth dry.",
+    "Vertigo, occipital pain, congestive symptoms, buzzing in ears. Face pale, twitching of mouth."
+  ],
+  "guiding_symptoms": [
+    "Anorexia with great thirst, burning in stomach, pyrosis, nausea profuse vomiting, pit of stomach sensitive. Mouth dry.",
+    "Vertigo, occipital pain, congestive symptoms, buzzing in ears. Face pale, twitching of mouth."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Vertigo, occipital pain, congestive symptoms, buzzing in ears. Face pale, twitching of mouth."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "Anorexia with great thirst, burning in stomach, pyrosis, nausea profuse vomiting, pit of stomach sensitive. Mouth dry."
+  ],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/r/ric.htm",
+    "title": "RICINUS COMMUNIS - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:06:47.722Z"
+  },
+  "confidence_score": 0.56
+}

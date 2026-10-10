@@ -1,0 +1,64 @@
+{
+  "name": "TRINITROTOLUENUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "T. N. T."
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Depression and headache (frontal). Aversion to company, apathetic and weeps easily. Faintness, dizziness, mental sluggishness; delirium, convulsions, coma. Face very dark.",
+    "Nose dry with stuffed sensation. Sneezing, coryza, burning of trachea, choking weight on chest; dry, convulsive cough, raising mucous plugs.",
+    "Gastro-Intestinal.--Bitter taste, much thirst, sour regurgitation; dull burning behind the ensiform; nausea, vomiting, constipation followed by diarrhœa with cramps.",
+    "Cardio-Vascular.--Palpitation, tachycardia, bradycardia, intermittent pulse."
+  ],
+  "guiding_symptoms": [
+    "Depression and headache (frontal). Aversion to company, apathetic and weeps easily. Faintness, dizziness, mental sluggishness; delirium, convulsions, coma. Face very dark.",
+    "Nose dry with stuffed sensation. Sneezing, coryza, burning of trachea, choking weight on chest; dry, convulsive cough, raising mucous plugs.",
+    "Gastro-Intestinal.--Bitter taste, much thirst, sour regurgitation; dull burning behind the ensiform; nausea, vomiting, constipation followed by diarrhœa with cramps."
+  ],
+  "modalities": {
+    "worse": [
+      "alcohol (falls after one or two drinks of whisky)"
+    ],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Depression and headache (frontal). Aversion to company, apathetic and weeps easily. Faintness, dizziness, mental sluggishness; delirium, convulsions, coma. Face very dark."
+  ],
+  "respiratory_symptoms": [
+    "Nose dry with stuffed sensation. Sneezing, coryza, burning of trachea, choking weight on chest; dry, convulsive cough, raising mucous plugs.",
+    "Gastro-Intestinal.--Bitter taste, much thirst, sour regurgitation; dull burning behind the ensiform; nausea, vomiting, constipation followed by diarrhœa with cramps.",
+    "Cardio-Vascular.--Palpitation, tachycardia, bradycardia, intermittent pulse."
+  ],
+  "gi_symptoms": [],
+  "urinary_symptoms": [
+    "High colored urine, burning on urination, sudden desire, incontinence and retention."
+  ],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [
+    "Hands stained yellow. Dermatitis, nodular erythema, vesicles, itching and burning; puffiness. Tendency to hæmorrhage under the skin and from the nose. Tired pain in back of knees."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Zinc",
+    "Phosph",
+    "Cina",
+    "Ars",
+    "Plumbum"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/t/trinit.htm",
+    "title": "TRINITROTOLUENUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:38:52.357Z"
+  },
+  "confidence_score": 0.62
+}

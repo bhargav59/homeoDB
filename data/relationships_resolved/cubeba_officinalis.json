@@ -1,0 +1,39 @@
+{
+  "remedy_name": "CUBEBA OFFICINALIS",
+  "source_file": "raw_1772501169448.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Cucurbita",
+        "resolved_name": "CUCURBITA CITRULLUS",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Copaiva",
+        "resolved_name": "COPAIVA OFFICINALIS",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Piper meth",
+        "resolved_name": "PIPER METHYSTICUM",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Sandal",
+        "resolved_name": "SABAL SERRULATA",
+        "confidence": 0.7,
+        "method": "levenshtein_2"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:09.188Z"
+}

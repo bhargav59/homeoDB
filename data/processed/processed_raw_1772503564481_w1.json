@@ -1,0 +1,73 @@
+{
+  "name": "NUX MOSCHATA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Nutmeg"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Excessively bloated. Flatulent dyspepsia. Hiccough, and craving for highly-seasoned food. Retrocession of gout to stomach.",
+    "Vertigo when walking in open air; aches from eating a little too much. Feeling of expansion, with sleepiness. Pulsating in head. Cracking sensation in head. Sensitive to slightest touch in a draught of air. Bursting headache; better hard pressure.",
+    "Loss of voice from walking against the wind (Hep). Cough when getting warm in bed.",
+    "Trembling, fluttering. Sensation as if something grasped heart. Palpitation; pulse intermits.",
+    "Pain in right hip to knee; worse, motion, especially going upstairs. Rheumatism from getting feet wet, from exposure to draughts. Rheumatism relieved by dry, warm clothes. Fatigue on slight exertion."
+  ],
+  "guiding_symptoms": [
+    "Excessively bloated. Flatulent dyspepsia. Hiccough, and craving for highly-seasoned food. Retrocession of gout to stomach.",
+    "Vertigo when walking in open air; aches from eating a little too much. Feeling of expansion, with sleepiness. Pulsating in head. Cracking sensation in head. Sensitive to slightest touch in a draught of air. Bursting headache; better hard pressure.",
+    "Loss of voice from walking against the wind (Hep). Cough when getting warm in bed."
+  ],
+  "modalities": {
+    "worse": [
+      "cold moist wind, cold food, cold washing, lying on painful side, motion, jar"
+    ],
+    "better": [
+      "warmth, dry weather"
+    ]
+  },
+  "mind_symptoms": [
+    "Changeable; laughing and crying. Confused, impaired memory. Bewildered sense, as in a dream. Thinks she has two heads."
+  ],
+  "head_symptoms": [
+    "Vertigo when walking in open air; aches from eating a little too much. Feeling of expansion, with sleepiness. Pulsating in head. Cracking sensation in head. Sensitive to slightest touch in a draught of air. Bursting headache; better hard pressure."
+  ],
+  "respiratory_symptoms": [
+    "Loss of voice from walking against the wind (Hep). Cough when getting warm in bed."
+  ],
+  "gi_symptoms": [
+    "Excessively bloated. Flatulent dyspepsia. Hiccough, and craving for highly-seasoned food. Retrocession of gout to stomach."
+  ],
+  "urinary_symptoms": [
+    "Uterine hćmorrhage. Menses too long, dark, thick. Leucorrhśa muddy and bloody. Suppression, with persistent fainting attacks and sleepiness (Kali c). Variableness of menstruation irregularity of time and quantity."
+  ],
+  "musculoskeletal_symptoms": [
+    "Pain in right hip to knee; worse, motion, especially going upstairs. Rheumatism from getting feet wet, from exposure to draughts. Rheumatism relieved by dry, warm clothes. Fatigue on slight exertion."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [
+    "Great drowsiness (Indol). Complaints cause sleepiness. Coma."
+  ],
+  "fever_symptoms": [
+    "Chill begins in left hand (Carbo). Chilliness and heat without thirst; want of perspiration. Dry skin and of inner parts, also of eyes, nose, lips, mouth, tongue, throat, etc."
+  ],
+  "complementary_remedies": [
+    "Nux v",
+    "Puls",
+    "Rhus",
+    "Ign",
+    "Asaf"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/n/nux-m.htm",
+    "title": "NUX MOSCHATA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:06:04.481Z"
+  },
+  "confidence_score": 0.8
+}

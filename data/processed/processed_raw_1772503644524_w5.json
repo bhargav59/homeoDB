@@ -1,0 +1,60 @@
+{
+  "name": "TARAXACUM OFFICINALE",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Dandelion"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Sensation of great heat on top of head. Sterno-mastoid muscle very painful to touch.",
+    "Very restless limbs. Neuralgia of knee; better, pressure. Limbs painful to touch."
+  ],
+  "guiding_symptoms": [
+    "Sensation of great heat on top of head. Sterno-mastoid muscle very painful to touch.",
+    "Very restless limbs. Neuralgia of knee; better, pressure. Limbs painful to touch."
+  ],
+  "modalities": {
+    "worse": [
+      "resting, lying down, sitting"
+    ],
+    "better": [
+      "touch"
+    ]
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Sensation of great heat on top of head. Sterno-mastoid muscle very painful to touch."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "Liver enlarged and indurated. Sharp stitches in left side. Sensation of bubbles bursting in bowels. Tympanites. Evacuation difficult."
+  ],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [
+    "Very restless limbs. Neuralgia of knee; better, pressure. Limbs painful to touch."
+  ],
+  "skin_symptoms": [
+    "Profuse night-sweats."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [
+    "Chilliness after eating, worse drinking; finger tips cold. Bitter taste. Heat without thirst, in face, in toes. Sweat on falling asleep."
+  ],
+  "complementary_remedies": [
+    "Choline",
+    "a constituent of Taraxacum root"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/t/tarax.htm",
+    "title": "TARAXACUM OFFICINALE - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:07:24.524Z"
+  },
+  "confidence_score": 0.74
+}

@@ -1,0 +1,21 @@
+{
+  "remedy_name": "Ichthyolum.",
+  "source_file": "raw_1772507819909_clarke_dictionary_w3.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "also Calc",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:09.935Z"
+}

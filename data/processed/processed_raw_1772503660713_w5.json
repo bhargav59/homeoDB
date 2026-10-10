@@ -1,0 +1,55 @@
+{
+  "name": "URANIUM NITRICUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Nitrate of Uranium"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Excessive thirst; nausea; vomiting. Ravenous appetite; eating followed by flatulence. Boring pain in pyloric region. Gastric and duodenal ulcers. Burning pain. Abdomen bloated. Gas, second only to Lycop.",
+    "Ill-tempered; dull, heavy pain. Nostrils sore, with purulent, acrid discharge. Mental depression."
+  ],
+  "guiding_symptoms": [
+    "Excessive thirst; nausea; vomiting. Ravenous appetite; eating followed by flatulence. Boring pain in pyloric region. Gastric and duodenal ulcers. Burning pain. Abdomen bloated. Gas, second only to Lycop.",
+    "Ill-tempered; dull, heavy pain. Nostrils sore, with purulent, acrid discharge. Mental depression."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Ill-tempered; dull, heavy pain. Nostrils sore, with purulent, acrid discharge. Mental depression."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "Excessive thirst; nausea; vomiting. Ravenous appetite; eating followed by flatulence. Boring pain in pyloric region. Gastric and duodenal ulcers. Burning pain. Abdomen bloated. Gas, second only to Lycop."
+  ],
+  "urinary_symptoms": [
+    "Copious urination. Diuresis. Incontinence of urine. Diabetes. Emaciation and tympanites. Burning in urethra, with very acid urine. Unable to retain urine without pain. Enuresis (Mullein oil)."
+  ],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Syzygium",
+    "Phos ac",
+    "Lact ac",
+    "Arg nit",
+    "Kali bich"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/u/uran-n.htm",
+    "title": "URANIUM NITRICUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:07:40.713Z"
+  },
+  "confidence_score": 0.62
+}

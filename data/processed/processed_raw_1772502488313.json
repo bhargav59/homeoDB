@@ -1,0 +1,60 @@
+{
+  "name": "JUGLANS CINEREA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Butternut"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Atonic dyspepsia with much eructation and flatulent distention. Soreness in region of liver.",
+    "Dull, full head. Eruption on scalp. Sharp, occipital headache. Head feels enlarged. Pustules on lids and around eyes.",
+    "Muscles of neck rigid, lame. Pain between scapula and under right. Pain in lumbar vertebrć."
+  ],
+  "guiding_symptoms": [
+    "Atonic dyspepsia with much eructation and flatulent distention. Soreness in region of liver.",
+    "Dull, full head. Eruption on scalp. Sharp, occipital headache. Head feels enlarged. Pustules on lids and around eyes.",
+    "Muscles of neck rigid, lame. Pain between scapula and under right. Pain in lumbar vertebrć."
+  ],
+  "modalities": {
+    "worse": [
+      "walking"
+    ],
+    "better": [
+      "getting heated, exercise, scratching, on rising in morning"
+    ]
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Dull, full head. Eruption on scalp. Sharp, occipital headache. Head feels enlarged. Pustules on lids and around eyes."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "Atonic dyspepsia with much eructation and flatulent distention. Soreness in region of liver."
+  ],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [
+    "Muscles of neck rigid, lame. Pain between scapula and under right. Pain in lumbar vertebrć."
+  ],
+  "skin_symptoms": [
+    "Red, like flush of scarlatina. Jaundice, with pain about liver and right scapula. Itching and pricking when heated. Pustules. Eczema, especially on lower extremities, sacrum and hands. Erythema and erysipelatous redness."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Juglandin (duodenal catarrh",
+    "bilious diarrhśa"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/j/jug-c.htm",
+    "title": "JUGLANS CINEREA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:48:08.313Z"
+  },
+  "confidence_score": 0.8
+}

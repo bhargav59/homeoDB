@@ -1,0 +1,45 @@
+{
+  "remedy_name": "JABORANDI",
+  "source_file": "raw_1772502437406.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Amyl nit",
+        "resolved_name": "AMYLENUM NITROSUM",
+        "confidence": 0.55,
+        "method": "levenshtein_3"
+      },
+      {
+        "original": "Atrop",
+        "resolved_name": "EUONYMUS ATROPURPUREA",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Physos",
+        "resolved_name": "PHYSOSTIGMA VENENOSUM",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Lycop",
+        "resolved_name": "LYCOPODIUM CLAVATUM",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      },
+      {
+        "original": "Ruta",
+        "resolved_name": "RUTA GRAVEOLENS",
+        "confidence": 1,
+        "method": "exact"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:09.977Z"
+}

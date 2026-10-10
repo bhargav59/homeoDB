@@ -1,0 +1,19 @@
+{
+  "remedy_name": "COCHLEARIA ARMORACIA",
+  "source_file": "raw_1772500975553.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/c/coch.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Cannab",
+      "Sinapis",
+      "Caps"
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "parsed_at": "2026-03-03T15:23:37.436Z"
+}

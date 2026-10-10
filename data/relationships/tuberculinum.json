@@ -1,0 +1,47 @@
+{
+  "remedy_name": "TUBERCULINUM",
+  "source_file": "raw_1772505574722.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/t/tub.htm",
+  "relationships": {
+    "complementary": [
+      "Calcarea"
+    ],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "produces pneumonia",
+      "broncho-pneumonia",
+      "symptoms similar to tuberculosis",
+      "relieves the debility",
+      "diminishes the cough",
+      "improves the appetite",
+      "and braces up the whole organism",
+      "itching of palms and ears",
+      "cough",
+      "acute",
+      "inflammatory",
+      "irritating",
+      "incessant",
+      "and tickling",
+      "loss of strength and appetite)",
+      "Hydrast",
+      "Formic acid (tuberculosis",
+      "chronic nephritis",
+      "malignant tumors",
+      "pulmonary tuberculosis",
+      "not in third stage",
+      "however",
+      "lupus",
+      "carcinoma of breast and stomach",
+      "Dr",
+      "Bacil",
+      "Psorin",
+      "Lach",
+      "Thuja"
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "parsed_at": "2026-03-03T15:23:37.764Z"
+}

@@ -1,0 +1,54 @@
+{
+  "name": "OSMIUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "The Element"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Feels as if a band around head. Falling off of hair (Kali carb; Fluor ac).",
+    "Acute laryngitis; cough and expectoration of tough, stringy mucus. Convulsive cough; feels as though membrane were torn from larynx. Noisy, dry, hard, cough, in violent short bursts, coming from low down, shaking the whole body. Talking causes pain in larynx. Hoarse; pain in larynx; sore sternum. Twitching of fingers, with spasmodic cough."
+  ],
+  "guiding_symptoms": [
+    "Feels as if a band around head. Falling off of hair (Kali carb; Fluor ac).",
+    "Acute laryngitis; cough and expectoration of tough, stringy mucus. Convulsive cough; feels as though membrane were torn from larynx. Noisy, dry, hard, cough, in violent short bursts, coming from low down, shaking the whole body. Talking causes pain in larynx. Hoarse; pain in larynx; sore sternum. Twitching of fingers, with spasmodic cough."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Feels as if a band around head. Falling off of hair (Kali carb; Fluor ac)."
+  ],
+  "respiratory_symptoms": [
+    "Acute laryngitis; cough and expectoration of tough, stringy mucus. Convulsive cough; feels as though membrane were torn from larynx. Noisy, dry, hard, cough, in violent short bursts, coming from low down, shaking the whole body. Talking causes pain in larynx. Hoarse; pain in larynx; sore sternum. Twitching of fingers, with spasmodic cough."
+  ],
+  "gi_symptoms": [],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [
+    "Eczema, with pruritus. Irritated skin. Itching pimples. Bromidrosis, sweat in axilla smelling of garlic, worse evening and night. Fold remains attached to growing nail."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Argent",
+    "Iridium",
+    "Selen",
+    "Mangan"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/o/osm.htm",
+    "title": "OSMIUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:11:17.055Z"
+  },
+  "confidence_score": 0.62
+}

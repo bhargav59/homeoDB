@@ -1,0 +1,35 @@
+{
+  "remedy_name": "PAEONIA OFFICINALIS",
+  "source_file": "raw_1772503962753.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      {
+        "original": "Ratanh",
+        "resolved_name": "RATANHIA PERUVIANA",
+        "confidence": 0.8,
+        "method": "substring"
+      }
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Glechoma-Ground Ivy--",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": [
+      {
+        "original": "Ratanh",
+        "resolved_name": "RATANHIA PERUVIANA",
+        "confidence": 0.8,
+        "method": "substring"
+      }
+    ]
+  },
+  "resolved_at": "2026-03-11T01:50:10.604Z"
+}

@@ -1,0 +1,27 @@
+{
+  "remedy_name": "CROTON TIGLIUM",
+  "source_file": "raw_1772501158608.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/c/crot-t.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      "Ant tart"
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "producing colic",
+      "nausea",
+      "vomiting",
+      "cholera-like symptoms",
+      "thin",
+      "watery",
+      "yellow"
+    ],
+    "incompatible": [],
+    "antidotes": [
+      "Ant tart"
+    ]
+  },
+  "parsed_at": "2026-03-03T15:23:37.444Z"
+}

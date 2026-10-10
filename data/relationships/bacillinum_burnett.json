@@ -1,0 +1,17 @@
+{
+  "remedy_name": "BACILLINUM BURNETT",
+  "source_file": "raw_1772499851311.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/b/bac.htm",
+  "relationships": {
+    "complementary": [
+      "Calc phos"
+    ],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "parsed_at": "2026-03-03T15:23:37.377Z"
+}

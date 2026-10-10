@@ -1,0 +1,49 @@
+{
+  "name": "MERCURIUS DULCIS",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Calomel"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Nausea and vomiting. Cyclic vomiting of infants (Cup ars; Iris)."
+  ],
+  "guiding_symptoms": [
+    "Nausea and vomiting. Cyclic vomiting of infants (Cup ars; Iris)."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Otitis media; closure of Eustachian tube; ear troubles of scrofulous children; membrana tympani retracted, thickened and immovable."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "Nausea and vomiting. Cyclic vomiting of infants (Cup ars; Iris)."
+  ],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [
+    "Flabby and ill nourished. Swollen glands. Phagedenic ulcers. Copper-colored eruptions."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Kali mur"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/m/merc-d.htm",
+    "title": "MERCURIUS DULCIS - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:01:06.339Z"
+  },
+  "confidence_score": 0.62
+}

@@ -1,0 +1,70 @@
+{
+  "name": "OXALICUM ACIDUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Sorrel Acid"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Violent pain in epigastrium, discharge of flatus relieves. Gastralgia, pyrosis, sensation of coldness below epigastrium. Burning pain, extending upwards; slightest touch causes excruciating pain. Bitter and sour eructation, worse at night. Cannot eat strawberries.",
+    "Sense of heat. Confusion and vertigo. Headache, before and during stool.",
+    "Nervous aphonia with cardiac derangement (Coca; Hydrocy ac). Burning sensation from throat down. Breathing spasmodic, with constriction of larynx and chest. Hoarseness. Left lung painful. Aphonia. Paralysis of the tensors of vocal cord. Dyspnœa; short, jerking inspirations. Sharp pain through lower region of left lung, extending down to epigastrium.",
+    "Palpitation and dyspnœa in organic heart disease; worse, when thinking of it. Pulse feeble. Heart symptoms alternate with aphonia, angina pectoris; sharp, lancinating pain in left lung coming on suddenly, depriving of breath. Præcordial pains which dart to the left shoulder. Aortic insufficiency.",
+    "Numb, weak, tingling. Pains start from spine and extend through extremities. Drawing and lancinating pains shooting down extremities. Backache; numb, weak, Myelitis. Muscular prostration. Wrist painful, as if sprained (Ulmus). Lower extremities blue, cold, insensible. Sensation of numbness. Multiple cerebral and posterior spinal sclerosis. Lancinating pains in various parts; jerking pains."
+  ],
+  "guiding_symptoms": [
+    "Violent pain in epigastrium, discharge of flatus relieves. Gastralgia, pyrosis, sensation of coldness below epigastrium. Burning pain, extending upwards; slightest touch causes excruciating pain. Bitter and sour eructation, worse at night. Cannot eat strawberries.",
+    "Sense of heat. Confusion and vertigo. Headache, before and during stool.",
+    "Nervous aphonia with cardiac derangement (Coca; Hydrocy ac). Burning sensation from throat down. Breathing spasmodic, with constriction of larynx and chest. Hoarseness. Left lung painful. Aphonia. Paralysis of the tensors of vocal cord. Dyspnœa; short, jerking inspirations. Sharp pain through lower region of left lung, extending down to epigastrium."
+  ],
+  "modalities": {
+    "worse": [
+      "left side",
+      "slightest touch",
+      "light",
+      "shaving"
+    ],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Sense of heat. Confusion and vertigo. Headache, before and during stool."
+  ],
+  "respiratory_symptoms": [
+    "Nervous aphonia with cardiac derangement (Coca; Hydrocy ac). Burning sensation from throat down. Breathing spasmodic, with constriction of larynx and chest. Hoarseness. Left lung painful. Aphonia. Paralysis of the tensors of vocal cord. Dyspnœa; short, jerking inspirations. Sharp pain through lower region of left lung, extending down to epigastrium."
+  ],
+  "gi_symptoms": [
+    "Violent pain in epigastrium, discharge of flatus relieves. Gastralgia, pyrosis, sensation of coldness below epigastrium. Burning pain, extending upwards; slightest touch causes excruciating pain. Bitter and sour eructation, worse at night. Cannot eat strawberries."
+  ],
+  "urinary_symptoms": [
+    "Frequent and copious. Burning in urethra and pain in glans when urinating. Must urinate when thinking of it. Urine contains oxalates."
+  ],
+  "musculoskeletal_symptoms": [
+    "Numb, weak, tingling. Pains start from spine and extend through extremities. Drawing and lancinating pains shooting down extremities. Backache; numb, weak, Myelitis. Muscular prostration. Wrist painful, as if sprained (Ulmus). Lower extremities blue, cold, insensible. Sensation of numbness. Multiple cerebral and posterior spinal sclerosis. Lancinating pains in various parts; jerking pains."
+  ],
+  "skin_symptoms": [
+    "Sensitive, smarting and soreness, worse shaving; mottled, marbled in circular patches. Perspires easily."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Ars",
+    "Colch",
+    "Arg",
+    "Pic ac",
+    "Cicer arietinum-Chick-pea--(Lithiasis"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/o/ox-ac.htm",
+    "title": "OXALICUM ACIDUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:06:14.852Z"
+  },
+  "confidence_score": 0.8
+}

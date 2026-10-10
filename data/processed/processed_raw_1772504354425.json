@@ -1,0 +1,63 @@
+{
+  "name": "PTELEA TRIFOLIATA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Wafer-ash"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Weight and fullness. Griping in epigastric region, with dryness of mouth. Eructations, nausea, vomiting. Constant sensation of corrosion, heat and burning in stomach. Stomach feels empty after eating. Stomach and liver symptoms associated with pain in limbs.",
+    "Feels dull and stupid. Pain from forehead to root of nose; pressing-outward pain. Frontal headache; worse, noise, motion, night, rubbing eyes, with acidity. Temples as if pressed together.",
+    "Feeling of pressure on lungs and of suffocation, when lying on back. Asthma; dyspnśa; cramp-like pain in cardiac region."
+  ],
+  "guiding_symptoms": [
+    "Weight and fullness. Griping in epigastric region, with dryness of mouth. Eructations, nausea, vomiting. Constant sensation of corrosion, heat and burning in stomach. Stomach feels empty after eating. Stomach and liver symptoms associated with pain in limbs.",
+    "Feels dull and stupid. Pain from forehead to root of nose; pressing-outward pain. Frontal headache; worse, noise, motion, night, rubbing eyes, with acidity. Temples as if pressed together.",
+    "Feeling of pressure on lungs and of suffocation, when lying on back. Asthma; dyspnśa; cramp-like pain in cardiac region."
+  ],
+  "modalities": {
+    "worse": [
+      "lying on left side",
+      "early morning"
+    ],
+    "better": [
+      "eating sour things"
+    ]
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Feels dull and stupid. Pain from forehead to root of nose; pressing-outward pain. Frontal headache; worse, noise, motion, night, rubbing eyes, with acidity. Temples as if pressed together."
+  ],
+  "respiratory_symptoms": [
+    "Feeling of pressure on lungs and of suffocation, when lying on back. Asthma; dyspnśa; cramp-like pain in cardiac region."
+  ],
+  "gi_symptoms": [
+    "Weight and fullness. Griping in epigastric region, with dryness of mouth. Eructations, nausea, vomiting. Constant sensation of corrosion, heat and burning in stomach. Stomach feels empty after eating. Stomach and liver symptoms associated with pain in limbs."
+  ],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [],
+  "sleep_symptoms": [
+    "Restless, with frightful dreams; nightmare, awakes languid and unrefreshed."
+  ],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Mercur",
+    "Magn mur",
+    "Nux",
+    "Chelid"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/p/ptel.htm",
+    "title": "PTELEA TRIFOLIATA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:19:14.425Z"
+  },
+  "confidence_score": 0.74
+}

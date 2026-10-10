@@ -1,0 +1,65 @@
+{
+  "name": "FAGOPYRUM ESCULENTUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Buckwheat"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Eructations of scalding, hot, acid, watery substance; better, coffee. Bad taste in the morning. Persistent, morning nausea. Drooling.",
+    "Inability to study or remember. Depressed and irritable. Itching of eyes and ears. Pains deep in head, with upward pressure. Itching in and around eyes and ears. Head hot, better bending backward, with tired neck. Occipital headache. Bursting pains. Cerebral hyperćmia.",
+    "Pain around heart, better lying on back, extending to left shoulder and arm. Throbbing in all arteries after retiring. Palpitation with oppression. Pulse irregular, intermittent, rapid. Light feeling in chest.",
+    "Stiffness and bruised sensation in the muscles of the neck, with sensation as if nape of neck could not support head. Pain in shoulder, with pain along fingers. Vehement itching in arms and legs; worse towards evening. Feet numb and pricking. Streaking pains in arms and legs."
+  ],
+  "guiding_symptoms": [
+    "Eructations of scalding, hot, acid, watery substance; better, coffee. Bad taste in the morning. Persistent, morning nausea. Drooling.",
+    "Inability to study or remember. Depressed and irritable. Itching of eyes and ears. Pains deep in head, with upward pressure. Itching in and around eyes and ears. Head hot, better bending backward, with tired neck. Occipital headache. Bursting pains. Cerebral hyperćmia.",
+    "Pain around heart, better lying on back, extending to left shoulder and arm. Throbbing in all arteries after retiring. Palpitation with oppression. Pulse irregular, intermittent, rapid. Light feeling in chest."
+  ],
+  "modalities": {
+    "worse": [
+      "in afternoon",
+      "from sunlight, scratching"
+    ],
+    "better": [
+      "cold water, coffee"
+    ]
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Inability to study or remember. Depressed and irritable. Itching of eyes and ears. Pains deep in head, with upward pressure. Itching in and around eyes and ears. Head hot, better bending backward, with tired neck. Occipital headache. Bursting pains. Cerebral hyperćmia."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "Eructations of scalding, hot, acid, watery substance; better, coffee. Bad taste in the morning. Persistent, morning nausea. Drooling."
+  ],
+  "urinary_symptoms": [
+    "Pruritus vulvć, with yellow leucorrhśa, worse, rest. Burning in right ovary."
+  ],
+  "musculoskeletal_symptoms": [
+    "Stiffness and bruised sensation in the muscles of the neck, with sensation as if nape of neck could not support head. Pain in shoulder, with pain along fingers. Vehement itching in arms and legs; worse towards evening. Feet numb and pricking. Streaking pains in arms and legs."
+  ],
+  "skin_symptoms": [
+    "Itching; better by bathing in cold water; worse scratching, touch and retiring. Sore red blotches. Blind boils. Itching of knees and elbows and hairy portions. Itching of hands, deep in. Vesicular, pustular, phlegmonous dermatitis. Skin hot, swollen."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Dolichos",
+    "Bovista",
+    "Urtica"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/f/fago.htm",
+    "title": "FAGOPYRUM ESCULENTUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:33:56.448Z"
+  },
+  "confidence_score": 0.8
+}

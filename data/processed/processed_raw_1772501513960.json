@@ -1,0 +1,62 @@
+{
+  "name": "EUCALYPTUS GLOBULUS",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Blue Gum-tree"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Slow digestion. Much fetid gas. Beating and goneness with pulsation in epigastric arteries. Spleen hard and contracted. Pain in epigastrium and upper abdomen ameliorated by food. Malignant disease of stomach with vomiting of blood and sour fluid.",
+    "Exhilaration. Desire for exercise. Dull congestive headache. Coryza; sore throat. Eyes smart and burn.",
+    "Asthma, with great dyspnœa and palpitation. Moist asthma. Expectoration white, thick mucus. Bronchitis in the aged. Bronchorrhœa (Bals. Peru). Profuse expectoration of offensive muco-pus. Irritative cough. Whooping-cough in rachitic children. Fetid form of bronchitis, bronchial dilatation and emphysema.",
+    "Rheumatic pains; worse at night, walking or carrying anything. Stiff, weary sensation. Pricking sensation, followed by painful aching. Nodular swellings over metacarpal and metatarsal joints."
+  ],
+  "guiding_symptoms": [
+    "Slow digestion. Much fetid gas. Beating and goneness with pulsation in epigastric arteries. Spleen hard and contracted. Pain in epigastrium and upper abdomen ameliorated by food. Malignant disease of stomach with vomiting of blood and sour fluid.",
+    "Exhilaration. Desire for exercise. Dull congestive headache. Coryza; sore throat. Eyes smart and burn.",
+    "Asthma, with great dyspnœa and palpitation. Moist asthma. Expectoration white, thick mucus. Bronchitis in the aged. Bronchorrhœa (Bals. Peru). Profuse expectoration of offensive muco-pus. Irritative cough. Whooping-cough in rachitic children. Fetid form of bronchitis, bronchial dilatation and emphysema."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Exhilaration. Desire for exercise. Dull congestive headache. Coryza; sore throat. Eyes smart and burn."
+  ],
+  "respiratory_symptoms": [
+    "Asthma, with great dyspnœa and palpitation. Moist asthma. Expectoration white, thick mucus. Bronchitis in the aged. Bronchorrhœa (Bals. Peru). Profuse expectoration of offensive muco-pus. Irritative cough. Whooping-cough in rachitic children. Fetid form of bronchitis, bronchial dilatation and emphysema."
+  ],
+  "gi_symptoms": [
+    "Slow digestion. Much fetid gas. Beating and goneness with pulsation in epigastric arteries. Spleen hard and contracted. Pain in epigastrium and upper abdomen ameliorated by food. Malignant disease of stomach with vomiting of blood and sour fluid."
+  ],
+  "urinary_symptoms": [
+    "Acute nephritis complicating influenza. Hæmaturia. Suppurative inflammation of kidneys. Urine contains pus and is deficient in urea. Bladder feels loss of expulsive force. Burning and tenesmus; catarrh of bladder; diuresis; urethral caruncle. Spasmodic stricture; gonorrhœa."
+  ],
+  "musculoskeletal_symptoms": [
+    "Rheumatic pains; worse at night, walking or carrying anything. Stiff, weary sensation. Pricking sensation, followed by painful aching. Nodular swellings over metacarpal and metatarsal joints."
+  ],
+  "skin_symptoms": [
+    "Glandular enlargements and nodular swelling over joints. Foul and indolent ulcers. Herpetic eruptions."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [
+    "Elevation of temperature. Continued and typhoid fevers. Scarlet fever (protective and curative). Discharges show a tendency to foulness, high temperature, accelerated but not strong pulse. Use the tincture."
+  ],
+  "complementary_remedies": [
+    "Oil of Eucalyptus"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/e/eucal.htm",
+    "title": "EUCALYPTUS GLOBULUS - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:31:53.960Z"
+  },
+  "confidence_score": 0.8
+}

@@ -1,0 +1,33 @@
+{
+  "remedy_name": "LIMULUS CYCLOPS",
+  "source_file": "raw_1772502920838.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Asterias",
+        "resolved_name": "ASTERIAS RUBENS",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Homarus",
+        "resolved_name": "HOMARUS",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Cuprum",
+        "resolved_name": "CUPRUM METALLICUM",
+        "confidence": 1,
+        "method": "exact"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:10.178Z"
+}

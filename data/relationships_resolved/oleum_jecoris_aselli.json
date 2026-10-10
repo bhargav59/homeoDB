@@ -1,0 +1,39 @@
+{
+  "remedy_name": "OLEUM JECORIS ASELLI",
+  "source_file": "raw_1772503693314.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Cholesterine",
+        "resolved_name": "CHOLESTERINUM",
+        "confidence": 0.7,
+        "method": "levenshtein_2"
+      },
+      {
+        "original": "Tubercul",
+        "resolved_name": "TUBERCULINUM",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Phosph",
+        "resolved_name": "PHOSPHORUS",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      },
+      {
+        "original": "Iod",
+        "resolved_name": "AMMONIUM IODATUM",
+        "confidence": 0.8,
+        "method": "substring"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:10.501Z"
+}

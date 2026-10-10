@@ -1,0 +1,41 @@
+{
+  "remedy_name": "Manganum.",
+  "source_file": "raw_1772507900512_clarke_dictionary_w1.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      {
+        "original": "Coff",
+        "resolved_name": "COFFEA CRUDA",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      }
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Am",
+        "resolved_name": "AGAVE AMERICANA",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "also: Fer",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": [
+      {
+        "original": "d by: Coff",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      }
+    ]
+  },
+  "resolved_at": "2026-03-11T01:50:10.246Z"
+}

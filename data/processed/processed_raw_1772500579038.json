@@ -1,0 +1,73 @@
+{
+  "name": "CAUSTICUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Hahnemann's Tinctura acris sine Kali"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Greasy taste. Aversion to sweets. Feels as if lime were burned in stomach. Worse after eating fresh meat; smoked meat agrees. Sensation of ball rising in throat. Acid dyspepsia.",
+    "Sensation of empty space between forehead and brain. Pain in right frontal eminence.",
+    "Hoarseness with pain in chest; aphonia. Larynx sore. Cough, with raw soreness of chest. Expectoration scanty; must be swallowed. Cough with pain in hip, especially left worse in evening; better, drinking cold water; worse, warmth of bed. Sore streak down trachea. Mucus under sternum, which he cannot quite reach. Pain in chest, with palpitation. Cannot lie down at night. Voice re-echoes. Own voice roars in ears and distresses. Difficulty of voice of singers and public speakers (Royal).",
+    "Left-sided sciatica, with numbness. Paralysis of single parts. Dull, tearing pain in hands and arms. Heaviness and weakness. Tearing joints. Unsteadiness of muscles of forearm and hand. Numbness; loss of sensation in hands. Contracted tendons. Weak ankles. Cannot walk without suffering. Rheumatic tearing in limbs; better by warmth, especially heat of bed. Burning in joints. Slow in learning to walk. Unsteady walking and easily falling. Restless legs at night. Cracking and tension in knees; stiffness in hollow of knee. Itching on dorsum of feet.",
+    "Stiffness between shoulders. Dull pain in nape of neck."
+  ],
+  "guiding_symptoms": [
+    "Greasy taste. Aversion to sweets. Feels as if lime were burned in stomach. Worse after eating fresh meat; smoked meat agrees. Sensation of ball rising in throat. Acid dyspepsia.",
+    "Sensation of empty space between forehead and brain. Pain in right frontal eminence.",
+    "Hoarseness with pain in chest; aphonia. Larynx sore. Cough, with raw soreness of chest. Expectoration scanty; must be swallowed. Cough with pain in hip, especially left worse in evening; better, drinking cold water; worse, warmth of bed. Sore streak down trachea. Mucus under sternum, which he cannot quite reach. Pain in chest, with palpitation. Cannot lie down at night. Voice re-echoes. Own voice roars in ears and distresses. Difficulty of voice of singers and public speakers (Royal)."
+  ],
+  "modalities": {
+    "worse": [
+      "dry, cold winds, in clear fine weather, cold air",
+      "from motion of carriage"
+    ],
+    "better": [
+      "in damp, wet weather",
+      "warmth"
+    ]
+  },
+  "mind_symptoms": [
+    "Child does not want to go to bed alone. Least thing makes it cry. Sad, hopeless. Intensely sympathetic. Ailments from long-lasting grief, sudden emotions. Thinking of complaints, aggravates, especially hćmorrhoids."
+  ],
+  "head_symptoms": [
+    "Sensation of empty space between forehead and brain. Pain in right frontal eminence."
+  ],
+  "respiratory_symptoms": [
+    "Hoarseness with pain in chest; aphonia. Larynx sore. Cough, with raw soreness of chest. Expectoration scanty; must be swallowed. Cough with pain in hip, especially left worse in evening; better, drinking cold water; worse, warmth of bed. Sore streak down trachea. Mucus under sternum, which he cannot quite reach. Pain in chest, with palpitation. Cannot lie down at night. Voice re-echoes. Own voice roars in ears and distresses. Difficulty of voice of singers and public speakers (Royal)."
+  ],
+  "gi_symptoms": [
+    "Greasy taste. Aversion to sweets. Feels as if lime were burned in stomach. Worse after eating fresh meat; smoked meat agrees. Sensation of ball rising in throat. Acid dyspepsia."
+  ],
+  "urinary_symptoms": [
+    "Uterine inertia during labor. Menses cease at night; flow only during day (Cycl; Puls). Leucorrhśa at night, with great weakness (Nat mur). Menses delay, late (Con. Graph; Puls)."
+  ],
+  "musculoskeletal_symptoms": [
+    "Left-sided sciatica, with numbness. Paralysis of single parts. Dull, tearing pain in hands and arms. Heaviness and weakness. Tearing joints. Unsteadiness of muscles of forearm and hand. Numbness; loss of sensation in hands. Contracted tendons. Weak ankles. Cannot walk without suffering. Rheumatic tearing in limbs; better by warmth, especially heat of bed. Burning in joints. Slow in learning to walk. Unsteady walking and easily falling. Restless legs at night. Cracking and tension in knees; stiffness in hollow of knee. Itching on dorsum of feet."
+  ],
+  "skin_symptoms": [
+    "Soreness in folds of skin, back of ears, between thighs. Warts large, jagged, bleeding easily, on tips of fingers and nose. Old burns that do not get well, and ill effects from burns. Pains of burns. Cicatrices freshen up; old injuries reopen. Skin prone to intertrigo during dentition."
+  ],
+  "sleep_symptoms": [
+    "Very drowsy; can hardly keep awake. Nocturnal sleeplessness, with dry heat, inquietude."
+  ],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Rhus",
+    "Arsenic",
+    "Amm phos (facial paralysis"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/c/caust.htm",
+    "title": "CAUSTICUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:16:19.038Z"
+  },
+  "confidence_score": 0.8
+}

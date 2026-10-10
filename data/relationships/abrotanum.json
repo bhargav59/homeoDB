@@ -1,0 +1,21 @@
+{
+  "remedy_name": "ABROTANUM",
+  "source_file": "raw_1772371512040.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/a/abrot.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Scrophularia",
+      "Bryonia",
+      "Stellaria",
+      "Benzoic acid",
+      "in gout"
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "parsed_at": "2026-03-03T15:23:37.310Z"
+}

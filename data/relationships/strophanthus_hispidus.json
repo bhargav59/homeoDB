@@ -1,0 +1,22 @@
+{
+  "remedy_name": "STROPHANTHUS HISPIDUS",
+  "source_file": "raw_1772505106761.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/s/stroph-h.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Digit",
+      "Phos ac (weak heart",
+      "irregular pulse",
+      "fluttering sensation in cardiac region",
+      "palpitation during sleep",
+      "fainting)"
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "parsed_at": "2026-03-03T15:23:37.741Z"
+}

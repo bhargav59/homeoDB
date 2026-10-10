@@ -1,0 +1,33 @@
+{
+  "remedy_name": "QUEBRACHO",
+  "source_file": "raw_1772504404071.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Coca",
+        "resolved_name": "COCA",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Arsenic",
+        "resolved_name": "ARSENICUM ALBUM",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      },
+      {
+        "original": "Coffea-Catalpa",
+        "resolved_name": "COFFEA CRUDA",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:10.898Z"
+}

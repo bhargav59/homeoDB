@@ -1,0 +1,18 @@
+{
+  "remedy_name": "MEDORRHINUM",
+  "source_file": "raw_1772503145701.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/m/med.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "(Lactation: Galega",
+      "Lactuca)"
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "parsed_at": "2026-03-03T15:23:37.537Z"
+}

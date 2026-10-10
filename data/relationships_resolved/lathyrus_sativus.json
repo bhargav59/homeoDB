@@ -1,0 +1,45 @@
+{
+  "remedy_name": "LATHYRUS SATIVUS",
+  "source_file": "raw_1772502827796.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Oxytrop",
+        "resolved_name": "OXYTROPIS LAMBERTI",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Secale",
+        "resolved_name": "SECALE CORNUTUM",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Petiveria",
+        "resolved_name": "Petiveria.",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "a South American plant (Paralysis",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "paraplegia with numbness",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:10.152Z"
+}

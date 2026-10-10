@@ -1,0 +1,39 @@
+{
+  "remedy_name": "BRACHYGLOTTIS REPENS",
+  "source_file": "raw_1772500112547.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Apis",
+        "resolved_name": "APIS MELLIFICA",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Helonias",
+        "resolved_name": "HELONIAS DIOICA",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Merc cor",
+        "resolved_name": "MERCURIUS SOLUBILIS",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      },
+      {
+        "original": "Plumbum",
+        "resolved_name": "PLUMBUM METALLICUM",
+        "confidence": 1,
+        "method": "exact"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:08.701Z"
+}

@@ -1,0 +1,56 @@
+{
+  "name": "LYSSINUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Lyssin-Saliva of Rabid Dog"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Lyssophobia; fear of becoming mad. Emotion and bad news aggravate; also, thinking of fluids. Hypersensitiveness of all senses. Chronic headache. Boring pain in forehead.",
+    "Voice altered in tone. Breathing held for a time. Spasmodic contraction of respiratory muscles."
+  ],
+  "guiding_symptoms": [
+    "Lyssophobia; fear of becoming mad. Emotion and bad news aggravate; also, thinking of fluids. Hypersensitiveness of all senses. Chronic headache. Boring pain in forehead.",
+    "Voice altered in tone. Breathing held for a time. Spasmodic contraction of respiratory muscles."
+  ],
+  "modalities": {
+    "worse": [
+      "sight or sound of running water or pouring water, or even thinking of fluids",
+      "dazzling or reflected light",
+      "heat of sun",
+      "stooping"
+    ],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Lyssophobia; fear of becoming mad. Emotion and bad news aggravate; also, thinking of fluids. Hypersensitiveness of all senses. Chronic headache. Boring pain in forehead."
+  ],
+  "respiratory_symptoms": [
+    "Voice altered in tone. Breathing held for a time. Spasmodic contraction of respiratory muscles."
+  ],
+  "gi_symptoms": [
+    "Desire for stool on hearing or seeing running water. Profuse, watery stools, with pain in bowels; worse, evening. Constant desire to urinate on seeing running water."
+  ],
+  "urinary_symptoms": [
+    "Lascivious; priapism, with frequent emissions. No emission during coition. Atrophy of testicles. Complaints from abnormal sexual desire."
+  ],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/l/lyss.htm",
+    "title": "LYSSINUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:57:27.801Z"
+  },
+  "confidence_score": 0.74
+}

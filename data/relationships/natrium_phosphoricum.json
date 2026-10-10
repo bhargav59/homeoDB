@@ -1,0 +1,20 @@
+{
+  "remedy_name": "NATRIUM PHOSPHORICUM",
+  "source_file": "raw_1772503547930.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/n/nat-p.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Natrum lactic (rheumatism and gout",
+      "gouty concretions",
+      "rheumatism with diabetes)",
+      "Natrum nitrosum (angina pectoris"
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "parsed_at": "2026-03-03T15:23:37.559Z"
+}

@@ -1,0 +1,66 @@
+{
+  "name": "COFFEA CRUDA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Unroasted Coffee"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Excessive hunger. Intolerance of tight clothing. After wine and liquor.",
+    "Tight pain, worse from noise, smell, narcotics. Seems as if brain were torn to pieces, as if nail were driven in head. Worse in open air. Sensitive hearing.",
+    "Short, dry cough of measles in nervous, delicate children.",
+    "Violent irregular palpitation especially after excessive joy or surprise. Rapid high tension pulse and urinary suppression.",
+    "Crural neuralgia; worse, motion, afternoon and night; better, by pressure."
+  ],
+  "guiding_symptoms": [
+    "Excessive hunger. Intolerance of tight clothing. After wine and liquor.",
+    "Tight pain, worse from noise, smell, narcotics. Seems as if brain were torn to pieces, as if nail were driven in head. Worse in open air. Sensitive hearing.",
+    "Short, dry cough of measles in nervous, delicate children."
+  ],
+  "modalities": {
+    "worse": [
+      "excessive emotions (joy), narcotics, strong odors, noise, open air, cold, night"
+    ],
+    "better": [
+      "warmth, from lying down",
+      "holding ice in mouth"
+    ]
+  },
+  "mind_symptoms": [
+    "Gaiety, easy comprehension, irritability, excited; senses acute. Impressionable, especially to pleasurable impressions. Full of ideas, quick to act. Tossing about in anguish (Acon)."
+  ],
+  "head_symptoms": [
+    "Tight pain, worse from noise, smell, narcotics. Seems as if brain were torn to pieces, as if nail were driven in head. Worse in open air. Sensitive hearing."
+  ],
+  "respiratory_symptoms": [
+    "Short, dry cough of measles in nervous, delicate children."
+  ],
+  "gi_symptoms": [
+    "Excessive hunger. Intolerance of tight clothing. After wine and liquor."
+  ],
+  "urinary_symptoms": [
+    "Menses too early and long lasting. Dysmenorrhśa, large clots of black blood. Hypersensitive vulva and vagina. Voluptuous itching."
+  ],
+  "musculoskeletal_symptoms": [
+    "Crural neuralgia; worse, motion, afternoon and night; better, by pressure."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [
+    "Wakeful; on a constant move. Sleeps till 3 am, after which only dozing. Wakes with a start, sleep disturbed by dreams. Sleepless, on account mental activity; flow of ideas, with nervous excitability. Disturbed by itching of anus."
+  ],
+  "fever_symptoms": [],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/c/coff.htm",
+    "title": "COFFEA CRUDA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:23:16.172Z"
+  },
+  "confidence_score": 0.8
+}

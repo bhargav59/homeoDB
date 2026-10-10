@@ -1,0 +1,47 @@
+{
+  "remedy_name": "CHININUM SULPHURICUM",
+  "source_file": "raw_1772500721856.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      {
+        "original": "Parthenum",
+        "resolved_name": "PARTHENIUM HYSTEROPHORUS",
+        "confidence": 0.85,
+        "method": "levenshtein_1"
+      }
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Chin salicyl (Deafness",
+        "resolved_name": "CHINA OFFICINALIS",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      },
+      {
+        "original": "tinnitus",
+        "resolved_name": "TANNICUM ACIDUM",
+        "confidence": 0.55,
+        "method": "levenshtein_3"
+      },
+      {
+        "original": "and Meniere's disease)",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": [
+      {
+        "original": "Parthenum",
+        "resolved_name": "PARTHENIUM HYSTEROPHORUS",
+        "confidence": 0.85,
+        "method": "levenshtein_1"
+      }
+    ]
+  },
+  "resolved_at": "2026-03-11T01:50:08.955Z"
+}

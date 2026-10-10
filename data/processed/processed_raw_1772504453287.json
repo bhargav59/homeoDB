@@ -1,0 +1,55 @@
+{
+  "name": "RANUNCULUS SCELERATUS",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Marsh Buttercup"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Integument sensitive. Bruised pain and weakness in the chest every evening. Sore burning behind xiphoid cartilage.",
+    "Gnawing in one spot left of vertex. Frightful dreams about corpses, serpents, battles, etc. Fluent coryza, with sneezing and burning micturition.",
+    "Boring pain. Sudden burning sticking in right toe. Corns, with burning and soreness, especially when feet hang down. Gout in fingers and toes."
+  ],
+  "guiding_symptoms": [
+    "Integument sensitive. Bruised pain and weakness in the chest every evening. Sore burning behind xiphoid cartilage.",
+    "Gnawing in one spot left of vertex. Frightful dreams about corpses, serpents, battles, etc. Fluent coryza, with sneezing and burning micturition.",
+    "Boring pain. Sudden burning sticking in right toe. Corns, with burning and soreness, especially when feet hang down. Gout in fingers and toes."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Gnawing in one spot left of vertex. Frightful dreams about corpses, serpents, battles, etc. Fluent coryza, with sneezing and burning micturition."
+  ],
+  "respiratory_symptoms": [
+    "Integument sensitive. Bruised pain and weakness in the chest every evening. Sore burning behind xiphoid cartilage."
+  ],
+  "gi_symptoms": [
+    "Sensation of a plug behind umbilicus. Pain over region of liver, with sensation as if diarrhśa would set it. Pressure as of a plug behind right false ribs; worse, deep inspiration."
+  ],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [
+    "Boring pain. Sudden burning sticking in right toe. Corns, with burning and soreness, especially when feet hang down. Gout in fingers and toes."
+  ],
+  "skin_symptoms": [
+    "Vesicular eruption, with tendency to form large blisters. Acrid exudation, which makes surrounding parts sore."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/r/ran-s.htm",
+    "title": "RANUNCULUS SCELERATUS - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:20:53.287Z"
+  },
+  "confidence_score": 0.62
+}

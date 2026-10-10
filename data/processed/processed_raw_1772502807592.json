@@ -1,0 +1,45 @@
+{
+  "name": "LAPPA ARCTIUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Burdock"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Pain in hands, knees, and ankles extending downward to fingers and toes. Pain in all joints. Eruption on extremities."
+  ],
+  "guiding_symptoms": [
+    "Pain in hands, knees, and ankles extending downward to fingers and toes. Pain in all joints. Eruption on extremities."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [],
+  "urinary_symptoms": [
+    "Uterine displacements. An exceedingly sore, bruised feeling in uterus, with great relaxation of the vaginal tissues; apparently entire lack of tonicity of pelvic contents. These symptoms all aggravated by standing, walking, a misstep, or sudden jar."
+  ],
+  "musculoskeletal_symptoms": [
+    "Pain in hands, knees, and ankles extending downward to fingers and toes. Pain in all joints. Eruption on extremities."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/l/lappa.htm",
+    "title": "LAPPA ARCTIUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:53:27.592Z"
+  },
+  "confidence_score": 0.38
+}

@@ -1,0 +1,25 @@
+{
+  "remedy_name": "GUAJACUM OFFICINALE",
+  "source_file": "raw_1772502028699.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/g/guaj.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      "Nux"
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Merc",
+      "Caust",
+      "Rhus",
+      "Mezer",
+      "Rhodod"
+    ],
+    "incompatible": [],
+    "antidotes": [
+      "Nux"
+    ]
+  },
+  "parsed_at": "2026-03-03T15:23:37.484Z"
+}

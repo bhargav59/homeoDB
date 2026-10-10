@@ -1,0 +1,18 @@
+{
+  "remedy_name": "CARLSBAD AQUA",
+  "source_file": "raw_1772500491108.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/c/carl.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Nat sulph",
+      "Nux"
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "parsed_at": "2026-03-03T15:23:37.415Z"
+}

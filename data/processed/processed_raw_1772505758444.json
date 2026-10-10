@@ -1,0 +1,47 @@
+{
+  "name": "VESPA CRABRO",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Live Wasp"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [],
+  "guiding_symptoms": [],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Painful and swollen. Erysipelatous inflammation of lids. Chemosis of conjunctiva. Swelling of mouth and throat, with violent burning pains."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [],
+  "urinary_symptoms": [
+    "Burning with micturition; also itching."
+  ],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [
+    "Erythema; intense itching; burning. Boils; stinging and soreness, relieved by bathing with vinegar. Wheals, macules and swellings with burning, stinging and soreness. Erythema multiforme, relieved by bathing with vinegar."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Scorpio (salivation",
+    "strabismus",
+    "tetanus"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/v/vesp.htm",
+    "title": "VESPA CRABRO - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:42:38.444Z"
+  },
+  "confidence_score": 0.56
+}

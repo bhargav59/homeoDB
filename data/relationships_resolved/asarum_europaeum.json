@@ -1,0 +1,45 @@
+{
+  "remedy_name": "ASARUM EUROPAEUM",
+  "source_file": "raw_1772433357770.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Ipecac",
+        "resolved_name": "IPECACUANHA",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      },
+      {
+        "original": "especially in diarrhśa",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "Silica",
+        "resolved_name": "Silica Marina.",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Nux",
+        "resolved_name": "NUX MOSCHATA",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "China",
+        "resolved_name": "CHINA OFFICINALIS",
+        "confidence": 1,
+        "method": "exact"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:08.579Z"
+}

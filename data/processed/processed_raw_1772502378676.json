@@ -1,0 +1,58 @@
+{
+  "name": "INULA HELENIUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Scabwort"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Vertigo on stooping; throbbing after eating, pressure in temples and forehead.",
+    "Dry cough; worse at night and lying down; larynx painful. Chronic bronchitis; cough, with much thick expectoration, with languor and weak digestion. Stitches behind sternum. Teasing cough with much and free expectoration. Palliative in tubercular laryngitis.",
+    "Pain in right shoulder and wrist; tearing in left palm, unable to double fingers; pain in lower limbs, feet and ankles."
+  ],
+  "guiding_symptoms": [
+    "Vertigo on stooping; throbbing after eating, pressure in temples and forehead.",
+    "Dry cough; worse at night and lying down; larynx painful. Chronic bronchitis; cough, with much thick expectoration, with languor and weak digestion. Stitches behind sternum. Teasing cough with much and free expectoration. Palliative in tubercular laryngitis.",
+    "Pain in right shoulder and wrist; tearing in left palm, unable to double fingers; pain in lower limbs, feet and ankles."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Vertigo on stooping; throbbing after eating, pressure in temples and forehead."
+  ],
+  "respiratory_symptoms": [
+    "Dry cough; worse at night and lying down; larynx painful. Chronic bronchitis; cough, with much thick expectoration, with languor and weak digestion. Stitches behind sternum. Teasing cough with much and free expectoration. Palliative in tubercular laryngitis."
+  ],
+  "gi_symptoms": [
+    "Pressing toward rectum as of something extruding."
+  ],
+  "urinary_symptoms": [
+    "Frequent urging to urinate; passes only in drops. Violet odor (Tereb)."
+  ],
+  "musculoskeletal_symptoms": [
+    "Pain in right shoulder and wrist; tearing in left palm, unable to double fingers; pain in lower limbs, feet and ankles."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Crocus",
+    "Ignatia"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/i/inul.htm",
+    "title": "INULA HELENIUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:46:18.676Z"
+  },
+  "confidence_score": 0.6799999999999999
+}

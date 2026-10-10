@@ -1,0 +1,77 @@
+{
+  "remedy_name": "COLCHICUM AUTUMNALE",
+  "source_file": "raw_1772501006725.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      {
+        "original": "Thuja",
+        "resolved_name": "THUJA OCCIDENTALIS",
+        "confidence": 1,
+        "method": "exact"
+      }
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "convulsive jerkings of right hand",
+        "resolved_name": "CONIUM MACULATUM",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      },
+      {
+        "original": "rheumatic fever",
+        "resolved_name": "RHEUM PALMATUM",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "gout",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "endo and pericarditis",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "pleurisy",
+        "resolved_name": "Dr. Reckeweg R24, Homeopathic Medicine For Pleurisy, Homeopathic Medicine For Intercostal Neuralgia",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "arthritis",
+        "resolved_name": "Dr. Reckeweg R73, Joint Pain Homeopathy, Homeopathic Treatment For Joint Pain, Homeopathic Medicines For Arthritis Pain",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "deformans in early stages",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "intense pain of rheumatism 3x trit)",
+        "resolved_name": "RHEUM PALMATUM",
+        "confidence": 0.8,
+        "method": "substring"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": [
+      {
+        "original": "Thuja",
+        "resolved_name": "THUJA OCCIDENTALIS",
+        "confidence": 1,
+        "method": "exact"
+      }
+    ]
+  },
+  "resolved_at": "2026-03-11T01:50:09.044Z"
+}

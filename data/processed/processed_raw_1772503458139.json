@@ -1,0 +1,46 @@
+{
+  "name": "MYRTUS COMMUNIS",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Myrtle"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Stitching pain in left breast, running through to shoulder-blade (Illic; Therid; Pix). Dry, hollow cough, with tickling in chest. Worse in the morning. Sensation of burning in left chest."
+  ],
+  "guiding_symptoms": [
+    "Stitching pain in left breast, running through to shoulder-blade (Illic; Therid; Pix). Dry, hollow cough, with tickling in chest. Worse in the morning. Sensation of burning in left chest."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [],
+  "respiratory_symptoms": [
+    "Stitching pain in left breast, running through to shoulder-blade (Illic; Therid; Pix). Dry, hollow cough, with tickling in chest. Worse in the morning. Sensation of burning in left chest."
+  ],
+  "gi_symptoms": [],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "yellowish sputum",
+    "difficult to detach"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/m/myrt-c.htm",
+    "title": "MYRTUS COMMUNIS - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:04:18.139Z"
+  },
+  "confidence_score": 0.38
+}

@@ -1,0 +1,45 @@
+{
+  "name": "ANISUM STELLATUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Anise"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Dyspnœa. Pain near third intercostal cartilage. Cough, with pus-like phlegm. Palpitation, with aphthæ. Hæmoptysis."
+  ],
+  "guiding_symptoms": [
+    "Dyspnœa. Pain near third intercostal cartilage. Cough, with pus-like phlegm. Palpitation, with aphthæ. Hæmoptysis."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Sharp stitches beneath lip. Acute catarrh. Burning and numbness of inner lower lip."
+  ],
+  "respiratory_symptoms": [
+    "Dyspnœa. Pain near third intercostal cartilage. Cough, with pus-like phlegm. Palpitation, with aphthæ. Hæmoptysis."
+  ],
+  "gi_symptoms": [],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/a/anis.htm",
+    "title": "ANISUM STELLATUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-01T13:34:37.004Z"
+  },
+  "confidence_score": 0.38
+}

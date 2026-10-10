@@ -1,0 +1,55 @@
+{
+  "name": "SCROPHULARIA NODOSA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Knotted Figwort"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Vertigo felt in vertex, greater when standing; drowsiness; pain from forehead to back of head. Eczema behind ear. Crusta lactea.",
+    "Violent dyspnśa, oppression of chest with trembling. Pain about bifurcation of trachea. Asthma in scrofulous patients."
+  ],
+  "guiding_symptoms": [
+    "Vertigo felt in vertex, greater when standing; drowsiness; pain from forehead to back of head. Eczema behind ear. Crusta lactea.",
+    "Violent dyspnśa, oppression of chest with trembling. Pain about bifurcation of trachea. Asthma in scrofulous patients."
+  ],
+  "modalities": {
+    "worse": [
+      "lying on right side"
+    ],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Vertigo felt in vertex, greater when standing; drowsiness; pain from forehead to back of head. Eczema behind ear. Crusta lactea."
+  ],
+  "respiratory_symptoms": [
+    "Violent dyspnśa, oppression of chest with trembling. Pain about bifurcation of trachea. Asthma in scrofulous patients."
+  ],
+  "gi_symptoms": [
+    "Pain in liver on pressure. Colic below navel. Pain in sigmoid flexure and rectum. Painful, bleeding, protruding piles."
+  ],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [
+    "Prickling itching, worse back of hand."
+  ],
+  "sleep_symptoms": [
+    "Great drowsiness; in morning and before and after meals with weariness."
+  ],
+  "fever_symptoms": [],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/s/scroph-n.htm",
+    "title": "SCROPHULARIA NODOSA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:26:29.317Z"
+  },
+  "confidence_score": 0.74
+}

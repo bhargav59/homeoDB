@@ -1,0 +1,27 @@
+{
+  "remedy_name": "SUMBULUS MOSCHATUS",
+  "source_file": "raw_1772505208601.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Asaf",
+        "resolved_name": "ASA FOETIDA",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Mosch",
+        "resolved_name": "MOSCHUS",
+        "confidence": 0.8,
+        "method": "substring"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:11.336Z"
+}

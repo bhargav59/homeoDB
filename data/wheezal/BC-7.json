@@ -1,0 +1,23 @@
+{
+  "name": "Diabetes",
+  "url": "https://www.wheezalstore.com/product/29687081/Diabetes",
+  "collection_id": "bio_combination",
+  "title": "Diabetes",
+  "price": "₹99",
+  "description": "",
+  "image": "",
+  "scraped_at": "2026-03-26T05:28:15.168Z",
+  "composition": [
+    "Calc. Phos. 3x",
+    "Ferrum Phos. 3x",
+    "Kali Phos. 3x",
+    "Nat. Phos. 3x",
+    "Nat. Sulph. 3x"
+  ],
+  "indications": [
+    "Increased thirst",
+    "Frequent urination",
+    "General weakness"
+  ],
+  "bc_number": "BC-7"
+}

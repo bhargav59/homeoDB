@@ -1,0 +1,27 @@
+{
+  "remedy_name": "TILIA EUROPAEA",
+  "source_file": "raw_1772505459996.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Lilium",
+        "resolved_name": "LILIUM TIGRINUM",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Bellad",
+        "resolved_name": "BELLADONNA",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:11.469Z"
+}

@@ -1,0 +1,23 @@
+{
+  "remedy_name": "VALERIANA OFFICINALIS",
+  "source_file": "raw_1772505675350.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/v/valer.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Asaf",
+      "Ign",
+      "Croc",
+      "Castor",
+      "Amm valer (in neuralgia",
+      "gastric disturbance",
+      "and great nervous agitation)"
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "parsed_at": "2026-03-03T15:23:37.769Z"
+}

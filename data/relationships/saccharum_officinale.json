@@ -1,0 +1,22 @@
+{
+  "remedy_name": "SACCHARUM OFFICINALE",
+  "source_file": "raw_1772504649109.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/s/sacch.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "amblyopia",
+      "cold pains",
+      "as if produced by fine",
+      "icy cold needle with tingling",
+      "as if frost bitten",
+      "great physical exhaustion"
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "parsed_at": "2026-03-03T15:23:37.719Z"
+}

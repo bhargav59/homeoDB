@@ -1,0 +1,49 @@
+{
+  "name": "PASSIFLORA INCARNATA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Passion-flower"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Leaden, dead feeling after or between meals; flatulence and sour eructations.",
+    "Violent ache as if top of head would come off-eyes felt as if pushed out."
+  ],
+  "guiding_symptoms": [
+    "Leaden, dead feeling after or between meals; flatulence and sour eructations.",
+    "Violent ache as if top of head would come off-eyes felt as if pushed out."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Violent ache as if top of head would come off-eyes felt as if pushed out."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "Leaden, dead feeling after or between meals; flatulence and sour eructations."
+  ],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [],
+  "sleep_symptoms": [
+    "Restless and wakeful, resulting from exhaustion. Especially in the feeble, infants and the aged. Insomnia of infants and the aged, and the mentally worried, and overworked, with tendency to convulsions. Nocturnal cough."
+  ],
+  "fever_symptoms": [],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/p/passi.htm",
+    "title": "PASSIFLORA INCARNATA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:06:20.225Z"
+  },
+  "confidence_score": 0.44
+}

@@ -1,0 +1,25 @@
+{
+  "remedy_name": "SEDUM ACRE",
+  "source_file": "raw_1772504817897.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/s/sed-ac.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Mucuna urens",
+      "Sedum telephium (uterine hćmorrhages",
+      "also of bowels and rectum",
+      "menorrhagia",
+      "especially at climacteric)",
+      "Sedum repens--S alpestre--(cancer",
+      "specific action on abdominal organs",
+      "pain",
+      "loss of strength)"
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "parsed_at": "2026-03-03T15:23:37.727Z"
+}

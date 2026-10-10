@@ -1,0 +1,45 @@
+{
+  "remedy_name": "KALIUM CYANATUM",
+  "source_file": "raw_1772502590408.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Platin",
+        "resolved_name": "PLATINA",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      },
+      {
+        "original": "Stann",
+        "resolved_name": "STANNUM",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      },
+      {
+        "original": "Cedron",
+        "resolved_name": "CEDRON",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Mezer",
+        "resolved_name": "MEZEREUM",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Mur ac",
+        "resolved_name": "HURA BRASILIENSIS",
+        "confidence": 0.55,
+        "method": "levenshtein_3"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:10.042Z"
+}

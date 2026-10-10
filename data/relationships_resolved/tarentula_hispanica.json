@@ -1,0 +1,53 @@
+{
+  "remedy_name": "TARENTULA HISPANICA",
+  "source_file": "raw_1772505298482.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      {
+        "original": "Lach",
+        "resolved_name": "LACHESIS",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      }
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Agar",
+        "resolved_name": "AGARICUS MUSCARIUS",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Ars",
+        "resolved_name": "ARSENICUM ALBUM",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      },
+      {
+        "original": "Cupr",
+        "resolved_name": "CUPRUM METALLICUM",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      },
+      {
+        "original": "Mag phos",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": [
+      {
+        "original": "Lach",
+        "resolved_name": "LACHESIS",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      }
+    ]
+  },
+  "resolved_at": "2026-03-11T01:50:11.381Z"
+}

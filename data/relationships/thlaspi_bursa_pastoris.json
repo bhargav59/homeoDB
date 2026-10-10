@@ -1,0 +1,20 @@
+{
+  "remedy_name": "THLASPI BURSA PASTORIS",
+  "source_file": "raw_1772505411357.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/t/thlas.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Urtica",
+      "Croc",
+      "Trill",
+      "Millefol"
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "parsed_at": "2026-03-03T15:23:37.756Z"
+}

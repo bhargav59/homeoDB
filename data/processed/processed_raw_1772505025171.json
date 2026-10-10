@@ -1,0 +1,68 @@
+{
+  "name": "STANNUM METALLICUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Tin"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Hunger. Smell of cooking causes vomiting. Bitter taste. Pain better pressure, but sore to touch. Sensation of emptiness in stomach.",
+    "Aching in temples and forehead. Obstinate acute coryza and influenza with cough. Pain worse motion; gradually increasing and decreasing as if constricted by a band; forehead feels pressed inwards. Jarring of walking resounds painfully in head. Drawing pains in malar bones and orbits. Ulceration of ringhole in lobe of ear.",
+    "Hoarse; mucus expelled by forcible cough. Violent, dry cough in evening until midnight. Cough excited by laughing, singing, talking; worse lying on right side. During day, with copious green, sweetish, expectoration. Chest feels sore. Chest feels weak; can hardly talk. Influenzal cough from noon to midnight with scanty expectoration. Respiration short, oppressive; stitches in left side when breathing and lying on same side. Phthisis mucosa. Hectic fever.",
+    "Paralytic weakness; drops things. Ankles swollen. Limbs suddenly give out when attempting to sit down. Dizziness and weakness when descending. Spasmodic twitching of muscles of forearm and hand. Fingers jerk when holding pen. Neuritis. Typewriters' paralysis."
+  ],
+  "guiding_symptoms": [
+    "Hunger. Smell of cooking causes vomiting. Bitter taste. Pain better pressure, but sore to touch. Sensation of emptiness in stomach.",
+    "Aching in temples and forehead. Obstinate acute coryza and influenza with cough. Pain worse motion; gradually increasing and decreasing as if constricted by a band; forehead feels pressed inwards. Jarring of walking resounds painfully in head. Drawing pains in malar bones and orbits. Ulceration of ringhole in lobe of ear.",
+    "Hoarse; mucus expelled by forcible cough. Violent, dry cough in evening until midnight. Cough excited by laughing, singing, talking; worse lying on right side. During day, with copious green, sweetish, expectoration. Chest feels sore. Chest feels weak; can hardly talk. Influenzal cough from noon to midnight with scanty expectoration. Respiration short, oppressive; stitches in left side when breathing and lying on same side. Phthisis mucosa. Hectic fever."
+  ],
+  "modalities": {
+    "worse": [
+      "using voice (i"
+    ],
+    "better": [
+      "coughing or expectorating, hard pressure"
+    ]
+  },
+  "mind_symptoms": [
+    "Sad, anxious. Discouraged. Dread of seeing people."
+  ],
+  "head_symptoms": [
+    "Aching in temples and forehead. Obstinate acute coryza and influenza with cough. Pain worse motion; gradually increasing and decreasing as if constricted by a band; forehead feels pressed inwards. Jarring of walking resounds painfully in head. Drawing pains in malar bones and orbits. Ulceration of ringhole in lobe of ear."
+  ],
+  "respiratory_symptoms": [
+    "Hoarse; mucus expelled by forcible cough. Violent, dry cough in evening until midnight. Cough excited by laughing, singing, talking; worse lying on right side. During day, with copious green, sweetish, expectoration. Chest feels sore. Chest feels weak; can hardly talk. Influenzal cough from noon to midnight with scanty expectoration. Respiration short, oppressive; stitches in left side when breathing and lying on same side. Phthisis mucosa. Hectic fever."
+  ],
+  "gi_symptoms": [
+    "Hunger. Smell of cooking causes vomiting. Bitter taste. Pain better pressure, but sore to touch. Sensation of emptiness in stomach."
+  ],
+  "urinary_symptoms": [
+    "Bearing-down sensation. Prolapsus, with weak, sinking feeling in stomach (Sep). Menses early and profuse. Pain in vagina, upward and back to spine. Leucorrhśa, with great debility."
+  ],
+  "musculoskeletal_symptoms": [
+    "Paralytic weakness; drops things. Ankles swollen. Limbs suddenly give out when attempting to sit down. Dizziness and weakness when descending. Spasmodic twitching of muscles of forearm and hand. Fingers jerk when holding pen. Neuritis. Typewriters' paralysis."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [
+    "Sleeps with one leg drawn up, the other stretched out."
+  ],
+  "fever_symptoms": [
+    "Heat in evening; exhausting night-sweats, especially towards morning. Hectic. Perspiration, principally on forehead and nape of neck; debilitating; smelling musty, or offensive."
+  ],
+  "complementary_remedies": [
+    "Stann iod"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/s/stann.htm",
+    "title": "STANNUM METALLICUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:30:25.171Z"
+  },
+  "confidence_score": 0.8
+}

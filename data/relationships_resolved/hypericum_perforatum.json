@@ -1,0 +1,65 @@
+{
+  "remedy_name": "HYPERICUM PERFORATUM",
+  "source_file": "raw_1772502279898.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      {
+        "original": "Ars",
+        "resolved_name": "ARSENICUM ALBUM",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      }
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Ledum",
+        "resolved_name": "LEDUM PALUSTRE",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Arnica",
+        "resolved_name": "ARNICA MONTANA",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Staphis",
+        "resolved_name": "STAPHYSAGRIA",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      },
+      {
+        "original": "Calend",
+        "resolved_name": "CALENDULA OFFICINALIS",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Ruta",
+        "resolved_name": "RUTA GRAVEOLENS",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Coff",
+        "resolved_name": "COFFEA CRUDA",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": [
+      {
+        "original": "Ars",
+        "resolved_name": "ARSENICUM ALBUM",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      }
+    ]
+  },
+  "resolved_at": "2026-03-11T01:50:09.930Z"
+}

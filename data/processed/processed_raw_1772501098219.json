@@ -1,0 +1,49 @@
+{
+  "name": "CORNUS CIRCINATA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Round-leaved Dogwood"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [],
+  "guiding_symptoms": [],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Ulceration of tongue, gums and mouth; aphthć. Burning in mouth, throat and stomach."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "Loose, windy, dark stool, immediately after dinner. Burning in anus. Dark, bilious, offensive diarrhśa, with sallow complexion."
+  ],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [
+    "Vesicular eczema of face in infants, with nursing sore mouth."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "disturbed sleep",
+    "fever",
+    "restlessness",
+    "eczema",
+    "skin cracked"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/c/corn.htm",
+    "title": "CORNUS CIRCINATA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:24:58.219Z"
+  },
+  "confidence_score": 0.5
+}

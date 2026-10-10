@@ -1,0 +1,27 @@
+{
+  "remedy_name": "ASTRAGALUS MOLLISSIMUS",
+  "source_file": "raw_1772433436030.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Baryta",
+        "resolved_name": "BARYTA ACETICA",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Oxytropis",
+        "resolved_name": "OXYTROPIS LAMBERTI",
+        "confidence": 1,
+        "method": "exact"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:08.601Z"
+}

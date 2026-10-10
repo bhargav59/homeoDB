@@ -1,0 +1,17 @@
+{
+  "remedy_name": "LECITHINUM",
+  "source_file": "raw_1772502850023.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/l/lec.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Phosphor"
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "parsed_at": "2026-03-03T15:23:37.522Z"
+}

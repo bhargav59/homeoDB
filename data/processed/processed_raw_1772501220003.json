@@ -1,0 +1,72 @@
+{
+  "name": "CUPRUM METALLICUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Copper"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Hiccough preceding the spasms. Nausea. Vomiting, relieved by drinking cold water; with colic, diarrhœa, spasms. Strong metallic taste (Rhus). When drinking, the fluid descends with gurgling sound (Laur). Craves cool drink.",
+    "Fixed ideas, malicious and morose. Uses words not intended. Fearful. Empty feeling. Purple, red swelling of head, with convulsions. Bruised pain in brain and eyes on turning them. Meningitis. Sensation as if water were poured over head. Giddiness accompanies many ailments, head falls forward on chest.",
+    "Cough as a gurgling sound, better by drinking cold water. Suffocative attacks, worse 3 am (Am c). Spasm and constriction of chest; spasmodic asthma, alternating with spasmodic vomiting. Whooping-cough, better, swallow water, with vomiting and spasms and purple face. Spasm of the glottis. Dyspnœa with epigastric uneasiness. Spasmodic dyspnœa before menstruation. Angina with asthmatic symptoms and cramps (Clarke).",
+    "Angina pectoris. Slow pulse; or hard, full and quick. Palpitation, præcordial anxiety and pain. Fatty degeneration (Phytol).",
+    "Jerking, twitching of muscles. Coldness of hands. Cramps in palms. Great weariness of limbs. Cramps in calves and soles. Epilepsy; auro begins in knees. Clenched thumbs. Clonic spasms, beginning in fingers and toes."
+  ],
+  "guiding_symptoms": [
+    "Hiccough preceding the spasms. Nausea. Vomiting, relieved by drinking cold water; with colic, diarrhœa, spasms. Strong metallic taste (Rhus). When drinking, the fluid descends with gurgling sound (Laur). Craves cool drink.",
+    "Fixed ideas, malicious and morose. Uses words not intended. Fearful. Empty feeling. Purple, red swelling of head, with convulsions. Bruised pain in brain and eyes on turning them. Meningitis. Sensation as if water were poured over head. Giddiness accompanies many ailments, head falls forward on chest.",
+    "Cough as a gurgling sound, better by drinking cold water. Suffocative attacks, worse 3 am (Am c). Spasm and constriction of chest; spasmodic asthma, alternating with spasmodic vomiting. Whooping-cough, better, swallow water, with vomiting and spasms and purple face. Spasm of the glottis. Dyspnœa with epigastric uneasiness. Spasmodic dyspnœa before menstruation. Angina with asthmatic symptoms and cramps (Clarke)."
+  ],
+  "modalities": {
+    "worse": [
+      "before menses",
+      "from vomiting, contact"
+    ],
+    "better": [
+      "during perspiration, drinking cold water"
+    ]
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Fixed ideas, malicious and morose. Uses words not intended. Fearful. Empty feeling. Purple, red swelling of head, with convulsions. Bruised pain in brain and eyes on turning them. Meningitis. Sensation as if water were poured over head. Giddiness accompanies many ailments, head falls forward on chest."
+  ],
+  "respiratory_symptoms": [
+    "Cough as a gurgling sound, better by drinking cold water. Suffocative attacks, worse 3 am (Am c). Spasm and constriction of chest; spasmodic asthma, alternating with spasmodic vomiting. Whooping-cough, better, swallow water, with vomiting and spasms and purple face. Spasm of the glottis. Dyspnœa with epigastric uneasiness. Spasmodic dyspnœa before menstruation. Angina with asthmatic symptoms and cramps (Clarke)."
+  ],
+  "gi_symptoms": [
+    "Hiccough preceding the spasms. Nausea. Vomiting, relieved by drinking cold water; with colic, diarrhœa, spasms. Strong metallic taste (Rhus). When drinking, the fluid descends with gurgling sound (Laur). Craves cool drink."
+  ],
+  "urinary_symptoms": [
+    "Menses too late, protracted. Cramps, extending into chest, before, during, or after suppression of menses. Also, from suppressed foot sweats (Sil). Ebullition of blood; palpitation. Chlorosis. After-pains."
+  ],
+  "musculoskeletal_symptoms": [
+    "Jerking, twitching of muscles. Coldness of hands. Cramps in palms. Great weariness of limbs. Cramps in calves and soles. Epilepsy; auro begins in knees. Clenched thumbs. Clonic spasms, beginning in fingers and toes."
+  ],
+  "skin_symptoms": [
+    "Bluish, marbled. Ulcers, itching spots, and pimples at the folds of joints. Chronic psoriasis and lepra (Hughes)."
+  ],
+  "sleep_symptoms": [
+    "Profound, with shocks in body. During sleep constant rumbling in abdomen."
+  ],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Cupr sulph (burning at vertex",
+    "incessant",
+    "spasmodic cough",
+    "worse at night",
+    "tongue and lips bluish"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/c/cupr.htm",
+    "title": "CUPRUM METALLICUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:27:00.003Z"
+  },
+  "confidence_score": 0.8
+}

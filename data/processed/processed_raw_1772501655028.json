@@ -1,0 +1,68 @@
+{
+  "name": "FERRUM METALLICUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Iron"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Voracious appetite, or absolute loss of appetite. Loathing of sour things. Attempts to eat bring on diarrhśa. Spits up food by the mouthful (Phos). Eructations of food after eating, without nausea. Nausea and vomiting after eating. Vomiting immediately after eating. Vomiting after midnight. Intolerance of eggs. Distention and pressure in the stomach after eating. Heat and burning in stomach. Soreness of abdominal walls. Flatulent dyspepsia.",
+    "Vertigo on seeing flowing water. Stinging headache. Ringing in ears before menses. Hammering, pulsating, congestive headache; pain extends to teeth, with cold extremities. Pain in back of head, with roaring in neck. Scalp painful. Must take down the hair.",
+    "Chest oppressed; breathing difficult. Surging of blood to chest. Hoarseness. Cough dry, spasmodic. Hćmoptysis (Millefol). With the cough pain in occiput.",
+    "Palpitation; worse, movement. Sense of oppression. Anćmic murmur. Pulse full, but soft and yielding; also, small and weak. Heart suddenly bleeds into the blood vessels, and as suddenly draws a reflux, leaving pallor of surface.",
+    "Rheumatism of the shoulder. Dropsy after loss of vital fluids. Lumbago; better, slow walking. Pain in hip-joint, tibia, soles, and heel."
+  ],
+  "guiding_symptoms": [
+    "Voracious appetite, or absolute loss of appetite. Loathing of sour things. Attempts to eat bring on diarrhśa. Spits up food by the mouthful (Phos). Eructations of food after eating, without nausea. Nausea and vomiting after eating. Vomiting immediately after eating. Vomiting after midnight. Intolerance of eggs. Distention and pressure in the stomach after eating. Heat and burning in stomach. Soreness of abdominal walls. Flatulent dyspepsia.",
+    "Vertigo on seeing flowing water. Stinging headache. Ringing in ears before menses. Hammering, pulsating, congestive headache; pain extends to teeth, with cold extremities. Pain in back of head, with roaring in neck. Scalp painful. Must take down the hair.",
+    "Chest oppressed; breathing difficult. Surging of blood to chest. Hoarseness. Cough dry, spasmodic. Hćmoptysis (Millefol). With the cough pain in occiput."
+  ],
+  "modalities": {
+    "worse": [
+      "while sweating",
+      "while sitting still"
+    ],
+    "better": [
+      "walking slowly about"
+    ]
+  },
+  "mind_symptoms": [
+    "Irritability. Slight noises unbearable. Excited from slightest opposition. Sanguine temperament."
+  ],
+  "head_symptoms": [
+    "Vertigo on seeing flowing water. Stinging headache. Ringing in ears before menses. Hammering, pulsating, congestive headache; pain extends to teeth, with cold extremities. Pain in back of head, with roaring in neck. Scalp painful. Must take down the hair."
+  ],
+  "respiratory_symptoms": [
+    "Chest oppressed; breathing difficult. Surging of blood to chest. Hoarseness. Cough dry, spasmodic. Hćmoptysis (Millefol). With the cough pain in occiput."
+  ],
+  "gi_symptoms": [
+    "Voracious appetite, or absolute loss of appetite. Loathing of sour things. Attempts to eat bring on diarrhśa. Spits up food by the mouthful (Phos). Eructations of food after eating, without nausea. Nausea and vomiting after eating. Vomiting immediately after eating. Vomiting after midnight. Intolerance of eggs. Distention and pressure in the stomach after eating. Heat and burning in stomach. Soreness of abdominal walls. Flatulent dyspepsia."
+  ],
+  "urinary_symptoms": [
+    "Menses remit a day or two, and then return. Discharge of long pieces from uterus. Women who are weak, delicate, chlorotic, yet have a fiery-red face. Menses too early, too profuse, last too long; pale, watery. Sensitive vagina. Tendency to abortion. Prolapse of vagina."
+  ],
+  "musculoskeletal_symptoms": [
+    "Rheumatism of the shoulder. Dropsy after loss of vital fluids. Lumbago; better, slow walking. Pain in hip-joint, tibia, soles, and heel."
+  ],
+  "skin_symptoms": [
+    "Pale; flushes readily; pits on pressure."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [
+    "General coldness of extremities; head and face hot. Chill at 4 am. Heat in palms and soles. Profuse, debilitating sweat."
+  ],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/f/ferr.htm",
+    "title": "FERRUM METALLICUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:34:15.028Z"
+  },
+  "confidence_score": 0.8
+}

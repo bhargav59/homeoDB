@@ -1,0 +1,87 @@
+{
+  "remedy_name": "PICRICUM ACIDUM",
+  "source_file": "raw_1772504155663.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Oxal ac",
+        "resolved_name": "X",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Gels",
+        "resolved_name": "GELSEMIUM",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      },
+      {
+        "original": "Phos",
+        "resolved_name": "PHOSPHORUS",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      },
+      {
+        "original": "Sil",
+        "resolved_name": "SILICEA",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      },
+      {
+        "original": "Arg nit",
+        "resolved_name": "ARGENTUM NITRICUM",
+        "confidence": 0.55,
+        "method": "levenshtein_3"
+      },
+      {
+        "original": "Zinc pic",
+        "resolved_name": "ZINCUM METALLICUM",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      },
+      {
+        "original": "Ferr pic (buzzing in ears",
+        "resolved_name": "FERRUM METALLICUM",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      },
+      {
+        "original": "deafness",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "chronic gout",
+        "resolved_name": "CHROMICUM ACIDUM",
+        "confidence": 0.55,
+        "method": "levenshtein_3"
+      },
+      {
+        "original": "epistaxis",
+        "resolved_name": "X",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "prostatic troubles)",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "Calc pic",
+        "resolved_name": "CALCAREA CARBONICA",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:10.768Z"
+}

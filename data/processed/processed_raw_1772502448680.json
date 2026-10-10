@@ -1,0 +1,53 @@
+{
+  "name": "JACARANDA CAROBA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Brazilian Caroba-tree"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Vertigo on rising, with heavy forehead. Eyes pain; are inflamed and watery. Coryza with heavy head.",
+    "Rheumatic pain in right knee. Weakness of lumbar region. Morning soreness and stiffness of muscles. Gonorrhœal rheumatism. Itching pimples on hands. Gonorrhœal and syphilitic arthritis."
+  ],
+  "guiding_symptoms": [
+    "Vertigo on rising, with heavy forehead. Eyes pain; are inflamed and watery. Coryza with heavy head.",
+    "Rheumatic pain in right knee. Weakness of lumbar region. Morning soreness and stiffness of muscles. Gonorrhœal rheumatism. Itching pimples on hands. Gonorrhœal and syphilitic arthritis."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Vertigo on rising, with heavy forehead. Eyes pain; are inflamed and watery. Coryza with heavy head."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [],
+  "urinary_symptoms": [
+    "Urethra inflamed; discharge of yellow matter."
+  ],
+  "musculoskeletal_symptoms": [
+    "Rheumatic pain in right knee. Weakness of lumbar region. Morning soreness and stiffness of muscles. Gonorrhœal rheumatism. Itching pimples on hands. Gonorrhœal and syphilitic arthritis."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Thuja",
+    "Corallium",
+    "especially of eye and throat"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/j/jac-c.htm",
+    "title": "JACARANDA CAROBA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:47:28.680Z"
+  },
+  "confidence_score": 0.62
+}

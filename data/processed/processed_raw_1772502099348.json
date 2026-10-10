@@ -1,0 +1,59 @@
+{
+  "name": "HEDEOMA PULEGIOIDES",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Pennyroyal"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Gastritis. Everything taken into stomach causes pain. Tongue coated thin white. Nausea.",
+    "Dull, heavy feeling in morning. Sore pain, as from a cut. Weak, faint; better, lying down.",
+    "Pain in thumb-joint. Pain, coldness, and paretic condition. Twitchings, jerkings, soreness. Tendo-Achilles painful, as if sprained and swollen; walking painful."
+  ],
+  "guiding_symptoms": [
+    "Gastritis. Everything taken into stomach causes pain. Tongue coated thin white. Nausea.",
+    "Dull, heavy feeling in morning. Sore pain, as from a cut. Weak, faint; better, lying down.",
+    "Pain in thumb-joint. Pain, coldness, and paretic condition. Twitchings, jerkings, soreness. Tendo-Achilles painful, as if sprained and swollen; walking painful."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Dull, heavy feeling in morning. Sore pain, as from a cut. Weak, faint; better, lying down."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "Gastritis. Everything taken into stomach causes pain. Tongue coated thin white. Nausea."
+  ],
+  "urinary_symptoms": [
+    "Bearing-down pains, with much backache; worse, least movement. Leucorrhœa, with itching and burning Ovaries congested and painful; bearing-down spasmodic contractions."
+  ],
+  "musculoskeletal_symptoms": [
+    "Pain in thumb-joint. Pain, coldness, and paretic condition. Twitchings, jerkings, soreness. Tendo-Achilles painful, as if sprained and swollen; walking painful."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Mentha",
+    "Sepia",
+    "Lilium",
+    "Ocimum (uric acid diathesis",
+    "pain in ureters"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/h/hedeo.htm",
+    "title": "HEDEOMA PULEGIOIDES - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:41:39.348Z"
+  },
+  "confidence_score": 0.62
+}

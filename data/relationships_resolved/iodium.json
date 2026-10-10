@@ -1,0 +1,84 @@
+{
+  "remedy_name": "IODIUM",
+  "source_file": "raw_1772502389272.json",
+  "relationships": {
+    "complementary": [
+      {
+        "original": "Lycopod",
+        "resolved_name": "LYCOPODIUM CLAVATUM",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      }
+    ],
+    "antidoted_by": [
+      {
+        "original": "Hepar",
+        "resolved_name": "HEPAR SULPHUR",
+        "confidence": 1,
+        "method": "exact"
+      }
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Brom",
+        "resolved_name": "AMMONIUM BROMATUM",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Hepar",
+        "resolved_name": "HEPAR SULPHUR",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Mercur",
+        "resolved_name": "MERCURIUS SOLUBILIS",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      },
+      {
+        "original": "Phosph",
+        "resolved_name": "PHOSPHORUS",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      },
+      {
+        "original": "Abrot",
+        "resolved_name": "ABROTANUM",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Nat mur",
+        "resolved_name": "NATRIUM ARSENICOSUM",
+        "confidence": 0.55,
+        "method": "levenshtein_3"
+      },
+      {
+        "original": "Sanic",
+        "resolved_name": "SANICULA AQUA",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Tuber",
+        "resolved_name": "ASCLEPIAS TUBEROSA",
+        "confidence": 0.8,
+        "method": "substring"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": [
+      {
+        "original": "Hepar",
+        "resolved_name": "HEPAR SULPHUR",
+        "confidence": 1,
+        "method": "exact"
+      }
+    ]
+  },
+  "resolved_at": "2026-03-11T01:50:09.963Z"
+}

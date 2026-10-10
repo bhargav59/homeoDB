@@ -1,0 +1,20 @@
+{
+  "remedy_name": "BARYTA MURIATICA",
+  "source_file": "raw_1772499923803.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/b/bar-m.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "in sclerotic degenerations",
+      "especially of spinal cord",
+      "liver",
+      "and heart"
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "parsed_at": "2026-03-03T15:23:37.381Z"
+}

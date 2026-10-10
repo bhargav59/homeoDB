@@ -1,0 +1,27 @@
+{
+  "remedy_name": "CHININUM ARSENICOSUM",
+  "source_file": "raw_1772500710907.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Chininum",
+        "resolved_name": "CHININUM ARSENICOSUM",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "acid dyspepsia in chlorosis",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:08.935Z"
+}

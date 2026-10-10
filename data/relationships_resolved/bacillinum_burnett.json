@@ -1,0 +1,21 @@
+{
+  "remedy_name": "BACILLINUM BURNETT",
+  "source_file": "raw_1772499851311.json",
+  "relationships": {
+    "complementary": [
+      {
+        "original": "Calc phos",
+        "resolved_name": "CALCAREA CARBONICA",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      }
+    ],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:08.616Z"
+}

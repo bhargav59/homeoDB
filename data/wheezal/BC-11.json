@@ -1,0 +1,23 @@
+{
+  "name": "Fever",
+  "url": "https://www.wheezalstore.com/product/29687086/Fever",
+  "collection_id": "bio_combination",
+  "title": "Fever",
+  "price": "₹99",
+  "description": "",
+  "image": "",
+  "scraped_at": "2026-03-26T05:28:30.814Z",
+  "composition": [
+    "Ferrum Phos. 3x",
+    "Kali Mur. 3x",
+    "Kali Sulph. 3x",
+    "Nat. Mur. 3x",
+    "Nat. Sulph. 3x"
+  ],
+  "indications": [
+    "Inflammatory fevers",
+    "Intermittent fevers",
+    "Body ache"
+  ],
+  "bc_number": "BC-11"
+}

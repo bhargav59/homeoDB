@@ -1,0 +1,53 @@
+{
+  "name": "LAPIS ALBUS",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Silico-fluoride of Calcium"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Persistent pains in mammary region. Glandular hardening."
+  ],
+  "guiding_symptoms": [
+    "Persistent pains in mammary region. Glandular hardening."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Otitis media suppurativa. Where Silica is indicated progress is hastened by Lapis (Bellows)."
+  ],
+  "respiratory_symptoms": [
+    "Persistent pains in mammary region. Glandular hardening."
+  ],
+  "gi_symptoms": [],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [
+    "Scrofulous abscesses and sores. Enlargement and induration of glands, especially cervical. Lipoma, sarcoma, carcinoma. Pruritus."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Silica",
+    "Badiaga",
+    "Ars iod",
+    "Calc iod",
+    "Con"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/l/lap-a.htm",
+    "title": "LAPIS ALBUS - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:53:16.097Z"
+  },
+  "confidence_score": 0.5
+}

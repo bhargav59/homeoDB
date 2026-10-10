@@ -1,0 +1,22 @@
+{
+  "remedy_name": "ICHTHYOLUM",
+  "source_file": "raw_1772502299280.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/i/ichth.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Hepar",
+      "Calc",
+      "Silica",
+      "Sulph",
+      "Ars",
+      "Petrol"
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "parsed_at": "2026-03-03T15:23:37.495Z"
+}

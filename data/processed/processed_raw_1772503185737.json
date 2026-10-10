@@ -1,0 +1,50 @@
+{
+  "name": "MENISPERMUM CANADENSE",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Moonseed"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Pressure from within outward, with stretching and yawning and pain down back. Sick headache; pain in forehead and temples, moving to occiput. Tongue swollen and much saliva.",
+    "Pain in back, thighs, elbows, shoulders. Legs sore, as if bruised."
+  ],
+  "guiding_symptoms": [
+    "Pressure from within outward, with stretching and yawning and pain down back. Sick headache; pain in forehead and temples, moving to occiput. Tongue swollen and much saliva.",
+    "Pain in back, thighs, elbows, shoulders. Legs sore, as if bruised."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Pressure from within outward, with stretching and yawning and pain down back. Sick headache; pain in forehead and temples, moving to occiput. Tongue swollen and much saliva."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [
+    "Pain in back, thighs, elbows, shoulders. Legs sore, as if bruised."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Cocculus",
+    "Bryon"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/m/menis.htm",
+    "title": "MENISPERMUM CANADENSE - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:59:45.737Z"
+  },
+  "confidence_score": 0.44
+}

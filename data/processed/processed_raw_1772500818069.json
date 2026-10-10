@@ -1,0 +1,72 @@
+{
+  "name": "CIMICIFUGA RACEMOSA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Black Snake-root"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Nausea and vomiting caused by pressure on spine and cervical region. Sinking in epigastrium (Sep; Sulph). Gnawing pain. Tongue pointed and trembling.",
+    "Wild feeling in brain. Shooting and throbbing pains in head after mental worry, over-study, or reflex of uterine disease. Waving sensation or opening and shutting sensation in brain. Brain feels too large. Pressing-outward pain. Tinnitus. Ears sensitive to least noise.",
+    "Tickling in throat. Dry, short cough, worse speaking and at night. Cough when secretion is scanty-spasmodic, dry with muscular soreness and nervous irritation.",
+    "Irregular, slow, trembling pulse. Tremulous action. Angina pectoris. Numbness of left arm; feels as if bound to side. Heart's action ceases suddenly, impending suffocation. Left-sided infra-mammary pain.",
+    "Uneasy, restless feeling in limbs. Aching in limbs and muscular soreness. Rheumatism affecting the belly of muscles, especially large muscles. Choreic movements, accompanied by rheumatism. Jerking of limbs. Stiffness in tendo-Achilles. Heaviness in lower extremities. Heavy, aching, tensive pain.",
+    "Spine very sensitive, especially upper part. Stiffness and contraction in neck and back. Intercostal rheumatism. Rheumatic pains in muscles of back and neck. Pain in lumbar and sacral region, down thighs, and through hips. Crick in back."
+  ],
+  "guiding_symptoms": [
+    "Nausea and vomiting caused by pressure on spine and cervical region. Sinking in epigastrium (Sep; Sulph). Gnawing pain. Tongue pointed and trembling.",
+    "Wild feeling in brain. Shooting and throbbing pains in head after mental worry, over-study, or reflex of uterine disease. Waving sensation or opening and shutting sensation in brain. Brain feels too large. Pressing-outward pain. Tinnitus. Ears sensitive to least noise.",
+    "Tickling in throat. Dry, short cough, worse speaking and at night. Cough when secretion is scanty-spasmodic, dry with muscular soreness and nervous irritation."
+  ],
+  "modalities": {
+    "worse": [
+      "morning, cold (except headache), during menses",
+      "the more profuse the flow, the greater the suffering"
+    ],
+    "better": [
+      "warmth, eating"
+    ]
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Wild feeling in brain. Shooting and throbbing pains in head after mental worry, over-study, or reflex of uterine disease. Waving sensation or opening and shutting sensation in brain. Brain feels too large. Pressing-outward pain. Tinnitus. Ears sensitive to least noise."
+  ],
+  "respiratory_symptoms": [
+    "Tickling in throat. Dry, short cough, worse speaking and at night. Cough when secretion is scanty-spasmodic, dry with muscular soreness and nervous irritation."
+  ],
+  "gi_symptoms": [
+    "Nausea and vomiting caused by pressure on spine and cervical region. Sinking in epigastrium (Sep; Sulph). Gnawing pain. Tongue pointed and trembling."
+  ],
+  "urinary_symptoms": [
+    "Amenorrhśa (use Macrotin preferably). Pain in ovarian region; shoots upward and down anterior surface of thighs. Pain immediately before menses. Menses profuse, dark, coagulated, offensive with backache, nervousness; always irregular. Ovarian neuralgia. Pain across pelvis, from hip to hip. After-pains, with great sensitiveness and intolerance to pain. Infra-mammary pains worse, left side. Facial blemishes in young women."
+  ],
+  "musculoskeletal_symptoms": [
+    "Uneasy, restless feeling in limbs. Aching in limbs and muscular soreness. Rheumatism affecting the belly of muscles, especially large muscles. Choreic movements, accompanied by rheumatism. Jerking of limbs. Stiffness in tendo-Achilles. Heaviness in lower extremities. Heavy, aching, tensive pain."
+  ],
+  "skin_symptoms": [
+    "Locally and internally for ivy poisoning."
+  ],
+  "sleep_symptoms": [
+    "Sleeplessness. Brain irritation of children during dentition."
+  ],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Rhamnus Californica (muscular pains",
+    "lumbago",
+    "pleurodynia",
+    "acute rheumatism"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/c/cimic.htm",
+    "title": "CIMICIFUGA RACEMOSA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:20:18.069Z"
+  },
+  "confidence_score": 0.8
+}

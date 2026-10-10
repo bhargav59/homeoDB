@@ -1,0 +1,23 @@
+{
+  "remedy_name": "GENTIANA LUTEA",
+  "source_file": "raw_1772501893555.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/g/gent-l.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "dyspepsia",
+      "cholera infantum",
+      "weakness)",
+      "dysphagia",
+      "vertigo with headache",
+      "pressing inward sensation in eyes",
+      "constricted throat and head and abdomen"
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "parsed_at": "2026-03-03T15:23:37.478Z"
+}

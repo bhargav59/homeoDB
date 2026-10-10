@@ -1,0 +1,68 @@
+{
+  "name": "SQUILLA MARITIMA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Sea-onion"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Pressure like a stone.",
+    "Fluent coryza; margins of nostrils feel sore. Sneezing; throat irritated; short, dry cough; must take a deep breath. Dyspnśa and stitches in chest, and painful contraction of abdominal muscles. Violent, furious, exhausting cough, with much mucus; profuse, salty, slimy expectoration, and with involuntary spurting of urine and sneezing. Child rubs face with fist during cough (Caust; Puls). Cough provoked by taking a deep breath or cold drinks, from exertion, change from warm to cold air. Cough of measles. Frequent calls to urinate at night, passing large quantities (Phos ac). Sneezing with coughing.",
+    "A cardiac stimulant affecting the peripheral vessels and coronary arteries.",
+    "Icy cold hands and feet, with warmth of the rest of the body (Menyanthes). Feet get sore from standing. Tender feet with shop girls."
+  ],
+  "guiding_symptoms": [
+    "Pressure like a stone.",
+    "Fluent coryza; margins of nostrils feel sore. Sneezing; throat irritated; short, dry cough; must take a deep breath. Dyspnśa and stitches in chest, and painful contraction of abdominal muscles. Violent, furious, exhausting cough, with much mucus; profuse, salty, slimy expectoration, and with involuntary spurting of urine and sneezing. Child rubs face with fist during cough (Caust; Puls). Cough provoked by taking a deep breath or cold drinks, from exertion, change from warm to cold air. Cough of measles. Frequent calls to urinate at night, passing large quantities (Phos ac). Sneezing with coughing.",
+    "A cardiac stimulant affecting the peripheral vessels and coronary arteries."
+  ],
+  "modalities": {
+    "worse": [
+      "motion"
+    ],
+    "better": [
+      "rest"
+    ]
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Feel irritable; child bores into them with fists. Sensation as if swimming in cold water."
+  ],
+  "respiratory_symptoms": [
+    "Fluent coryza; margins of nostrils feel sore. Sneezing; throat irritated; short, dry cough; must take a deep breath. Dyspnśa and stitches in chest, and painful contraction of abdominal muscles. Violent, furious, exhausting cough, with much mucus; profuse, salty, slimy expectoration, and with involuntary spurting of urine and sneezing. Child rubs face with fist during cough (Caust; Puls). Cough provoked by taking a deep breath or cold drinks, from exertion, change from warm to cold air. Cough of measles. Frequent calls to urinate at night, passing large quantities (Phos ac). Sneezing with coughing."
+  ],
+  "gi_symptoms": [
+    "Pressure like a stone."
+  ],
+  "urinary_symptoms": [
+    "Great urging; much watery urine. Involuntary spurting of urine when coughing (Caustic; Puls)."
+  ],
+  "musculoskeletal_symptoms": [
+    "Icy cold hands and feet, with warmth of the rest of the body (Menyanthes). Feet get sore from standing. Tender feet with shop girls."
+  ],
+  "skin_symptoms": [
+    "Small, red spots over body, with prickling pain."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Digit",
+    "Strophant",
+    "Apocyn can",
+    "Bry",
+    "Kali carb"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/s/squil.htm",
+    "title": "SQUILLA MARITIMA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:07:09.827Z"
+  },
+  "confidence_score": 0.8
+}

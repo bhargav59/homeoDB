@@ -1,0 +1,19 @@
+{
+  "remedy_name": "MELILOTUS OFFICINALIS",
+  "source_file": "raw_1772503176370.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/m/meli.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "congestive headaches",
+      "engorged blood vessels",
+      "spasms)"
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "parsed_at": "2026-03-03T15:23:37.539Z"
+}

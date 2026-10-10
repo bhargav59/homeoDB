@@ -1,0 +1,75 @@
+{
+  "name": "TUBERCULINUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "A Nucleo-protein, a Nosode from Tubercular Abscess"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Averse to meat. All-gone, hungry sensation (Sulph). Desire for cold milk.",
+    "Subject to deep brain headaches and intense neuralgias. Everything seems strange. Intense pain, as of an iron band around head. Meningitis. When critical discharges appear, sweat, polyuria, diarrhœa, exanthema, repeating the dose only when crises come on. Nocturnal hallucinations, awakes frightened. Plica polonica (Vinca). Crops of small boils, intensely painful, successively appear in the nose; green, fetid pus.",
+    "Enlarged tonsils. Hard, dry cough during sleep. Expectoration thick, easy; profuse bronchorrhœa. Shortness of breath. Sensation of suffocation, even with plenty of fresh air. Longs for cold air. Broncho-pneumonia in children. Hard, hacking cough, profuse sweating and loss of weight, rales all over chest. Deposits begin in apex of lung (Repeated doses).",
+    "Tension in nape of neck and down spine. Chilliness between shoulders or up the back."
+  ],
+  "guiding_symptoms": [
+    "Averse to meat. All-gone, hungry sensation (Sulph). Desire for cold milk.",
+    "Subject to deep brain headaches and intense neuralgias. Everything seems strange. Intense pain, as of an iron band around head. Meningitis. When critical discharges appear, sweat, polyuria, diarrhœa, exanthema, repeating the dose only when crises come on. Nocturnal hallucinations, awakes frightened. Plica polonica (Vinca). Crops of small boils, intensely painful, successively appear in the nose; green, fetid pus.",
+    "Enlarged tonsils. Hard, dry cough during sleep. Expectoration thick, easy; profuse bronchorrhœa. Shortness of breath. Sensation of suffocation, even with plenty of fresh air. Longs for cold air. Broncho-pneumonia in children. Hard, hacking cough, profuse sweating and loss of weight, rales all over chest. Deposits begin in apex of lung (Repeated doses)."
+  ],
+  "modalities": {
+    "worse": [
+      "motion, music",
+      "before a storm",
+      "standing",
+      "dampness",
+      "from draught"
+    ],
+    "better": [
+      "open air"
+    ]
+  },
+  "mind_symptoms": [
+    "Contradictory characteristics of Tuberculinum are mania and melancholia, insomnia and sopor. Irritable, especially when awakening. Depressed, melancholy. Fear of dogs. Animals especially. Desire to use foul language, curse and swear."
+  ],
+  "head_symptoms": [
+    "Subject to deep brain headaches and intense neuralgias. Everything seems strange. Intense pain, as of an iron band around head. Meningitis. When critical discharges appear, sweat, polyuria, diarrhœa, exanthema, repeating the dose only when crises come on. Nocturnal hallucinations, awakes frightened. Plica polonica (Vinca). Crops of small boils, intensely painful, successively appear in the nose; green, fetid pus."
+  ],
+  "respiratory_symptoms": [
+    "Enlarged tonsils. Hard, dry cough during sleep. Expectoration thick, easy; profuse bronchorrhœa. Shortness of breath. Sensation of suffocation, even with plenty of fresh air. Longs for cold air. Broncho-pneumonia in children. Hard, hacking cough, profuse sweating and loss of weight, rales all over chest. Deposits begin in apex of lung (Repeated doses)."
+  ],
+  "gi_symptoms": [
+    "Averse to meat. All-gone, hungry sensation (Sulph). Desire for cold milk."
+  ],
+  "urinary_symptoms": [
+    "Benign mammary tumors. Menses too early, too profuse, long-lasting. Dysmenorrhœa. Pains increase with the establishment of the flow."
+  ],
+  "musculoskeletal_symptoms": [
+    "Tension in nape of neck and down spine. Chilliness between shoulders or up the back."
+  ],
+  "skin_symptoms": [
+    "Chronic eczema; itching intense; worse at night. Acne in tuberculous children. Measles; psoriasis (Thyroid)."
+  ],
+  "sleep_symptoms": [
+    "Poor; wakes early. Overpowering sleepiness in daytime. Dreams vivid and distressing."
+  ],
+  "fever_symptoms": [
+    "Post-critical temperature of a remittent type. Here repeat dose every two hours (MacFarlan). Profuse sweat. General chilliness."
+  ],
+  "complementary_remedies": [
+    "produces pneumonia",
+    "broncho-pneumonia"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/t/tub.htm",
+    "title": "TUBERCULINUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:07:38.649Z"
+  },
+  "confidence_score": 0.8
+}

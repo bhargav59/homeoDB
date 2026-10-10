@@ -1,0 +1,63 @@
+{
+  "name": "CADMIUM SULPHURATUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Cadmic Sulphate"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Soreness in pit of stomach on pressure. Violent nausea; retching. Black vomit. Vomiting of mucus, green slime, blood, with great prostration, and great tenderness over the stomach. Burning and cutting pains in stomach. Carcinoma, helps the persistent vomiting. Coffee ground vomiting.",
+    "Palpitation, with constriction of chest."
+  ],
+  "guiding_symptoms": [
+    "Soreness in pit of stomach on pressure. Violent nausea; retching. Black vomit. Vomiting of mucus, green slime, blood, with great prostration, and great tenderness over the stomach. Burning and cutting pains in stomach. Carcinoma, helps the persistent vomiting. Coffee ground vomiting.",
+    "Palpitation, with constriction of chest."
+  ],
+  "modalities": {
+    "worse": [
+      "walking or carrying burdens",
+      "after sleep",
+      "from open air, stimulants"
+    ],
+    "better": [
+      "eating and rest"
+    ]
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Opacity of cornea. Blue circle around eyes. One pupil dilated. Night blindness."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "Soreness in pit of stomach on pressure. Violent nausea; retching. Black vomit. Vomiting of mucus, green slime, blood, with great prostration, and great tenderness over the stomach. Burning and cutting pains in stomach. Carcinoma, helps the persistent vomiting. Coffee ground vomiting."
+  ],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [
+    "Blue, yellow, sallow, scaly, cracking. Itching; better scratching. Chloasma, yellowish stains on nose and cheeks; worse exposure to sun and wind. Chilblains."
+  ],
+  "sleep_symptoms": [
+    "Stops breathing on going to sleep. Wakes up suffocating. Fears to go to sleep again. Protracted sleeplessness."
+  ],
+  "fever_symptoms": [
+    "Icy coldness (Camph; Verat; Heloderm). Yellow fever (Crotalus; Carbo)."
+  ],
+  "complementary_remedies": [
+    "Cadmium oxide",
+    "Cad brom (pain and burning in stomach",
+    "and vomiting"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/c/cadm-s.htm",
+    "title": "CADMIUM SULPHURATUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:09:35.842Z"
+  },
+  "confidence_score": 0.8
+}

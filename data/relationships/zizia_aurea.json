@@ -1,0 +1,21 @@
+{
+  "remedy_name": "ZIZIA AUREA",
+  "source_file": "raw_1772505927701.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/z/ziz.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Agar",
+      "Stram",
+      "Tarant",
+      "Cicuta",
+      "Aethusa"
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "parsed_at": "2026-03-03T15:23:37.780Z"
+}

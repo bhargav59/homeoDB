@@ -1,0 +1,59 @@
+{
+  "remedy_name": "GLONOINUM",
+  "source_file": "raw_1772501934905.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      {
+        "original": "Acon",
+        "resolved_name": "ACONITUM NAPELLUS",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      }
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Amyl nit",
+        "resolved_name": "AMYLENUM NITROSUM",
+        "confidence": 0.55,
+        "method": "levenshtein_3"
+      },
+      {
+        "original": "Bellad",
+        "resolved_name": "BELLADONNA",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      },
+      {
+        "original": "Opium",
+        "resolved_name": "OPIUM",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Stram",
+        "resolved_name": "STRAMONIUM",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      },
+      {
+        "original": "Verat vir",
+        "resolved_name": "VERATRUM ALBUM",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": [
+      {
+        "original": "Acon",
+        "resolved_name": "ACONITUM NAPELLUS",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      }
+    ]
+  },
+  "resolved_at": "2026-03-11T01:50:09.737Z"
+}

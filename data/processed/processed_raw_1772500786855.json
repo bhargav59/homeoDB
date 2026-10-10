@@ -1,0 +1,53 @@
+{
+  "name": "CHROMICUM ACIDUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Chromic Acid"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Uneasiness in limbs. Pain in shoulder-blades and back of neck. Pain in knees and balls of feet. Drawing pain in soles while walking."
+  ],
+  "guiding_symptoms": [
+    "Uneasiness in limbs. Pain in shoulder-blades and back of neck. Pain in knees and balls of feet. Drawing pain in soles while walking."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Ulcer and scabs in nose. Offensive smell. Corrosive pain. Ozćna (Aur)."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "Watery, frequent, copious, with nausea and vertigo. Hćmorrhoids, internal and bleeding. Weakness in small of back."
+  ],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [
+    "Uneasiness in limbs. Pain in shoulder-blades and back of neck. Pain in knees and balls of feet. Drawing pain in soles while walking."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Kali bich",
+    "Rhus",
+    "Chromium Sulphate (in locomotor ataxia",
+    "goitre",
+    "prostatic hypertrophy"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/c/chr-ac.htm",
+    "title": "CHROMICUM ACIDUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:19:46.855Z"
+  },
+  "confidence_score": 0.56
+}

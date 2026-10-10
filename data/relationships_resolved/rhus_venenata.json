@@ -1,0 +1,47 @@
+{
+  "remedy_name": "RHUS VENENATA",
+  "source_file": "raw_1772504557668.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      {
+        "original": "Clematis",
+        "resolved_name": "CLEMATIS ERECTA",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Radium and follows it well",
+        "resolved_name": "RADIUM BROMATUM",
+        "confidence": 0.8,
+        "method": "substring"
+      }
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Anacard",
+        "resolved_name": "ANACARDIUM ORIENTALE",
+        "confidence": 0.8,
+        "method": "substring"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": [
+      {
+        "original": "Clematis",
+        "resolved_name": "CLEMATIS ERECTA",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Radium and follows it well",
+        "resolved_name": "RADIUM BROMATUM",
+        "confidence": 0.8,
+        "method": "substring"
+      }
+    ]
+  },
+  "resolved_at": "2026-03-11T01:50:10.996Z"
+}

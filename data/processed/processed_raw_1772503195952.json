@@ -1,0 +1,45 @@
+{
+  "name": "MENTHA PIPERITA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Peppermint"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [],
+  "guiding_symptoms": [],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "Bloated, disturbing sleep. Infantile colic. Bilious colic with great accumulation of gas.",
+    "Respiration.--Voice husky. Tip of nose to touch. Throat dry and sore, as if pin crosswise in it. Dry cough, worse from air into larynx, tobacco smoke, fog, talking; with irritation in suprasternal fossa (Rumex). Trachea painful to touch."
+  ],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [
+    "Every scratch becomes a sore. Itching of arm and hand when writing. Vaginal pruritus. Herpes zoster (Ars; Ran bulb)."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Rumex",
+    "Laches"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/m/menth.htm",
+    "title": "MENTHA PIPERITA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:59:55.952Z"
+  },
+  "confidence_score": 0.44
+}

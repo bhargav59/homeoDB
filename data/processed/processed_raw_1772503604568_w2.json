@@ -1,0 +1,61 @@
+{
+  "name": "RHODODENDRON FERRUGINEUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Snow-rose"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Violent pleuritic pains running downward in left anterior chest. Breathless and speechless from violent pleuritic pains running down the anterior chest. Stitches in spleen from fast walking. Crampy pain under short ribs.",
+    "Aching in temples. Tearing pain in bones. Headache; worse, wine, wind, cold and wet weather. Pain in eyes before a storm. Ciliary neuralgia, involving eyeball, orbit, and head. Heat in eyes when using them.",
+    "Joints swollen. Gouty inflammation of great toe-joint. Rheumatic tearing in all limbs, especially right side; worse, at rest and in stormy weather. Stiffness of neck. Pain in shoulders, arms, wrists; worse when at rest. Pains in bones in spots, and reappear by change of weather. Cannot sleep unless legs are crossed."
+  ],
+  "guiding_symptoms": [
+    "Violent pleuritic pains running downward in left anterior chest. Breathless and speechless from violent pleuritic pains running down the anterior chest. Stitches in spleen from fast walking. Crampy pain under short ribs.",
+    "Aching in temples. Tearing pain in bones. Headache; worse, wine, wind, cold and wet weather. Pain in eyes before a storm. Ciliary neuralgia, involving eyeball, orbit, and head. Heat in eyes when using them.",
+    "Joints swollen. Gouty inflammation of great toe-joint. Rheumatic tearing in all limbs, especially right side; worse, at rest and in stormy weather. Stiffness of neck. Pain in shoulders, arms, wrists; worse when at rest. Pains in bones in spots, and reappear by change of weather. Cannot sleep unless legs are crossed."
+  ],
+  "modalities": {
+    "worse": [
+      "before a storm"
+    ],
+    "better": [
+      "after the storm breaks, warmth, and eating"
+    ]
+  },
+  "mind_symptoms": [
+    "Dread of a storm; particularly afraid of thunder. Forgetful."
+  ],
+  "head_symptoms": [
+    "Aching in temples. Tearing pain in bones. Headache; worse, wine, wind, cold and wet weather. Pain in eyes before a storm. Ciliary neuralgia, involving eyeball, orbit, and head. Heat in eyes when using them."
+  ],
+  "respiratory_symptoms": [
+    "Violent pleuritic pains running downward in left anterior chest. Breathless and speechless from violent pleuritic pains running down the anterior chest. Stitches in spleen from fast walking. Crampy pain under short ribs."
+  ],
+  "gi_symptoms": [],
+  "urinary_symptoms": [
+    "Testicles, worse left, swollen, painful, drawn up. Orchitis; glands feel crushed. Induration and swelling of testes after gonorrhśa. Hydrocele (Sil)."
+  ],
+  "musculoskeletal_symptoms": [
+    "Joints swollen. Gouty inflammation of great toe-joint. Rheumatic tearing in all limbs, especially right side; worse, at rest and in stormy weather. Stiffness of neck. Pain in shoulders, arms, wrists; worse when at rest. Pains in bones in spots, and reappear by change of weather. Cannot sleep unless legs are crossed."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Ampelopsis (hydrocele and renal dropsy"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/r/rhod-f.htm",
+    "title": "RHODODENDRON FERRUGINEUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:06:44.568Z"
+  },
+  "confidence_score": 0.8
+}

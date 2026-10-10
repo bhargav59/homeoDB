@@ -1,0 +1,23 @@
+{
+  "remedy_name": "COLOCYNTHIS",
+  "source_file": "raw_1772501027144.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/c/coloc.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      "Coffea",
+      "to lead poisoning"
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Lobelia erinus"
+    ],
+    "incompatible": [],
+    "antidotes": [
+      "Coffea",
+      "lead poisoning"
+    ]
+  },
+  "parsed_at": "2026-03-03T15:23:37.438Z"
+}

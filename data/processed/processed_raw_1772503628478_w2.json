@@ -1,0 +1,47 @@
+{
+  "name": "SPIRANTHES AUTUMNALIS",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Lady's Tresses"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Sciatic pain, especially right side. Pain in shoulders. Swelling of veins of hands. Pain in all articulations of hands. Coldness of feet and toes."
+  ],
+  "guiding_symptoms": [
+    "Sciatic pain, especially right side. Pain in shoulders. Swelling of veins of hands. Pain in all articulations of hands. Coldness of feet and toes."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [],
+  "urinary_symptoms": [
+    "Pruritus; vulva red; dryness and burning in vagina. Burning pain in vagina during coition. Leucorrhśa, bloody."
+  ],
+  "musculoskeletal_symptoms": [
+    "Sciatic pain, especially right side. Pain in shoulders. Swelling of veins of hands. Pain in all articulations of hands. Coldness of feet and toes."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [
+    "Flushes of heat. Sweat on palms. Hands alternately hot and cold."
+  ],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/s/spira.htm",
+    "title": "SPIRANTHES AUTUMNALIS - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:07:08.478Z"
+  },
+  "confidence_score": 0.44
+}

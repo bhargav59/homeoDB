@@ -1,0 +1,33 @@
+{
+  "remedy_name": "AGAVE AMERICANA",
+  "source_file": "raw_1772371662233.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Anhalonium",
+        "resolved_name": "ANHALONIUM LEWINII",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Lyssin",
+        "resolved_name": "LYSSINUM",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Lach",
+        "resolved_name": "LACHESIS",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:08.384Z"
+}

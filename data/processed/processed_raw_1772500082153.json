@@ -1,0 +1,51 @@
+{
+  "name": "BOTHROPS LANCEOLATUS",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Yellow Viper"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Epigastric distress. Black vomiting. Intense hćmatemesis. Tympanitis and bloody stools."
+  ],
+  "guiding_symptoms": [
+    "Epigastric distress. Black vomiting. Intense hćmatemesis. Tympanitis and bloody stools."
+  ],
+  "modalities": {
+    "worse": [
+      "right side"
+    ],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Amaurosis; blindness from hćmorrhage into retina. Hemoralopia, day blindness, can hardly see her way after sunrise; conjunctivial hćmorrhage."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "Epigastric distress. Black vomiting. Intense hćmatemesis. Tympanitis and bloody stools."
+  ],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [
+    "Swollen, livid, cold with hćmorrhagic infiltration. Gangrene. Lymphatics swollen. Anthrax. Malignant erysipelas."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Toxicophis"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/b/both.htm",
+    "title": "BOTHROPS LANCEOLATUS - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:08:02.153Z"
+  },
+  "confidence_score": 0.6799999999999999
+}

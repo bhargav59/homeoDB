@@ -1,0 +1,89 @@
+{
+  "remedy_name": "COPAIVA OFFICINALIS",
+  "source_file": "raw_1772501066256.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      {
+        "original": "Bell",
+        "resolved_name": "BELLADONNA",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      }
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Santalum--",
+        "resolved_name": "Santalum.",
+        "confidence": 0.7,
+        "method": "levenshtein_2"
+      },
+      {
+        "original": "Cannab",
+        "resolved_name": "APOCYNUM CANNABINUM",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Canth",
+        "resolved_name": "CANTHARIS VESICATORIA",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Barosma",
+        "resolved_name": "BAROSMA CRENULATUM",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Cubeb",
+        "resolved_name": "CUBEBA OFFICINALIS",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Apis",
+        "resolved_name": "APIS MELLIFICA",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Vespa",
+        "resolved_name": "VESPA CRABRO",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Erig",
+        "resolved_name": "ERIGERON CANADENSE",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Senecio",
+        "resolved_name": "SENECIO AUREUS",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Sepia",
+        "resolved_name": "SEPIA OFFICINALIS",
+        "confidence": 1,
+        "method": "exact"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": [
+      {
+        "original": "Bell",
+        "resolved_name": "BELLADONNA",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      }
+    ]
+  },
+  "resolved_at": "2026-03-11T01:50:09.080Z"
+}

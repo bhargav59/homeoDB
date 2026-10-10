@@ -1,0 +1,41 @@
+{
+  "remedy_name": "FORMALINUM",
+  "source_file": "raw_1772501748319.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      {
+        "original": "Ammonia water",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      }
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Ammonium formaldehyde",
+        "resolved_name": "AMMONIUM BENZOICUM",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "known commercially as Cystogen (",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": [
+      {
+        "original": "Ammonia water",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      }
+    ]
+  },
+  "resolved_at": "2026-03-11T01:50:09.662Z"
+}

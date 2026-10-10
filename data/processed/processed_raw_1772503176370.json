@@ -1,0 +1,62 @@
+{
+  "name": "MELILOTUS OFFICINALIS",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Yellow Melilot - Sweet Clover"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Headache with retching, vomiting, sense of pressure over orbits, pallor, cold hands and feet, black spots before eyes. Heavy, oppressed; frontal, throbbing, undulating sensation in brain. Sick headache; relieved by epistaxis or menstrual flow. Fullness all over head. Eyes heavy; blurred sight; wants to close them tightly for relief. Neuralgia around and over right side of head and neck. Scalp sore and tender to touch.",
+    "Feels as if smothering, especially from rapid walking. Hæmoptysis. Weight on chest. Tickling in throat with cough.",
+    "Pain in knee; wants to stretch leg, but does not relieve. Joints sore. Skin and extremities cold. Numbness and aching in knee-joints."
+  ],
+  "guiding_symptoms": [
+    "Headache with retching, vomiting, sense of pressure over orbits, pallor, cold hands and feet, black spots before eyes. Heavy, oppressed; frontal, throbbing, undulating sensation in brain. Sick headache; relieved by epistaxis or menstrual flow. Fullness all over head. Eyes heavy; blurred sight; wants to close them tightly for relief. Neuralgia around and over right side of head and neck. Scalp sore and tender to touch.",
+    "Feels as if smothering, especially from rapid walking. Hæmoptysis. Weight on chest. Tickling in throat with cough.",
+    "Pain in knee; wants to stretch leg, but does not relieve. Joints sore. Skin and extremities cold. Numbness and aching in knee-joints."
+  ],
+  "modalities": {
+    "worse": [
+      "rainy, changeable weather, approach of storm, motion",
+      "4 pm"
+    ],
+    "better": []
+  },
+  "mind_symptoms": [
+    "Unable to fix mind. Memory treacherous. Stupor. Wants to run away and hide. Delusions; thinks every one is looking at her, fears to talk loud, and wants to run away, etc."
+  ],
+  "head_symptoms": [
+    "Headache with retching, vomiting, sense of pressure over orbits, pallor, cold hands and feet, black spots before eyes. Heavy, oppressed; frontal, throbbing, undulating sensation in brain. Sick headache; relieved by epistaxis or menstrual flow. Fullness all over head. Eyes heavy; blurred sight; wants to close them tightly for relief. Neuralgia around and over right side of head and neck. Scalp sore and tender to touch."
+  ],
+  "respiratory_symptoms": [
+    "Feels as if smothering, especially from rapid walking. Hæmoptysis. Weight on chest. Tickling in throat with cough."
+  ],
+  "gi_symptoms": [
+    "Difficult, painful, constipated. Anus feels constricted, full, throbs. No desire until there is a large accumulation (Bry; Alum)."
+  ],
+  "urinary_symptoms": [
+    "Menses scanty, intermit, with nausea and bearing down sticking pain in external parts. Dysmenorrhœa. Ovarian neuralgia."
+  ],
+  "musculoskeletal_symptoms": [
+    "Pain in knee; wants to stretch leg, but does not relieve. Joints sore. Skin and extremities cold. Numbness and aching in knee-joints."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Melilotus alba--(White Clover"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/m/meli.htm",
+    "title": "MELILOTUS OFFICINALIS - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:59:36.370Z"
+  },
+  "confidence_score": 0.8
+}

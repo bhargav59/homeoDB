@@ -1,0 +1,63 @@
+{
+  "name": "STILLINGIA SILVATICA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Queen's Root"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Dry, spasmodic cough. Larynx constricted, with stinging in fauces. Trachea feels sore when pressed. Hoarseness and chronic laryngeal affections of public speakers.",
+    "Aching pains in bones of extremities and back."
+  ],
+  "guiding_symptoms": [
+    "Dry, spasmodic cough. Larynx constricted, with stinging in fauces. Trachea feels sore when pressed. Hoarseness and chronic laryngeal affections of public speakers.",
+    "Aching pains in bones of extremities and back."
+  ],
+  "modalities": {
+    "worse": [
+      "in afternoons, damp air, motion"
+    ],
+    "better": [
+      "in morning, dry air"
+    ]
+  },
+  "mind_symptoms": [
+    "Gloomy forebodings; depressed."
+  ],
+  "head_symptoms": [],
+  "respiratory_symptoms": [
+    "Dry, spasmodic cough. Larynx constricted, with stinging in fauces. Trachea feels sore when pressed. Hoarseness and chronic laryngeal affections of public speakers."
+  ],
+  "gi_symptoms": [],
+  "urinary_symptoms": [
+    "Urine colorless. Deposits white sediment; urine milky and thick."
+  ],
+  "musculoskeletal_symptoms": [
+    "Aching pains in bones of extremities and back."
+  ],
+  "skin_symptoms": [
+    "Ulcers; chronic eruptions on hands and fingers. Enlarged cervical glands. Burning, itching of legs; worse, exposure to air. Exostosis. Scrofuloderma; syphilis, secondary eruption and later symptoms. Valuable for intercurrent use."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Staphis",
+    "Mercur",
+    "Syphil",
+    "Aur",
+    "Corydalis (syphilitic nodes"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/s/still.htm",
+    "title": "STILLINGIA SILVATICA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:07:13.234Z"
+  },
+  "confidence_score": 0.6799999999999999
+}

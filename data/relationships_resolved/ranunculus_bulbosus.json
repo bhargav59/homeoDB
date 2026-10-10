@@ -1,0 +1,90 @@
+{
+  "remedy_name": "RANUNCULUS BULBOSUS",
+  "source_file": "raw_1772504444472.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      {
+        "original": "Bry",
+        "resolved_name": "BRYONIA",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      }
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Ranunc acris",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "night-sweats-more on thighs)",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "Ranunc repens",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "Ranunc flammula (ulceration",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "gangrene of arm)",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "also: Bry",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "Croton",
+        "resolved_name": "CROTON TIGLIUM",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Mez",
+        "resolved_name": "MEZEREUM",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Euphorb",
+        "resolved_name": "EUPHRASIA",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      }
+    ],
+    "incompatible": [
+      {
+        "original": "Sulph",
+        "resolved_name": "SULPHUR",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      }
+    ],
+    "antidotes": [
+      {
+        "original": "Bry",
+        "resolved_name": "BRYONIA",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      }
+    ]
+  },
+  "resolved_at": "2026-03-11T01:50:10.956Z"
+}

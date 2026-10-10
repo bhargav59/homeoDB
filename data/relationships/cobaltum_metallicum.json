@@ -1,0 +1,17 @@
+{
+  "remedy_name": "COBALTUM METALLICUM",
+  "source_file": "raw_1772500916090.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/c/cob.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Cannab"
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "parsed_at": "2026-03-03T15:23:37.433Z"
+}

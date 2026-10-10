@@ -1,0 +1,49 @@
+{
+  "name": "STACHYS BETONICA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Betony Wood"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Stitches in right temple. Inability to concentrate mind.",
+    "Shooting pain in back of both wrist joints. Wrist drops. Pain in right popliteal space down leg, which feels paralyzed."
+  ],
+  "guiding_symptoms": [
+    "Stitches in right temple. Inability to concentrate mind.",
+    "Shooting pain in back of both wrist joints. Wrist drops. Pain in right popliteal space down leg, which feels paralyzed."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Stitches in right temple. Inability to concentrate mind."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "Pains in abdomen, hepatic region and of transverse colon, also in gall-bladder and right inguinal region and spermatic cords."
+  ],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [
+    "Shooting pain in back of both wrist joints. Wrist drops. Pain in right popliteal space down leg, which feels paralyzed."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/s/stach.htm",
+    "title": "STACHYS BETONICA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:30:15.733Z"
+  },
+  "confidence_score": 0.38
+}

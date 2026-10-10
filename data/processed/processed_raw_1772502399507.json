@@ -1,0 +1,53 @@
+{
+  "name": "IODOFORMIUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Iodoform"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Sore pain in apex of right lung. Feeling of a weight on chest, as if smothering. Cough and wheezing on going to bed. Pain in left breast, like a hand grasping at the base of the heart. Hæmoptysis. Asthmatic breathing.",
+    "Sharp, neuralgic pain. Head feels heavy, as if it could not be lifted from pillow. Itching of occiput. Meningitis. Sleep interrupted by sighing and cries. Very drowsy.",
+    "Legs weak; cannot stand and walk with eyes closed. Weakness of knees when going upstairs."
+  ],
+  "guiding_symptoms": [
+    "Sore pain in apex of right lung. Feeling of a weight on chest, as if smothering. Cough and wheezing on going to bed. Pain in left breast, like a hand grasping at the base of the heart. Hæmoptysis. Asthmatic breathing.",
+    "Sharp, neuralgic pain. Head feels heavy, as if it could not be lifted from pillow. Itching of occiput. Meningitis. Sleep interrupted by sighing and cries. Very drowsy.",
+    "Legs weak; cannot stand and walk with eyes closed. Weakness of knees when going upstairs."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Sharp, neuralgic pain. Head feels heavy, as if it could not be lifted from pillow. Itching of occiput. Meningitis. Sleep interrupted by sighing and cries. Very drowsy."
+  ],
+  "respiratory_symptoms": [
+    "Sore pain in apex of right lung. Feeling of a weight on chest, as if smothering. Cough and wheezing on going to bed. Pain in left breast, like a hand grasping at the base of the heart. Hæmoptysis. Asthmatic breathing."
+  ],
+  "gi_symptoms": [
+    "Scaphoid abdomen. Chronic diarrhœa with suspected tuberculosis. Abdomen distended; mesenteric glands enlarged. Cholera infantum. Chronic diarrhœa; stools greenish, watery, undigested, with irritable temper."
+  ],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [
+    "Legs weak; cannot stand and walk with eyes closed. Weakness of knees when going upstairs."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/i/iodof.htm",
+    "title": "IODOFORMIUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:46:39.507Z"
+  },
+  "confidence_score": 0.56
+}

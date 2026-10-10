@@ -1,0 +1,53 @@
+{
+  "remedy_name": "MAGNESIUM MURIATICUM",
+  "source_file": "raw_1772503068204.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      {
+        "original": "Camph",
+        "resolved_name": "CAMPHORA",
+        "confidence": 0.8,
+        "method": "substring"
+      }
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Nat m",
+        "resolved_name": "NATRUM MURIATICUM",
+        "confidence": 0.85,
+        "method": "levenshtein_1"
+      },
+      {
+        "original": "Puls",
+        "resolved_name": "PULSATILLA",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      },
+      {
+        "original": "Sep",
+        "resolved_name": "SEPIA",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      },
+      {
+        "original": "Amm m",
+        "resolved_name": "AMBRA GRISEA",
+        "confidence": 0.55,
+        "method": "levenshtein_3"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": [
+      {
+        "original": "Camph",
+        "resolved_name": "CAMPHORA",
+        "confidence": 0.8,
+        "method": "substring"
+      }
+    ]
+  },
+  "resolved_at": "2026-03-11T01:50:10.234Z"
+}

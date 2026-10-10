@@ -1,0 +1,78 @@
+{
+  "remedy_name": "ANACARDIUM ORIENTALE",
+  "source_file": "raw_1772371996735.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      {
+        "original": "Grindeleia",
+        "resolved_name": "GRINDELIA ROBUSTA",
+        "confidence": 0.85,
+        "method": "levenshtein_1"
+      }
+    ],
+    "follows_well": [
+      {
+        "original": "Cereus serpentina",
+        "resolved_name": "CEREUS BONPLANDII",
+        "confidence": 0.8,
+        "method": "substring"
+      }
+    ],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Anacard occidentale  (erysipelas",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "vesicular facial eruptions)",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "(anæsthetic variety of leprosy",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "warts",
+        "resolved_name": "Dr. Reckeweg R17 Tumor Drops, Homeopathy Medicine for Tumor in Hand, Best Homeopathic Medicines for Warts, Benign Tumor Treatment Homeopathy",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "corns",
+        "resolved_name": "CORNUS CIRCINATA",
+        "confidence": 0.85,
+        "method": "levenshtein_1"
+      },
+      {
+        "original": "ulcers",
+        "resolved_name": "Ulmus Fulva.",
+        "confidence": 0.55,
+        "method": "levenshtein_3"
+      },
+      {
+        "original": "cracking of the skin on soles of feet)",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": [
+      {
+        "original": "Grindeleia",
+        "resolved_name": "GRINDELIA ROBUSTA",
+        "confidence": 0.85,
+        "method": "levenshtein_1"
+      }
+    ]
+  },
+  "resolved_at": "2026-03-11T01:50:08.482Z"
+}

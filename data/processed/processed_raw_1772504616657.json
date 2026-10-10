@@ -1,0 +1,68 @@
+{
+  "name": "SABADILLA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Cevadilla Seed. Asagræa Officialis"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Spasmodic pain in stomach with dry cough and difficult breathing. No thirst. Loathing for strong food. Canine appetite for sweets and farinaceous food. Pyrosis; copious salivation. Cold, empty feeling in stomach. Desire for hot things. Sweetish taste.",
+    "Vertigo with sensation as though all things were turning around each other, accompanied by blackness before eyes and sensation of fainting. Dullness and oppression. Over-sensitiveness to odors. Thinking produces headache and sleeplessness. Eyelids red, burning. Lachrymation. Difficult hearing.",
+    "Cracking of skin under and beneath toe; inflammation under toe-nails."
+  ],
+  "guiding_symptoms": [
+    "Spasmodic pain in stomach with dry cough and difficult breathing. No thirst. Loathing for strong food. Canine appetite for sweets and farinaceous food. Pyrosis; copious salivation. Cold, empty feeling in stomach. Desire for hot things. Sweetish taste.",
+    "Vertigo with sensation as though all things were turning around each other, accompanied by blackness before eyes and sensation of fainting. Dullness and oppression. Over-sensitiveness to odors. Thinking produces headache and sleeplessness. Eyelids red, burning. Lachrymation. Difficult hearing.",
+    "Cracking of skin under and beneath toe; inflammation under toe-nails."
+  ],
+  "modalities": {
+    "worse": [
+      "cold and cold drinks, full moon"
+    ],
+    "better": [
+      "warm food and drink, wrapped up"
+    ]
+  },
+  "mind_symptoms": [
+    "Nervous, timid, easily startled. Has erroneous notions about himself. Imagines that he is very sick; that parts are shrunken; that she is pregnant; that she has cancer; delirium during intermittents."
+  ],
+  "head_symptoms": [
+    "Vertigo with sensation as though all things were turning around each other, accompanied by blackness before eyes and sensation of fainting. Dullness and oppression. Over-sensitiveness to odors. Thinking produces headache and sleeplessness. Eyelids red, burning. Lachrymation. Difficult hearing."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "Spasmodic pain in stomach with dry cough and difficult breathing. No thirst. Loathing for strong food. Canine appetite for sweets and farinaceous food. Pyrosis; copious salivation. Cold, empty feeling in stomach. Desire for hot things. Sweetish taste."
+  ],
+  "urinary_symptoms": [
+    "Menses too late; come by fits and starts. Intermit (Kreos; Puls). (due to transient and localized congestion of womb alternating with chronic anæmic state)."
+  ],
+  "musculoskeletal_symptoms": [
+    "Cracking of skin under and beneath toe; inflammation under toe-nails."
+  ],
+  "skin_symptoms": [
+    "Dry, like parchment. Horny, deformed, thickened nails. Hot, burning, creeping, crawling sensation. Itching in anus."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [
+    "Chill predominates; from below upwards. Heat in head and face; hands and feet icy cold, with chill. Lachrymation during paroxysm. Thirstless."
+  ],
+  "complementary_remedies": [
+    "Veratrina (is alkaloid of Sabadilla",
+    "not of Veratrum",
+    "locally in neuralgias",
+    "and for removal of dropsy"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/s/sabad.htm",
+    "title": "SABADILLA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:23:36.657Z"
+  },
+  "confidence_score": 0.8
+}

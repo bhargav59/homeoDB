@@ -1,0 +1,39 @@
+{
+  "name": "ALSTONIA SCHOLARIS",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Dita Bark"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [],
+  "guiding_symptoms": [],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "Violent purging and cramp in bowels. Heat and irritation in lower bowels. Camp diarrhśa, bloody stool, dysentery; diarrhśa from bad water and malaria. Painless watery stools (Phosph ac). Diarrhśa immediately after eating."
+  ],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/a/alst-s.htm",
+    "title": "ALSTONIA SCHOLARIS - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-01T13:29:33.908Z"
+  },
+  "confidence_score": 0.38
+}

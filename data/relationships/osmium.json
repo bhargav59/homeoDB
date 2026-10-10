@@ -1,0 +1,20 @@
+{
+  "remedy_name": "OSMIUM",
+  "source_file": "raw_1772503877057.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/o/osm.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Argent",
+      "Iridium",
+      "Selen",
+      "Mangan"
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "parsed_at": "2026-03-03T15:23:37.684Z"
+}

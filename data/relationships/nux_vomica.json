@@ -1,0 +1,30 @@
+{
+  "remedy_name": "NUX VOMICA",
+  "source_file": "raw_1772503641578.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/n/nux-v.htm",
+  "relationships": {
+    "complementary": [
+      "ary"
+    ],
+    "antidoted_by": [
+      "Coff"
+    ],
+    "follows_well": [],
+    "inimical": [
+      "Zinc"
+    ],
+    "compare": [
+      "Strychnia",
+      "Kali carb",
+      "Hydr",
+      "Bry",
+      "Lyc",
+      "Graph"
+    ],
+    "incompatible": [],
+    "antidotes": [
+      "Coff"
+    ]
+  },
+  "parsed_at": "2026-03-03T15:23:37.636Z"
+}

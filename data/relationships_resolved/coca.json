@@ -1,0 +1,53 @@
+{
+  "remedy_name": "COCA",
+  "source_file": "raw_1772500935228.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      {
+        "original": "Gels",
+        "resolved_name": "GELSEMIUM",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      }
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Ars",
+        "resolved_name": "ARSENICUM ALBUM",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      },
+      {
+        "original": "Paulin",
+        "resolved_name": "PARIS QUADRIFOLIA",
+        "confidence": 0.55,
+        "method": "levenshtein_3"
+      },
+      {
+        "original": "Cyp",
+        "resolved_name": "CYPRIPEDIUM PUBESCENS",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Chamom",
+        "resolved_name": "CHAMOMILLA",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": [
+      {
+        "original": "Gels",
+        "resolved_name": "GELSEMIUM",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      }
+    ]
+  },
+  "resolved_at": "2026-03-11T01:50:08.998Z"
+}

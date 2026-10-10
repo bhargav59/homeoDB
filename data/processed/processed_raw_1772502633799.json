@@ -1,0 +1,66 @@
+{
+  "name": "KALIUM PHOSPHORICUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Phosphate of Potassium"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "A nervous \"gone\" sensation at the pit of the stomach (Ign; Sep; Sulph). Feels seasick without nausea.",
+    "Occipital headache; better, after rising. Vertigo, from lying, on standing up, from sitting, and when looking upward (Granat). Cerebral anćmia. Headache of students, and those worn out by fatigue. Headaches are relieved by gentle motion. Headache, with weary, empty, gone feeling at stomach (Ign; Sep).",
+    "Asthma; least food aggravates. Short breath on going upstairs. Cough; yellow expectoration.",
+    "Paralytic lameness in back and extremities. Exertion aggravates. Pains, with depression, and subsequent exhaustion."
+  ],
+  "guiding_symptoms": [
+    "A nervous \"gone\" sensation at the pit of the stomach (Ign; Sep; Sulph). Feels seasick without nausea.",
+    "Occipital headache; better, after rising. Vertigo, from lying, on standing up, from sitting, and when looking upward (Granat). Cerebral anćmia. Headache of students, and those worn out by fatigue. Headaches are relieved by gentle motion. Headache, with weary, empty, gone feeling at stomach (Ign; Sep).",
+    "Asthma; least food aggravates. Short breath on going upstairs. Cough; yellow expectoration."
+  ],
+  "modalities": {
+    "worse": [
+      "excitement, worry, mental and physical exertion",
+      "eating, cold, early morning"
+    ],
+    "better": [
+      "warmth, rest, nourishment"
+    ]
+  },
+  "mind_symptoms": [
+    "Anxiety, nervous dread, lethargy. Indisposition to meet people. Extreme lassitude and depression. Very nervous, starts easily, irritable. Brain-fag; hysteria; night terrors. Somnambulance. Loss of memory. Slightest labor seems a heavy task. Great despondency about business. Shyness; disinclined to converse."
+  ],
+  "head_symptoms": [
+    "Occipital headache; better, after rising. Vertigo, from lying, on standing up, from sitting, and when looking upward (Granat). Cerebral anćmia. Headache of students, and those worn out by fatigue. Headaches are relieved by gentle motion. Headache, with weary, empty, gone feeling at stomach (Ign; Sep)."
+  ],
+  "respiratory_symptoms": [
+    "Asthma; least food aggravates. Short breath on going upstairs. Cough; yellow expectoration."
+  ],
+  "gi_symptoms": [
+    "A nervous \"gone\" sensation at the pit of the stomach (Ign; Sep; Sulph). Feels seasick without nausea."
+  ],
+  "urinary_symptoms": [
+    "Nocturnal emissions; sexual power diminished utter prostration after coitus (Kali carb).",
+    "Urinary Organs.--Enuresis. Incontinence of urine. Bleeding from the urethra. Very yellow urine."
+  ],
+  "musculoskeletal_symptoms": [
+    "Paralytic lameness in back and extremities. Exertion aggravates. Pains, with depression, and subsequent exhaustion."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [
+    "Subnormal temperature."
+  ],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/k/kali-p.htm",
+    "title": "KALIUM PHOSPHORICUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:50:33.799Z"
+  },
+  "confidence_score": 0.8
+}

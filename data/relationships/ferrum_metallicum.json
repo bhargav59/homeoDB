@@ -1,0 +1,27 @@
+{
+  "remedy_name": "FERRUM METALLICUM",
+  "source_file": "raw_1772501655028.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/f/ferr.htm",
+  "relationships": {
+    "complementary": [
+      "Chin"
+    ],
+    "antidoted_by": [
+      "Ars"
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Rumex",
+      "also",
+      "Graph",
+      "Mangan",
+      "Cupr"
+    ],
+    "incompatible": [],
+    "antidotes": [
+      "Ars"
+    ]
+  },
+  "parsed_at": "2026-03-03T15:23:37.467Z"
+}

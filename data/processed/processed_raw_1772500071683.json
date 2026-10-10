@@ -1,0 +1,71 @@
+{
+  "name": "BORAX VENETA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Borate of Sodium"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Aches, with nausea and trembling of whole body. Hair tangled at tips, cannot be separated, as in Plica Polonica (Vinca min).",
+    "Hacking and violent cough; expectoration, moldy taste and smell. Stitches in chest, with inspiration and cough. Cough with moldy taste-breath smells moldy. Pleurodynia; worse upper part of right chest. Arrest of breathing when lying; is obliged to jump and catch breath, which causes pain in right side. Out of breath on going up stairs.",
+    "Feeling as of cobwebs on hands. Itching on back of finger-joints and hands. Throbbing pain in tip of thumb. Stitches in sole. Pain in heel. Burning pain in great toe; inflammation of balls of toes. Eczema of toes and fingers with loss of nails."
+  ],
+  "guiding_symptoms": [
+    "Aches, with nausea and trembling of whole body. Hair tangled at tips, cannot be separated, as in Plica Polonica (Vinca min).",
+    "Hacking and violent cough; expectoration, moldy taste and smell. Stitches in chest, with inspiration and cough. Cough with moldy taste-breath smells moldy. Pleurodynia; worse upper part of right chest. Arrest of breathing when lying; is obliged to jump and catch breath, which causes pain in right side. Out of breath on going up stairs.",
+    "Feeling as of cobwebs on hands. Itching on back of finger-joints and hands. Throbbing pain in tip of thumb. Stitches in sole. Pain in heel. Burning pain in great toe; inflammation of balls of toes. Eczema of toes and fingers with loss of nails."
+  ],
+  "modalities": {
+    "worse": [
+      "downward motion, noise, smoking, warm weather, after menses"
+    ],
+    "better": [
+      "pressure, evening, cold weather"
+    ]
+  },
+  "mind_symptoms": [
+    "Extreme anxiety, especially from motions which have a downward direction, rocking, being carried downstairs, laid down. Anxious expression of face during the downward motions, starts and throws up hands on laying patient down, as if afraid of falling. Excessively nervous; easily frightened. Sensitive to sudden noises. Violent fright from report of a gun, even at a distance. Fear of thunder."
+  ],
+  "head_symptoms": [
+    "Aches, with nausea and trembling of whole body. Hair tangled at tips, cannot be separated, as in Plica Polonica (Vinca min)."
+  ],
+  "respiratory_symptoms": [
+    "Hacking and violent cough; expectoration, moldy taste and smell. Stitches in chest, with inspiration and cough. Cough with moldy taste-breath smells moldy. Pleurodynia; worse upper part of right chest. Arrest of breathing when lying; is obliged to jump and catch breath, which causes pain in right side. Out of breath on going up stairs."
+  ],
+  "gi_symptoms": [
+    "Loose, pappy, offensive stools in children. Diarrhœa, offensive, preceded by colic; stools mucous, with aphthous sore mouth.",
+    "Urine.--Hot, smarting pain in orifice. Pungent smell. Child afraid to urinate, screams before urinating (Sarsap). Small red particles on diaper."
+  ],
+  "urinary_symptoms": [
+    "Labor pains with frequent eructations. Galactorrhœa (Cal; Con; Bell). In nursing, pain in opposite breast. Leucorrhœa like white of eggs, with sensation as if warm water was flowing. Menses too soon, profuse, with griping, nausea and pain in stomach extending into small of back. Membranous dysmenorrhœa. Sterility. Favors easy conception. Sensation of distention in clitoris with sticking. Pruritus of vulva and eczema."
+  ],
+  "musculoskeletal_symptoms": [
+    "Feeling as of cobwebs on hands. Itching on back of finger-joints and hands. Throbbing pain in tip of thumb. Stitches in sole. Pain in heel. Burning pain in great toe; inflammation of balls of toes. Eczema of toes and fingers with loss of nails."
+  ],
+  "skin_symptoms": [
+    "Psoriasis. Erysipelas in face. Itching on back of finger-joints. Unhealthy skin; slight injuries suppurate. Herpes (Rhus). Erysipelatous inflammation with swelling and tension. Chilblains relieved in open air. Trade eruptions on fingers and hands, itching and stinging. Ends of hair become tangled."
+  ],
+  "sleep_symptoms": [
+    "Voluptuous dreams. Cannot sleep on account of heat, especially in head. Cries out of sleep as if frightened (Bell)."
+  ],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Calc",
+    "Bryon",
+    "Sanicula",
+    "Sulph ac"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/b/borx.htm",
+    "title": "BORAX VENETA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:07:51.683Z"
+  },
+  "confidence_score": 0.8
+}

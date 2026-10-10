@@ -1,0 +1,58 @@
+{
+  "remedy_name": "KALIUM NITRICUM",
+  "source_file": "raw_1772502622462.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      {
+        "original": "Opium",
+        "resolved_name": "OPIUM",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "to Opium and Morphine poisoning",
+        "resolved_name": "OPIUM",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      },
+      {
+        "original": "8-10 grains to glass of water",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      }
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [],
+    "incompatible": [],
+    "antidotes": [
+      {
+        "original": "Opium",
+        "resolved_name": "OPIUM",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Opium and Morphine poisoning",
+        "resolved_name": "OPIUM",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      },
+      {
+        "original": "8-10 grains to glass of water",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "Ivy and Primula rash  Herpes facialis",
+        "resolved_name": "PRIMULA OBCONICA",
+        "confidence": 0.8,
+        "method": "substring"
+      }
+    ]
+  },
+  "resolved_at": "2026-03-11T01:50:10.043Z"
+}

@@ -1,0 +1,57 @@
+{
+  "name": "AILANTHUS GLANDULOSA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Chinese Sumach"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "General stupor, with sighing. Confused mind, mental depression. Headache, frontal, with drowsiness. Passive congestion headaches. Suffused, dilated eyes; photophobia. Face dusky. Thin, copious, ichorous, bloody nasal discharge.",
+    "Hurried breathing; irregular. Dry, hacking cough. Lungs sore and tired."
+  ],
+  "guiding_symptoms": [
+    "General stupor, with sighing. Confused mind, mental depression. Headache, frontal, with drowsiness. Passive congestion headaches. Suffused, dilated eyes; photophobia. Face dusky. Thin, copious, ichorous, bloody nasal discharge.",
+    "Hurried breathing; irregular. Dry, hacking cough. Lungs sore and tired."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "General stupor, with sighing. Confused mind, mental depression. Headache, frontal, with drowsiness. Passive congestion headaches. Suffused, dilated eyes; photophobia. Face dusky. Thin, copious, ichorous, bloody nasal discharge."
+  ],
+  "respiratory_symptoms": [
+    "Hurried breathing; irregular. Dry, hacking cough. Lungs sore and tired."
+  ],
+  "gi_symptoms": [],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [
+    "Miliary, livid rash, returns annually. Large blisters filled with dark serum. Irregular, patchy, livid eruption, disappearing on pressure. Cold. Raynaud's disease."
+  ],
+  "sleep_symptoms": [
+    "Drowsy, restless. Heavy, disturbed, unrefreshing."
+  ],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Ammon carb",
+    "Bapt",
+    "Arn",
+    "Mur ac",
+    "Lach"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/a/ail.htm",
+    "title": "AILANTHUS GLANDULOSA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-01T13:28:17.587Z"
+  },
+  "confidence_score": 0.62
+}

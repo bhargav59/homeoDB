@@ -1,0 +1,54 @@
+{
+  "name": "JOANESIA ASOCA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Bark of an Indian Tree, introduced by Dr. ND Ray, Calcutta"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Unilateral headache; reflex uterine, congestive headache, better open air and by free flow. Pain in eyeballs; supraorbital pains, photophobia. Nasal catarrh, profuse, watery discharge. Loss of sense of smell.",
+    "Gastric.--Desire for sweets, also acid things. Thirsty, excessive nausea; obstinate constipation, hæmorrhoids.",
+    "Pain along spine radiating to abdomen and thighs."
+  ],
+  "guiding_symptoms": [
+    "Unilateral headache; reflex uterine, congestive headache, better open air and by free flow. Pain in eyeballs; supraorbital pains, photophobia. Nasal catarrh, profuse, watery discharge. Loss of sense of smell.",
+    "Gastric.--Desire for sweets, also acid things. Thirsty, excessive nausea; obstinate constipation, hæmorrhoids.",
+    "Pain along spine radiating to abdomen and thighs."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Unilateral headache; reflex uterine, congestive headache, better open air and by free flow. Pain in eyeballs; supraorbital pains, photophobia. Nasal catarrh, profuse, watery discharge. Loss of sense of smell.",
+    "Gastric.--Desire for sweets, also acid things. Thirsty, excessive nausea; obstinate constipation, hæmorrhoids."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [],
+  "urinary_symptoms": [
+    "Delayed and irregular menses; menstrual colic; amenorrhœa, pain in ovaries before flow; menorrhagia, irritable bladder; leucorrhœa."
+  ],
+  "musculoskeletal_symptoms": [
+    "Pain along spine radiating to abdomen and thighs."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [
+    "Disturbed. Dreams of travelling."
+  ],
+  "fever_symptoms": [],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/j/joan.htm",
+    "title": "JOANESIA ASOCA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:47:57.377Z"
+  },
+  "confidence_score": 0.5
+}

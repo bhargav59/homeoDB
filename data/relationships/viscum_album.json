@@ -1,0 +1,20 @@
+{
+  "remedy_name": "VISCUM ALBUM",
+  "source_file": "raw_1772505820607.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/v/visc.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Secale: Convallar",
+      "Bry",
+      "Puls",
+      "Rhodod"
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "parsed_at": "2026-03-03T15:23:37.775Z"
+}

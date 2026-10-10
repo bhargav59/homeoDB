@@ -1,0 +1,67 @@
+{
+  "name": "BELLIS PERENNIS",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Daisy"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Vertigo in elderly people. Headache from occiput to top of head. Forehead feels contracted. Bruised soreness. Itching around scalp and over back, worse from hot bath and bed.",
+    "Joints sore, muscular soreness. Itching on back and flexor surfaces of thighs. Pain down anterior of thighs. Wrist feels contracted as from elastic band around joint. Sprains feels contracted as from elastic band around joint. Sprains with great soreness. Railway spine."
+  ],
+  "guiding_symptoms": [
+    "Vertigo in elderly people. Headache from occiput to top of head. Forehead feels contracted. Bruised soreness. Itching around scalp and over back, worse from hot bath and bed.",
+    "Joints sore, muscular soreness. Itching on back and flexor surfaces of thighs. Pain down anterior of thighs. Wrist feels contracted as from elastic band around joint. Sprains feels contracted as from elastic band around joint. Sprains with great soreness. Railway spine."
+  ],
+  "modalities": {
+    "worse": [
+      "left side",
+      "hot bath and warmth of bed",
+      "before storms",
+      "cold bathing",
+      "cold wind"
+    ],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Vertigo in elderly people. Headache from occiput to top of head. Forehead feels contracted. Bruised soreness. Itching around scalp and over back, worse from hot bath and bed."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "Soreness of abdominal walls and of uterus. Stitches in spleen, sore, enlarged. Yellow, painless diarrhœa, foul odor, worse at night. Bloated; rumbling in bowels."
+  ],
+  "urinary_symptoms": [
+    "Breasts and uterus engorged. Varicose veins in pregnancy. During pregnancy inability to walk. Abdominal muscles lame. Uterus feels sore, as if squeezed."
+  ],
+  "musculoskeletal_symptoms": [
+    "Joints sore, muscular soreness. Itching on back and flexor surfaces of thighs. Pain down anterior of thighs. Wrist feels contracted as from elastic band around joint. Sprains feels contracted as from elastic band around joint. Sprains with great soreness. Railway spine."
+  ],
+  "skin_symptoms": [
+    "Boils. Ecchymosis, swelling, very sensitive to touch. Venous congestion due to mechanical causes. Varicose veins with bruised sore feeling. Exudations and swellings. Acne."
+  ],
+  "sleep_symptoms": [
+    "Wakes early in morning and cannot get to sleep again."
+  ],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Arnica",
+    "Arsenic",
+    "Staphis",
+    "Hamamelis",
+    "Bryonia"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/b/bell-p.htm",
+    "title": "BELLIS PERENNIS - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:05:53.386Z"
+  },
+  "confidence_score": 0.74
+}

@@ -1,0 +1,53 @@
+{
+  "remedy_name": "CINNABARIS",
+  "source_file": "raw_1772500862996.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      {
+        "original": "Hepar",
+        "resolved_name": "HEPAR SULPHUR",
+        "confidence": 1,
+        "method": "exact"
+      }
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Hepar",
+        "resolved_name": "HEPAR SULPHUR",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Nitr ac",
+        "resolved_name": "NITRICUM ACIDUM",
+        "confidence": 0.7,
+        "method": "levenshtein_2"
+      },
+      {
+        "original": "Thuja",
+        "resolved_name": "THUJA OCCIDENTALIS",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Sep",
+        "resolved_name": "SEPIA",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": [
+      {
+        "original": "Hepar",
+        "resolved_name": "HEPAR SULPHUR",
+        "confidence": 1,
+        "method": "exact"
+      }
+    ]
+  },
+  "resolved_at": "2026-03-11T01:50:08.989Z"
+}

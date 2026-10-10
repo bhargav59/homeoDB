@@ -1,0 +1,25 @@
+{
+  "remedy_name": "THYROIDINUM",
+  "source_file": "raw_1772505449788.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/t/thyr.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Spongia",
+      "Calc",
+      "Fucus",
+      "Lycopus",
+      "Iodothyrine",
+      "a substance rich in Iodine and nitrogen",
+      "affects metabolism",
+      "reducing weight",
+      "may produce glycosuria"
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "parsed_at": "2026-03-03T15:23:37.759Z"
+}

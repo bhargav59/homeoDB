@@ -1,0 +1,61 @@
+{
+  "name": "ANTIPYRINUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Phenazone-A Coal-tar Derivative"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Nausea and vomiting; burning and pain.",
+    "Urine.--Diminished. Penis black.",
+    "Throbbing headache; sensation of constriction. Flashes of heat. Headache under ears with earache.",
+    "Fluent coryza. Nasal mucous membrane swollen. Dull pains in frontal sinus. Aphonia. Oppression and dyspnśa. Cheyne-Stokes respiration.",
+    "Faintness, with sensation of stoppage of heart. Throbbing throughout the body. Rapid, weak, irregular pulse.",
+    "Nerves.--Epileptiform seizures. Contractures. Trembling and cramps. Crawling and numbness. General prostration."
+  ],
+  "guiding_symptoms": [
+    "Nausea and vomiting; burning and pain.",
+    "Urine.--Diminished. Penis black.",
+    "Throbbing headache; sensation of constriction. Flashes of heat. Headache under ears with earache."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [
+    "Fear of becoming insane; nervous anxiety; hallucinations of sight and hearing."
+  ],
+  "head_symptoms": [
+    "Throbbing headache; sensation of constriction. Flashes of heat. Headache under ears with earache."
+  ],
+  "respiratory_symptoms": [
+    "Fluent coryza. Nasal mucous membrane swollen. Dull pains in frontal sinus. Aphonia. Oppression and dyspnśa. Cheyne-Stokes respiration."
+  ],
+  "gi_symptoms": [
+    "Nausea and vomiting; burning and pain.",
+    "Urine.--Diminished. Penis black."
+  ],
+  "urinary_symptoms": [
+    "Itching and burning in vagina. Menses suppressed. Watery leucorrhśa."
+  ],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [
+    "Erythema, eczema, pemphigus. Intense pruritus. Urticaria, appearing and disappearing suddenly, with internal coldness. Angioneurotic-śdema. Dark blotches on skin of penis, sometimes with śdema."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/a/antip.htm",
+    "title": "ANTIPYRINUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-02T06:30:27.036Z"
+  },
+  "confidence_score": 0.8
+}

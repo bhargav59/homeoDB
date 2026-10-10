@@ -1,0 +1,28 @@
+{
+  "remedy_name": "PICRICUM ACIDUM",
+  "source_file": "raw_1772504155663.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/p/pic-ac.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Oxal ac",
+      "Gels",
+      "Phos",
+      "Sil",
+      "Arg nit",
+      "Zinc pic",
+      "Ferr pic (buzzing in ears",
+      "deafness",
+      "chronic gout",
+      "epistaxis",
+      "prostatic troubles)",
+      "Calc pic"
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "parsed_at": "2026-03-03T15:23:37.697Z"
+}

@@ -1,0 +1,54 @@
+{
+  "remedy_name": "BRYONIA ALBA",
+  "source_file": "raw_1772500133465.json",
+  "relationships": {
+    "complementary": [
+      {
+        "original": "Upas when Bryonia fails",
+        "resolved_name": "BRYONIA ALBA",
+        "confidence": 0.8,
+        "method": "substring"
+      }
+    ],
+    "antidoted_by": [
+      {
+        "original": "Acon",
+        "resolved_name": "ACONITUM NAPELLUS",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      }
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Asclep tub",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "Kali mur",
+        "resolved_name": "KALI CARBONICUM",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      },
+      {
+        "original": "Ptelia",
+        "resolved_name": "PTELEA TRIFOLIATA",
+        "confidence": 0.85,
+        "method": "levenshtein_1"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": [
+      {
+        "original": "Acon",
+        "resolved_name": "ACONITUM NAPELLUS",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      }
+    ]
+  },
+  "resolved_at": "2026-03-11T01:50:08.724Z"
+}

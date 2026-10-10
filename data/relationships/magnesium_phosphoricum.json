@@ -1,0 +1,25 @@
+{
+  "remedy_name": "MAGNESIUM PHOSPHORICUM",
+  "source_file": "raw_1772503078450.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/m/mag-p.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      "Bell"
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Kali phos",
+      "Colocy",
+      "Silica",
+      "Zinc",
+      "Diosc"
+    ],
+    "incompatible": [],
+    "antidotes": [
+      "Bell"
+    ]
+  },
+  "parsed_at": "2026-03-03T15:23:37.533Z"
+}

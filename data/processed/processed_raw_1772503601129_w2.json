@@ -1,0 +1,69 @@
+{
+  "name": "RADIUM BROMATUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Radium Bromide"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Empty feeling in stomach. Warm sensation in stomach. Aversion to sweets, ice-cream. Nausea and sinking sensation, belching of gas.",
+    "Vertigo, with pain in back of head, left when in bed. Occipital and vertex pain, accompanying severe lumbar aching. Severe pain over right eye, spreading back to occiput and to vertex, better in open air. Head feels heavy. Frontal headache. Both eyes ache. Itching and dryness of nasal cavities, better in open air. Aching pain in angle of right lower jaw. Violent trifacial neuralgia.",
+    "Persistent cough with tickling in suprasternal fossa. Dry, spasmodic cough. Throat dry, sore, chest constricted.",
+    "Severe pain in all the limbs, joints, especially in knee and ankles, sharp pains in shoulders, arms, hands and fingers. Legs, arms and neck feel hard and brittle, as though they would break on moving. Arms feel heavy. Cracking in shoulder. Pain in toes, calves, hip-joint, popliteal spaces. Muscles of legs and hips sore. Arthritis, aching pains, worse at night. Dermatitis of the fingers. Trophic changes in the finger nails.",
+    "Aching in back of neck. Pain and lameness in cervical vertebræ, worse dropping head forward, better standing, or sitting erect. Lumbar and sacral backache, pain appears to be in bone, continued motion relieves. Backache between shoulders and lumbar-sacral region, better after walking."
+  ],
+  "guiding_symptoms": [
+    "Empty feeling in stomach. Warm sensation in stomach. Aversion to sweets, ice-cream. Nausea and sinking sensation, belching of gas.",
+    "Vertigo, with pain in back of head, left when in bed. Occipital and vertex pain, accompanying severe lumbar aching. Severe pain over right eye, spreading back to occiput and to vertex, better in open air. Head feels heavy. Frontal headache. Both eyes ache. Itching and dryness of nasal cavities, better in open air. Aching pain in angle of right lower jaw. Violent trifacial neuralgia.",
+    "Persistent cough with tickling in suprasternal fossa. Dry, spasmodic cough. Throat dry, sore, chest constricted."
+  ],
+  "modalities": {
+    "worse": [
+      "getting up"
+    ],
+    "better": [
+      "open air, continued motion, hot bath, lying down, pressure"
+    ]
+  },
+  "mind_symptoms": [
+    "Apprehensive, depressed; fear of being alone in the dark; great desire to be with people. Tired and irritable."
+  ],
+  "head_symptoms": [
+    "Vertigo, with pain in back of head, left when in bed. Occipital and vertex pain, accompanying severe lumbar aching. Severe pain over right eye, spreading back to occiput and to vertex, better in open air. Head feels heavy. Frontal headache. Both eyes ache. Itching and dryness of nasal cavities, better in open air. Aching pain in angle of right lower jaw. Violent trifacial neuralgia."
+  ],
+  "respiratory_symptoms": [
+    "Persistent cough with tickling in suprasternal fossa. Dry, spasmodic cough. Throat dry, sore, chest constricted."
+  ],
+  "gi_symptoms": [
+    "Empty feeling in stomach. Warm sensation in stomach. Aversion to sweets, ice-cream. Nausea and sinking sensation, belching of gas."
+  ],
+  "urinary_symptoms": [
+    "Increased elimination of solids, particularly of chlorides. Renal irritation, albuminuria, granular and hyaline casts. Nephritis with rheumatic symptoms. Enuresis."
+  ],
+  "musculoskeletal_symptoms": [
+    "Severe pain in all the limbs, joints, especially in knee and ankles, sharp pains in shoulders, arms, hands and fingers. Legs, arms and neck feel hard and brittle, as though they would break on moving. Arms feel heavy. Cracking in shoulder. Pain in toes, calves, hip-joint, popliteal spaces. Muscles of legs and hips sore. Arthritis, aching pains, worse at night. Dermatitis of the fingers. Trophic changes in the finger nails."
+  ],
+  "skin_symptoms": [
+    "Small pimples. Erythema and dermatitis, with itching, burning, swelling and redness. Necrosis and ulceration. Itching all over body, burning of skin, as if afire. Epithelioma."
+  ],
+  "sleep_symptoms": [
+    "Restless. Sleepiness with lethargy. Dreams vivid, busy. Dreams of fire."
+  ],
+  "fever_symptoms": [
+    "Cold sensation internally, with chattering of teeth until noon. Internal chilliness followed by heat of the skin, associated with bowel movements and flatulence."
+  ],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/r/rad-br.htm",
+    "title": "RADIUM BROMATUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:06:41.129Z"
+  },
+  "confidence_score": 0.8
+}

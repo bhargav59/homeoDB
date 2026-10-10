@@ -1,0 +1,24 @@
+{
+  "remedy_name": "PHOSPHORUS",
+  "source_file": "raw_1772504117050.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/p/phos.htm",
+  "relationships": {
+    "complementary": [
+      "Ars",
+      "its action"
+    ],
+    "antidoted_by": [
+      "Antidote to Phosph"
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [],
+    "incompatible": [
+      "Caust"
+    ],
+    "antidotes": [
+      "Antidote to Phosph"
+    ]
+  },
+  "parsed_at": "2026-03-03T15:23:37.695Z"
+}

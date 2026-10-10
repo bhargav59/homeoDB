@@ -1,0 +1,46 @@
+{
+  "name": "CASCARA SAGRADA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Sacred Bark"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Rheumatism of muscles and joints, with obstinate constipation."
+  ],
+  "guiding_symptoms": [
+    "Rheumatism of muscles and joints, with obstinate constipation."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [
+    "Rheumatism of muscles and joints, with obstinate constipation."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Hyd",
+    "Nux"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/c/cas-s.htm",
+    "title": "CASCARA SAGRADA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:15:02.215Z"
+  },
+  "confidence_score": 0.38
+}

@@ -1,0 +1,65 @@
+{
+  "remedy_name": "CAPSICUM ANNUUM",
+  "source_file": "raw_1772500398321.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      {
+        "original": "Cina",
+        "resolved_name": "CINA MARITIMA",
+        "confidence": 1,
+        "method": "exact"
+      }
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Pulsat",
+        "resolved_name": "PULSATILLA",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      },
+      {
+        "original": "Lycop",
+        "resolved_name": "LYCOPODIUM CLAVATUM",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      },
+      {
+        "original": "Bell",
+        "resolved_name": "BELLADONNA",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      },
+      {
+        "original": "Centaurea (surging of blood",
+        "resolved_name": "UREA PURA",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "homesickness",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "intermittent fever)",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": [
+      {
+        "original": "Cina",
+        "resolved_name": "CINA MARITIMA",
+        "confidence": 1,
+        "method": "exact"
+      }
+    ]
+  },
+  "resolved_at": "2026-03-11T01:50:08.841Z"
+}

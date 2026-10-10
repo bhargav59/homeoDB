@@ -1,0 +1,71 @@
+{
+  "name": "KREOSOTUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Beechwood Kreosote"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Nausea; vomiting of food several hours after eating; of sweetish water in the morning. Feeling of coldness, as of ice water in stomach. Soreness; better eating. Painful hard spot. Hæmatemesis. Bitter taste after a swallow of water.",
+    "Dull pain, as from a board pressing against forehead. Menstrual headache. Occipital pain (Gels; Zinc pic).",
+    "Hoarse, with pain in larynx. Cough; worse evening, with efforts to vomit, with pain in chest. Raw burning in chest; pains and oppression. Cough after influenza (Eriodyction). Winter coughs of old people, with heavy pressure on sternum. Gangrene of lungs. After every cough, copious, purulent expectoration. Hæmoptysis; periodic attacks. Sternum feels pressed in.",
+    "Pain in joints, hip and knee. Boring pain in hip-joints. Scapulæ sore.",
+    "Dragging backache, extending to genitals and down thighs. Great debility."
+  ],
+  "guiding_symptoms": [
+    "Nausea; vomiting of food several hours after eating; of sweetish water in the morning. Feeling of coldness, as of ice water in stomach. Soreness; better eating. Painful hard spot. Hæmatemesis. Bitter taste after a swallow of water.",
+    "Dull pain, as from a board pressing against forehead. Menstrual headache. Occipital pain (Gels; Zinc pic).",
+    "Hoarse, with pain in larynx. Cough; worse evening, with efforts to vomit, with pain in chest. Raw burning in chest; pains and oppression. Cough after influenza (Eriodyction). Winter coughs of old people, with heavy pressure on sternum. Gangrene of lungs. After every cough, copious, purulent expectoration. Hæmoptysis; periodic attacks. Sternum feels pressed in."
+  ],
+  "modalities": {
+    "worse": [
+      "in open air, cold rest, when lying",
+      "after menstruation"
+    ],
+    "better": [
+      "from warmth, motion, warm diet"
+    ]
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Dull pain, as from a board pressing against forehead. Menstrual headache. Occipital pain (Gels; Zinc pic)."
+  ],
+  "respiratory_symptoms": [
+    "Hoarse, with pain in larynx. Cough; worse evening, with efforts to vomit, with pain in chest. Raw burning in chest; pains and oppression. Cough after influenza (Eriodyction). Winter coughs of old people, with heavy pressure on sternum. Gangrene of lungs. After every cough, copious, purulent expectoration. Hæmoptysis; periodic attacks. Sternum feels pressed in."
+  ],
+  "gi_symptoms": [
+    "Nausea; vomiting of food several hours after eating; of sweetish water in the morning. Feeling of coldness, as of ice water in stomach. Soreness; better eating. Painful hard spot. Hæmatemesis. Bitter taste after a swallow of water."
+  ],
+  "urinary_symptoms": [
+    "Corrosive itching within vulva, burning and swelling of labia; violent itching between labia and thighs. During menses, difficult hearing; buzzing and roaring; eruption after. Burning and soreness in external and internal parts. Leucorrhœa, yellow, acrid; odor of green corn; worse between periods. Hæmorrhage after coition. Menses too early, prolonged. Vomiting of pregnancy, with ptyalism. Menstrual flow intermits (Puls); ceases on sitting or walking; reappears on lying down. Pain worse after menses. Lochia offensive; intermits."
+  ],
+  "musculoskeletal_symptoms": [
+    "Pain in joints, hip and knee. Boring pain in hip-joints. Scapulæ sore."
+  ],
+  "skin_symptoms": [
+    "Itching, worse towards evening. Burning in soles. Senile gangrene. Small wounds bleed freely (Crot; Lach; Phos). Pustules and herpes. Ecchymosis; dorsal surface of fingers and hands eczematous."
+  ],
+  "sleep_symptoms": [
+    "Disturbed with tossing. Paralytic sensation in limbs on waking. Anxious dreams of pursuit, fire, erections, etc."
+  ],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "also: Fuligo ligni",
+    "Carbol ac",
+    "Iod",
+    "Laches"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/k/kreos.htm",
+    "title": "KREOSOTUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:51:54.429Z"
+  },
+  "confidence_score": 0.8
+}

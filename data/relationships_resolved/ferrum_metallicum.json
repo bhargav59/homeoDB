@@ -1,0 +1,66 @@
+{
+  "remedy_name": "FERRUM METALLICUM",
+  "source_file": "raw_1772501655028.json",
+  "relationships": {
+    "complementary": [
+      {
+        "original": "Chin",
+        "resolved_name": "CHINA OFFICINALIS",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      }
+    ],
+    "antidoted_by": [
+      {
+        "original": "Ars",
+        "resolved_name": "ARSENICUM ALBUM",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      }
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Rumex",
+        "resolved_name": "RUMEX CRISPUS",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "also",
+        "resolved_name": "ALOE SOCOTRINA",
+        "confidence": 0.7,
+        "method": "levenshtein_2"
+      },
+      {
+        "original": "Graph",
+        "resolved_name": "GRAPHITES",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      },
+      {
+        "original": "Mangan",
+        "resolved_name": "KALIUM PERMANGANATUM",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Cupr",
+        "resolved_name": "CUPRUM METALLICUM",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": [
+      {
+        "original": "Ars",
+        "resolved_name": "ARSENICUM ALBUM",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      }
+    ]
+  },
+  "resolved_at": "2026-03-11T01:50:09.628Z"
+}

@@ -1,0 +1,21 @@
+{
+  "remedy_name": "ALUMINA",
+  "source_file": "raw_1772371786449.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/a/alum.htm",
+  "relationships": {
+    "complementary": [
+      "Bryonia"
+    ],
+    "antidoted_by": [
+      "Ipecac"
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [],
+    "incompatible": [],
+    "antidotes": [
+      "Ipecac"
+    ]
+  },
+  "parsed_at": "2026-03-03T15:23:37.330Z"
+}

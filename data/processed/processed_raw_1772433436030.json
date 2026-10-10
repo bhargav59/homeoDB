@@ -1,0 +1,54 @@
+{
+  "name": "ASTRAGALUS MOLLISSIMUS",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Purple or Woolly Loco-weed"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Weakness and emptiness. Burning in śsophagus and stomach.",
+    "Fullness in right temple and upper jaw. Pain over left eyebrow. Painful facial bones. Dizzy. Pressive pain in temples. Pain and pressure in maxillć.",
+    "Purring sensation in right foot outer side from heel to toe. Icy coldness of left calf."
+  ],
+  "guiding_symptoms": [
+    "Weakness and emptiness. Burning in śsophagus and stomach.",
+    "Fullness in right temple and upper jaw. Pain over left eyebrow. Painful facial bones. Dizzy. Pressive pain in temples. Pain and pressure in maxillć.",
+    "Purring sensation in right foot outer side from heel to toe. Icy coldness of left calf."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Fullness in right temple and upper jaw. Pain over left eyebrow. Painful facial bones. Dizzy. Pressive pain in temples. Pain and pressure in maxillć."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "Weakness and emptiness. Burning in śsophagus and stomach."
+  ],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [
+    "Purring sensation in right foot outer side from heel to toe. Icy coldness of left calf."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Baryta",
+    "Oxytropis"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/a/astra-mo.htm",
+    "title": "ASTRAGALUS MOLLISSIMUS - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-02T06:37:16.030Z"
+  },
+  "confidence_score": 0.5
+}

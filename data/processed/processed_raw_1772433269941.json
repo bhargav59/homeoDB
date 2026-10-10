@@ -1,0 +1,58 @@
+{
+  "name": "ARSENICUM IODATUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Iodide of Arsenic"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Pain and pyrosis. Vomiting an hour after food. Nausea distressing. Pain in epigastrium. Intense thirst; water is immediately ejected.",
+    "Vertigo, with tremulous feeling, especially in aged.",
+    "Slight hacking cough, with dry and stopped-up nostrils. Pleuritis exudativa. Chronic bronchitis. Pulmonary tuberculosis. Pneumonia that fails to clear up. Broncho-pneumonia after grippe. Cough dry, with little difficult expectoration. Aphonia."
+  ],
+  "guiding_symptoms": [
+    "Pain and pyrosis. Vomiting an hour after food. Nausea distressing. Pain in epigastrium. Intense thirst; water is immediately ejected.",
+    "Vertigo, with tremulous feeling, especially in aged.",
+    "Slight hacking cough, with dry and stopped-up nostrils. Pleuritis exudativa. Chronic bronchitis. Pulmonary tuberculosis. Pneumonia that fails to clear up. Broncho-pneumonia after grippe. Cough dry, with little difficult expectoration. Aphonia."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Vertigo, with tremulous feeling, especially in aged."
+  ],
+  "respiratory_symptoms": [
+    "Slight hacking cough, with dry and stopped-up nostrils. Pleuritis exudativa. Chronic bronchitis. Pulmonary tuberculosis. Pneumonia that fails to clear up. Broncho-pneumonia after grippe. Cough dry, with little difficult expectoration. Aphonia."
+  ],
+  "gi_symptoms": [
+    "Pain and pyrosis. Vomiting an hour after food. Nausea distressing. Pain in epigastrium. Intense thirst; water is immediately ejected."
+  ],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [
+    "Dry, scaly, itching. Marked exfoliation of skin in large scales, leaving a raw exuding surface beneath. Ichthyosis. Enlarged scrofulous glands. Venereal bubo. Debilitating night-sweats. Eczema of the beard; watery, oozing, itching; worse, washing. Emaciation. Psoriasis. Acne hard, shotty, indurated base with pustule at apex."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [
+    "Recurrent fever and sweats. Drenching night-sweats. Pulse rapid, feeble, weak, irregular. Chilly, cannot endure cold."
+  ],
+  "complementary_remedies": [
+    "Tuberculinum",
+    "Antimon iod"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/a/ars-i.htm",
+    "title": "ARSENICUM IODATUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-02T06:34:29.941Z"
+  },
+  "confidence_score": 0.74
+}

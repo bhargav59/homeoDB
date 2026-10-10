@@ -1,0 +1,19 @@
+{
+  "remedy_number": "R40",
+  "remedy_name": "Diabetes Drops",
+  "ingredients": [
+    "Acidum Phosphoricum",
+    "Arsenicum Album",
+    "Lycopodium",
+    "Natrium Sulfuricum",
+    "Phaseolus Nanus",
+    "Secale Cornutum",
+    "Uranium Nitricum",
+    "Ethanol",
+    "Aqua",
+    "Alcohol",
+    "Key"
+  ],
+  "source": "Compiled from reckeweg-india.com, 1mg.com, medikosh.com references",
+  "parsed_at": "2026-03-03T15:31:04.574Z"
+}

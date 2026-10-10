@@ -1,0 +1,26 @@
+{
+  "remedy_name": "HYPERICUM PERFORATUM",
+  "source_file": "raw_1772502279898.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/h/hyper.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      "Ars"
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Ledum",
+      "Arnica",
+      "Staphis",
+      "Calend",
+      "Ruta",
+      "Coff"
+    ],
+    "incompatible": [],
+    "antidotes": [
+      "Ars"
+    ]
+  },
+  "parsed_at": "2026-03-03T15:23:37.495Z"
+}

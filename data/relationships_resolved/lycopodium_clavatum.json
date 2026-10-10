@@ -1,0 +1,59 @@
+{
+  "remedy_name": "LYCOPODIUM CLAVATUM",
+  "source_file": "raw_1772503015953.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      {
+        "original": "Camph",
+        "resolved_name": "CAMPHORA",
+        "confidence": 0.8,
+        "method": "substring"
+      }
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Carbo-Nitrogenoid Constitution: Sulphur",
+        "resolved_name": "CARBO VEGETABILIS",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      },
+      {
+        "original": "Rhus",
+        "resolved_name": "RHUS GLABRA",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Urtica",
+        "resolved_name": "URTICA URENS",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Mercur",
+        "resolved_name": "MERCURIUS SOLUBILIS",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      },
+      {
+        "original": "Hepar",
+        "resolved_name": "HEPAR SULPHUR",
+        "confidence": 1,
+        "method": "exact"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": [
+      {
+        "original": "Camph",
+        "resolved_name": "CAMPHORA",
+        "confidence": 0.8,
+        "method": "substring"
+      }
+    ]
+  },
+  "resolved_at": "2026-03-11T01:50:10.214Z"
+}

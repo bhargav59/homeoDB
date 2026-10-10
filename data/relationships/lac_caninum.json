@@ -1,0 +1,31 @@
+{
+  "remedy_name": "LAC CANINUM",
+  "source_file": "raw_1772502733047.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/l/lac-c.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Lach",
+      "Con",
+      "eye symptoms",
+      "photophobia",
+      "asthenopia",
+      "dysmenorrhœa)",
+      "Lac vaccinum-Cows' Milk--(headache",
+      "rheumatic pains",
+      "constipation)",
+      "Lac vaccinum coagulatum-Curds--",
+      "Lactis vaccini floc--Cream--(diphtheria",
+      "leucorrhœa",
+      "menorrhagia",
+      "dysphagia)",
+      "Lactic ac"
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "parsed_at": "2026-03-03T15:23:37.516Z"
+}

@@ -1,0 +1,64 @@
+{
+  "name": "ABIES NIGRA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Black Spruce"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Pain in stomach always comes on after eating. Sensation of a lump that hurts, as if a hard-boiled egg had lodged in cardiac end of stomach; continual distressing constriction just above the pit of the stomach, as if everything were knotted up. Total loss of appetite in morning, but great craving for food at noon and night. Offensive breath. Eructations.",
+    "Painful sensation, as if something were lodged in the chest and had to be coughed up; lungs feel compressed. Cannot be fully expanded. Worse coughing; waterbrash succeeds cough. Choking sensation in throat. Dyspnśa; worse lying down; sharp, cutting pain in heart; heart's action heavy and slow; tachycardia, bradycardia.",
+    "Hot, with flushed cheeks. Low-spirited. Dull during the day, wakeful at night. Unable to think.",
+    "Pain in small of back. Rheumatic pains and aching in bones."
+  ],
+  "guiding_symptoms": [
+    "Pain in stomach always comes on after eating. Sensation of a lump that hurts, as if a hard-boiled egg had lodged in cardiac end of stomach; continual distressing constriction just above the pit of the stomach, as if everything were knotted up. Total loss of appetite in morning, but great craving for food at noon and night. Offensive breath. Eructations.",
+    "Painful sensation, as if something were lodged in the chest and had to be coughed up; lungs feel compressed. Cannot be fully expanded. Worse coughing; waterbrash succeeds cough. Choking sensation in throat. Dyspnśa; worse lying down; sharp, cutting pain in heart; heart's action heavy and slow; tachycardia, bradycardia.",
+    "Hot, with flushed cheeks. Low-spirited. Dull during the day, wakeful at night. Unable to think."
+  ],
+  "modalities": {
+    "worse": [
+      "after eating"
+    ],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Hot, with flushed cheeks. Low-spirited. Dull during the day, wakeful at night. Unable to think."
+  ],
+  "respiratory_symptoms": [
+    "Painful sensation, as if something were lodged in the chest and had to be coughed up; lungs feel compressed. Cannot be fully expanded. Worse coughing; waterbrash succeeds cough. Choking sensation in throat. Dyspnśa; worse lying down; sharp, cutting pain in heart; heart's action heavy and slow; tachycardia, bradycardia."
+  ],
+  "gi_symptoms": [
+    "Pain in stomach always comes on after eating. Sensation of a lump that hurts, as if a hard-boiled egg had lodged in cardiac end of stomach; continual distressing constriction just above the pit of the stomach, as if everything were knotted up. Total loss of appetite in morning, but great craving for food at noon and night. Offensive breath. Eructations."
+  ],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [
+    "Pain in small of back. Rheumatic pains and aching in bones."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [
+    "Wakeful and restless at night, with hunger. Bad dreams."
+  ],
+  "fever_symptoms": [
+    "Alternate heat and cold; chronic intermittent fever, with pain in stomach."
+  ],
+  "complementary_remedies": [
+    "(Lump in stomach--China",
+    "Bryon",
+    "Pulsat"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/a/abies-n.htm",
+    "title": "ABIES NIGRA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-01T13:24:50.593Z"
+  },
+  "confidence_score": 0.74
+}

@@ -1,0 +1,41 @@
+{
+  "name": "UVA URSI",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Bearberry"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [],
+  "guiding_symptoms": [],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [],
+  "urinary_symptoms": [
+    "Frequent urging, with severe spasms of bladder; burning and tearing pain. Urine contains blood, pus, and much tenacious mucus, with clots in large masses. Involuntary; green urine. Painful dysuria."
+  ],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "found also in Kalmia"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/u/uva.htm",
+    "title": "UVA URSI - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:07:43.161Z"
+  },
+  "confidence_score": 0.38
+}

@@ -1,0 +1,17 @@
+{
+  "remedy_name": "FULIGO LIGNI",
+  "source_file": "raw_1772501812117.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/f/fuli.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Kreosot"
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "parsed_at": "2026-03-03T15:23:37.475Z"
+}

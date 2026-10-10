@@ -1,0 +1,18 @@
+{
+  "remedy_name": "ANAGALLIS ARVENSIS",
+  "source_file": "raw_1772372007128.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/a/anag.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Cyclamen",
+      "Primula obcon"
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "parsed_at": "2026-03-03T15:23:37.341Z"
+}

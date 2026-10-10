@@ -1,0 +1,24 @@
+{
+  "remedy_name": "RUTA GRAVEOLENS",
+  "source_file": "raw_1772504608023.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/r/ruta.htm",
+  "relationships": {
+    "complementary": [
+      "Calc phos"
+    ],
+    "antidoted_by": [
+      "Camph"
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Ratanhia",
+      "Carduus"
+    ],
+    "incompatible": [],
+    "antidotes": [
+      "Camph"
+    ]
+  },
+  "parsed_at": "2026-03-03T15:23:37.718Z"
+}

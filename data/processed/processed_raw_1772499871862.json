@@ -1,0 +1,52 @@
+{
+  "name": "BALSAMUM PERUVIANUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Peruvian Balsam from Myroxylon Pereiræ"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Vomiting of food and mucus. Catarrh of stomach.",
+    "Bronchitis, and phthisis, with muco-purulent, thick, creamy expectoration. Loud rales in chest (Kali sulph; Ant tar). Very loose cough. Hectic fever and night-sweats, with irritating, short cough and scanty expectoration.",
+    "Urine.--Scanty; much mucus sediment. Catarrh of bladder (Chimaph)."
+  ],
+  "guiding_symptoms": [
+    "Vomiting of food and mucus. Catarrh of stomach.",
+    "Bronchitis, and phthisis, with muco-purulent, thick, creamy expectoration. Loud rales in chest (Kali sulph; Ant tar). Very loose cough. Hectic fever and night-sweats, with irritating, short cough and scanty expectoration.",
+    "Urine.--Scanty; much mucus sediment. Catarrh of bladder (Chimaph)."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Profuse, thick discharge. Eczema, with ulceration. Chronic, fetid, nasal catarrh."
+  ],
+  "respiratory_symptoms": [
+    "Bronchitis, and phthisis, with muco-purulent, thick, creamy expectoration. Loud rales in chest (Kali sulph; Ant tar). Very loose cough. Hectic fever and night-sweats, with irritating, short cough and scanty expectoration.",
+    "Urine.--Scanty; much mucus sediment. Catarrh of bladder (Chimaph)."
+  ],
+  "gi_symptoms": [
+    "Vomiting of food and mucus. Catarrh of stomach."
+  ],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/b/bals-p.htm",
+    "title": "BALSAMUM PERUVIANUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:04:31.862Z"
+  },
+  "confidence_score": 0.5
+}

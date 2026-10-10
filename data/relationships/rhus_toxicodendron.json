@@ -1,0 +1,19 @@
+{
+  "remedy_name": "RHUS TOXICODENDRON",
+  "source_file": "raw_1772504547162.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/r/rhus-t.htm",
+  "relationships": {
+    "complementary": [
+      "Bry"
+    ],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [
+      "Apis"
+    ],
+    "compare": [],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "parsed_at": "2026-03-03T15:23:37.715Z"
+}

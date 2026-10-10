@@ -1,0 +1,27 @@
+{
+  "remedy_name": "MEDORRHINUM",
+  "source_file": "raw_1772503145701.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "(Lactation: Galega",
+        "resolved_name": "LAC CANINUM",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Lactuca)",
+        "resolved_name": "LACTUCA VIROSA",
+        "confidence": 1,
+        "method": "exact"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:10.272Z"
+}

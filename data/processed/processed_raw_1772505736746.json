@@ -1,0 +1,61 @@
+{
+  "name": "VERBASCUM THAPSUS",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Mullein"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Hoarse; voice deep, harsh; sounds like a trumpet; \"basso profundo\". Cough; worse at night. Asthma. Soreness in pharynx, cough during sleep.",
+    "Cramp-like pain in soles, right foot, and knee. Lower extremities feel heavy. Thumb feels numb. Neuralgic pain in left ankle. Stiffness and soreness of joints of lower extremities."
+  ],
+  "guiding_symptoms": [
+    "Hoarse; voice deep, harsh; sounds like a trumpet; \"basso profundo\". Cough; worse at night. Asthma. Soreness in pharynx, cough during sleep.",
+    "Cramp-like pain in soles, right foot, and knee. Lower extremities feel heavy. Thumb feels numb. Neuralgic pain in left ankle. Stiffness and soreness of joints of lower extremities."
+  ],
+  "modalities": {
+    "worse": [
+      "change of temperature, talking, sneezing, biting hard (inferior dental nerve)",
+      "from 9 am to 4 pm"
+    ],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Otalgia, with a sense of obstruction. Deafness. Dry, scaly condition of meatus (use locally)."
+  ],
+  "respiratory_symptoms": [
+    "Hoarse; voice deep, harsh; sounds like a trumpet; \"basso profundo\". Cough; worse at night. Asthma. Soreness in pharynx, cough during sleep."
+  ],
+  "gi_symptoms": [
+    "Pain extends deep down, causing contraction of sphincter ani."
+  ],
+  "urinary_symptoms": [
+    "Constant dribbling. Enuresis. Burning urination. Increase with pressure in bladder."
+  ],
+  "musculoskeletal_symptoms": [
+    "Cramp-like pain in soles, right foot, and knee. Lower extremities feel heavy. Thumb feels numb. Neuralgic pain in left ankle. Stiffness and soreness of joints of lower extremities."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Rhus arom",
+    "Caust",
+    "Platin",
+    "Sphingurus (pain in zygoma"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/v/verb.htm",
+    "title": "VERBASCUM THAPSUS - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:42:16.746Z"
+  },
+  "confidence_score": 0.8
+}

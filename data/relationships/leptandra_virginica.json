@@ -1,0 +1,22 @@
+{
+  "remedy_name": "LEPTANDRA VIRGINICA",
+  "source_file": "raw_1772502887404.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/l/lept.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Podop",
+      "Iris",
+      "Bry",
+      "Merc",
+      "Ptel",
+      "Myrica"
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "parsed_at": "2026-03-03T15:23:37.524Z"
+}

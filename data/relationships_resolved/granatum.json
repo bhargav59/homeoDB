@@ -1,0 +1,33 @@
+{
+  "remedy_name": "GRANATUM",
+  "source_file": "raw_1772501979755.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "especially for tapeworm)",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "Cina",
+        "resolved_name": "CINA MARITIMA",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Kousso",
+        "resolved_name": "KOUSSO",
+        "confidence": 1,
+        "method": "exact"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:09.750Z"
+}

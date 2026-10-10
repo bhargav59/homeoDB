@@ -1,0 +1,22 @@
+{
+  "remedy_name": "COCAINUM HYDROCHLORICUM",
+  "source_file": "raw_1772500945314.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/c/cocain.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      "drop"
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Stovain (an analgesic",
+      "a vasomotor dilator)"
+    ],
+    "incompatible": [],
+    "antidotes": [
+      "drop"
+    ]
+  },
+  "parsed_at": "2026-03-03T15:23:37.435Z"
+}

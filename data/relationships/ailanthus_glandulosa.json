@@ -1,0 +1,26 @@
+{
+  "remedy_name": "AILANTHUS GLANDULOSA",
+  "source_file": "raw_1772371697587.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/a/ail.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      "Rhus"
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Ammon carb",
+      "Bapt",
+      "Arn",
+      "Mur ac",
+      "Lach",
+      "Rhus"
+    ],
+    "incompatible": [],
+    "antidotes": [
+      "Rhus"
+    ]
+  },
+  "parsed_at": "2026-03-03T15:23:37.324Z"
+}

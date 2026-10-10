@@ -1,0 +1,62 @@
+{
+  "name": "RUTA GRAVEOLENS",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Rue-bitterwort"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Gastralgia of aching, gnawing character.",
+    "Pain as from a nail; after excessive intoxicating drinks. Periosteum sore. Epistaxis.",
+    "Cough with copious, thick, yellow expectoration; chest feels weak. Painful spot on sternum; short breath with tightness of chest.",
+    "Spine and limbs feel bruised. Small of back and loins pain. Legs give out on rising from a chair, hips and thighs so weak (Phos; Con). Contraction of fingers. Pain and stiffness in wrists and hands. Ganglia (Benzoic ac). Sciatica; worse, lying down at night; pain from back down hips and thighs. Hamstrings feel shortened (Graph). Tendons sore. Aching pain in tendo-Achilles. Thighs pain when stretching the limbs. Pain in bones of feet and ankles. Great restlessness.",
+    "Pain in nape, back and loins. Backache better pressure and lying on back. Lumbago worse morning before rising."
+  ],
+  "guiding_symptoms": [
+    "Gastralgia of aching, gnawing character.",
+    "Pain as from a nail; after excessive intoxicating drinks. Periosteum sore. Epistaxis.",
+    "Cough with copious, thick, yellow expectoration; chest feels weak. Painful spot on sternum; short breath with tightness of chest."
+  ],
+  "modalities": {
+    "worse": [
+      "lying down, from cold, wet weather"
+    ],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Pain as from a nail; after excessive intoxicating drinks. Periosteum sore. Epistaxis."
+  ],
+  "respiratory_symptoms": [
+    "Cough with copious, thick, yellow expectoration; chest feels weak. Painful spot on sternum; short breath with tightness of chest."
+  ],
+  "gi_symptoms": [
+    "Gastralgia of aching, gnawing character."
+  ],
+  "urinary_symptoms": [
+    "Pressure in neck of bladder after urinating; painful closure (Apis). Constant urging to urinate, feels bladder full."
+  ],
+  "musculoskeletal_symptoms": [
+    "Spine and limbs feel bruised. Small of back and loins pain. Legs give out on rising from a chair, hips and thighs so weak (Phos; Con). Contraction of fingers. Pain and stiffness in wrists and hands. Ganglia (Benzoic ac). Sciatica; worse, lying down at night; pain from back down hips and thighs. Hamstrings feel shortened (Graph). Tendons sore. Aching pain in tendo-Achilles. Thighs pain when stretching the limbs. Pain in bones of feet and ankles. Great restlessness."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Ratanhia",
+    "Carduus"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/r/ruta.htm",
+    "title": "RUTA GRAVEOLENS - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:06:49.021Z"
+  },
+  "confidence_score": 0.8
+}

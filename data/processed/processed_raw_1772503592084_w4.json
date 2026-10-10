@@ -1,0 +1,45 @@
+{
+  "name": "POLYGONUM HYDROPIPEROIDES",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Hydropiper - Smartweed"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [],
+  "guiding_symptoms": [],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "Griping pain, with great rumbling, nausea, and liquid feces. Flatulent colic."
+  ],
+  "urinary_symptoms": [
+    "Painful constriction at neck of bladder."
+  ],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [
+    "Superficial ulcers and sores on lower extremities, especially in females at climacteric."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Carduus mar (ulcers"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/p/polyg-h.htm",
+    "title": "POLYGONUM HYDROPIPEROIDES - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:06:32.084Z"
+  },
+  "confidence_score": 0.62
+}

@@ -1,0 +1,49 @@
+{
+  "name": "NYCTANTHES ARBOR TRISTIS",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Paghala-malli-Sad Tree"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Burning sensation, better cold application. Thirst, better vomiting.",
+    "Anxious and restless; dull headache. Tongue coated."
+  ],
+  "guiding_symptoms": [
+    "Burning sensation, better cold application. Thirst, better vomiting.",
+    "Anxious and restless; dull headache. Tongue coated."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Anxious and restless; dull headache. Tongue coated."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "Burning sensation, better cold application. Thirst, better vomiting."
+  ],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [
+    "Thirst, before and during chill and heat; better vomiting as close of chill; sweat no marked."
+  ],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/n/nyct.htm",
+    "title": "NYCTANTHES ARBOR TRISTIS - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:07:31.188Z"
+  },
+  "confidence_score": 0.5
+}

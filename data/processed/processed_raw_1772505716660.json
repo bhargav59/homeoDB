@@ -1,0 +1,68 @@
+{
+  "name": "VERATRUM ALBUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "White Hellebore"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Voracious appetite. Thirst for cold water, but is vomited as soon as swallowed. Averse to warm food. Hiccough. Copious vomiting and nausea; aggravated by drinking and least motion. Craves fruit, juicy and cold things, ice, salt. Anguish in pit of stomach. Great weakness after vomiting. Gastric irritability with chronic vomiting of food.",
+    "Contracted features. Cold sweat on forehead. Sensation of a lump of ice on vertex. Headache, with nausea, vomiting, diarrhœa, pale face. Neck too weak to hold head up.",
+    "Hoarse, weak voice. Rattling in chest. Much mucus in bronchial tubes, that cannot be coughed up. Coarse rales. Chronic bronchitis in the aged (Hippozanin). Loud barking, stomach cough, followed by eructation of gas; worse, warm room. Hollow cough, tickling low down, with blue face. Cough comes on from drinking, especially cold water; urine escapes when coughing. Cough on entering warm room from cold air (Bryonia).",
+    "Palpitation with anxiety and rapid audible respiration. Pulse irregular, feeble. Tobacco heart from chewing. Intermittent action of heart in feeble persons with some hepatic obstruction. One of the best heart stimulants in homeopathic doses (J. S. Mitchell).",
+    "Soreness and tenderness of joints. Sciatica; pains like electric flashes. Cramps in calves. Neuralgia in brachial plexus; arms feel swollen, cold, paralytic."
+  ],
+  "guiding_symptoms": [
+    "Voracious appetite. Thirst for cold water, but is vomited as soon as swallowed. Averse to warm food. Hiccough. Copious vomiting and nausea; aggravated by drinking and least motion. Craves fruit, juicy and cold things, ice, salt. Anguish in pit of stomach. Great weakness after vomiting. Gastric irritability with chronic vomiting of food.",
+    "Contracted features. Cold sweat on forehead. Sensation of a lump of ice on vertex. Headache, with nausea, vomiting, diarrhœa, pale face. Neck too weak to hold head up.",
+    "Hoarse, weak voice. Rattling in chest. Much mucus in bronchial tubes, that cannot be coughed up. Coarse rales. Chronic bronchitis in the aged (Hippozanin). Loud barking, stomach cough, followed by eructation of gas; worse, warm room. Hollow cough, tickling low down, with blue face. Cough comes on from drinking, especially cold water; urine escapes when coughing. Cough on entering warm room from cold air (Bryonia)."
+  ],
+  "modalities": {
+    "worse": [
+      "at night",
+      "wet, cold weather"
+    ],
+    "better": [
+      "walking and warmth"
+    ]
+  },
+  "mind_symptoms": [
+    "Melancholy, with stupor and mania. Sits in a stupid manner; notices nothing; Sullen indifference. Frenzy of excitement; shrieks, curses. Puerperal mania. Aimless wandering from home. Delusions of impending misfortunes. Mania, with desire to cut and tear things (Tarant). Attacks of pain, with delirium driving to madness. Cursing, howling all night."
+  ],
+  "head_symptoms": [
+    "Contracted features. Cold sweat on forehead. Sensation of a lump of ice on vertex. Headache, with nausea, vomiting, diarrhœa, pale face. Neck too weak to hold head up."
+  ],
+  "respiratory_symptoms": [
+    "Hoarse, weak voice. Rattling in chest. Much mucus in bronchial tubes, that cannot be coughed up. Coarse rales. Chronic bronchitis in the aged (Hippozanin). Loud barking, stomach cough, followed by eructation of gas; worse, warm room. Hollow cough, tickling low down, with blue face. Cough comes on from drinking, especially cold water; urine escapes when coughing. Cough on entering warm room from cold air (Bryonia)."
+  ],
+  "gi_symptoms": [
+    "Voracious appetite. Thirst for cold water, but is vomited as soon as swallowed. Averse to warm food. Hiccough. Copious vomiting and nausea; aggravated by drinking and least motion. Craves fruit, juicy and cold things, ice, salt. Anguish in pit of stomach. Great weakness after vomiting. Gastric irritability with chronic vomiting of food."
+  ],
+  "urinary_symptoms": [
+    "Menses too early; profuse and exhausting. Dysmenorrhœa, with coldness, purging, cold sweat. Faints from least exertion. Sexual mania precedes menses."
+  ],
+  "musculoskeletal_symptoms": [
+    "Soreness and tenderness of joints. Sciatica; pains like electric flashes. Cramps in calves. Neuralgia in brachial plexus; arms feel swollen, cold, paralytic."
+  ],
+  "skin_symptoms": [
+    "Blue, cold, clammy, inelastic, cold as death. Cold sweat. Wrinkling of skin of hands and feet."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [
+    "Chill, with extreme coldness and thirst."
+  ],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/v/verat.htm",
+    "title": "VERATRUM ALBUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:41:56.660Z"
+  },
+  "confidence_score": 0.8
+}

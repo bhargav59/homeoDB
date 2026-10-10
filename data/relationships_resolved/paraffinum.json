@@ -1,0 +1,39 @@
+{
+  "remedy_name": "PARAFFINUM",
+  "source_file": "raw_1772504003759.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Naphthalin",
+        "resolved_name": "NAPHTHALINUM",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Petrol",
+        "resolved_name": "PETROLEUM",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Kreos",
+        "resolved_name": "KREOSOTUM",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      },
+      {
+        "original": "Eupion",
+        "resolved_name": "EUPIONUM",
+        "confidence": 0.8,
+        "method": "substring"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:10.605Z"
+}

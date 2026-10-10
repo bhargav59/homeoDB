@@ -1,0 +1,58 @@
+{
+  "name": "GRANATUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Pomegranate"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Constant hunger. Poor digestion. Loses flesh. Vomiting at night.",
+    "Oppressed, with sighing. Pain between shoulders; even clothing is oppressive.",
+    "Feels empty. Sunken eyes; pupils dilated; weak sight. Vertigo very persistent.",
+    "Pain around shoulders, as if heavy load had been carried. Pain in all finger-joints. Tearing in knee-joint. Convulsive movements."
+  ],
+  "guiding_symptoms": [
+    "Constant hunger. Poor digestion. Loses flesh. Vomiting at night.",
+    "Oppressed, with sighing. Pain between shoulders; even clothing is oppressive.",
+    "Feels empty. Sunken eyes; pupils dilated; weak sight. Vertigo very persistent."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Feels empty. Sunken eyes; pupils dilated; weak sight. Vertigo very persistent."
+  ],
+  "respiratory_symptoms": [
+    "Oppressed, with sighing. Pain between shoulders; even clothing is oppressive."
+  ],
+  "gi_symptoms": [
+    "Constant hunger. Poor digestion. Loses flesh. Vomiting at night."
+  ],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [
+    "Pain around shoulders, as if heavy load had been carried. Pain in all finger-joints. Tearing in knee-joint. Convulsive movements."
+  ],
+  "skin_symptoms": [
+    "Itching in palms. Sensation as if pimples would break out. Jaundiced complexion."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "especially for tapeworm"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/g/gran.htm",
+    "title": "GRANATUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:39:39.755Z"
+  },
+  "confidence_score": 0.6799999999999999
+}

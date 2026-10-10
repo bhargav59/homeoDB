@@ -1,0 +1,55 @@
+{
+  "name": "TILIA EUROPAEA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Linden"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Neuralgia (first right, then left side), with veil before eyes. Confusion, with dimness of vision. Much sneezing, with fluent coryza. Bleeding from nose."
+  ],
+  "guiding_symptoms": [
+    "Neuralgia (first right, then left side), with veil before eyes. Confusion, with dimness of vision. Much sneezing, with fluent coryza. Bleeding from nose."
+  ],
+  "modalities": {
+    "worse": [
+      "in afternoon and evening",
+      "in warm room, heat of bed"
+    ],
+    "better": [
+      "cool room, motion"
+    ]
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Neuralgia (first right, then left side), with veil before eyes. Confusion, with dimness of vision. Much sneezing, with fluent coryza. Bleeding from nose."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [],
+  "urinary_symptoms": [
+    "Intense sore feeling about uterus; bearing-down, with hot sweat, but without relief. Much slimy leucorrhœa when walking (Bov; Carb an; Graph). Soreness and redness of external genitals (Thuj; Sulph). Pelvic inflammation, tympanites, abdominal tenderness and hot sweat which does not relieve."
+  ],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [
+    "Urticaria. Violent itching, and burning like fire after scratching. Eruption of small, red itching pimples. Sweat warm and profuse soon after falling asleep. Sweat increases as rheumatic pains increase."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Lilium",
+    "Bellad"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/t/til.htm",
+    "title": "TILIA EUROPAEA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:37:39.996Z"
+  },
+  "confidence_score": 0.62
+}

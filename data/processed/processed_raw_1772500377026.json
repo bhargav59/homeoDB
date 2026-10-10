@@ -1,0 +1,59 @@
+{
+  "name": "CANNABIS SATIVA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Hemp"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Lectophobia. Vertigo; sensation of dropping water on head. Pressure on root of nose.",
+    "Oppression of breathing and palpitation; must stand up. Weight on chest; rattling wheezing breathing. Cough, with green viscid, also bloody, expectoration.",
+    "Sensation as if drops were falling from the heart. Painful strokes and tension with palpitation. Pericarditis.",
+    "Contraction of fingers after a sprain. Dislocation of patella on going upstairs. Feet feel heavy on going upstairs. Paralytic tearing pains. Affections of the ball of the foot and under part of toes."
+  ],
+  "guiding_symptoms": [
+    "Lectophobia. Vertigo; sensation of dropping water on head. Pressure on root of nose.",
+    "Oppression of breathing and palpitation; must stand up. Weight on chest; rattling wheezing breathing. Cough, with green viscid, also bloody, expectoration.",
+    "Sensation as if drops were falling from the heart. Painful strokes and tension with palpitation. Pericarditis."
+  ],
+  "modalities": {
+    "worse": [
+      "lying down",
+      "going upstairs"
+    ],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Lectophobia. Vertigo; sensation of dropping water on head. Pressure on root of nose."
+  ],
+  "respiratory_symptoms": [
+    "Oppression of breathing and palpitation; must stand up. Weight on chest; rattling wheezing breathing. Cough, with green viscid, also bloody, expectoration."
+  ],
+  "gi_symptoms": [],
+  "urinary_symptoms": [
+    "Amenorrhśa when physical powers have been overtaxed, also with constipation."
+  ],
+  "musculoskeletal_symptoms": [
+    "Contraction of fingers after a sprain. Dislocation of patella on going upstairs. Feet feel heavy on going upstairs. Paralytic tearing pains. Affections of the ball of the foot and under part of toes."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [
+    "Frightful dreams. More tired in morning. Sleepy during day."
+  ],
+  "fever_symptoms": [],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/c/cann-s.htm",
+    "title": "CANNABIS SATIVA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:12:57.026Z"
+  },
+  "confidence_score": 0.8
+}

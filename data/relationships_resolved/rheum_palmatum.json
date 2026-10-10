@@ -1,0 +1,66 @@
+{
+  "remedy_name": "RHEUM PALMATUM",
+  "source_file": "raw_1772504493344.json",
+  "relationships": {
+    "complementary": [
+      {
+        "original": "Mag carb",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      }
+    ],
+    "antidoted_by": [
+      {
+        "original": "Camph",
+        "resolved_name": "CAMPHORA",
+        "confidence": 0.8,
+        "method": "substring"
+      }
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Mag phos",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "Hep",
+        "resolved_name": "HEPAR SULPHURIS",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      },
+      {
+        "original": "Pod",
+        "resolved_name": "APHIS CHENOPODII GLAUCI",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Cham",
+        "resolved_name": "CHAMOMILLA",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      },
+      {
+        "original": "Ipec",
+        "resolved_name": "IPECACUANHA",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": [
+      {
+        "original": "Camph",
+        "resolved_name": "CAMPHORA",
+        "confidence": 0.8,
+        "method": "substring"
+      }
+    ]
+  },
+  "resolved_at": "2026-03-11T01:50:10.988Z"
+}

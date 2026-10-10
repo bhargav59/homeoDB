@@ -1,0 +1,45 @@
+{
+  "remedy_name": "OCIMUM CANUM",
+  "source_file": "raw_1772503661805.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Berb",
+        "resolved_name": "BERBERIS VULGARIS",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Hedeoma",
+        "resolved_name": "HEDEOMA PULEGIOIDES",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Lycop",
+        "resolved_name": "LYCOPODIUM CLAVATUM",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      },
+      {
+        "original": "Pareir",
+        "resolved_name": "PAREIRA BRAVA",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Urtica",
+        "resolved_name": "URTICA URENS",
+        "confidence": 1,
+        "method": "exact"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:10.484Z"
+}

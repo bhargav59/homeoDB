@@ -1,0 +1,59 @@
+{
+  "remedy_name": "SEPIA OFFICINALIS",
+  "source_file": "raw_1772504882753.json",
+  "relationships": {
+    "complementary": [
+      {
+        "original": "Nat mur",
+        "resolved_name": "NATRIUM ARSENICOSUM",
+        "confidence": 0.55,
+        "method": "levenshtein_3"
+      }
+    ],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [
+      {
+        "original": "Lach",
+        "resolved_name": "LACHESIS",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      }
+    ],
+    "compare": [
+      {
+        "original": "Lit",
+        "resolved_name": "LITHIUM CARBONICUM",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Murex",
+        "resolved_name": "MUREX PURPUREA",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Silica",
+        "resolved_name": "Silica Marina.",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Sulph",
+        "resolved_name": "SULPHUR",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      },
+      {
+        "original": "Asperula-Nacent oxygen",
+        "resolved_name": "X",
+        "confidence": 0.8,
+        "method": "substring"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:11.196Z"
+}

@@ -1,0 +1,35 @@
+{
+  "remedy_name": "CANTHARIS VESICATORIA",
+  "source_file": "raw_1772500388097.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      {
+        "original": "Acon",
+        "resolved_name": "ACONITUM NAPELLUS",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      }
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Cantharidin--",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": [
+      {
+        "original": "Acon",
+        "resolved_name": "ACONITUM NAPELLUS",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      }
+    ]
+  },
+  "resolved_at": "2026-03-11T01:50:08.827Z"
+}

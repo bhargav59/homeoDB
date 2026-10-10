@@ -1,0 +1,22 @@
+{
+  "name": "Headache",
+  "url": "https://www.wheezalstore.com/product/29687087/Headache",
+  "collection_id": "bio_combination",
+  "title": "Headache",
+  "price": "₹99",
+  "description": "",
+  "image": "",
+  "scraped_at": "2026-03-26T05:28:35.123Z",
+  "composition": [
+    "Ferrum Phos. 3x",
+    "Kali Phos. 3x",
+    "Mag. Phos. 3x",
+    "Nat. Mur. 3x"
+  ],
+  "indications": [
+    "Nervous headache",
+    "Congestive headache",
+    "Migraine"
+  ],
+  "bc_number": "BC-12"
+}

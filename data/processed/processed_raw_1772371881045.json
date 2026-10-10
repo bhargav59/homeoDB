@@ -1,0 +1,72 @@
+{
+  "name": "AMMONIUM MURIATICUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Sal Ammoniac"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Thirst for lemonade, regurgitation of food, bitter waterbrash. Nausea. Gnawing in stomach. Epigastric pain immediately after eating. Cancer of stomach.",
+    "Hair falls out, with itchings and dandruff. Feels full, compressed; worse mornings.",
+    "Hoarseness and burning in larynx. Dry, hacking, scraping cough; worse lying on back or right side. Stitches in chest. Cough loose in afternoon, with profuse expectoration and rattling of mucus. Oppression of chest. Burning at small spots in chest. Scanty secretion. Cough with profuse salivation.",
+    "Pain as from ulceration in finger tips. Shooting and tearing in tips of finger and toes. Ulcerative pain in heels. Contraction of hamstring tendons. Sciatica, worse sitting, better lying. Neuralgic pain in amputated limbs. Offensive sweaty feet. Pain in feet during menses.",
+    "Icy coldness between shoulders; not relieved by warm covering, followed by itching. Bruised pain in coccyx when sitting. Backache, as if in a vise when sitting."
+  ],
+  "guiding_symptoms": [
+    "Thirst for lemonade, regurgitation of food, bitter waterbrash. Nausea. Gnawing in stomach. Epigastric pain immediately after eating. Cancer of stomach.",
+    "Hair falls out, with itchings and dandruff. Feels full, compressed; worse mornings.",
+    "Hoarseness and burning in larynx. Dry, hacking, scraping cough; worse lying on back or right side. Stitches in chest. Cough loose in afternoon, with profuse expectoration and rattling of mucus. Oppression of chest. Burning at small spots in chest. Scanty secretion. Cough with profuse salivation."
+  ],
+  "modalities": {
+    "worse": [
+      "head and chest symptoms in the morning",
+      "abdominal symptoms in the afternoon"
+    ],
+    "better": [
+      "open air"
+    ]
+  },
+  "mind_symptoms": [
+    "Melancholy, apprehensive; like from internal grief. Desire to cry, but cannot. Consequences of grief."
+  ],
+  "head_symptoms": [
+    "Hair falls out, with itchings and dandruff. Feels full, compressed; worse mornings."
+  ],
+  "respiratory_symptoms": [
+    "Hoarseness and burning in larynx. Dry, hacking, scraping cough; worse lying on back or right side. Stitches in chest. Cough loose in afternoon, with profuse expectoration and rattling of mucus. Oppression of chest. Burning at small spots in chest. Scanty secretion. Cough with profuse salivation."
+  ],
+  "gi_symptoms": [
+    "Thirst for lemonade, regurgitation of food, bitter waterbrash. Nausea. Gnawing in stomach. Epigastric pain immediately after eating. Cancer of stomach."
+  ],
+  "urinary_symptoms": [
+    "Menses too early, too free, dark, clotted; flow more at night. Pain as if sprained in left side of abdomen during pregnancy. Diarrhœa, greenish mucous stools, and navel pain during menses. Leucorrhœa, like white of an egg (Alum; Bor; Calc p); with pain about the navel; brown, slimy after every urination."
+  ],
+  "musculoskeletal_symptoms": [
+    "Pain as from ulceration in finger tips. Shooting and tearing in tips of finger and toes. Ulcerative pain in heels. Contraction of hamstring tendons. Sciatica, worse sitting, better lying. Neuralgic pain in amputated limbs. Offensive sweaty feet. Pain in feet during menses."
+  ],
+  "skin_symptoms": [
+    "Itching, generally evenings. Blisters on various parts. Intense burning better cold applications."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [
+    "Chilliness evenings after lying down and on awakening, without thirst. Heat in palms and soles. Sub acute, low fevers due to unhealthy climate. Lowest potencies."
+  ],
+  "complementary_remedies": [
+    "Calcarea",
+    "Senega",
+    "Caustic"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/a/am-m.htm",
+    "title": "AMMONIUM MURIATICUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-01T13:31:21.045Z"
+  },
+  "confidence_score": 0.8
+}

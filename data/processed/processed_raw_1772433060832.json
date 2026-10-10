@@ -1,0 +1,75 @@
+{
+  "name": "APIS MELLIFICA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "The Honey-Bee"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Sore feeling. Thirstless. Vomiting of food. Craving for milk (Rhus).",
+    "Whole brain feels very tired. Vertigo with sneezing, worse on lying or closing eyes. Heat, throbbing, distensive pains, better on pressure, and worse on motion. Sudden stabbing pains. Dull, heavy sensation in occiput, as from a blow, extending to neck (better on pressure), accompanied with sexual excitement. Bores head into pillow and screams out.",
+    "Hoarseness; dyspnśa, breathing hurried and difficult. Śdema of larynx. Feels as if he could not draw another breath. Suffocation; short, dry cough, suprasternal. Hydrothorax.",
+    "Śdematous. Synovitis. Felon in beginning. Knee swollen, shiny, sensitive, sore, with stinging pain. Feet swollen and stiff. Feel too large. Rheumatic pain in back and limbs; Tired, bruised feeling. Numbness of hands and tips of fingers. Hives with intolerable itching. Śdematous swellings."
+  ],
+  "guiding_symptoms": [
+    "Sore feeling. Thirstless. Vomiting of food. Craving for milk (Rhus).",
+    "Whole brain feels very tired. Vertigo with sneezing, worse on lying or closing eyes. Heat, throbbing, distensive pains, better on pressure, and worse on motion. Sudden stabbing pains. Dull, heavy sensation in occiput, as from a blow, extending to neck (better on pressure), accompanied with sexual excitement. Bores head into pillow and screams out.",
+    "Hoarseness; dyspnśa, breathing hurried and difficult. Śdema of larynx. Feels as if he could not draw another breath. Suffocation; short, dry cough, suprasternal. Hydrothorax."
+  ],
+  "modalities": {
+    "worse": [
+      "heat in any form",
+      "touch",
+      "pressure",
+      "late in afternoon",
+      "after sleeping"
+    ],
+    "better": [
+      "in open air, uncovering, and cold bathing"
+    ]
+  },
+  "mind_symptoms": [
+    "Apathy, indifference, and unconsciousness. Awkward; drops things readily. Stupor, with sudden sharp cries and startings. Stupor alternating with erotic mania. Sensation of dying. Listless; cannot think clearly. Jealous, fidgety, hard to please. Sudden shrill, piercing screams. Whining. Tearfulness. Jealously, fright, rage, vexation, grief. Cannot concentrate mind when attempting to read or study."
+  ],
+  "head_symptoms": [
+    "Whole brain feels very tired. Vertigo with sneezing, worse on lying or closing eyes. Heat, throbbing, distensive pains, better on pressure, and worse on motion. Sudden stabbing pains. Dull, heavy sensation in occiput, as from a blow, extending to neck (better on pressure), accompanied with sexual excitement. Bores head into pillow and screams out."
+  ],
+  "respiratory_symptoms": [
+    "Hoarseness; dyspnśa, breathing hurried and difficult. Śdema of larynx. Feels as if he could not draw another breath. Suffocation; short, dry cough, suprasternal. Hydrothorax."
+  ],
+  "gi_symptoms": [
+    "Sore feeling. Thirstless. Vomiting of food. Craving for milk (Rhus)."
+  ],
+  "urinary_symptoms": [
+    "Śdema of labia; relieved by cold water. Soreness and stinging pains; ovaritis; worse in right ovary. Menses suppressed, with cerebral and head symptoms, especially in young girls. Dysmenorrhśa, with severe ovarian pains. Metrorrhagia profuse, with heavy abdomen, faintness, stinging pain. Sense of tightness. Bearing-down, as if menses were to appear. Ovarian tumors, metritis with stinging pains. Great tenderness over abdomen and uterine region."
+  ],
+  "musculoskeletal_symptoms": [
+    "Śdematous. Synovitis. Felon in beginning. Knee swollen, shiny, sensitive, sore, with stinging pain. Feet swollen and stiff. Feel too large. Rheumatic pain in back and limbs; Tired, bruised feeling. Numbness of hands and tips of fingers. Hives with intolerable itching. Śdematous swellings."
+  ],
+  "skin_symptoms": [
+    "Swellings after bites; sore, sensitive. Stinging. Erysipelas, with sensitiveness and swelling, rosy hue. Carbuncles, with burning, stinging pain (Ars; Anthrac). Sudden puffing up of whole body."
+  ],
+  "sleep_symptoms": [
+    "Very drowsy. Dreams full of care and toil. Screams and sudden starting during sleep."
+  ],
+  "fever_symptoms": [
+    "Afternoon chill, with thirst; worse on motion and heat. External heat, with smothering feeling. Sweat slight, with sleepiness. Perspiration breaks out and dries up frequently. Sleeps after the fever paroxysm. After perspiration, nettle rash, also with shuddering."
+  ],
+  "complementary_remedies": [
+    "Apium virus (auto-toxćmia",
+    "with pus products"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/a/apis.htm",
+    "title": "APIS MELLIFICA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-02T06:31:00.832Z"
+  },
+  "confidence_score": 0.8
+}

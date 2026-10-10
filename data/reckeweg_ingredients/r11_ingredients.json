@@ -1,0 +1,16 @@
+{
+  "remedy_number": "R11",
+  "remedy_name": "Rheumatism Drops",
+  "ingredients": [
+    "Berberis vulgaris D4",
+    "Calcium phosphoricum D12",
+    "Causticum D6",
+    "Dulcamara D4",
+    "Ledum D4",
+    "Nux vomica D4",
+    "Rhododendron chrysanthum D6",
+    "Rhus toxicodendron D6"
+  ],
+  "source": "Compiled from reckeweg-india.com, 1mg.com, medikosh.com references",
+  "parsed_at": "2026-03-03T15:30:26.464Z"
+}

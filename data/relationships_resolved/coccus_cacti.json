@@ -1,0 +1,33 @@
+{
+  "remedy_name": "COCCUS CACTI",
+  "source_file": "raw_1772500926446.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Canth",
+        "resolved_name": "CANTHARIS VESICATORIA",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Cact",
+        "resolved_name": "CACTUS GRANDIFLORUS",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Sars",
+        "resolved_name": "SARSAPARILLA OFFICINALIS",
+        "confidence": 0.8,
+        "method": "substring"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:09.027Z"
+}

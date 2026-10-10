@@ -1,0 +1,44 @@
+{
+  "name": "MEDUSA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Jelly-fish"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [],
+  "guiding_symptoms": [],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [],
+  "urinary_symptoms": [
+    "Marked action on lacteal glands. The secretion of milk was established after lack of it in all previous confinements."
+  ],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [
+    "Numbness; burning, pricking heat. Vesicular eruption especially on face, arms, shoulders, and breasts. Nettlerash (Apis; Chloral; Dulc)."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Pyrarara",
+    "Physalia (urticaria"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/m/medus.htm",
+    "title": "MEDUSA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:59:16.532Z"
+  },
+  "confidence_score": 0.38
+}

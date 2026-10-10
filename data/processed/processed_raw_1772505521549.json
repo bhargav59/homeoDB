@@ -1,0 +1,57 @@
+{
+  "name": "TRILLIUM PENDULUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "White Beth-root"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Heat and burning stomach rising up in œsophagus. Hæmatemesis.",
+    "Pain in forehead; worse, noise. Confused; eyeballs feel too large. Vision blurred; everything looks bluish. Nose-bleed (Millef; Melilot).",
+    "Cough, with spitting of blood. Copious, purulent expectoration. Hæmoptysis. Aching at end of sternum. Suffocative attack of irregular breathing with sneezing. Shooting pains through chest."
+  ],
+  "guiding_symptoms": [
+    "Heat and burning stomach rising up in œsophagus. Hæmatemesis.",
+    "Pain in forehead; worse, noise. Confused; eyeballs feel too large. Vision blurred; everything looks bluish. Nose-bleed (Millef; Melilot).",
+    "Cough, with spitting of blood. Copious, purulent expectoration. Hæmoptysis. Aching at end of sternum. Suffocative attack of irregular breathing with sneezing. Shooting pains through chest."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Pain in forehead; worse, noise. Confused; eyeballs feel too large. Vision blurred; everything looks bluish. Nose-bleed (Millef; Melilot)."
+  ],
+  "respiratory_symptoms": [
+    "Cough, with spitting of blood. Copious, purulent expectoration. Hæmoptysis. Aching at end of sternum. Suffocative attack of irregular breathing with sneezing. Shooting pains through chest."
+  ],
+  "gi_symptoms": [
+    "Heat and burning stomach rising up in œsophagus. Hæmatemesis."
+  ],
+  "urinary_symptoms": [
+    "Uterine hæmorrhages, with sensation as though hips and back were falling to pieces; better tight bandages. Gushing of bright blood on least movement. Hæmorrhage from fibroids (Calc; Nitr ac; Phos; Sulph ac). Prolapse, with great bearing-down. Leucorrhœa copious, yellow, stringy (Hydras; Kali b; Sabin). Metrorrhagia at climacteric. Lochia suddenly becomes sanguinous. Dribbling of urine after labor."
+  ],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Trillium cernum (eye symptoms",
+    "everything looks bluish",
+    "greasy feeling in mouth"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/t/tril-p.htm",
+    "title": "TRILLIUM PENDULUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:38:41.549Z"
+  },
+  "confidence_score": 0.6799999999999999
+}

@@ -1,0 +1,72 @@
+{
+  "name": "PHOSPHORICUM ACIDUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Phosphoric Acid"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Craves juicy things. Sour risings. Nausea. Symptoms following sour food and drink. Pressure as from a weight, with sleepiness after eating (Fel tauri). Thirst for cold milk.",
+    "Heavy; confused. Pain as if temples were crushed together. Worse, shaking or noise. Crushing headache. Pressure on top. Hair gray early in life; falls out. Dull headache after coition; from eye-strain (Nat m). Vertigo toward evening, when standing or walking. Hair thins out, turns gray early.",
+    "Chest troubles develop after brain-fag. Hoarseness. Dry cough from tickling in chest. Salty expectoration. Difficult respiration. Weak feeling in chest from talking (Stann). Pressure behind the sternum, rendering breathing difficult.",
+    "Palpitation in children who grow too fast; after grief, self-abuse. Pulse irregular, intermittent.",
+    "Weak. Tearing pains in joints, bones, and periosteum. Cramps in upper arms and wrists. Great debility. Pains at night, as if bones were scraped. Stumbles easily and makes missteps. Itching, between fingers or in folds of joints.",
+    "Boring pain between scapulć. Pain in back and limbs, as if beaten."
+  ],
+  "guiding_symptoms": [
+    "Craves juicy things. Sour risings. Nausea. Symptoms following sour food and drink. Pressure as from a weight, with sleepiness after eating (Fel tauri). Thirst for cold milk.",
+    "Heavy; confused. Pain as if temples were crushed together. Worse, shaking or noise. Crushing headache. Pressure on top. Hair gray early in life; falls out. Dull headache after coition; from eye-strain (Nat m). Vertigo toward evening, when standing or walking. Hair thins out, turns gray early.",
+    "Chest troubles develop after brain-fag. Hoarseness. Dry cough from tickling in chest. Salty expectoration. Difficult respiration. Weak feeling in chest from talking (Stann). Pressure behind the sternum, rendering breathing difficult."
+  ],
+  "modalities": {
+    "worse": [
+      "exertion, from being talked to",
+      "loss of vital fluids",
+      "sexual excesses"
+    ],
+    "better": [
+      "from keeping warm"
+    ]
+  },
+  "mind_symptoms": [
+    "Listless. Impaired memory (Anac). Apathetic, indifferent. Cannot collect his thoughts or find the right word. Difficult comprehension. Effects of grief and mental shock. Delirium, with great stupefaction. Settled despair."
+  ],
+  "head_symptoms": [
+    "Heavy; confused. Pain as if temples were crushed together. Worse, shaking or noise. Crushing headache. Pressure on top. Hair gray early in life; falls out. Dull headache after coition; from eye-strain (Nat m). Vertigo toward evening, when standing or walking. Hair thins out, turns gray early."
+  ],
+  "respiratory_symptoms": [
+    "Chest troubles develop after brain-fag. Hoarseness. Dry cough from tickling in chest. Salty expectoration. Difficult respiration. Weak feeling in chest from talking (Stann). Pressure behind the sternum, rendering breathing difficult."
+  ],
+  "gi_symptoms": [
+    "Craves juicy things. Sour risings. Nausea. Symptoms following sour food and drink. Pressure as from a weight, with sleepiness after eating (Fel tauri). Thirst for cold milk."
+  ],
+  "urinary_symptoms": [
+    "Emissions at night and at stool. Seminal vesiculitis (Oxal acid). Sexual power deficient; testicles tender and swollen. Parts relax during embrace (Nux). Prostatorrhśa, even when passing a soft stool. Eczema of scrotum. Śdema of prepuce, and swollen glans-penis. Herpes preputialis. Sycotic excrescences (Thuja)."
+  ],
+  "musculoskeletal_symptoms": [
+    "Weak. Tearing pains in joints, bones, and periosteum. Cramps in upper arms and wrists. Great debility. Pains at night, as if bones were scraped. Stumbles easily and makes missteps. Itching, between fingers or in folds of joints."
+  ],
+  "skin_symptoms": [
+    "Pimples, acne, blood-boils. Ulcers, with very offensive pus. Burning red rash. Formication in various parts. Falling out of the hair (Nat mur; Selen). Tendency to abscess after fevers."
+  ],
+  "sleep_symptoms": [
+    "Somnolency. Lascivious dreams with emissions."
+  ],
+  "fever_symptoms": [
+    "Chilliness. Profuse sweat during night and morning. Low types of fever, with dull comprehension ans stupor."
+  ],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/p/ph-ac.htm",
+    "title": "PHOSPHORICUM ACIDUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:14:48.562Z"
+  },
+  "confidence_score": 0.8
+}

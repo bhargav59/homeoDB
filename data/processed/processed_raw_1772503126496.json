@@ -1,0 +1,61 @@
+{
+  "name": "MANGANUM ACETICUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Manganese Acetate"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Anxiety and fear; better lying down. Feels large and heavy, with rush of blood; pain from above downward. Field of vision contracted. Stolidy mask-like face.",
+    "Chronic hoarseness. Larynx dry, rough, constricted. Tuberculosis of larynx. Cough; worse evening, and better lying down and worse in damp weather. Mucus difficult to loosen. Stitches in larynx extending to ear. Heat in chest. Hćmoptysis. Every cold rouses up a bronchitis (Dulc).",
+    "Muscular twitching. Cramps in calves. Stiffness in muscles of legs. Inflammation of bones and joints with insupportable nightly digging pains. Every part of body feels sore when touched. Cannot walk backwards without falling. Tending to fall forward. Walks stooping forward. Legs feel numb. Wilson's disease. Paralysis agitans. Peculiar slapping gait, walks on metacarpo-phalangeal joint; walks backwards. Ankles painful. Bones very sensitive. Shiny red swelling of joints. Knees pain and itch. Rheumatism of feet. Intolerable pain in skin of lower limbs. Burning spots about joints. Periosteal inflammation. Suppuration of skin around joints."
+  ],
+  "guiding_symptoms": [
+    "Anxiety and fear; better lying down. Feels large and heavy, with rush of blood; pain from above downward. Field of vision contracted. Stolidy mask-like face.",
+    "Chronic hoarseness. Larynx dry, rough, constricted. Tuberculosis of larynx. Cough; worse evening, and better lying down and worse in damp weather. Mucus difficult to loosen. Stitches in larynx extending to ear. Heat in chest. Hćmoptysis. Every cold rouses up a bronchitis (Dulc).",
+    "Muscular twitching. Cramps in calves. Stiffness in muscles of legs. Inflammation of bones and joints with insupportable nightly digging pains. Every part of body feels sore when touched. Cannot walk backwards without falling. Tending to fall forward. Walks stooping forward. Legs feel numb. Wilson's disease. Paralysis agitans. Peculiar slapping gait, walks on metacarpo-phalangeal joint; walks backwards. Ankles painful. Bones very sensitive. Shiny red swelling of joints. Knees pain and itch. Rheumatism of feet. Intolerable pain in skin of lower limbs. Burning spots about joints. Periosteal inflammation. Suppuration of skin around joints."
+  ],
+  "modalities": {
+    "worse": [
+      "cold wet weather, change of weather"
+    ],
+    "better": [
+      "lying down (cough)"
+    ]
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Anxiety and fear; better lying down. Feels large and heavy, with rush of blood; pain from above downward. Field of vision contracted. Stolidy mask-like face."
+  ],
+  "respiratory_symptoms": [
+    "Chronic hoarseness. Larynx dry, rough, constricted. Tuberculosis of larynx. Cough; worse evening, and better lying down and worse in damp weather. Mucus difficult to loosen. Stitches in larynx extending to ear. Heat in chest. Hćmoptysis. Every cold rouses up a bronchitis (Dulc)."
+  ],
+  "gi_symptoms": [],
+  "urinary_symptoms": [
+    "Derangements of menstruation, amenorrhśa; menses too early and scanty, in anćmic subjects. Flushes of heat at climacteric."
+  ],
+  "musculoskeletal_symptoms": [
+    "Muscular twitching. Cramps in calves. Stiffness in muscles of legs. Inflammation of bones and joints with insupportable nightly digging pains. Every part of body feels sore when touched. Cannot walk backwards without falling. Tending to fall forward. Walks stooping forward. Legs feel numb. Wilson's disease. Paralysis agitans. Peculiar slapping gait, walks on metacarpo-phalangeal joint; walks backwards. Ankles painful. Bones very sensitive. Shiny red swelling of joints. Knees pain and itch. Rheumatism of feet. Intolerable pain in skin of lower limbs. Burning spots about joints. Periosteal inflammation. Suppuration of skin around joints."
+  ],
+  "skin_symptoms": [
+    "Suppuration of skin around joints. Red, elevated spots. Itching; better, scratching. Deep cracks in bends of elbows, etc. Psoriasis and pityriasis. Burning around ulcers. Chronic eczema associated with amenorrhśa, worse at menstrual period or at menopause."
+  ],
+  "sleep_symptoms": [
+    "Languor and sleepiness. Vivid dreams. Sleepy very early in evening."
+  ],
+  "fever_symptoms": [],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/m/mang-act.htm",
+    "title": "MANGANUM ACETICUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:58:46.496Z"
+  },
+  "confidence_score": 0.8
+}

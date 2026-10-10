@@ -1,0 +1,19 @@
+{
+  "remedy_name": "EUPHORBIA LATHYRIS",
+  "source_file": "raw_1772501586132.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/e/euph-l.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      "Rhus tox"
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [],
+    "incompatible": [],
+    "antidotes": [
+      "d by Rhus tox"
+    ]
+  },
+  "parsed_at": "2026-03-03T15:23:37.463Z"
+}

@@ -1,0 +1,25 @@
+{
+  "remedy_name": "BUFO RANA",
+  "source_file": "raw_1772500144872.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/b/bufo.htm",
+  "relationships": {
+    "complementary": [
+      "Salamandra"
+    ],
+    "antidoted_by": [
+      "Laches"
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Baryt carb",
+      "Asterias",
+      "Salamand"
+    ],
+    "incompatible": [],
+    "antidotes": [
+      "Laches"
+    ]
+  },
+  "parsed_at": "2026-03-03T15:23:37.395Z"
+}

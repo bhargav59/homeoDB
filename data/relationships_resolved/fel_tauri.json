@@ -1,0 +1,27 @@
+{
+  "remedy_name": "FEL TAURI",
+  "source_file": "raw_1772501646716.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Merc dulc",
+        "resolved_name": "MERCURIUS SOLUBILIS",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      },
+      {
+        "original": "Cholesterin",
+        "resolved_name": "CHOLESTERINUM",
+        "confidence": 0.8,
+        "method": "substring"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:09.623Z"
+}

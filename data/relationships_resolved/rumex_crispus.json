@@ -1,0 +1,33 @@
+{
+  "remedy_name": "RUMEX CRISPUS",
+  "source_file": "raw_1772504597689.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Caust",
+        "resolved_name": "CAUSTICUM",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      },
+      {
+        "original": "Sulph",
+        "resolved_name": "SULPHUR",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      },
+      {
+        "original": "Bell",
+        "resolved_name": "BELLADONNA",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:11.035Z"
+}

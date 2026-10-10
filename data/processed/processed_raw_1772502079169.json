@@ -1,0 +1,65 @@
+{
+  "name": "HAMAMELIS VIRGINIANA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Witch-hazel"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Tongue feels burnt. Thirst. Blisters on side. Hæmatemesis of black blood. Throbbing and pain in stomach.",
+    "Wants \"the respect due to me\" shown. Feeling as of a bolt from temple to temple. Fullness, followed by epistaxis. Numbness over frontal bone.",
+    "Hæmoptysis; tickling cough. Chest feels sore and constricted.",
+    "Tired feeling in arms and legs. Very sore muscles and joints. Varicose veins. Chilliness in back and hips, extending down legs. Neuralgia of internal saphenous nerve.",
+    "Sore pain down cervical vertebræ. Severe pain in lumbar and hypogastric region, extending down legs."
+  ],
+  "guiding_symptoms": [
+    "Tongue feels burnt. Thirst. Blisters on side. Hæmatemesis of black blood. Throbbing and pain in stomach.",
+    "Wants \"the respect due to me\" shown. Feeling as of a bolt from temple to temple. Fullness, followed by epistaxis. Numbness over frontal bone.",
+    "Hæmoptysis; tickling cough. Chest feels sore and constricted."
+  ],
+  "modalities": {
+    "worse": [
+      "warm, moist air"
+    ],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Wants \"the respect due to me\" shown. Feeling as of a bolt from temple to temple. Fullness, followed by epistaxis. Numbness over frontal bone."
+  ],
+  "respiratory_symptoms": [
+    "Hæmoptysis; tickling cough. Chest feels sore and constricted."
+  ],
+  "gi_symptoms": [
+    "Tongue feels burnt. Thirst. Blisters on side. Hæmatemesis of black blood. Throbbing and pain in stomach."
+  ],
+  "urinary_symptoms": [
+    "Pain in spermatic cord, running into testes. Varicocele. Pain in testicles. Orchitis. Testicles enlarged, hot, and painful. Epididymitis."
+  ],
+  "musculoskeletal_symptoms": [
+    "Tired feeling in arms and legs. Very sore muscles and joints. Varicose veins. Chilliness in back and hips, extending down legs. Neuralgia of internal saphenous nerve."
+  ],
+  "skin_symptoms": [
+    "Bluish chilblains. Phlebitis. Purpura. Varicose veins and ulcers; very sore. Burns. Ecchymosis. Traumatic inflammations (Arnica)."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "in hæmorrhoids: Calc fluor",
+    "Aloe",
+    "Mur ac in varicose veins"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/h/ham.htm",
+    "title": "HAMAMELIS VIRGINIANA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:41:19.169Z"
+  },
+  "confidence_score": 0.8
+}

@@ -1,0 +1,71 @@
+{
+  "name": "ANTIMONIUM CRUDUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Black Sulphide of Antimony"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Loss of appetite. Desire for acids, pickles. Thirst in evening and night. Eructation tasting of the ingesta. Heartburn, nausea, vomiting. After nursing, the child vomits its milk in curds, and refuses to nurse afterwards, and is very cross. Gastric and intestinal complaints from bread and pastry, acids, sour wine, cold bathing, overheating, hot weather. Constant belching. Gouty metastasis to stomach and bowels. Sweetish waterbrash. Bloating after eating.",
+    "Aching, worse in vertex, on ascending, from bathing, from disordered stomach, especially from eating candy or drinking acid wines. Suppressed eruptions. Heaviness in forehead with vertigo; nausea, and nosebleed. Headache with great loss of hair.",
+    "Cough worse coming into warm room, with burning sensation in chest, itching of chest, oppression. Loss of voice from becoming overheated. Voice harsh and badly pitched.",
+    "Twitching of muscles. Jerks in arms. Arthritic pain in fingers. Nails brittle; grow out of shape. Horny warts on hands and soles. Weakness and shaking of hands in writing followed by offensive flatulence. Feet very tender; covered with large horny places. Inflamed corns. Pain in heels.",
+    "Itching and pain of neck and back."
+  ],
+  "guiding_symptoms": [
+    "Loss of appetite. Desire for acids, pickles. Thirst in evening and night. Eructation tasting of the ingesta. Heartburn, nausea, vomiting. After nursing, the child vomits its milk in curds, and refuses to nurse afterwards, and is very cross. Gastric and intestinal complaints from bread and pastry, acids, sour wine, cold bathing, overheating, hot weather. Constant belching. Gouty metastasis to stomach and bowels. Sweetish waterbrash. Bloating after eating.",
+    "Aching, worse in vertex, on ascending, from bathing, from disordered stomach, especially from eating candy or drinking acid wines. Suppressed eruptions. Heaviness in forehead with vertigo; nausea, and nosebleed. Headache with great loss of hair.",
+    "Cough worse coming into warm room, with burning sensation in chest, itching of chest, oppression. Loss of voice from becoming overheated. Voice harsh and badly pitched."
+  ],
+  "modalities": {
+    "worse": [
+      "in evening, from heat, acids, wine, water, and washing"
+    ],
+    "better": [
+      "in open air, during rest"
+    ]
+  },
+  "mind_symptoms": [
+    "Much concerned about his fate. Cross and contradictive; whatever is done fails to give satisfaction. Sulky; does not wish to speak. Peevish; vexed without cause. Child cannot bear to be touched or looked at. Angry at every little attention. Sentimental mood."
+  ],
+  "head_symptoms": [
+    "Aching, worse in vertex, on ascending, from bathing, from disordered stomach, especially from eating candy or drinking acid wines. Suppressed eruptions. Heaviness in forehead with vertigo; nausea, and nosebleed. Headache with great loss of hair."
+  ],
+  "respiratory_symptoms": [
+    "Cough worse coming into warm room, with burning sensation in chest, itching of chest, oppression. Loss of voice from becoming overheated. Voice harsh and badly pitched."
+  ],
+  "gi_symptoms": [
+    "Loss of appetite. Desire for acids, pickles. Thirst in evening and night. Eructation tasting of the ingesta. Heartburn, nausea, vomiting. After nursing, the child vomits its milk in curds, and refuses to nurse afterwards, and is very cross. Gastric and intestinal complaints from bread and pastry, acids, sour wine, cold bathing, overheating, hot weather. Constant belching. Gouty metastasis to stomach and bowels. Sweetish waterbrash. Bloating after eating."
+  ],
+  "urinary_symptoms": [
+    "Eruption on scrotum and about genitals. Impotence. Atrophy of penis and testicles."
+  ],
+  "musculoskeletal_symptoms": [
+    "Twitching of muscles. Jerks in arms. Arthritic pain in fingers. Nails brittle; grow out of shape. Horny warts on hands and soles. Weakness and shaking of hands in writing followed by offensive flatulence. Feet very tender; covered with large horny places. Inflamed corns. Pain in heels."
+  ],
+  "skin_symptoms": [
+    "Eczema with gastric derangements. Pimples, vesicles, and pustules. Sensitive to cold bathing. Thick, hard, honey-colored scabs. Urticaria; measle-like eruption. Itching when warm in bed. Dry skin. Warts (Thuja; Sabina; Caust). Dry gangrene. Scaly, pustular eruption with burning and itching, worse at night."
+  ],
+  "sleep_symptoms": [
+    "Continual drowsiness in old people."
+  ],
+  "fever_symptoms": [
+    "Chilly even in warm room. Intermittent with disgust, nausea, vomiting, eructations, coated tongue, diarrhœa. Hot sweat."
+  ],
+  "complementary_remedies": [
+    "Antimonium Chloridum"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/a/ant-c.htm",
+    "title": "ANTIMONIUM CRUDUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-02T06:29:15.217Z"
+  },
+  "confidence_score": 0.8
+}

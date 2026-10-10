@@ -1,0 +1,21 @@
+{
+  "remedy_name": "MITCHELLA REPENS",
+  "source_file": "raw_1772503357641.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/m/mit.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Chimaph",
+      "Senecio",
+      "Uva",
+      "Geran",
+      "Gossyp"
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "parsed_at": "2026-03-03T15:23:37.550Z"
+}

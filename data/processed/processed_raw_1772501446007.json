@@ -1,0 +1,51 @@
+{
+  "name": "EPIPHEGUS VIRGINIANA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Beechdrop"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Pressing pain in temples from without inwards, worse, left side. Viscid salivation, constant inclination to spit. Sick headache coming on when deviating from ordinary pursuits. Headaches from nerve tire caused by mental or physical exhaustion, preceded by hunger."
+  ],
+  "guiding_symptoms": [
+    "Pressing pain in temples from without inwards, worse, left side. Viscid salivation, constant inclination to spit. Sick headache coming on when deviating from ordinary pursuits. Headaches from nerve tire caused by mental or physical exhaustion, preceded by hunger."
+  ],
+  "modalities": {
+    "worse": [
+      "from working in open air"
+    ],
+    "better": [
+      "from sleep"
+    ]
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Pressing pain in temples from without inwards, worse, left side. Viscid salivation, constant inclination to spit. Sick headache coming on when deviating from ordinary pursuits. Headaches from nerve tire caused by mental or physical exhaustion, preceded by hunger."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Iris",
+    "Melilot",
+    "Sanguinar"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/e/epiph.htm",
+    "title": "EPIPHEGUS VIRGINIANA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:30:46.007Z"
+  },
+  "confidence_score": 0.44
+}

@@ -1,0 +1,27 @@
+{
+  "remedy_name": "VERATRUM VIRIDE",
+  "source_file": "raw_1772505726968.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/v/verat-v.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      "Strychnin-fluid extract",
+      "20-40 drops"
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Gels",
+      "Bapt",
+      "Bell",
+      "Acon",
+      "Ferr phos"
+    ],
+    "incompatible": [],
+    "antidotes": [
+      "Strychnin-fluid extract",
+      "20-40 drops"
+    ]
+  },
+  "parsed_at": "2026-03-03T15:23:37.771Z"
+}

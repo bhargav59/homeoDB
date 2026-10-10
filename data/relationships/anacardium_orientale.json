@@ -1,0 +1,29 @@
+{
+  "remedy_name": "ANACARDIUM ORIENTALE",
+  "source_file": "raw_1772371996735.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/a/anac.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      "Grindeleia"
+    ],
+    "follows_well": [
+      "Cereus serpentina"
+    ],
+    "inimical": [],
+    "compare": [
+      "Anacard occidentale  (erysipelas",
+      "vesicular facial eruptions)",
+      "(anæsthetic variety of leprosy",
+      "warts",
+      "corns",
+      "ulcers",
+      "cracking of the skin on soles of feet)"
+    ],
+    "incompatible": [],
+    "antidotes": [
+      "Grindeleia"
+    ]
+  },
+  "parsed_at": "2026-03-03T15:23:37.341Z"
+}

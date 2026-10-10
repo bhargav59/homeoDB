@@ -1,0 +1,41 @@
+{
+  "remedy_name": "GINSENG QUINQUEFOLIUM",
+  "source_file": "raw_1772501923416.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      {
+        "original": "Gunpowder",
+        "resolved_name": "Gunpowder.",
+        "confidence": 0.8,
+        "method": "substring"
+      }
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Aral",
+        "resolved_name": "ARALIA RACEMOSA",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Coca",
+        "resolved_name": "COCA",
+        "confidence": 1,
+        "method": "exact"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": [
+      {
+        "original": "d by Gunpowder",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      }
+    ]
+  },
+  "resolved_at": "2026-03-11T01:50:09.733Z"
+}

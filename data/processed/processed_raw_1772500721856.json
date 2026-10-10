@@ -1,0 +1,51 @@
+{
+  "name": "CHININUM SULPHURICUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Sulphite of Quinine"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Pain in forehead and temples, increasing gradually at noon, of malarial origin, with vertigo and pulsation. Worse left side. Falling in street. Inability to remain standing. Amaurosis."
+  ],
+  "guiding_symptoms": [
+    "Pain in forehead and temples, increasing gradually at noon, of malarial origin, with vertigo and pulsation. Worse left side. Falling in street. Inability to remain standing. Amaurosis."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Pain in forehead and temples, increasing gradually at noon, of malarial origin, with vertigo and pulsation. Worse left side. Falling in street. Inability to remain standing. Amaurosis."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [
+    "Itching; erythema, urticaria, icterus, vesication, pustules, purpura. Great sensitiveness. Shriveled skin."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [
+    "Chill daily at 3 pm. Painful swelling of various veins during a chill. Shivering even in a warm room. Anguish. Subnormal temperature."
+  ],
+  "complementary_remedies": [
+    "Chin salicyl (Deafness",
+    "tinnitus",
+    "and Meniere's disease"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/c/chinin-s.htm",
+    "title": "CHININUM SULPHURICUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:18:41.856Z"
+  },
+  "confidence_score": 0.62
+}

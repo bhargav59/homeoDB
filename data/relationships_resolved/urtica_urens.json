@@ -1,0 +1,93 @@
+{
+  "remedy_name": "URTICA URENS",
+  "source_file": "raw_1772505623715.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Medusa",
+        "resolved_name": "MEDUSA",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Nat mur",
+        "resolved_name": "NATRIUM ARSENICOSUM",
+        "confidence": 0.55,
+        "method": "levenshtein_3"
+      },
+      {
+        "original": "Lac can",
+        "resolved_name": "LAC CANINUM",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Ricin",
+        "resolved_name": "RICINUS COMMUNIS",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Bombyx",
+        "resolved_name": "Bombyx Processionea.",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Rhus",
+        "resolved_name": "RHUS GLABRA",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Apis",
+        "resolved_name": "APIS MELLIFICA",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Chloral",
+        "resolved_name": "CHLORALUM HYDRATUM",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Astac",
+        "resolved_name": "ASTACUS FLUVIATILIS",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Puls",
+        "resolved_name": "PULSATILLA",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      },
+      {
+        "original": "Boletus luridus and Anacard",
+        "resolved_name": "BOLETUS LARICIS",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Lycop and Hedeoma",
+        "resolved_name": "LYCOPODIUM CLAVATUM",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      },
+      {
+        "original": "Formica",
+        "resolved_name": "FORMICA RUFA",
+        "confidence": 1,
+        "method": "exact"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:11.657Z"
+}

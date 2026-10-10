@@ -1,0 +1,35 @@
+{
+  "remedy_name": "CARBOLICUM ACIDUM",
+  "source_file": "raw_1772500408058.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      {
+        "original": "Alcohol",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      }
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [],
+    "incompatible": [
+      {
+        "original": "Glycerine and vegetable oils",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      }
+    ],
+    "antidotes": [
+      {
+        "original": "Alcohol",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      }
+    ]
+  },
+  "resolved_at": "2026-03-11T01:50:08.867Z"
+}

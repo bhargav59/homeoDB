@@ -1,0 +1,58 @@
+{
+  "name": "CHIMAPHILA UMBELLATA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Pipsissewa"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Pain in left frontal protuberance. Halo about the light. Itching of eyelids. Stabbing pain in left eye with lachrymation.",
+    "Feeling of a band above left knee."
+  ],
+  "guiding_symptoms": [
+    "Pain in left frontal protuberance. Halo about the light. Itching of eyelids. Stabbing pain in left eye with lachrymation.",
+    "Feeling of a band above left knee."
+  ],
+  "modalities": {
+    "worse": [
+      "in damp weather",
+      "from sitting on cold stones or pavements",
+      "left side"
+    ],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Pain in left frontal protuberance. Halo about the light. Itching of eyelids. Stabbing pain in left eye with lachrymation."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [],
+  "urinary_symptoms": [
+    "Urging to urinate. Urine turbid, offensive, containing ropy or bloody mucus, and depositing a copious sediment. Burning and scalding during micturition, and straining afterwards. Must strain before flow comes. Scanty urine. Acute prostatitis, retention, and feeling of a ball in perineum (Cann ind). Fluttering in region of kidney. Sugar in urine. Unable to urinate without standing with feet wide apart and body inclined forward."
+  ],
+  "musculoskeletal_symptoms": [
+    "Feeling of a band above left knee."
+  ],
+  "skin_symptoms": [
+    "Scrofulous ulcers. Glandular enlargements."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "burning fever",
+    "sensation of swelling in arm pits"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/c/chim.htm",
+    "title": "CHIMAPHILA UMBELLATA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:18:11.332Z"
+  },
+  "confidence_score": 0.8
+}

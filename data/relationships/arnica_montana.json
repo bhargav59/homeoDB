@@ -1,0 +1,28 @@
+{
+  "remedy_name": "ARNICA MONTANA",
+  "source_file": "raw_1772433223101.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/a/arn.htm",
+  "relationships": {
+    "complementary": [
+      "Acon"
+    ],
+    "antidoted_by": [
+      "Camph"
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Acon",
+      "Bapt",
+      "Bellis",
+      "Hamam",
+      "Rhus",
+      "Hyperic"
+    ],
+    "incompatible": [],
+    "antidotes": [
+      "Camph"
+    ]
+  },
+  "parsed_at": "2026-03-03T15:23:37.362Z"
+}

@@ -1,0 +1,74 @@
+{
+  "name": "CALCAREA FLUORICA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Fluoride of Lime"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Vomiting of infants. Vomiting of undigested food. Hiccough (Cajup; Sulph ac). Flatulency. Weakness and daintiness of appetite, nausea and distress after eating in young children who are overtaxed by studies. Acute indigestion from fatigue and brain-fag; much flatulence.",
+    "Stool and Anus.--Diarrhśa in gouty subjects. Itching of anus. Fissure of the anus, and intensely sore crack near the lower end of the bowel. Bleeding hćmorrhoids. Itching of anus as from pin-worms. Internal or blind piles frequently, with pain in back, generally far down on the sacrum, and constipation. Much wind in lower bowels. Worse, pregnancy.",
+    "Creaking noise in head. Blood-tumors of new-born infants. Hard excrescences on the scalp. Ulcers on the scalp with callous, hard edges.",
+    "Ganglia or encysted tumors at the back of the wrist. Gouty enlargements of the joints of the fingers. Exostoses on fingers. Chronic synovitis of knee-joint."
+  ],
+  "guiding_symptoms": [
+    "Vomiting of infants. Vomiting of undigested food. Hiccough (Cajup; Sulph ac). Flatulency. Weakness and daintiness of appetite, nausea and distress after eating in young children who are overtaxed by studies. Acute indigestion from fatigue and brain-fag; much flatulence.",
+    "Stool and Anus.--Diarrhśa in gouty subjects. Itching of anus. Fissure of the anus, and intensely sore crack near the lower end of the bowel. Bleeding hćmorrhoids. Itching of anus as from pin-worms. Internal or blind piles frequently, with pain in back, generally far down on the sacrum, and constipation. Much wind in lower bowels. Worse, pregnancy.",
+    "Creaking noise in head. Blood-tumors of new-born infants. Hard excrescences on the scalp. Ulcers on the scalp with callous, hard edges."
+  ],
+  "modalities": {
+    "worse": [
+      "during rest, changes of weather"
+    ],
+    "better": [
+      "heat, warm applications"
+    ]
+  },
+  "mind_symptoms": [
+    "Great depression; groundless fears of financial ruin."
+  ],
+  "head_symptoms": [
+    "Creaking noise in head. Blood-tumors of new-born infants. Hard excrescences on the scalp. Ulcers on the scalp with callous, hard edges."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "Vomiting of infants. Vomiting of undigested food. Hiccough (Cajup; Sulph ac). Flatulency. Weakness and daintiness of appetite, nausea and distress after eating in young children who are overtaxed by studies. Acute indigestion from fatigue and brain-fag; much flatulence.",
+    "Stool and Anus.--Diarrhśa in gouty subjects. Itching of anus. Fissure of the anus, and intensely sore crack near the lower end of the bowel. Bleeding hćmorrhoids. Itching of anus as from pin-worms. Internal or blind piles frequently, with pain in back, generally far down on the sacrum, and constipation. Much wind in lower bowels. Worse, pregnancy."
+  ],
+  "urinary_symptoms": [
+    "Hydrocele; indurations of the testicles.",
+    "Respiratory Organs.--Hoarseness. Croup. Cough with expectoration of tiny lumps of yellow mucus, with tickling sensation and irritation on lying down. Spasmodic cough. Calc. Fluor removes fibroid deposits about the endocardium and restores normal endocardial structure (Eli G. Jones, M. D).",
+    "Circulatory Organs.--Chief remedy for vascular tumors with dilated blood-vessels, and for varicose or enlarged veins. Aneurism. Valvular disease. When the tuberculous toxins attack the heart and blood-vessels.",
+    "Neck and Back.--Chronic lumbago; aggravated on beginning to move, and ameliorated on continued motion. Osseous tumors. Rachitic enlargement of femur in infants. Pain lower part of back, with burning."
+  ],
+  "musculoskeletal_symptoms": [
+    "Ganglia or encysted tumors at the back of the wrist. Gouty enlargements of the joints of the fingers. Exostoses on fingers. Chronic synovitis of knee-joint."
+  ],
+  "skin_symptoms": [
+    "Marked whiteness of skin. Scar tissue; adhesions after operations. Chaps and cracks. Fissures or cracks in the palms of the hands, or hard skin. Fissure of the anus. Suppurations with callous, hard edges. Whitlow. Indolent, fistulous ulcers, secreting thick, yellow pus. Hard, elevated edges of ulcer, surrounding skin purple and swollen. Knots, kernels, hardened glands in the female breast. Swellings or indurated enlargements having their seat in the fascić and capsular ligaments of joints, or in the tendons. Indurations of stony hardness."
+  ],
+  "sleep_symptoms": [
+    "Vivid dreams, with sense of impending danger. Unrefreshing sleep."
+  ],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Con",
+    "Lapis",
+    "Baryt mur",
+    "Hecla",
+    "Rhus"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/c/calc-f.htm",
+    "title": "CALCAREA FLUORICA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:10:54.044Z"
+  },
+  "confidence_score": 0.8
+}

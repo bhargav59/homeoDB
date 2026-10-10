@@ -1,0 +1,46 @@
+{
+  "name": "JALAPA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Jalap"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Aching in arms and legs. Pain in large joint of great toe. Smarting at root of nail. Burning of soles."
+  ],
+  "guiding_symptoms": [
+    "Aching in arms and legs. Pain in large joint of great toe. Smarting at root of nail. Burning of soles."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [
+    "Aching in arms and legs. Pain in large joint of great toe. Smarting at root of nail. Burning of soles."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Camph",
+    "Colocy"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/j/jal.htm",
+    "title": "JALAPA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:47:38.545Z"
+  },
+  "confidence_score": 0.38
+}

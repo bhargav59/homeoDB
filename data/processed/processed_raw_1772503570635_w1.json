@@ -1,0 +1,73 @@
+{
+  "name": "OPIUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Dried Latex of the Poppy"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Vomiting, with colic and convulsions. Fecal vomiting. Incarcerated hernia. Hungry; no desire to eat.",
+    "Vertigo; lightness of head in old people. Dull, heavy, stupid. Delirium. Vertigo after fright. Pain in back of head; great weight there (Gels). Bursting feeling. Complete insensibility; no mental grasp for anything. Paralysis of brain.",
+    "Breathing stops on going to sleep; must be shaken to start it again (Grindelia). Hoarse. Deep snoring; rattling, stertorous breathing. Difficult, intermittent, deep, unequal respiration. Heat in chest; burning about heart. Cough, with dyspnœa and blue face; with bloody expectoration."
+  ],
+  "guiding_symptoms": [
+    "Vomiting, with colic and convulsions. Fecal vomiting. Incarcerated hernia. Hungry; no desire to eat.",
+    "Vertigo; lightness of head in old people. Dull, heavy, stupid. Delirium. Vertigo after fright. Pain in back of head; great weight there (Gels). Bursting feeling. Complete insensibility; no mental grasp for anything. Paralysis of brain.",
+    "Breathing stops on going to sleep; must be shaken to start it again (Grindelia). Hoarse. Deep snoring; rattling, stertorous breathing. Difficult, intermittent, deep, unequal respiration. Heat in chest; burning about heart. Cough, with dyspnœa and blue face; with bloody expectoration."
+  ],
+  "modalities": {
+    "worse": [
+      "heat, during and after sleep (Apis",
+      "Lach"
+    ],
+    "better": [
+      "cold things, constant walking"
+    ]
+  },
+  "mind_symptoms": [
+    "Patient wants nothing. Complete loss of consciousness; apoplectic state. Frightful fancies, daring, gay, bright. Unable to understand or appreciate his sufferings. Thinks he is not at home. Delirious talking, with wide open eyes."
+  ],
+  "head_symptoms": [
+    "Vertigo; lightness of head in old people. Dull, heavy, stupid. Delirium. Vertigo after fright. Pain in back of head; great weight there (Gels). Bursting feeling. Complete insensibility; no mental grasp for anything. Paralysis of brain."
+  ],
+  "respiratory_symptoms": [
+    "Breathing stops on going to sleep; must be shaken to start it again (Grindelia). Hoarse. Deep snoring; rattling, stertorous breathing. Difficult, intermittent, deep, unequal respiration. Heat in chest; burning about heart. Cough, with dyspnœa and blue face; with bloody expectoration."
+  ],
+  "gi_symptoms": [
+    "Vomiting, with colic and convulsions. Fecal vomiting. Incarcerated hernia. Hungry; no desire to eat."
+  ],
+  "urinary_symptoms": [
+    "Suppressed menses from fright. Cessation of labor-pains with coma between paroxysms. Threatened abortion and suppression of lochia, from fright, with sopor. Horrible labor-like pains in uterus, with urging to stool."
+  ],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [
+    "Hot, damp, sweating, Constant desire to uncover. Hot perspiration over whole body except lower limbs."
+  ],
+  "sleep_symptoms": [
+    "Great drowsiness (Gels.; Nux mosch). Falls into a heavy stupid sleep. Profound coma. Loss of breath on falling asleep (Grind). Coma vigil. Picking at bedclothes. Very sleepy, but cannot go to sleep. Distant noise, cocks crowing, etc, keep him awake. Child dreams of cats, dogs, black forms. Bed feels so hot cannot lie on it. Pleasant, fantastic, amorous dreams. Shaking chill; then heat, with sleep and sweat. Thirst only during heat."
+  ],
+  "fever_symptoms": [
+    "Pulse full and slow. Heat extending over body. Hot perspiration. Fever characterized by stupor, snoring respiration, twitching of limbs, intense thirst and sleepiness. General low temperature with inclination to stupor.",
+    "Back and Extremities.--Opisthotonos. Swollen veins of neck. Painless paralysis (Oleand). Twitching of limbs. Numbness. Jerks as if flexors were overacting. Convulsions; worse from glare of light; coldness of limbs."
+  ],
+  "complementary_remedies": [
+    "Apis",
+    "Bell",
+    "Gels",
+    "Nux mosch",
+    "twitching"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/o/op.htm",
+    "title": "OPIUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:06:10.635Z"
+  },
+  "confidence_score": 0.8
+}

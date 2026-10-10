@@ -1,0 +1,57 @@
+{
+  "name": "CHLORALUM HYDRATUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Chloral Hydrate"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Morning headache; worse in forehead, also in occiput, on motion; better in open air. Passive cerebral hyperćmia (use 30th). Feeling as if hot band were drawn from temple to temple. Hears voices.",
+    "Extreme dyspnśa, with sensation of weight and constriction of chest. Asthma, with sleeplessness."
+  ],
+  "guiding_symptoms": [
+    "Morning headache; worse in forehead, also in occiput, on motion; better in open air. Passive cerebral hyperćmia (use 30th). Feeling as if hot band were drawn from temple to temple. Hears voices.",
+    "Extreme dyspnśa, with sensation of weight and constriction of chest. Asthma, with sleeplessness."
+  ],
+  "modalities": {
+    "worse": [
+      "after hot drinks, stimulants, eating, night"
+    ],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Morning headache; worse in forehead, also in occiput, on motion; better in open air. Passive cerebral hyperćmia (use 30th). Feeling as if hot band were drawn from temple to temple. Hears voices."
+  ],
+  "respiratory_symptoms": [
+    "Extreme dyspnśa, with sensation of weight and constriction of chest. Asthma, with sleeplessness."
+  ],
+  "gi_symptoms": [],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [
+    "Red blotches, like measles. Urticaria, worse, spirituous liquors, hot drinks. Erythema aggravated by alcoholic drinks, with palpitation; causes pain in tendons and extensors. Intense itching. Surface of body stone-cold. Wheals come on from a chill; better, warmth. Purpura (Phos; Crotal)."
+  ],
+  "sleep_symptoms": [
+    "Insomnia, hallucinations, horrid dreams. Somnolence."
+  ],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Bell",
+    "Opium",
+    "Apis"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/c/chlol.htm",
+    "title": "CHLORALUM HYDRATUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:19:14.311Z"
+  },
+  "confidence_score": 0.6799999999999999
+}

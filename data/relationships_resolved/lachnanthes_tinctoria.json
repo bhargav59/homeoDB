@@ -1,0 +1,45 @@
+{
+  "remedy_name": "LACHNANTHES TINCTORIA",
+  "source_file": "raw_1772502764496.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Dulc",
+        "resolved_name": "DULCAMARA",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      },
+      {
+        "original": "Bry",
+        "resolved_name": "BRYONIA",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      },
+      {
+        "original": "Puls",
+        "resolved_name": "PULSATILLA",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      },
+      {
+        "original": "also Fel tauri (nape of neck pains",
+        "resolved_name": "FEL TAURI",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "and great tension there)",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:10.117Z"
+}

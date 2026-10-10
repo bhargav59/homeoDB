@@ -1,0 +1,59 @@
+{
+  "remedy_name": "GUAJACUM OFFICINALE",
+  "source_file": "raw_1772502028699.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      {
+        "original": "Nux",
+        "resolved_name": "NUX MOSCHATA",
+        "confidence": 1,
+        "method": "exact"
+      }
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Merc",
+        "resolved_name": "MERCURIUS SOLUBILIS",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      },
+      {
+        "original": "Caust",
+        "resolved_name": "CAUSTICUM",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      },
+      {
+        "original": "Rhus",
+        "resolved_name": "RHUS GLABRA",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Mezer",
+        "resolved_name": "MEZEREUM",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Rhodod",
+        "resolved_name": "RHODODENDRON FERRUGINEUM",
+        "confidence": 0.8,
+        "method": "substring"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": [
+      {
+        "original": "Nux",
+        "resolved_name": "NUX MOSCHATA",
+        "confidence": 1,
+        "method": "exact"
+      }
+    ]
+  },
+  "resolved_at": "2026-03-11T01:50:09.787Z"
+}

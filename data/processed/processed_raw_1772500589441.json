@@ -1,0 +1,41 @@
+{
+  "name": "CEANOTHUS AMERICANUS",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "New Jersey Tea"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [],
+  "guiding_symptoms": [],
+  "modalities": {
+    "worse": [
+      "motion, lying on left side"
+    ],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "Enormous enlargement of the spleen. Splenitis; pain all up the left side. Deep-seated pain in left hypochondrium, hypertrophy of spleen. Leucæmia. Violent dyspnœa. Menses profuse, and yellow weakening leucorrhœa. Unable to lie on left side. Pain in liver and back."
+  ],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/c/cean.htm",
+    "title": "CEANOTHUS AMERICANUS - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:16:29.441Z"
+  },
+  "confidence_score": 0.5
+}

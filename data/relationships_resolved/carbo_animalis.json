@@ -1,0 +1,60 @@
+{
+  "remedy_name": "CARBO ANIMALIS",
+  "source_file": "raw_1772500418643.json",
+  "relationships": {
+    "complementary": [
+      {
+        "original": "Calc phos",
+        "resolved_name": "CALCAREA CARBONICA",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      }
+    ],
+    "antidoted_by": [
+      {
+        "original": "Ars",
+        "resolved_name": "ARSENICUM ALBUM",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      }
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Badiaga",
+        "resolved_name": "BADIAGA",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Sepia",
+        "resolved_name": "SEPIA OFFICINALIS",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Sulph",
+        "resolved_name": "SULPHUR",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      },
+      {
+        "original": "Plumb iod",
+        "resolved_name": "Plumbago.",
+        "confidence": 0.55,
+        "method": "levenshtein_3"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": [
+      {
+        "original": "Ars",
+        "resolved_name": "ARSENICUM ALBUM",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      }
+    ]
+  },
+  "resolved_at": "2026-03-11T01:50:08.846Z"
+}

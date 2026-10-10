@@ -1,0 +1,51 @@
+{
+  "name": "THYMOLUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Thyme Camphor"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Tired, aching throughout lumbar region. Worse, mental and physical labor."
+  ],
+  "guiding_symptoms": [
+    "Tired, aching throughout lumbar region. Worse, mental and physical labor."
+  ],
+  "modalities": {
+    "worse": [
+      "mental and physical labor"
+    ],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [],
+  "urinary_symptoms": [
+    "Profuse, nightly, seminal emissions with lascivious dreams of a perverted character. Priapism. Urinary burning and subsequent dribbling of urine. Polyuria. Urates increased. Phosphates decreased."
+  ],
+  "musculoskeletal_symptoms": [
+    "Tired, aching throughout lumbar region. Worse, mental and physical labor."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [
+    "Awakes tired and unrefreshed. Lascivious and fantastic dreams."
+  ],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "according to Dr"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/t/thymol.htm",
+    "title": "THYMOLUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:07:31.687Z"
+  },
+  "confidence_score": 0.56
+}

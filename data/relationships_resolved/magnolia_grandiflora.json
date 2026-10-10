@@ -1,0 +1,33 @@
+{
+  "remedy_name": "MAGNOLIA GRANDIFLORA",
+  "source_file": "raw_1772503097104.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Rhus",
+        "resolved_name": "RHUS GLABRA",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Dulcam",
+        "resolved_name": "DULCAMARA",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      },
+      {
+        "original": "Aurum",
+        "resolved_name": "AURUM METALLICUM",
+        "confidence": 1,
+        "method": "exact"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:10.236Z"
+}

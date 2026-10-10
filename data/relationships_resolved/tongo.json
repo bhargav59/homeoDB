@@ -1,0 +1,45 @@
+{
+  "remedy_name": "TONGO",
+  "source_file": "raw_1772505481694.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "them in hay-fever",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "also",
+        "resolved_name": "ALOE SOCOTRINA",
+        "confidence": 0.7,
+        "method": "levenshtein_2"
+      },
+      {
+        "original": "Trifol",
+        "resolved_name": "MENYANTHES TRIFOLIATA",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Napth",
+        "resolved_name": "NATRUM MURIATICUM",
+        "confidence": 0.7,
+        "method": "levenshtein_2"
+      },
+      {
+        "original": "Sabad",
+        "resolved_name": "SABADILLA",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:11.479Z"
+}

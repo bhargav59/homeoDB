@@ -1,0 +1,54 @@
+{
+  "remedy_name": "AMMONIUM CARBONICUM",
+  "source_file": "raw_1772371843894.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      {
+        "original": "Arnica",
+        "resolved_name": "ARNICA MONTANA",
+        "confidence": 1,
+        "method": "exact"
+      }
+    ],
+    "follows_well": [],
+    "inimical": [
+      {
+        "original": "to Lachesis",
+        "resolved_name": "LACHESIS MUTUS",
+        "confidence": 1,
+        "method": "exact"
+      }
+    ],
+    "compare": [
+      {
+        "original": "Rhus",
+        "resolved_name": "RHUS GLABRA",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Muriatic acid",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "Tartar emet",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": [
+      {
+        "original": "Arnica",
+        "resolved_name": "ARNICA MONTANA",
+        "confidence": 1,
+        "method": "exact"
+      }
+    ]
+  },
+  "resolved_at": "2026-03-11T01:50:08.440Z"
+}

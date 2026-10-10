@@ -1,0 +1,65 @@
+{
+  "name": "CALCAREA PHOSPHORICA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Phosphate of Lime"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Infant wants to nurse all the time and vomits easily. Craving for bacon, ham, salted or smoked meats. Much flatulence. Great hunger with thirst flatulence temporarily relieved by sour eructations. Heartburn. Easy vomiting in children.",
+    "Headache, worse near the region of sutures, from change of weather, of school children about puberty. Fontanelles remain open too long. Cranial bones soft and thin. Defective hearing. Headache, with abdominal flatulence. Head hot, with smarting of roots of hair.",
+    "Involuntary sighing. Chest sore. Suffocative cough; better lying down. Hoarseness. Pain through lower left lung.",
+    "Neck and Back.--Rheumatic pain from draught of air, with stiffness and dullness of head. Soreness in sacro-iliac symphysis, as if broken (Aesc hip).",
+    "Stiffness and pain, with cold, numb feeling, worse any change of weather. Crawling and coldness. Buttocks, back and limbs asleep. Pains in joints and bones. Weary when going upstairs."
+  ],
+  "guiding_symptoms": [
+    "Infant wants to nurse all the time and vomits easily. Craving for bacon, ham, salted or smoked meats. Much flatulence. Great hunger with thirst flatulence temporarily relieved by sour eructations. Heartburn. Easy vomiting in children.",
+    "Headache, worse near the region of sutures, from change of weather, of school children about puberty. Fontanelles remain open too long. Cranial bones soft and thin. Defective hearing. Headache, with abdominal flatulence. Head hot, with smarting of roots of hair.",
+    "Involuntary sighing. Chest sore. Suffocative cough; better lying down. Hoarseness. Pain through lower left lung."
+  ],
+  "modalities": {
+    "worse": [
+      "exposure to damp, cold weather, melting snow"
+    ],
+    "better": [
+      "in summer",
+      "warm, dry atmosphere"
+    ]
+  },
+  "mind_symptoms": [
+    "Peevish, forgetful; after grief and vexation (Ignat; Phos ac). Always wants to go somewhere."
+  ],
+  "head_symptoms": [
+    "Headache, worse near the region of sutures, from change of weather, of school children about puberty. Fontanelles remain open too long. Cranial bones soft and thin. Defective hearing. Headache, with abdominal flatulence. Head hot, with smarting of roots of hair."
+  ],
+  "respiratory_symptoms": [
+    "Involuntary sighing. Chest sore. Suffocative cough; better lying down. Hoarseness. Pain through lower left lung.",
+    "Neck and Back.--Rheumatic pain from draught of air, with stiffness and dullness of head. Soreness in sacro-iliac symphysis, as if broken (Aesc hip)."
+  ],
+  "gi_symptoms": [
+    "Infant wants to nurse all the time and vomits easily. Craving for bacon, ham, salted or smoked meats. Much flatulence. Great hunger with thirst flatulence temporarily relieved by sour eructations. Heartburn. Easy vomiting in children."
+  ],
+  "urinary_symptoms": [
+    "Menses too early, excessive, and bright in girls. If late, blood is dark; sometimes, first bright, then dark, with violent backache. During lactation with sexual excitement. Nymphomania, with aching, pressing, or weakness in uterine region (Plat). After prolonged nursing. Leucorrhśa, like white of egg. Worse morning. Child refuses breast; milk tastes salty. Prolapsus in debilitated persons."
+  ],
+  "musculoskeletal_symptoms": [
+    "Stiffness and pain, with cold, numb feeling, worse any change of weather. Crawling and coldness. Buttocks, back and limbs asleep. Pains in joints and bones. Weary when going upstairs."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/c/calc-p.htm",
+    "title": "CALCAREA PHOSPHORICA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:11:14.955Z"
+  },
+  "confidence_score": 0.8
+}

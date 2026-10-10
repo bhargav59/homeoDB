@@ -1,0 +1,58 @@
+{
+  "name": "MAGNOLIA GRANDIFLORA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Magnolia"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Oppression of chest with inability to expand the lungs. Feeling of a large bolus of food which distressed the stomach. Suffocated feeling when walking fast or lying on left side. Dyspnśa. Crampy pain in heart. Angina pectoris. Endocarditis and pericarditis. Tendency to faint. Sensation as if heart had stopped beating. Pains around heart accompanied by itching of the feet.",
+    "Stiffness and sharp erratic pains; worse in joints. Feet itch. Numbness in left arm. Rheumatic pain in clavicles. Shooting in all limbs."
+  ],
+  "guiding_symptoms": [
+    "Oppression of chest with inability to expand the lungs. Feeling of a large bolus of food which distressed the stomach. Suffocated feeling when walking fast or lying on left side. Dyspnśa. Crampy pain in heart. Angina pectoris. Endocarditis and pericarditis. Tendency to faint. Sensation as if heart had stopped beating. Pains around heart accompanied by itching of the feet.",
+    "Stiffness and sharp erratic pains; worse in joints. Feet itch. Numbness in left arm. Rheumatic pain in clavicles. Shooting in all limbs."
+  ],
+  "modalities": {
+    "worse": [
+      "damp air, lying on left side",
+      "in morning on first rising"
+    ],
+    "better": [
+      "dry weather, motion",
+      "intermenstrual flow (Ham",
+      "Bovista",
+      "Bell",
+      "Elaps)"
+    ]
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [
+    "Stiffness and sharp erratic pains; worse in joints. Feet itch. Numbness in left arm. Rheumatic pain in clavicles. Shooting in all limbs."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Rhus",
+    "Dulcam",
+    "Aurum"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/m/magn-gr.htm",
+    "title": "MAGNOLIA GRANDIFLORA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:58:17.104Z"
+  },
+  "confidence_score": 0.5
+}

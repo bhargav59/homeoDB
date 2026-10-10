@@ -1,0 +1,39 @@
+{
+  "remedy_name": "VACCININUM",
+  "source_file": "raw_1772505663854.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "anti-vaccinal remedies",
+        "resolved_name": "CINA MARITIMA",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Variolin",
+        "resolved_name": "VARIOLINUM",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Malandrinum",
+        "resolved_name": "MALANDRINUM",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Thuja",
+        "resolved_name": "THUJA OCCIDENTALIS",
+        "confidence": 1,
+        "method": "exact"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:11.664Z"
+}

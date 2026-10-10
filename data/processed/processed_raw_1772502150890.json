@@ -1,0 +1,75 @@
+{
+  "name": "HEPAR SULPHUR",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Hahnemann's Calcium Sulphide"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Longing for acids, wine, and strong-tasting food. Aversion to fat food. Frequent eructations, without taste or smell. Distention of stomach, compelling one to loosen the clothing. Burning in stomach. Heaviness and pressure in stomach after a slight meal.",
+    "Vertigo and headache, when shaking the head or riding. Boring pain in the right temple and in root of nose every morning. Scalp sensitive and sore. Humid scald-head itching and burning. Cold sweat on head.",
+    "Loses voice and coughs when exposed to dry, cold wind. Hoarseness, with loss of voice. Cough troublesome when walking. Dry, hoarse cough. Cough excited whenever any part of the body gets cold or uncovered, or from eating anything cold. Croup with loose, rattling cough; worse in morning. Choking cough. Rattling, croaking cough; suffocative attacks; has to rise up and bend head backwards. Anxious, wheezing, moist breathing, asthma worse in dry cold air; better in damp. Palpitation of heart.",
+    "Finger-joints swollen; tendency to easy dislocation. Nail of great toe painful on slight pressure."
+  ],
+  "guiding_symptoms": [
+    "Longing for acids, wine, and strong-tasting food. Aversion to fat food. Frequent eructations, without taste or smell. Distention of stomach, compelling one to loosen the clothing. Burning in stomach. Heaviness and pressure in stomach after a slight meal.",
+    "Vertigo and headache, when shaking the head or riding. Boring pain in the right temple and in root of nose every morning. Scalp sensitive and sore. Humid scald-head itching and burning. Cold sweat on head.",
+    "Loses voice and coughs when exposed to dry, cold wind. Hoarseness, with loss of voice. Cough troublesome when walking. Dry, hoarse cough. Cough excited whenever any part of the body gets cold or uncovered, or from eating anything cold. Croup with loose, rattling cough; worse in morning. Choking cough. Rattling, croaking cough; suffocative attacks; has to rise up and bend head backwards. Anxious, wheezing, moist breathing, asthma worse in dry cold air; better in damp. Palpitation of heart."
+  ],
+  "modalities": {
+    "worse": [
+      "from dry cold winds",
+      "cool air",
+      "slightest draught, from Mercury, touch",
+      "lying on painful side"
+    ],
+    "better": [
+      "in damp weather, from wrapping head up, from warmth, after eating"
+    ]
+  },
+  "mind_symptoms": [
+    "Anguish in the evening and night, with thoughts of suicide. The slightest cause irritates him. Dejected and sad. Ferocious. Hasty speech."
+  ],
+  "head_symptoms": [
+    "Vertigo and headache, when shaking the head or riding. Boring pain in the right temple and in root of nose every morning. Scalp sensitive and sore. Humid scald-head itching and burning. Cold sweat on head."
+  ],
+  "respiratory_symptoms": [
+    "Loses voice and coughs when exposed to dry, cold wind. Hoarseness, with loss of voice. Cough troublesome when walking. Dry, hoarse cough. Cough excited whenever any part of the body gets cold or uncovered, or from eating anything cold. Croup with loose, rattling cough; worse in morning. Choking cough. Rattling, croaking cough; suffocative attacks; has to rise up and bend head backwards. Anxious, wheezing, moist breathing, asthma worse in dry cold air; better in damp. Palpitation of heart."
+  ],
+  "gi_symptoms": [
+    "Longing for acids, wine, and strong-tasting food. Aversion to fat food. Frequent eructations, without taste or smell. Distention of stomach, compelling one to loosen the clothing. Burning in stomach. Heaviness and pressure in stomach after a slight meal."
+  ],
+  "urinary_symptoms": [
+    "Herpes, sensitive, bleed easily. Ulcers externally on prepuce similar to chancre (Nitr acid). Excitement and emission without amorous fancies. Itching of glans, frænum, and scrotum. Suppurating inguinal glands. Figwarts of offensive odor. Humid soreness on genitals and between scrotum and thigh. Obstinate gonorrhœa \"does not get well\"."
+  ],
+  "musculoskeletal_symptoms": [
+    "Finger-joints swollen; tendency to easy dislocation. Nail of great toe painful on slight pressure."
+  ],
+  "skin_symptoms": [
+    "Abscesses; suppurating glands are very sensitive. Papules prone to suppurate and extend. Acne in youth. Suppurate with prickly pain. Easily bleed. Angio-neurotic œdema. Unhealthy skin; every little injury suppurates. Chapped skin, with deep cracks on hands and feet. Ulcers, with bloody suppuration, smelling like old cheese. Ulcers very sensitive to contact, burning, stinging, easily bleeding. Sweats day and night without relief. \"Cold-sores\" very sensitive. Cannot bear to be uncovered; wants to be wrapped up warmly. Sticking or pricking in afflicted parts. Putrid ulcers, surrounded by little pimples. Great sensitiveness to slightest touch. Chronic and recurring urticaria. Small-pox. Herpes circinatus. Constant offensive exhalation from the body."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [
+    "Chilly in open air or from slightest draught. Dry heat at night. Profuse sweat; sour, sticky, offensive."
+  ],
+  "complementary_remedies": [
+    "Acon",
+    "Spongia",
+    "Staphis",
+    "Silica",
+    "Sulph"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/h/hep.htm",
+    "title": "HEPAR SULPHUR - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:42:30.890Z"
+  },
+  "confidence_score": 0.8
+}

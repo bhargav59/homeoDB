@@ -1,0 +1,66 @@
+{
+  "name": "HYDRASTIS CANADENSIS",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Golden Seal"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Sore feeling in stomach more or less constant. Weak digestion. Bitter taste. Pain as from a hard-cornered substance. Gone feeling. Pulsation in epigastrium. Cannot eat bread or vegetables. Atonic dyspepsia. Ulcers and cancer. Gastritis.",
+    "Dull, pressing frontal pain, especially connected with constipation. Myalgic pain in scalp and muscles of neck (Cimicif). Eczema on forehead along line of hair. Sinusitis, after coryza.",
+    "Chest raw, sore, burning. Dry, harsh cough. Bronchial catarrh, later stages. Bronchitis in old, exhausted persons, with thick, yellow, tenacious expectoration. Frequent fainty spells, with cold sweat all over. Feels suffocating when lying on left side. Pain from chest to left shoulder.",
+    "Dull, heavy, dragging pain and stiffness, particularly across lumbar region, must use arms in raising himself from seat."
+  ],
+  "guiding_symptoms": [
+    "Sore feeling in stomach more or less constant. Weak digestion. Bitter taste. Pain as from a hard-cornered substance. Gone feeling. Pulsation in epigastrium. Cannot eat bread or vegetables. Atonic dyspepsia. Ulcers and cancer. Gastritis.",
+    "Dull, pressing frontal pain, especially connected with constipation. Myalgic pain in scalp and muscles of neck (Cimicif). Eczema on forehead along line of hair. Sinusitis, after coryza.",
+    "Chest raw, sore, burning. Dry, harsh cough. Bronchial catarrh, later stages. Bronchitis in old, exhausted persons, with thick, yellow, tenacious expectoration. Frequent fainty spells, with cold sweat all over. Feels suffocating when lying on left side. Pain from chest to left shoulder."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [
+    "Depressed; sure of death, and desires it."
+  ],
+  "head_symptoms": [
+    "Dull, pressing frontal pain, especially connected with constipation. Myalgic pain in scalp and muscles of neck (Cimicif). Eczema on forehead along line of hair. Sinusitis, after coryza."
+  ],
+  "respiratory_symptoms": [
+    "Chest raw, sore, burning. Dry, harsh cough. Bronchial catarrh, later stages. Bronchitis in old, exhausted persons, with thick, yellow, tenacious expectoration. Frequent fainty spells, with cold sweat all over. Feels suffocating when lying on left side. Pain from chest to left shoulder."
+  ],
+  "gi_symptoms": [
+    "Sore feeling in stomach more or less constant. Weak digestion. Bitter taste. Pain as from a hard-cornered substance. Gone feeling. Pulsation in epigastrium. Cannot eat bread or vegetables. Atonic dyspepsia. Ulcers and cancer. Gastritis."
+  ],
+  "urinary_symptoms": [
+    "Gonorrhœa, second stage; discharge thick and yellow."
+  ],
+  "musculoskeletal_symptoms": [
+    "Dull, heavy, dragging pain and stiffness, particularly across lumbar region, must use arms in raising himself from seat."
+  ],
+  "skin_symptoms": [
+    "Eruption like variola. Lupus; ulcers, cancerous formations. General tendency to profuse perspiration and unhealthy skin (Hepar)."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Xanthorrhiza apifolia",
+    "Kali bich",
+    "Conium",
+    "Ars iod",
+    "Phytol"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/h/hydr.htm",
+    "title": "HYDRASTIS CANADENSIS - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:43:51.865Z"
+  },
+  "confidence_score": 0.8
+}

@@ -1,0 +1,39 @@
+{
+  "remedy_name": "ROSA DAMASCENA",
+  "source_file": "raw_1772504587290.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "watery coryza",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "itching of nose and eyes",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "frequent sneezing",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "dyspnśa",
+        "resolved_name": "VESPA CRABRO",
+        "confidence": 0.55,
+        "method": "levenshtein_3"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:11.034Z"
+}

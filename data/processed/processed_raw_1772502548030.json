@@ -1,0 +1,70 @@
+{
+  "name": "KALIUM BICHROMICUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Bichromate of Potash"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Nausea and vomiting after beer. Load immediately after eating. Feels as if digestion had stopped. Dilatation of stomach. Gastritis. Round ulcer of stomach. Stitches in region of liver and spleen and through to spine. Dislikes water. Cannot digest meat. Desire for beer and acids. Gastric symptoms are relieved after eating, and the rheumatic symptoms reappear. Vomiting of bright yellow water.",
+    "Vertigo with nausea when rising from seat. Headache over eyebrows, preceded by blurred vision. Aching and fullness in glabella. Semilateral headache in small spots, and from suppressed catarrh. Frontal pain; usually over one eye. Bones and scalp feel sore.",
+    "Voice hoarse; worse, evening. Metallic, hacking cough. Profuse, yellow expectoration, very glutinous and sticky, coming out in long, stringy, and very tenacious mass. Tickling in larynx. Catarrhal laryngitis cough has a brassy sound. True membranous croup, extending to larynx and nares. Cough, with pain in sternum, extending to shoulders; worse when undressing. Pain at bifurcation of trachea on coughing; from mid-sternum to back.",
+    "Dilatation, especially from coexisting kidney lesion. Cold feeling around heart (Kali nit).",
+    "Pains fly rapidly from one place to another (Kali sulph; Puls). Wandering pains, along the bones; worse cold. Left-sided sciatica; better, motion. Bones feel sore and bruised. Very weak. Tearing pains in tibia; syphilitic rheumatism (Mez). Pain, swelling and stiffness and crackling of all joints. Soreness of heels when walking. Tendo Achilles swollen and painful. Pains in small spots (Oxalic ac).",
+    "Cutting through loins; cannot walk; extends to groins. Pain in coccyx and sacrum extending up and down."
+  ],
+  "guiding_symptoms": [
+    "Nausea and vomiting after beer. Load immediately after eating. Feels as if digestion had stopped. Dilatation of stomach. Gastritis. Round ulcer of stomach. Stitches in region of liver and spleen and through to spine. Dislikes water. Cannot digest meat. Desire for beer and acids. Gastric symptoms are relieved after eating, and the rheumatic symptoms reappear. Vomiting of bright yellow water.",
+    "Vertigo with nausea when rising from seat. Headache over eyebrows, preceded by blurred vision. Aching and fullness in glabella. Semilateral headache in small spots, and from suppressed catarrh. Frontal pain; usually over one eye. Bones and scalp feel sore.",
+    "Voice hoarse; worse, evening. Metallic, hacking cough. Profuse, yellow expectoration, very glutinous and sticky, coming out in long, stringy, and very tenacious mass. Tickling in larynx. Catarrhal laryngitis cough has a brassy sound. True membranous croup, extending to larynx and nares. Cough, with pain in sternum, extending to shoulders; worse when undressing. Pain at bifurcation of trachea on coughing; from mid-sternum to back."
+  ],
+  "modalities": {
+    "worse": [
+      "beer, morning, hot weather, undressing"
+    ],
+    "better": [
+      "from heat"
+    ]
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Vertigo with nausea when rising from seat. Headache over eyebrows, preceded by blurred vision. Aching and fullness in glabella. Semilateral headache in small spots, and from suppressed catarrh. Frontal pain; usually over one eye. Bones and scalp feel sore."
+  ],
+  "respiratory_symptoms": [
+    "Voice hoarse; worse, evening. Metallic, hacking cough. Profuse, yellow expectoration, very glutinous and sticky, coming out in long, stringy, and very tenacious mass. Tickling in larynx. Catarrhal laryngitis cough has a brassy sound. True membranous croup, extending to larynx and nares. Cough, with pain in sternum, extending to shoulders; worse when undressing. Pain at bifurcation of trachea on coughing; from mid-sternum to back."
+  ],
+  "gi_symptoms": [
+    "Nausea and vomiting after beer. Load immediately after eating. Feels as if digestion had stopped. Dilatation of stomach. Gastritis. Round ulcer of stomach. Stitches in region of liver and spleen and through to spine. Dislikes water. Cannot digest meat. Desire for beer and acids. Gastric symptoms are relieved after eating, and the rheumatic symptoms reappear. Vomiting of bright yellow water."
+  ],
+  "urinary_symptoms": [
+    "Burning in urethra. After urinating a drop seems to remain which cannot be expelled. Ropy mucus in urine. Urethra becomes clogged up. Congestion of kidneys; nephritis, with scanty, albuminous urine and casts. Pyelitis; urine mixed with epithelial cells, mucus, pus, or blood. Hćmatochyluria."
+  ],
+  "musculoskeletal_symptoms": [
+    "Pains fly rapidly from one place to another (Kali sulph; Puls). Wandering pains, along the bones; worse cold. Left-sided sciatica; better, motion. Bones feel sore and bruised. Very weak. Tearing pains in tibia; syphilitic rheumatism (Mez). Pain, swelling and stiffness and crackling of all joints. Soreness of heels when walking. Tendo Achilles swollen and painful. Pains in small spots (Oxalic ac)."
+  ],
+  "skin_symptoms": [
+    "Acne. Papular eruptions. Ulcer with punched-out edges, with tendency to penetrate and tenacious exudation. Pustular eruption, resembling smallpox, with burning pains. Itching with vesicular eruption."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Tart emet",
+    "Brom",
+    "Hepar",
+    "Ind",
+    "Calc"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/k/kali-bi.htm",
+    "title": "KALIUM BICHROMICUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:49:08.030Z"
+  },
+  "confidence_score": 0.8
+}

@@ -1,0 +1,55 @@
+{
+  "name": "APIUM GRAVEOLENS",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Common Celery"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Depressed; energetic; feeling of fidgets; cannot sleep from thinking. Headache; better eating. Eyeballs feel sunken. Itching in eyes. Itching and smarting in inner canthus of left eye.",
+    "Tickling, dry cough. Intense constriction over sternum, with drawing feeling through to back on lying down. Throat swollen, dyspnœa."
+  ],
+  "guiding_symptoms": [
+    "Depressed; energetic; feeling of fidgets; cannot sleep from thinking. Headache; better eating. Eyeballs feel sunken. Itching in eyes. Itching and smarting in inner canthus of left eye.",
+    "Tickling, dry cough. Intense constriction over sternum, with drawing feeling through to back on lying down. Throat swollen, dyspnœa."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Depressed; energetic; feeling of fidgets; cannot sleep from thinking. Headache; better eating. Eyeballs feel sunken. Itching in eyes. Itching and smarting in inner canthus of left eye."
+  ],
+  "respiratory_symptoms": [
+    "Tickling, dry cough. Intense constriction over sternum, with drawing feeling through to back on lying down. Throat swollen, dyspnœa."
+  ],
+  "gi_symptoms": [
+    "Sore; sharp sticking pain as if stool was coming on; diarrhœa, sharp pain in left iliac region going over to right. Nausea increases with pains."
+  ],
+  "urinary_symptoms": [
+    "Sharp sticking pains in both ovarian regions, left, better bending over, by lying on left side, with legs flexed; nipples tender."
+  ],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [
+    "Itching blotches; burning, creeping sensation. Profuse discharge from granulating ulcers. Urticaria with shuddering."
+  ],
+  "sleep_symptoms": [
+    "Unrefreshed; sleepless. Wakes from 1 to 3 am.Eating does not help sleep. Not fatigued from loss of sleep."
+  ],
+  "fever_symptoms": [],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/a/ap-g.htm",
+    "title": "APIUM GRAVEOLENS - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-02T06:30:38.289Z"
+  },
+  "confidence_score": 0.62
+}

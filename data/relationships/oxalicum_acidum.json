@@ -1,0 +1,28 @@
+{
+  "remedy_name": "OXALICUM ACIDUM",
+  "source_file": "raw_1772503925734.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/o/ox-ac.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      "to poisoning of Oxal acid"
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Ars",
+      "Colch",
+      "Arg",
+      "Pic ac",
+      "Cicer arietinum-Chick-pea--(Lithiasis",
+      "jaundice",
+      "liver affections",
+      "diuretic)"
+    ],
+    "incompatible": [],
+    "antidotes": [
+      "poisoning of Oxal acid"
+    ]
+  },
+  "parsed_at": "2026-03-03T15:23:37.686Z"
+}

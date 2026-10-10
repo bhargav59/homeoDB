@@ -1,0 +1,67 @@
+{
+  "name": "SELENIUM METALLICUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "The Element Selenium"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Desire for brandy and other strong drink. Sweetish taste. Hiccough and eructations after smoking. After eating, pulsation all over, especially abdomen.",
+    "Hair falls out. Pain over left eye; worse walking in sun, strong odors and tea. Scalp feels tense. Headache from tea drinking.",
+    "Paralytic pains in small of back in the morning. Tearing pain in hands, at night."
+  ],
+  "guiding_symptoms": [
+    "Desire for brandy and other strong drink. Sweetish taste. Hiccough and eructations after smoking. After eating, pulsation all over, especially abdomen.",
+    "Hair falls out. Pain over left eye; worse walking in sun, strong odors and tea. Scalp feels tense. Headache from tea drinking.",
+    "Paralytic pains in small of back in the morning. Tearing pain in hands, at night."
+  ],
+  "modalities": {
+    "worse": [
+      "after sleep, in hot weather, from Cinchona, draught of air, coition"
+    ],
+    "better": []
+  },
+  "mind_symptoms": [
+    "Lascivious thoughts, with impotency. Mental labor fatigues. Extreme sadness. Abject despair, uncompromising melancholy."
+  ],
+  "head_symptoms": [
+    "Hair falls out. Pain over left eye; worse walking in sun, strong odors and tea. Scalp feels tense. Headache from tea drinking."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "Desire for brandy and other strong drink. Sweetish taste. Hiccough and eructations after smoking. After eating, pulsation all over, especially abdomen."
+  ],
+  "urinary_symptoms": [
+    "Sensation in the tip of urethra as if a biting drop were forcing its way out. Involuntary dribbling."
+  ],
+  "musculoskeletal_symptoms": [
+    "Paralytic pains in small of back in the morning. Tearing pain in hands, at night."
+  ],
+  "skin_symptoms": [
+    "Dry, scaly eruption in palms, with itching, Itching about the ankles and folds of skin, between fingers. Hair falls out from brows, beard, and genitals. Itching about finger-joints and between fingers; in palms. Vesicular eruption between fingers (Rhus; Anac). Seborrhśa oleosa; comedones with an oily surface of the skin; alopecia. Acne."
+  ],
+  "sleep_symptoms": [
+    "Sleep prevented by pulsation in all vessels, worse abdomen. Sleepless until midnight, awakens early and always same hour."
+  ],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Agnus",
+    "Calad",
+    "Sulphur",
+    "Tellur",
+    "Phosph acid"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/s/sel.htm",
+    "title": "SELENIUM METALLICUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:07:00.621Z"
+  },
+  "confidence_score": 0.8
+}

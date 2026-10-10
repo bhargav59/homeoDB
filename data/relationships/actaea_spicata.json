@@ -1,0 +1,19 @@
+{
+  "remedy_name": "ACTAEA SPICATA",
+  "source_file": "raw_1772371580416.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/a/act-sp.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Cimicif",
+      "Cauloph",
+      "Led"
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "parsed_at": "2026-03-03T15:23:37.316Z"
+}

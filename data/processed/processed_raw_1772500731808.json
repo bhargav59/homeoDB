@@ -1,0 +1,54 @@
+{
+  "name": "CHIONANTHUS VIRGINICA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Fringe-tree"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Listless, apathetic. Dull frontal headache, over root of nose, over eyes, through temples, worse stooping, motion, jar. Yellow conjunctiva.",
+    "Tongue.--Broad with thick yellow fur."
+  ],
+  "guiding_symptoms": [
+    "Listless, apathetic. Dull frontal headache, over root of nose, over eyes, through temples, worse stooping, motion, jar. Yellow conjunctiva.",
+    "Tongue.--Broad with thick yellow fur."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Listless, apathetic. Dull frontal headache, over root of nose, over eyes, through temples, worse stooping, motion, jar. Yellow conjunctiva.",
+    "Tongue.--Broad with thick yellow fur."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [
+    "Yellow; marked moisture of skin. Sallow, greenish, itching."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Cinchona",
+    "Ceanoth",
+    "Chelidon",
+    "Carduus",
+    "Podophyl"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/c/chion.htm",
+    "title": "CHIONANTHUS VIRGINICA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:18:51.808Z"
+  },
+  "confidence_score": 0.5
+}

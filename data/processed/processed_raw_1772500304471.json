@@ -1,0 +1,64 @@
+{
+  "name": "CALENDULA OFFICINALIS",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Marigold"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Hunger immediately after nursing. Bulimia. Heartburn with horripilations. Nausea in chest. Vomiting. Sinking sensation. Epigastric distention.",
+    "Extremely nervous; easily frightened; tearing headache; weight on brain. Submaxillary glands swollen, painful to touch. Pain in right side of neck. Lacerated scalp wounds.",
+    "Cough, with green expectoration, hoarseness; with distention of inguinal ring."
+  ],
+  "guiding_symptoms": [
+    "Hunger immediately after nursing. Bulimia. Heartburn with horripilations. Nausea in chest. Vomiting. Sinking sensation. Epigastric distention.",
+    "Extremely nervous; easily frightened; tearing headache; weight on brain. Submaxillary glands swollen, painful to touch. Pain in right side of neck. Lacerated scalp wounds.",
+    "Cough, with green expectoration, hoarseness; with distention of inguinal ring."
+  ],
+  "modalities": {
+    "worse": [
+      "in damp, heavy, cloudy weather"
+    ],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Extremely nervous; easily frightened; tearing headache; weight on brain. Submaxillary glands swollen, painful to touch. Pain in right side of neck. Lacerated scalp wounds."
+  ],
+  "respiratory_symptoms": [
+    "Cough, with green expectoration, hoarseness; with distention of inguinal ring."
+  ],
+  "gi_symptoms": [
+    "Hunger immediately after nursing. Bulimia. Heartburn with horripilations. Nausea in chest. Vomiting. Sinking sensation. Epigastric distention."
+  ],
+  "urinary_symptoms": [
+    "Warts at the os externum. Menses suppressed, with cough. Chronic endocervicitis. Uterine hypertrophy, sensation of weight and fullness in pelvis; stretching and dragging in groin; pain on sudden movements. Os lower than natural. Menorrhagia."
+  ],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [
+    "Yellow; goose-flesh. Promotes favorable cicatrization, with least amount of suppuration. Slough, proud flesh, and raised edges. Superficial burns and scalds. Erysipelas (use topically)."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [
+    "Coldness, great sensitiveness to open air; shuddering in back, skin feels warm to touch. Heat in evening."
+  ],
+  "complementary_remedies": [
+    "Hamamel",
+    "Hyperic",
+    "Symph",
+    "Arn"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/c/calen.htm",
+    "title": "CALENDULA OFFICINALIS - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:11:44.471Z"
+  },
+  "confidence_score": 0.8
+}

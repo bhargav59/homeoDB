@@ -1,0 +1,51 @@
+{
+  "name": "ERYNGIUM AQUATICUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Button Snake-root"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Cough, with sense of constriction. Smarting in throat and larynx."
+  ],
+  "guiding_symptoms": [
+    "Cough, with sense of constriction. Smarting in throat and larynx."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [],
+  "respiratory_symptoms": [
+    "Cough, with sense of constriction. Smarting in throat and larynx."
+  ],
+  "gi_symptoms": [],
+  "urinary_symptoms": [
+    "Tenesmus of bladder and urethra. Difficult and frequent micturition. Pain behind pubes. Spasmodic stricture. Renal colic (Pareira; Calc). Congestion of kidneys with dull pain in back, running down the ureters and limbs. Irritable bladder from enlarged prostate gland, or from pressure of uterus."
+  ],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Conium",
+    "Cannab",
+    "Dios",
+    "Ocim",
+    "Clemat"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/e/ery-a.htm",
+    "title": "ERYNGIUM AQUATICUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:31:34.208Z"
+  },
+  "confidence_score": 0.5
+}

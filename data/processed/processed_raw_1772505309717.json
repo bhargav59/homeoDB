@@ -1,0 +1,67 @@
+{
+  "name": "TARENTULA CUBENSIS",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Cuban Spider"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Dizziness after heat and hot perspiration. Dull ache on top of head. Shooting pain through left eye across frontal region.",
+    "Gastric.--Stomach feels hard, sore. Loss of appetite, except for breakfast.",
+    "Hands tremble, turgid with blood.",
+    "Itches across kidney region."
+  ],
+  "guiding_symptoms": [
+    "Dizziness after heat and hot perspiration. Dull ache on top of head. Shooting pain through left eye across frontal region.",
+    "Gastric.--Stomach feels hard, sore. Loss of appetite, except for breakfast.",
+    "Hands tremble, turgid with blood."
+  ],
+  "modalities": {
+    "worse": [
+      "night"
+    ],
+    "better": [
+      "smoking"
+    ]
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Dizziness after heat and hot perspiration. Dull ache on top of head. Shooting pain through left eye across frontal region.",
+    "Gastric.--Stomach feels hard, sore. Loss of appetite, except for breakfast."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [],
+  "urinary_symptoms": [
+    "Retention. Cannot hold urine on coughing."
+  ],
+  "musculoskeletal_symptoms": [
+    "Hands tremble, turgid with blood."
+  ],
+  "skin_symptoms": [
+    "Red spots and pimples. Feels puffed all over. Carbuncles, burning, stinging pains. Purplish hue. Gangrene. Abscesses, where pain and inflammation predominate. Scirrhus of breasts. \"Senile\" ulcers."
+  ],
+  "sleep_symptoms": [
+    "Drowsiness. Sleep restless. Sleep prevented by harsh cough."
+  ],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Ars",
+    "Pyrog",
+    "Crotal",
+    "Echin",
+    "Anthrac"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/t/tarent-c.htm",
+    "title": "TARENTULA CUBENSIS - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:35:09.717Z"
+  },
+  "confidence_score": 0.74
+}

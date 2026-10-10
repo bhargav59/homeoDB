@@ -1,0 +1,58 @@
+{
+  "name": "ALLIUM SATIVUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Garlic"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Voracious appetite. Burning eructations. Least change in diet causes trouble. Constipation, with constant dull pains in bowels. Tongue pale, red papillć.",
+    "Heavy; pulsation in temples; catarrhal deafness.",
+    "Constant rattling of mucus in bronchi. Cough in the morning after leaving bedroom, with mucous expectoration, which is tenacious and difficult to raise. Sensitive to cold air. Dilated bronchi, with fetid expectoration. Darting pain in chest."
+  ],
+  "guiding_symptoms": [
+    "Voracious appetite. Burning eructations. Least change in diet causes trouble. Constipation, with constant dull pains in bowels. Tongue pale, red papillć.",
+    "Heavy; pulsation in temples; catarrhal deafness.",
+    "Constant rattling of mucus in bronchi. Cough in the morning after leaving bedroom, with mucous expectoration, which is tenacious and difficult to raise. Sensitive to cold air. Dilated bronchi, with fetid expectoration. Darting pain in chest."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Heavy; pulsation in temples; catarrhal deafness."
+  ],
+  "respiratory_symptoms": [
+    "Constant rattling of mucus in bronchi. Cough in the morning after leaving bedroom, with mucous expectoration, which is tenacious and difficult to raise. Sensitive to cold air. Dilated bronchi, with fetid expectoration. Darting pain in chest."
+  ],
+  "gi_symptoms": [
+    "Voracious appetite. Burning eructations. Least change in diet causes trouble. Constipation, with constant dull pains in bowels. Tongue pale, red papillć."
+  ],
+  "urinary_symptoms": [
+    "Pain in swelling of breasts. Eruption in vagina and on breasts and vulva during menses."
+  ],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Capsicum",
+    "Arsenic",
+    "Senega",
+    "Kali nit"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/a/all-s.htm",
+    "title": "ALLIUM SATIVUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-01T13:29:02.411Z"
+  },
+  "confidence_score": 0.62
+}

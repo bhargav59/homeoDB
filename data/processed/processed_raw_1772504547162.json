@@ -1,0 +1,74 @@
+{
+  "name": "RHUS TOXICODENDRON",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Poison-ivy"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Want of appetite for any kind of food, with unquenchable thirst. Bitter taste (Cupr). Nausea, vertigo, and bloated abdomen after eating. Desire for milk. Great thirst, with dry mouth and throat. Pressure as from a stone. (Bry; Ars) Drowsy after eating.",
+    "Feels as if a board were strapped on the forehead. Vertigo when rising. Heavy head. Brain feels loose and as if struck against skull on walking or rising. Scalp sensitive; worse on side lain on. Headache in occiput (Rhus rad); painful to touch. Pain in forehead and proceeds thence backward. Humid eruptions on scalp; itching greatly.",
+    "Tickling behind upper sternum. Dry, teasing cough from midnight until morning, during a chill, or when putting hands out of bed. Hćmoptysis from overexertion; blood bright red. Influenza, with aching in all bones (Eup perf). Hoarseness from overtraining voice (Arn). Oppression of the chest, cannot get breath with sticking pains. Bronchial coughs in old people, worse on awaking and with expectoration of small plugs of mucus.",
+    "Hypertrophy from overexertion. Pulse quick, weak, irregular, intermittent, with numbness of left arm. Trembling and palpitation when sitting still.",
+    "Hot, painful swelling of joints. Pains tearing in tendons, ligaments, and fascić. Rheumatic pains spread over a large surface at nape of neck, loins, and extremities; better motion (Agaric). Soreness of condyles of bones. Limbs stiff paralyzed. The cold fresh air is not tolerated; it makes the skin painful. Pain along ulnar nerve. Tearing down thighs. Sciatica; worse, cold, damp weather, at night. Numbness and formication, after overwork and exposure. Paralysis; trembling after exertion. Tenderness about knee-joint. Loss of power in forearm and fingers; crawling sensation in the tips of fingers. Tingling in feet.",
+    "Pain between shoulders on swallowing. Pain and stiffness in small of back; better, motion, or lying on something hard; worse, while sitting. Stiffness of the nape of the neck."
+  ],
+  "guiding_symptoms": [
+    "Want of appetite for any kind of food, with unquenchable thirst. Bitter taste (Cupr). Nausea, vertigo, and bloated abdomen after eating. Desire for milk. Great thirst, with dry mouth and throat. Pressure as from a stone. (Bry; Ars) Drowsy after eating.",
+    "Feels as if a board were strapped on the forehead. Vertigo when rising. Heavy head. Brain feels loose and as if struck against skull on walking or rising. Scalp sensitive; worse on side lain on. Headache in occiput (Rhus rad); painful to touch. Pain in forehead and proceeds thence backward. Humid eruptions on scalp; itching greatly.",
+    "Tickling behind upper sternum. Dry, teasing cough from midnight until morning, during a chill, or when putting hands out of bed. Hćmoptysis from overexertion; blood bright red. Influenza, with aching in all bones (Eup perf). Hoarseness from overtraining voice (Arn). Oppression of the chest, cannot get breath with sticking pains. Bronchial coughs in old people, worse on awaking and with expectoration of small plugs of mucus."
+  ],
+  "modalities": {
+    "worse": [
+      "during sleep, cold, wet rainy weather and after rain",
+      "at night, during rest, drenching, when lying on back or right side"
+    ],
+    "better": [
+      "warm, dry weather, motion",
+      "walking, change of position, rubbing, warm applications, from stretching out limbs"
+    ]
+  },
+  "mind_symptoms": [
+    "Listless, sad. Thoughts of suicide. Extreme restlessness, with continued change of position. Delirium, with fear of being poisoned (Hyos). Sensorium becomes cloudy. Great apprehension at night, cannot remain in bed."
+  ],
+  "head_symptoms": [
+    "Feels as if a board were strapped on the forehead. Vertigo when rising. Heavy head. Brain feels loose and as if struck against skull on walking or rising. Scalp sensitive; worse on side lain on. Headache in occiput (Rhus rad); painful to touch. Pain in forehead and proceeds thence backward. Humid eruptions on scalp; itching greatly."
+  ],
+  "respiratory_symptoms": [
+    "Tickling behind upper sternum. Dry, teasing cough from midnight until morning, during a chill, or when putting hands out of bed. Hćmoptysis from overexertion; blood bright red. Influenza, with aching in all bones (Eup perf). Hoarseness from overtraining voice (Arn). Oppression of the chest, cannot get breath with sticking pains. Bronchial coughs in old people, worse on awaking and with expectoration of small plugs of mucus."
+  ],
+  "gi_symptoms": [
+    "Want of appetite for any kind of food, with unquenchable thirst. Bitter taste (Cupr). Nausea, vertigo, and bloated abdomen after eating. Desire for milk. Great thirst, with dry mouth and throat. Pressure as from a stone. (Bry; Ars) Drowsy after eating."
+  ],
+  "urinary_symptoms": [
+    "Dark, turbid, high-colored, scanty urine, with white sediment. Dysuria, with loss of blood."
+  ],
+  "musculoskeletal_symptoms": [
+    "Hot, painful swelling of joints. Pains tearing in tendons, ligaments, and fascić. Rheumatic pains spread over a large surface at nape of neck, loins, and extremities; better motion (Agaric). Soreness of condyles of bones. Limbs stiff paralyzed. The cold fresh air is not tolerated; it makes the skin painful. Pain along ulnar nerve. Tearing down thighs. Sciatica; worse, cold, damp weather, at night. Numbness and formication, after overwork and exposure. Paralysis; trembling after exertion. Tenderness about knee-joint. Loss of power in forearm and fingers; crawling sensation in the tips of fingers. Tingling in feet."
+  ],
+  "skin_symptoms": [
+    "Red, swollen; itching intense. Vesicles, herpes; urticaria; pemphigus; erysipelas; vesicular suppurative forms. Glands swollen. Cellulitis. Burning eczematous eruptions with tendency to scale formation."
+  ],
+  "sleep_symptoms": [
+    "Dreams of great exertion. Heavy sleep, as from stupor. Sleepless before midnight."
+  ],
+  "fever_symptoms": [
+    "Adynamic; restless, trembling. Typhoid; tongue dry and brown; sordes; bowels loose; great restlessness. Intermittent; chill, with dry cough and restlessness. During heat, urticaria. Hydroa. Chilly, as if cold water were poured over him, followed by heat and inclination to stretch the limbs."
+  ],
+  "complementary_remedies": [
+    "Rhus radicans (almost identical action"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/r/rhus-t.htm",
+    "title": "RHUS TOXICODENDRON - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:22:27.162Z"
+  },
+  "confidence_score": 0.8
+}

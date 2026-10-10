@@ -1,0 +1,69 @@
+{
+  "name": "ALOE SOCOTRINA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Socotrine Aloes"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Aversion to meat. Longing for juicy things. After eating, flatulence, pulsation in rectum and sexual irritation. Nausea, with headache. Pain in pit when making false step.",
+    "Headache alternates with lumbago, with intestinal and uterine affections. Disinclination to mental labor. Aches above forehead, with heaviness in eyes, must partially close them. Headache after stool. Dull, pressive pain; worse from heat.",
+    "Winter coughs, with itching. Difficult respiration, with stitches from liver to chest.",
+    "Lameness in all limbs. Drawing pains in joints. Soles pain when walking.",
+    "Pain in small of back; worse moving. Stitches through sacrum. Lumbago alternating with headache and piles."
+  ],
+  "guiding_symptoms": [
+    "Aversion to meat. Longing for juicy things. After eating, flatulence, pulsation in rectum and sexual irritation. Nausea, with headache. Pain in pit when making false step.",
+    "Headache alternates with lumbago, with intestinal and uterine affections. Disinclination to mental labor. Aches above forehead, with heaviness in eyes, must partially close them. Headache after stool. Dull, pressive pain; worse from heat.",
+    "Winter coughs, with itching. Difficult respiration, with stitches from liver to chest."
+  ],
+  "modalities": {
+    "worse": [
+      "early morning",
+      "summer",
+      "heat",
+      "in hot, dry weather",
+      "after eating or drinking"
+    ],
+    "better": [
+      "from cold, open air"
+    ]
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Headache alternates with lumbago, with intestinal and uterine affections. Disinclination to mental labor. Aches above forehead, with heaviness in eyes, must partially close them. Headache after stool. Dull, pressive pain; worse from heat."
+  ],
+  "respiratory_symptoms": [
+    "Winter coughs, with itching. Difficult respiration, with stitches from liver to chest."
+  ],
+  "gi_symptoms": [
+    "Aversion to meat. Longing for juicy things. After eating, flatulence, pulsation in rectum and sexual irritation. Nausea, with headache. Pain in pit when making false step."
+  ],
+  "urinary_symptoms": [
+    "Incontinence in aged, bearing-down sensation and enlarged prostate. Scanty and high colored."
+  ],
+  "musculoskeletal_symptoms": [
+    "Lameness in all limbs. Drawing pains in joints. Soles pain when walking."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Kali bich",
+    "Lycop",
+    "Allium sat"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/a/aloe.htm",
+    "title": "ALOE SOCOTRINA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-01T13:29:22.394Z"
+  },
+  "confidence_score": 0.8
+}

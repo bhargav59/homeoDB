@@ -1,0 +1,55 @@
+{
+  "name": "NATRIUM ARSENICOSUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Arseniate of Sodium"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Floating sensation on turning head quickly; aching in frontal region and root of nose, over orbits. Headache; worse pressure and tobacco smoke.",
+    "Racking cough, with profuse greenish expectoration. Oppression of chest and about heart, and also larynx. Miner's asthma. Lungs feel as though smoke had been inhaled.",
+    "Aching in arms; worse in shoulder. Pain in anterior crural nerves. Joints stiff. Feels tired all over. Knee-joints crack."
+  ],
+  "guiding_symptoms": [
+    "Floating sensation on turning head quickly; aching in frontal region and root of nose, over orbits. Headache; worse pressure and tobacco smoke.",
+    "Racking cough, with profuse greenish expectoration. Oppression of chest and about heart, and also larynx. Miner's asthma. Lungs feel as though smoke had been inhaled.",
+    "Aching in arms; worse in shoulder. Pain in anterior crural nerves. Joints stiff. Feels tired all over. Knee-joints crack."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Floating sensation on turning head quickly; aching in frontal region and root of nose, over orbits. Headache; worse pressure and tobacco smoke."
+  ],
+  "respiratory_symptoms": [
+    "Racking cough, with profuse greenish expectoration. Oppression of chest and about heart, and also larynx. Miner's asthma. Lungs feel as though smoke had been inhaled."
+  ],
+  "gi_symptoms": [],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [
+    "Aching in arms; worse in shoulder. Pain in anterior crural nerves. Joints stiff. Feels tired all over. Knee-joints crack."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Ars",
+    "Kali carb",
+    "Apis"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/n/nat-ar.htm",
+    "title": "NATRIUM ARSENICOSUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:04:58.258Z"
+  },
+  "confidence_score": 0.6799999999999999
+}

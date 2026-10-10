@@ -1,0 +1,60 @@
+{
+  "remedy_name": "Sambucus Nigra.",
+  "source_file": "raw_1772508047510_clarke_dictionary_w4.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      {
+        "original": "Ars",
+        "resolved_name": "ARSENICUM ALBUM",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      },
+      {
+        "original": "to: Ars",
+        "resolved_name": "ARSENICUM ALBUM",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      }
+    ],
+    "follows_well": [
+      {
+        "original": "Op",
+        "resolved_name": "OPIUM",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      }
+    ],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "In Millar's asthma",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "Ar",
+        "resolved_name": "ARSENICUM ALBUM",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": [
+      {
+        "original": "d by: Ars",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "Ars",
+        "resolved_name": "ARSENICUM ALBUM",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      }
+    ]
+  },
+  "resolved_at": "2026-03-11T01:50:11.104Z"
+}

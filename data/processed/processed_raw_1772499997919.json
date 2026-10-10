@@ -1,0 +1,52 @@
+{
+  "name": "BERBERIS AQUIFOLIUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Mountain Grape"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Tongue thickly coated, yellowish-brown; feels blistered. Burning in stomach. Nausea and hunger after eating.",
+    "Urine.--Stitching, crampy pains; thick mucus, and bright-red, mealy sediment.",
+    "Sensation of a band just above ears. Bilious headache. \"Scald head\". Scaly eczema."
+  ],
+  "guiding_symptoms": [
+    "Tongue thickly coated, yellowish-brown; feels blistered. Burning in stomach. Nausea and hunger after eating.",
+    "Urine.--Stitching, crampy pains; thick mucus, and bright-red, mealy sediment.",
+    "Sensation of a band just above ears. Bilious headache. \"Scald head\". Scaly eczema."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Sensation of a band just above ears. Bilious headache. \"Scald head\". Scaly eczema."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "Tongue thickly coated, yellowish-brown; feels blistered. Burning in stomach. Nausea and hunger after eating.",
+    "Urine.--Stitching, crampy pains; thick mucus, and bright-red, mealy sediment."
+  ],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [
+    "Pimply, dry, rough, scaly. Eruption on scalp extending to face and neck. Tumor of breast, with pain. Psoriasis. Acne. Dry eczema. Pruritus. Glandular induration."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/b/berb-a.htm",
+    "title": "BERBERIS AQUIFOLIUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:06:37.919Z"
+  },
+  "confidence_score": 0.56
+}

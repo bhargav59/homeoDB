@@ -1,0 +1,25 @@
+{
+  "remedy_name": "GLONOINUM",
+  "source_file": "raw_1772501934905.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/g/glon.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      "Acon"
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Amyl nit",
+      "Bellad",
+      "Opium",
+      "Stram",
+      "Verat vir"
+    ],
+    "incompatible": [],
+    "antidotes": [
+      "Acon"
+    ]
+  },
+  "parsed_at": "2026-03-03T15:23:37.480Z"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "MALANDRINUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Grease in Horses"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [],
+  "guiding_symptoms": [],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [
+    "Scab on upper lip, with stinging pain when torn off. Aching in forehead. Dry, scaly; itching; rhagades of hands and feet in cold weather and from washing. Toes feel scalded and itch terribly. Bone-like protuberances."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/m/maland.htm",
+    "title": "MALANDRINUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:58:25.425Z"
+  },
+  "confidence_score": 0.32
+}

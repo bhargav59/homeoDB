@@ -1,0 +1,57 @@
+{
+  "name": "PHYSOSTIGMA VENENOSUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Calabar Bean"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Great pain immediately after eating. Sensitive to pressure in epigastric region. Pain extends into chest and down arms. Gastralgia; chronic constipation.",
+    "Constant pain on top; vertigo, with constrictive feeling of head. Pain over orbits; cannot bear to raise eyelids. Cerebro-spinal meningitis; general tetanic rigidity. Spastic conditions of the face-muscles.",
+    "Feeble pulse; palpitation; spasmodic action, with feeling pulsation through the whole body. Beats of heart distinctly perceptible in chest and head. Fluttering of heart felt in throat. Fatty degeneration (Cup ac).",
+    "Pain in right popliteal space. Burning and tingling in spine. Hands and feet numb. Sudden jerking of limbs on going to sleep. Tetanic convulsions. Locomotor ataxia. Numbness in paralyzed parts, crampy pains in limbs."
+  ],
+  "guiding_symptoms": [
+    "Great pain immediately after eating. Sensitive to pressure in epigastric region. Pain extends into chest and down arms. Gastralgia; chronic constipation.",
+    "Constant pain on top; vertigo, with constrictive feeling of head. Pain over orbits; cannot bear to raise eyelids. Cerebro-spinal meningitis; general tetanic rigidity. Spastic conditions of the face-muscles.",
+    "Feeble pulse; palpitation; spasmodic action, with feeling pulsation through the whole body. Beats of heart distinctly perceptible in chest and head. Fluttering of heart felt in throat. Fatty degeneration (Cup ac)."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Constant pain on top; vertigo, with constrictive feeling of head. Pain over orbits; cannot bear to raise eyelids. Cerebro-spinal meningitis; general tetanic rigidity. Spastic conditions of the face-muscles."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "Great pain immediately after eating. Sensitive to pressure in epigastric region. Pain extends into chest and down arms. Gastralgia; chronic constipation."
+  ],
+  "urinary_symptoms": [
+    "Irregular menstruation, with palpitation. Congestion of eyes. Rigid muscles."
+  ],
+  "musculoskeletal_symptoms": [
+    "Pain in right popliteal space. Burning and tingling in spine. Hands and feet numb. Sudden jerking of limbs on going to sleep. Tetanic convulsions. Locomotor ataxia. Numbness in paralyzed parts, crampy pains in limbs."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "blepharo-spasms",
+    "pupils contracted"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/p/phys.htm",
+    "title": "PHYSOSTIGMA VENENOSUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:15:26.405Z"
+  },
+  "confidence_score": 0.8
+}

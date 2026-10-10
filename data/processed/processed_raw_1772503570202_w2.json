@@ -1,0 +1,65 @@
+{
+  "name": "ONOSMODIUM VIRGINIANUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "False Gromwell"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Sore, aching in breasts; feels swollen and sore. Pain in heart; pulse, rapid, irregular, weak.",
+    "Loss of memory. Nose feels dry. Confused. Dull, heavy, dizzy, pressing upward in occiput. Occipito-frontal pain in morning on waking, chiefly left side. Pain in temples and mastoid (Capsic).",
+    "Pain in back. Tired and numb feeling in legs, popliteal spaces, and below knees. Staggering gait. Sidewalk seems too high. Pain in left scapular region. Great muscular weakness and weariness.",
+    "Pain in dorsal and lumbar regions. Numbness and tingling in feet and legs."
+  ],
+  "guiding_symptoms": [
+    "Sore, aching in breasts; feels swollen and sore. Pain in heart; pulse, rapid, irregular, weak.",
+    "Loss of memory. Nose feels dry. Confused. Dull, heavy, dizzy, pressing upward in occiput. Occipito-frontal pain in morning on waking, chiefly left side. Pain in temples and mastoid (Capsic).",
+    "Pain in back. Tired and numb feeling in legs, popliteal spaces, and below knees. Staggering gait. Sidewalk seems too high. Pain in left scapular region. Great muscular weakness and weariness."
+  ],
+  "modalities": {
+    "worse": [
+      "from motion, jar, and tight clothing"
+    ],
+    "better": [
+      "when undressed, when lying down on back, from cold drinks, and eating"
+    ]
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Loss of memory. Nose feels dry. Confused. Dull, heavy, dizzy, pressing upward in occiput. Occipito-frontal pain in morning on waking, chiefly left side. Pain in temples and mastoid (Capsic)."
+  ],
+  "respiratory_symptoms": [
+    "Sore, aching in breasts; feels swollen and sore. Pain in heart; pulse, rapid, irregular, weak."
+  ],
+  "gi_symptoms": [
+    "Craving for ice-water and cold drinks; wants to drink often. Abdomen feels bloated"
+  ],
+  "urinary_symptoms": [
+    "Constant sexual excitement. Psychical impotence. Loss of desire. Speedy emissions. Deficient erections."
+  ],
+  "musculoskeletal_symptoms": [
+    "Pain in back. Tired and numb feeling in legs, popliteal spaces, and below knees. Staggering gait. Sidewalk seems too high. Pain in left scapular region. Great muscular weakness and weariness."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Nat mur",
+    "Lilium",
+    "Gels",
+    "Ruta"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/o/onos.htm",
+    "title": "ONOSMODIUM VIRGINIANUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:06:10.202Z"
+  },
+  "confidence_score": 0.8
+}

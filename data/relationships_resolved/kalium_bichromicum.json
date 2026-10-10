@@ -1,0 +1,83 @@
+{
+  "remedy_name": "KALIUM BICHROMICUM",
+  "source_file": "raw_1772502548030.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      {
+        "original": "Ars",
+        "resolved_name": "ARSENICUM ALBUM",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      }
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Tart emet",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "Brom",
+        "resolved_name": "AMMONIUM BROMATUM",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Hepar",
+        "resolved_name": "HEPAR SULPHUR",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Ind",
+        "resolved_name": "ACALYPHA INDICA",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Calc",
+        "resolved_name": "CALCAREA CARBONICA",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      },
+      {
+        "original": "Ant cr",
+        "resolved_name": "ANTIMONIUM CRUDUM",
+        "confidence": 0.7,
+        "method": "levenshtein_2"
+      },
+      {
+        "original": "Ammon caust",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "Sulph ac",
+        "resolved_name": "SULPHUR",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      },
+      {
+        "original": "Ipecac",
+        "resolved_name": "IPECACUANHA",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": [
+      {
+        "original": "Ars",
+        "resolved_name": "ARSENICUM ALBUM",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      }
+    ]
+  },
+  "resolved_at": "2026-03-11T01:50:10.015Z"
+}

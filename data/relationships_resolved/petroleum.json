@@ -1,0 +1,60 @@
+{
+  "remedy_name": "PETROLEUM",
+  "source_file": "raw_1772504069699.json",
+  "relationships": {
+    "complementary": [
+      {
+        "original": "Sepia",
+        "resolved_name": "SEPIA OFFICINALIS",
+        "confidence": 1,
+        "method": "exact"
+      }
+    ],
+    "antidoted_by": [
+      {
+        "original": "Nux",
+        "resolved_name": "NUX MOSCHATA",
+        "confidence": 1,
+        "method": "exact"
+      }
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Carbo",
+        "resolved_name": "CARBO ANIMALIS",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Graph",
+        "resolved_name": "GRAPHITES",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      },
+      {
+        "original": "Sulph",
+        "resolved_name": "SULPHUR",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      },
+      {
+        "original": "Phos",
+        "resolved_name": "PHOSPHORUS",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": [
+      {
+        "original": "Nux",
+        "resolved_name": "NUX MOSCHATA",
+        "confidence": 1,
+        "method": "exact"
+      }
+    ]
+  },
+  "resolved_at": "2026-03-11T01:50:10.676Z"
+}

@@ -1,0 +1,73 @@
+{
+  "name": "ARSENICUM ALBUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Arsenious Acid-Arsenic Trioxide"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Cannot bear the sight or smell of food. Great thirst; drinks much, but little at a time. Nausea, retching, vomiting, after eating or drinking. Anxiety in pit of stomach. Burning pain. Craves acids and coffee. Heartburn; gulping up of acid and bitter substances which seem to excoriate the throat. Long-lasting eructations. Vomiting of blood, bile, green mucus, or brown-black mixed with blood. Stomach extremely irritable; seems raw, as if torn. Gastralgia from slightest food or drink. Dyspepsia from vinegar, acids, ice-cream, ice-water, tobacco. Terrible fear and dyspnśa, with gastralgia; also faintness, icy coldness, great exhaustion. Malignant symptoms. Everything swallowed seems to lodge in the śsophagus, which seems as if closed and nothing would pass. Ill effects of vegetable diet, melons, and watery fruits generally. Craves milk.",
+    "Headaches relieves by cold, other symptoms worse. Periodical burning pains, with restlessness; with cold skin. Hemicrania, with icy feeling of scalp and great weakness. Sensitive head in open air. Delirium tremens; cursing and raving; vicious. Head is in constant motion. Scalp itches intolerably; circular patches of bare spots; rough, dirty, sensitive, and covered with dry scales; nightly burning and itching; dandruff. Scalp very sensitive; cannot brush hair.",
+    "Unable to lie down; fears suffocation. Air-passages constricted. Asthma worse midnight. Burning in chest. Suffocative catarrh. Cough worse after midnight; worse lying on back. Expectoration scanty, frothy. Darting pain through upper third of right lung. Wheezing respiration. Hćmoptysis with pain between shoulders; burning heat all over. Cough dry, as from sulphur fumes; after drinking.",
+    "Palpitation, pain, dyspnśa, faintness. Irritable heart in smokers and tobacco-chewers. Pulse more rapid in morning (Sulph). Dilatation. Cyanosis. Fatty degeneration. Angina pectoris, with pain in neck and occiput.",
+    "Trembling, twitching, spasms, weakness, heaviness, uneasiness. Cramps in calves. Swelling of feet. Sciatica. Burning pains. Peripheral neuritis. Diabetic gangrene. Ulcers on heel (Cepa; Lamium). Paralysis of lower limbs with atrophy.",
+    "Weakness in small of back. Drawing in of shoulders. Pain and burning in back (Oxal ac)."
+  ],
+  "guiding_symptoms": [
+    "Cannot bear the sight or smell of food. Great thirst; drinks much, but little at a time. Nausea, retching, vomiting, after eating or drinking. Anxiety in pit of stomach. Burning pain. Craves acids and coffee. Heartburn; gulping up of acid and bitter substances which seem to excoriate the throat. Long-lasting eructations. Vomiting of blood, bile, green mucus, or brown-black mixed with blood. Stomach extremely irritable; seems raw, as if torn. Gastralgia from slightest food or drink. Dyspepsia from vinegar, acids, ice-cream, ice-water, tobacco. Terrible fear and dyspnśa, with gastralgia; also faintness, icy coldness, great exhaustion. Malignant symptoms. Everything swallowed seems to lodge in the śsophagus, which seems as if closed and nothing would pass. Ill effects of vegetable diet, melons, and watery fruits generally. Craves milk.",
+    "Headaches relieves by cold, other symptoms worse. Periodical burning pains, with restlessness; with cold skin. Hemicrania, with icy feeling of scalp and great weakness. Sensitive head in open air. Delirium tremens; cursing and raving; vicious. Head is in constant motion. Scalp itches intolerably; circular patches of bare spots; rough, dirty, sensitive, and covered with dry scales; nightly burning and itching; dandruff. Scalp very sensitive; cannot brush hair.",
+    "Unable to lie down; fears suffocation. Air-passages constricted. Asthma worse midnight. Burning in chest. Suffocative catarrh. Cough worse after midnight; worse lying on back. Expectoration scanty, frothy. Darting pain through upper third of right lung. Wheezing respiration. Hćmoptysis with pain between shoulders; burning heat all over. Cough dry, as from sulphur fumes; after drinking."
+  ],
+  "modalities": {
+    "worse": [
+      "wet weather, after midnight",
+      "from cold, cold drinks, or food"
+    ],
+    "better": [
+      "from heat",
+      "from head elevated",
+      "warm drinks"
+    ]
+  },
+  "mind_symptoms": [
+    "Great anguish and restlessness. Changes place continually. Fears, of death, of being left alone. Great fear, with cold sweat. Thinks it useless to take medicine. Suicidal. Hallucinations of smell and sight. Despair drives him from place to place. Miserly, malicious, selfish, lacks courage. General sensibility increased (Hep). Sensitive to disorder and confusion."
+  ],
+  "head_symptoms": [
+    "Headaches relieves by cold, other symptoms worse. Periodical burning pains, with restlessness; with cold skin. Hemicrania, with icy feeling of scalp and great weakness. Sensitive head in open air. Delirium tremens; cursing and raving; vicious. Head is in constant motion. Scalp itches intolerably; circular patches of bare spots; rough, dirty, sensitive, and covered with dry scales; nightly burning and itching; dandruff. Scalp very sensitive; cannot brush hair."
+  ],
+  "respiratory_symptoms": [
+    "Unable to lie down; fears suffocation. Air-passages constricted. Asthma worse midnight. Burning in chest. Suffocative catarrh. Cough worse after midnight; worse lying on back. Expectoration scanty, frothy. Darting pain through upper third of right lung. Wheezing respiration. Hćmoptysis with pain between shoulders; burning heat all over. Cough dry, as from sulphur fumes; after drinking."
+  ],
+  "gi_symptoms": [
+    "Cannot bear the sight or smell of food. Great thirst; drinks much, but little at a time. Nausea, retching, vomiting, after eating or drinking. Anxiety in pit of stomach. Burning pain. Craves acids and coffee. Heartburn; gulping up of acid and bitter substances which seem to excoriate the throat. Long-lasting eructations. Vomiting of blood, bile, green mucus, or brown-black mixed with blood. Stomach extremely irritable; seems raw, as if torn. Gastralgia from slightest food or drink. Dyspepsia from vinegar, acids, ice-cream, ice-water, tobacco. Terrible fear and dyspnśa, with gastralgia; also faintness, icy coldness, great exhaustion. Malignant symptoms. Everything swallowed seems to lodge in the śsophagus, which seems as if closed and nothing would pass. Ill effects of vegetable diet, melons, and watery fruits generally. Craves milk."
+  ],
+  "urinary_symptoms": [
+    "Menses too profuse and too soon. Burning in ovarian region. Leucorrhśa, acrid, burning, offensive, thin. Pain as from red-hot wires; worse least exertion; causes great fatigue; better in warm room. Menorrhagia. Stitching pain in pelvis extending down the thigh."
+  ],
+  "musculoskeletal_symptoms": [
+    "Trembling, twitching, spasms, weakness, heaviness, uneasiness. Cramps in calves. Swelling of feet. Sciatica. Burning pains. Peripheral neuritis. Diabetic gangrene. Ulcers on heel (Cepa; Lamium). Paralysis of lower limbs with atrophy."
+  ],
+  "skin_symptoms": [
+    "Itching, burning, swellings; śdema, eruption, papular, dry, rough, scaly; worse cold and scratching. Malignant pustules. Ulcers with offensive discharge. Anthrax. Poisoned wounds. Urticaria, with burning and restlessness. Psoriasis. Scirrhus. Icy coldness of body. Epithelioma of the skin. Gangrenous inflammations."
+  ],
+  "sleep_symptoms": [
+    "Disturbed, anxious, restless. Must have head raised by pillows. Suffocative fits during sleep. Sleeps with hands over head. Dreams are full of care and fear. Drowsy, sleeping sickness."
+  ],
+  "fever_symptoms": [
+    "High temperature. Periodicity marked with adynamia. Septic fevers. Intermittent. Paroxysms incomplete, with marked exhaustion. Hay-fever. Cold sweats. Typhoid, not too early; often after Rhus. Complete exhaustion. Delirium; worse after midnight. Great restlessness. Great heat about 3 am."
+  ],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/a/ars.htm",
+    "title": "ARSENICUM ALBUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-02T06:33:55.301Z"
+  },
+  "confidence_score": 0.8
+}

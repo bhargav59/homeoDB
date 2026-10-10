@@ -1,0 +1,65 @@
+{
+  "name": "CALADIUM SEGUINUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "American Arum"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Gnawing in orifice of stomach, which prevents deep breathing and eructations. Eructations. Stomach feels full of dry food; sensation of fluttering. Acrid vomiting, thirstless and tolerates only warm drinks. Sighing respiration.",
+    "Headaches and mental states of smokers. Very forgetful, does not know about the occurrences of things. Confused headache with pain in shoulder, pressure in eyes and forehead; extremely sensitive to noise, throbbing in ear.",
+    "Larynx seems constricted. Breathing impeded. Catarrhal asthma; mucus not readily raised. Patient afraid to go to sleep."
+  ],
+  "guiding_symptoms": [
+    "Gnawing in orifice of stomach, which prevents deep breathing and eructations. Eructations. Stomach feels full of dry food; sensation of fluttering. Acrid vomiting, thirstless and tolerates only warm drinks. Sighing respiration.",
+    "Headaches and mental states of smokers. Very forgetful, does not know about the occurrences of things. Confused headache with pain in shoulder, pressure in eyes and forehead; extremely sensitive to noise, throbbing in ear.",
+    "Larynx seems constricted. Breathing impeded. Catarrhal asthma; mucus not readily raised. Patient afraid to go to sleep."
+  ],
+  "modalities": {
+    "worse": [
+      "motion"
+    ],
+    "better": [
+      "after sweat, after sleeping in daytime"
+    ]
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Headaches and mental states of smokers. Very forgetful, does not know about the occurrences of things. Confused headache with pain in shoulder, pressure in eyes and forehead; extremely sensitive to noise, throbbing in ear."
+  ],
+  "respiratory_symptoms": [
+    "Larynx seems constricted. Breathing impeded. Catarrhal asthma; mucus not readily raised. Patient afraid to go to sleep."
+  ],
+  "gi_symptoms": [
+    "Gnawing in orifice of stomach, which prevents deep breathing and eructations. Eructations. Stomach feels full of dry food; sensation of fluttering. Acrid vomiting, thirstless and tolerates only warm drinks. Sighing respiration."
+  ],
+  "urinary_symptoms": [
+    "Pruritus. Glans very red. Organs seem larger, puffed, relaxed, cold, sweating; skin of scrotum thick. Erections when half-asleep; cease when fully awake. Impotency; relaxation of penis during excitement. No emission and no orgasm during embrace."
+  ],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [
+    "Sweet sweat-attracts flies. Insect bites burn and itch intensely. Itching rash alternates with asthma. Burning sensation and erysipelatous inflammation."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Capsic",
+    "Phosph",
+    "Caust",
+    "Selen",
+    "Lyc"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/c/calad.htm",
+    "title": "CALADIUM SEGUINUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:10:07.005Z"
+  },
+  "confidence_score": 0.74
+}

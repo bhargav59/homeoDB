@@ -1,0 +1,69 @@
+{
+  "remedy_name": "THYROIDINUM",
+  "source_file": "raw_1772505449788.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Spongia",
+        "resolved_name": "SPONGIA TOSTA",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Calc",
+        "resolved_name": "CALCAREA CARBONICA",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      },
+      {
+        "original": "Fucus",
+        "resolved_name": "FUCUS VESICULOSUS",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Lycopus",
+        "resolved_name": "LYCOPUS VIRGINICUS",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Iodothyrine",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "a substance rich in Iodine and nitrogen",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "affects metabolism",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "reducing weight",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "may produce glycosuria",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:11.467Z"
+}

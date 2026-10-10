@@ -1,0 +1,21 @@
+{
+  "remedy_name": "HEDEOMA PULEGIOIDES",
+  "source_file": "raw_1772502099348.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/h/hedeo.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Mentha",
+      "Sepia",
+      "Lilium",
+      "Ocimum (uric acid diathesis",
+      "pain in ureters)"
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "parsed_at": "2026-03-03T15:23:37.487Z"
+}

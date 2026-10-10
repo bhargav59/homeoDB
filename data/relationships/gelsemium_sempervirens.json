@@ -1,0 +1,27 @@
+{
+  "remedy_name": "GELSEMIUM SEMPERVIRENS",
+  "source_file": "raw_1772501881745.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/g/gels.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      "China"
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Ignatia",
+      "Baptisa",
+      "Ipecac",
+      "Acon",
+      "Bell",
+      "Cimicif",
+      "Magnes phos"
+    ],
+    "incompatible": [],
+    "antidotes": [
+      "China"
+    ]
+  },
+  "parsed_at": "2026-03-03T15:23:37.478Z"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "mmat8tiz0wlic0",
+  "patient_name": "Sample Patient",
+  "age": 35,
+  "gender": "Male",
+  "chief_complaint": "Recurrent headache worse in morning",
+  "history": "Patient presents with throbbing frontal headache, worse on waking, better by pressure.",
+  "past_history": "",
+  "family_history": "",
+  "mental_symptoms": [
+    "Irritability",
+    "Anxiety about health"
+  ],
+  "physical_symptoms": [
+    "Frontal headache",
+    "Nausea with headache"
+  ],
+  "modalities": {
+    "worse": [
+      "Morning",
+      "Warmth"
+    ],
+    "better": [
+      "Pressure",
+      "Open air"
+    ]
+  },
+  "prescription": {
+    "remedy": "Bryonia Alba",
+    "potency": "30C",
+    "dosage": "3 pellets",
+    "frequency": "TDS"
+  },
+  "follow_ups": [],
+  "outcome": "",
+  "tags": [
+    "headache",
+    "bryonia"
+  ],
+  "created_at": "2026-03-03T16:16:43.643Z",
+  "updated_at": "2026-03-03T16:16:43.644Z"
+}

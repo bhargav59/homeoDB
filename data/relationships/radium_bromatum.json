@@ -1,0 +1,27 @@
+{
+  "remedy_name": "RADIUM BROMATUM",
+  "source_file": "raw_1772504434196.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/r/rad-br.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      "Rhus ven"
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "X-Ray",
+      "Rhus",
+      "Sepia",
+      "Uranium",
+      "Ars",
+      "Pulsat",
+      "Caustic"
+    ],
+    "incompatible": [],
+    "antidotes": [
+      "Rhus ven"
+    ]
+  },
+  "parsed_at": "2026-03-03T15:23:37.710Z"
+}

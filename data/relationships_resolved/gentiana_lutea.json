@@ -1,0 +1,57 @@
+{
+  "remedy_name": "GENTIANA LUTEA",
+  "source_file": "raw_1772501893555.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "dyspepsia",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "cholera infantum",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "weakness)",
+        "resolved_name": "Dr. Reckeweg R28, Best Homeopathic Medicines For Weakness, Homeopathic Medicine For Fatigue",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "dysphagia",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "vertigo with headache",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "pressing inward sensation in eyes",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "constricted throat and head and abdomen",
+        "resolved_name": "CONIUM MACULATUM",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:09.724Z"
+}

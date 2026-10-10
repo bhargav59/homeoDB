@@ -1,0 +1,41 @@
+{
+  "remedy_name": "COCAINUM HYDROCHLORICUM",
+  "source_file": "raw_1772500945314.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      {
+        "original": "drop",
+        "resolved_name": "POLYGONUM HYDROPIPEROIDES",
+        "confidence": 0.8,
+        "method": "substring"
+      }
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Stovain (an analgesic",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "a vasomotor dilator)",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": [
+      {
+        "original": "drop",
+        "resolved_name": "POLYGONUM HYDROPIPEROIDES",
+        "confidence": 0.8,
+        "method": "substring"
+      }
+    ]
+  },
+  "resolved_at": "2026-03-11T01:50:09.015Z"
+}

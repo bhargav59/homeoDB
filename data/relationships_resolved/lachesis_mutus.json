@@ -1,0 +1,72 @@
+{
+  "remedy_name": "LACHESIS MUTUS",
+  "source_file": "raw_1772502754342.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      {
+        "original": "Ars",
+        "resolved_name": "ARSENICUM ALBUM",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      }
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Cotyledon",
+        "resolved_name": "COTYLEDON UMBILICUS",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Nat m",
+        "resolved_name": "NATRUM MURIATICUM",
+        "confidence": 0.85,
+        "method": "levenshtein_1"
+      },
+      {
+        "original": "Nit ac",
+        "resolved_name": "NITRICUM ACIDUM",
+        "confidence": 0.85,
+        "method": "levenshtein_1"
+      },
+      {
+        "original": "Crotal",
+        "resolved_name": "CROTALUS HORRIDUS",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "lancinating pains",
+        "resolved_name": "CINA MARITIMA",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "headaches",
+        "resolved_name": "Dr. Reckeweg R16, Homeopathic Medicines For Migraine Headaches, Homeopathic Relief For Migraines",
+        "confidence": 0.8,
+        "method": "substring"
+      }
+    ],
+    "incompatible": [
+      {
+        "original": "Acet ac",
+        "resolved_name": "Actæa Spicata.",
+        "confidence": 0.55,
+        "method": "levenshtein_3"
+      }
+    ],
+    "antidotes": [
+      {
+        "original": "Ars",
+        "resolved_name": "ARSENICUM ALBUM",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      }
+    ]
+  },
+  "resolved_at": "2026-03-11T01:50:10.106Z"
+}

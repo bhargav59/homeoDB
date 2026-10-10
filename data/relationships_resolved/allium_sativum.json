@@ -1,0 +1,60 @@
+{
+  "remedy_name": "ALLIUM SATIVUM",
+  "source_file": "raw_1772371742411.json",
+  "relationships": {
+    "complementary": [
+      {
+        "original": "Arsenic",
+        "resolved_name": "ARSENICUM ALBUM",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      }
+    ],
+    "antidoted_by": [
+      {
+        "original": "Lycopod",
+        "resolved_name": "LYCOPODIUM CLAVATUM",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      }
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Capsicum",
+        "resolved_name": "CAPSICUM ANNUUM",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Arsenic",
+        "resolved_name": "ARSENICUM ALBUM",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      },
+      {
+        "original": "Senega",
+        "resolved_name": "SENEGA",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Kali nit",
+        "resolved_name": "KALI CARBONICUM",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": [
+      {
+        "original": "Lycopod",
+        "resolved_name": "LYCOPODIUM CLAVATUM",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      }
+    ]
+  },
+  "resolved_at": "2026-03-11T01:50:08.400Z"
+}

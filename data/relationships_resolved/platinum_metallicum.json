@@ -1,0 +1,95 @@
+{
+  "remedy_name": "PLATINUM METALLICUM",
+  "source_file": "raw_1772504224378.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      {
+        "original": "Puls",
+        "resolved_name": "PULSATILLA",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      },
+      {
+        "original": "the bad effects of lead",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      }
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Rhodium",
+        "resolved_name": "RHODIUM METALLICUM",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Stann",
+        "resolved_name": "STANNUM",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      },
+      {
+        "original": "Valer",
+        "resolved_name": "AMMONIUM VALERIANICUM",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Sep",
+        "resolved_name": "SEPIA",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      },
+      {
+        "original": "violent occipital headaches",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "dysphagia",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "caries of bones of feet)",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "Plat mur nat",
+        "resolved_name": "PLATINA",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      },
+      {
+        "original": "Sedum acre (sexual irritability",
+        "resolved_name": "SEDUM ACRE",
+        "confidence": 0.8,
+        "method": "substring"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": [
+      {
+        "original": "Puls",
+        "resolved_name": "PULSATILLA",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      },
+      {
+        "original": "the bad effects of lead",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      }
+    ]
+  },
+  "resolved_at": "2026-03-11T01:50:10.825Z"
+}

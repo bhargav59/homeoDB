@@ -1,0 +1,26 @@
+{
+  "remedy_name": "SABADILLA",
+  "source_file": "raw_1772504616657.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/s/sabad.htm",
+  "relationships": {
+    "complementary": [
+      "Sepia"
+    ],
+    "antidoted_by": [
+      "Puls"
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Veratrina (is alkaloid of Sabadilla",
+      "not of Veratrum",
+      "locally in neuralgias",
+      "and for removal of dropsy"
+    ],
+    "incompatible": [],
+    "antidotes": [
+      "Puls"
+    ]
+  },
+  "parsed_at": "2026-03-03T15:23:37.718Z"
+}

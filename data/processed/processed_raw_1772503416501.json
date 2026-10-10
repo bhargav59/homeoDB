@@ -1,0 +1,62 @@
+{
+  "name": "MYGALE LASIODORA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Black Cuban Spider"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Nausea, with dim sight. Aversion to food. Excessive thirst.",
+    "Unsteady gait. Constant motion of whole body. Tremulous. Intense redness in streaks, following course of lymphatics. Twitching of limbs. Restless hands. Convulsive, uncontrollable movements of arms and legs. Limbs drag while walking."
+  ],
+  "guiding_symptoms": [
+    "Nausea, with dim sight. Aversion to food. Excessive thirst.",
+    "Unsteady gait. Constant motion of whole body. Tremulous. Intense redness in streaks, following course of lymphatics. Twitching of limbs. Restless hands. Convulsive, uncontrollable movements of arms and legs. Limbs drag while walking."
+  ],
+  "modalities": {
+    "worse": [
+      "in morning"
+    ],
+    "better": [
+      "during sleep"
+    ]
+  },
+  "mind_symptoms": [
+    "Delirious, restless, sad; fears death; despondent."
+  ],
+  "head_symptoms": [
+    "Twitching of facial muscles. Mouth and eyes open in rapid succession. Hot and flushed. Tongue dry and parched; put out with difficulty. Head jerked to one side. Grating of teeth at night."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "Nausea, with dim sight. Aversion to food. Excessive thirst."
+  ],
+  "urinary_symptoms": [
+    "Violent erections. Chordee (Kali brom; Camph)."
+  ],
+  "musculoskeletal_symptoms": [
+    "Unsteady gait. Constant motion of whole body. Tremulous. Intense redness in streaks, following course of lymphatics. Twitching of limbs. Restless hands. Convulsive, uncontrollable movements of arms and legs. Limbs drag while walking."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Agar",
+    "Tarant",
+    "Cupr",
+    "Zizia"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/m/mygal.htm",
+    "title": "MYGALE LASIODORA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:03:36.499Z"
+  },
+  "confidence_score": 0.6799999999999999
+}

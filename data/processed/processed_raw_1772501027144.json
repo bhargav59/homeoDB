@@ -1,0 +1,60 @@
+{
+  "name": "COLOCYNTHIS",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Bitter Cucumber"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Very bitter taste. Tongue rough, as from sand, and feels scalded. Canine hunger. Feeling in stomach as if something would not yield; drawing pain.",
+    "Vertigo when turning head to the left. Lateral cutting headache, with nausea, vomiting. Pains (better pressure and heat), with soreness of scalp. Burning pains, digging, rending, and tearing. Frontal headache; worse, stooping, lying on back, and moving eyelids.",
+    "Contraction of muscles. All the limbs are drawn together. Pain in right deltoid (Guaco). Cramp-like pain in hip; lies on affected side; pain from hip to knee. Spontaneous luxation of the hip-joints. Stiffness of joints and shortening of tendons. Sciatic pain, left side, drawing, tearing; better, pressure and heat; worse, gentle touch. Contraction of the muscles. Pain down right thigh; muscles and tendons feel too short; numbness with pains (Gnaphal). Pain in left knee joint."
+  ],
+  "guiding_symptoms": [
+    "Very bitter taste. Tongue rough, as from sand, and feels scalded. Canine hunger. Feeling in stomach as if something would not yield; drawing pain.",
+    "Vertigo when turning head to the left. Lateral cutting headache, with nausea, vomiting. Pains (better pressure and heat), with soreness of scalp. Burning pains, digging, rending, and tearing. Frontal headache; worse, stooping, lying on back, and moving eyelids.",
+    "Contraction of muscles. All the limbs are drawn together. Pain in right deltoid (Guaco). Cramp-like pain in hip; lies on affected side; pain from hip to knee. Spontaneous luxation of the hip-joints. Stiffness of joints and shortening of tendons. Sciatic pain, left side, drawing, tearing; better, pressure and heat; worse, gentle touch. Contraction of the muscles. Pain down right thigh; muscles and tendons feel too short; numbness with pains (Gnaphal). Pain in left knee joint."
+  ],
+  "modalities": {
+    "worse": [
+      "from anger and indignation"
+    ],
+    "better": [
+      "doubling up, hard pressure, warmth, lying with head bent forward"
+    ]
+  },
+  "mind_symptoms": [
+    "Extremely irritable. Becomes angry when questioned. Mortification caused by offense. Anger, with indignation (Cham; Bry; Nux)."
+  ],
+  "head_symptoms": [
+    "Vertigo when turning head to the left. Lateral cutting headache, with nausea, vomiting. Pains (better pressure and heat), with soreness of scalp. Burning pains, digging, rending, and tearing. Frontal headache; worse, stooping, lying on back, and moving eyelids."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "Very bitter taste. Tongue rough, as from sand, and feels scalded. Canine hunger. Feeling in stomach as if something would not yield; drawing pain."
+  ],
+  "urinary_symptoms": [
+    "Boring pain in ovary. Must draw up double, with great restlessness. Round, small cystic tumors in ovaries or broad ligaments. Wants abdomen supported by pressure. Bearing-down cramps, causing her to bend double (Opium).",
+    "Urine.--Intense burning along urethra during stool. Vesical catarrh, discharge like fresh white of egg. Viscid (Phos acid) fetid; small quantities, with frequent urging. Itching at orifice. Red, hard crystals, adhering firmly to vessel. Tenesmus of bladder. Pains on urinating over whole abdomen."
+  ],
+  "musculoskeletal_symptoms": [
+    "Contraction of muscles. All the limbs are drawn together. Pain in right deltoid (Guaco). Cramp-like pain in hip; lies on affected side; pain from hip to knee. Spontaneous luxation of the hip-joints. Stiffness of joints and shortening of tendons. Sciatic pain, left side, drawing, tearing; better, pressure and heat; worse, gentle touch. Contraction of the muscles. Pain down right thigh; muscles and tendons feel too short; numbness with pains (Gnaphal). Pain in left knee joint."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/c/coloc.htm",
+    "title": "COLOCYNTHIS - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:23:47.144Z"
+  },
+  "confidence_score": 0.8
+}

@@ -1,0 +1,54 @@
+{
+  "name": "GINSENG QUINQUEFOLIUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Aralia Quinquefolia-Wild Ginseng-Panax"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Vertigo, with gray spots before eyes; semi-lateral headache; occipital; difficult opening of eyelids; objects appear double.",
+    "Hands feel swollen. Skin feels tight. Contraction. Coldness in back and spine. Bruised pain in small of back and thighs; nightly digging in right lower limb to toes. Burning heat in tips of fingers. Eruption on upper inner thighs. Stiff, contracted joints, heaviness of lower limbs. Crackling in joints. Stiffness in back."
+  ],
+  "guiding_symptoms": [
+    "Vertigo, with gray spots before eyes; semi-lateral headache; occipital; difficult opening of eyelids; objects appear double.",
+    "Hands feel swollen. Skin feels tight. Contraction. Coldness in back and spine. Bruised pain in small of back and thighs; nightly digging in right lower limb to toes. Burning heat in tips of fingers. Eruption on upper inner thighs. Stiff, contracted joints, heaviness of lower limbs. Crackling in joints. Stiffness in back."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Vertigo, with gray spots before eyes; semi-lateral headache; occipital; difficult opening of eyelids; objects appear double."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "Tense, painful, rumbling. Pain in right side. Loud gurgling in ileo-cæcal region. Perityphlitis."
+  ],
+  "urinary_symptoms": [
+    "Rheumatic pains after frequent emissions. Weakness of genital organs. Voluptuous tickling at end of urethra. Sexual excitement. Pressure in testicles."
+  ],
+  "musculoskeletal_symptoms": [
+    "Hands feel swollen. Skin feels tight. Contraction. Coldness in back and spine. Bruised pain in small of back and thighs; nightly digging in right lower limb to toes. Burning heat in tips of fingers. Eruption on upper inner thighs. Stiff, contracted joints, heaviness of lower limbs. Crackling in joints. Stiffness in back."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Aral",
+    "Coca"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/g/gins.htm",
+    "title": "GINSENG QUINQUEFOLIUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:38:43.416Z"
+  },
+  "confidence_score": 0.62
+}

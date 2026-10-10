@@ -1,0 +1,24 @@
+{
+  "remedy_name": "ASA FOETIDA",
+  "source_file": "raw_1772433346412.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/a/asaf.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      "China"
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Moschus",
+      "China",
+      "Mercur",
+      "Aurum"
+    ],
+    "incompatible": [],
+    "antidotes": [
+      "China"
+    ]
+  },
+  "parsed_at": "2026-03-03T15:23:37.369Z"
+}

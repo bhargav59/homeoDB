@@ -1,0 +1,23 @@
+{
+  "remedy_name": "SALICYLICUM ACIDUM",
+  "source_file": "raw_1772504659326.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/s/sal-ac.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Salol (rheumatic pain in joints",
+      "with soreness and stiffness",
+      "headache over eyes",
+      "urine violet-smelling)",
+      "Colch",
+      "China",
+      "Lact ac"
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "parsed_at": "2026-03-03T15:23:37.720Z"
+}

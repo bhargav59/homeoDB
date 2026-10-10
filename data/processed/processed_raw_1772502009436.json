@@ -1,0 +1,54 @@
+{
+  "name": "GRINDELIA ROBUSTA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Rosin-wood"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Feels full, as from quinine. Pain in eyeballs, running back to brain; worse, moving eyes. Pupils dilated. Purulent ophthalmia and iritis.",
+    "An efficacious remedy for wheezing and oppression in bronchitic patients. The sibilant rales are disseminated with foamy mucus, very difficult to detach. Acts on the pulmonary circulation. Asthma, with profuse tenacious expectoration, which relieves. Stops breathing when falling asleep; wakes with a star, and gasps for breath. Must sit up to breathe. Cannot breathe when lying down. Pertussis, with profuse mucous secretion (Coccus). Bronchorrhśa, with tough, whitish, mucous expectoration. Sibilant rales. Weak heart and respiration. Cannot breathe lying down. Cheyne-Stokes respiration.",
+    "Spleen.--Cutting pain in region of spleen, extending to hips. Spleen enlarged (Ceanoth; Carduus)."
+  ],
+  "guiding_symptoms": [
+    "Feels full, as from quinine. Pain in eyeballs, running back to brain; worse, moving eyes. Pupils dilated. Purulent ophthalmia and iritis.",
+    "An efficacious remedy for wheezing and oppression in bronchitic patients. The sibilant rales are disseminated with foamy mucus, very difficult to detach. Acts on the pulmonary circulation. Asthma, with profuse tenacious expectoration, which relieves. Stops breathing when falling asleep; wakes with a star, and gasps for breath. Must sit up to breathe. Cannot breathe when lying down. Pertussis, with profuse mucous secretion (Coccus). Bronchorrhśa, with tough, whitish, mucous expectoration. Sibilant rales. Weak heart and respiration. Cannot breathe lying down. Cheyne-Stokes respiration.",
+    "Spleen.--Cutting pain in region of spleen, extending to hips. Spleen enlarged (Ceanoth; Carduus)."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Feels full, as from quinine. Pain in eyeballs, running back to brain; worse, moving eyes. Pupils dilated. Purulent ophthalmia and iritis."
+  ],
+  "respiratory_symptoms": [
+    "An efficacious remedy for wheezing and oppression in bronchitic patients. The sibilant rales are disseminated with foamy mucus, very difficult to detach. Acts on the pulmonary circulation. Asthma, with profuse tenacious expectoration, which relieves. Stops breathing when falling asleep; wakes with a star, and gasps for breath. Must sit up to breathe. Cannot breathe when lying down. Pertussis, with profuse mucous secretion (Coccus). Bronchorrhśa, with tough, whitish, mucous expectoration. Sibilant rales. Weak heart and respiration. Cannot breathe lying down. Cheyne-Stokes respiration.",
+    "Spleen.--Cutting pain in region of spleen, extending to hips. Spleen enlarged (Ceanoth; Carduus)."
+  ],
+  "gi_symptoms": [],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [
+    "Rash, like roseola, with severe burning and itching. Vesicular and papular eruptions. Herpes zoster. Itching and burning. Poison oak (locally as a wash). Ulcers, with swollen, purplish skin."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Tart-emet"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/g/grin.htm",
+    "title": "GRINDELIA ROBUSTA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:40:09.436Z"
+  },
+  "confidence_score": 0.5
+}

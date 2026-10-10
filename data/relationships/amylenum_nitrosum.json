@@ -1,0 +1,22 @@
+{
+  "remedy_name": "AMYLENUM NITROSUM",
+  "source_file": "raw_1772371961581.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/a/aml-ns.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      "Cactus"
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Glonoine",
+      "Lachesis"
+    ],
+    "incompatible": [],
+    "antidotes": [
+      "Cactus"
+    ]
+  },
+  "parsed_at": "2026-03-03T15:23:37.339Z"
+}

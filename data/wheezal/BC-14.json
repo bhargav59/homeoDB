@@ -1,0 +1,21 @@
+{
+  "name": "Measles",
+  "url": "https://www.wheezalstore.com/product/29687089/Measles",
+  "collection_id": "bio_combination",
+  "title": "Measles",
+  "price": "₹99",
+  "description": "",
+  "image": "",
+  "scraped_at": "2026-03-26T05:28:44.031Z",
+  "composition": [
+    "Ferrum Phos. 3x",
+    "Kali Mur. 3x",
+    "Kali Sulph. 3x"
+  ],
+  "indications": [
+    "Eruptions",
+    "Cough",
+    "Fever following measles"
+  ],
+  "bc_number": "BC-14"
+}

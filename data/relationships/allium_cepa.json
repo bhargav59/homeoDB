@@ -1,0 +1,27 @@
+{
+  "remedy_name": "ALLIUM CEPA",
+  "source_file": "raw_1772371731915.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/a/all-c.htm",
+  "relationships": {
+    "complementary": [
+      "Phosphor"
+    ],
+    "antidoted_by": [
+      "Arn"
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Gels",
+      "Euph",
+      "Kali hyd",
+      "Aconite",
+      "Ipecac"
+    ],
+    "incompatible": [],
+    "antidotes": [
+      "Arn"
+    ]
+  },
+  "parsed_at": "2026-03-03T15:23:37.326Z"
+}

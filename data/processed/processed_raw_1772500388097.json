@@ -1,0 +1,71 @@
+{
+  "name": "CANTHARIS VESICATORIA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Spanish Fly"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Burning sensation of śsophagus and stomach (Carb). Disgust for everything-drink, food, tobacco. Burning thirst, with aversion to all fluids. Very sensitive, violent burning. Vomiting of blood-streaked membrane and violent retching. Aggravation from drinking coffee; drinking the smallest quantity increases pain in bladder, and is vomited. Thirst unquenchable.",
+    "Pleurisy, as soon as effusion has taken place. Intense dyspnśa; palpitation; frequent, dry cough. Tendency to syncope. Short, hacking cough, blood-streaked tenacious mucus. Burning pains.",
+    "Burning in brain. Sensation as if boiling water in brain. Vertigo; worse in open air.",
+    "Voice low; weak feeling. Stitches in chest (Bry; Kal c; Squilla). Pleurisy, with exudation.",
+    "Palpitation; pulse feeble, irregular; tendency to syncope. Pericarditis, with effusion.",
+    "Tearing in limbs. Ulcerative pain in soles; cannot step.",
+    "Pain in loins, with incessant desire to urinate."
+  ],
+  "guiding_symptoms": [
+    "Burning sensation of śsophagus and stomach (Carb). Disgust for everything-drink, food, tobacco. Burning thirst, with aversion to all fluids. Very sensitive, violent burning. Vomiting of blood-streaked membrane and violent retching. Aggravation from drinking coffee; drinking the smallest quantity increases pain in bladder, and is vomited. Thirst unquenchable.",
+    "Pleurisy, as soon as effusion has taken place. Intense dyspnśa; palpitation; frequent, dry cough. Tendency to syncope. Short, hacking cough, blood-streaked tenacious mucus. Burning pains.",
+    "Burning in brain. Sensation as if boiling water in brain. Vertigo; worse in open air."
+  ],
+  "modalities": {
+    "worse": [
+      "from touch, or approach, urinating, drinking cold water or coffee"
+    ],
+    "better": [
+      "rubbing"
+    ]
+  },
+  "mind_symptoms": [
+    "Furious delirium. Anxious restlessness, ending in rage. Crying, barking; worse touching larynx or drinking water. Constantly attempts to do something, but accomplishes nothing. Acute mania, generally of a sexual type; amorous frenzy; fiery sexual desire. Paroxysms of rage, crying, barking. Sudden loss of consciousness with red face."
+  ],
+  "head_symptoms": [
+    "Burning in brain. Sensation as if boiling water in brain. Vertigo; worse in open air."
+  ],
+  "respiratory_symptoms": [
+    "Voice low; weak feeling. Stitches in chest (Bry; Kal c; Squilla). Pleurisy, with exudation."
+  ],
+  "gi_symptoms": [
+    "Burning sensation of śsophagus and stomach (Carb). Disgust for everything-drink, food, tobacco. Burning thirst, with aversion to all fluids. Very sensitive, violent burning. Vomiting of blood-streaked membrane and violent retching. Aggravation from drinking coffee; drinking the smallest quantity increases pain in bladder, and is vomited. Thirst unquenchable."
+  ],
+  "urinary_symptoms": [
+    "Strong desire; painful erections. Pain in glans (Prunus; Pareira). Priapism in gonorrhśa."
+  ],
+  "musculoskeletal_symptoms": [
+    "Tearing in limbs. Ulcerative pain in soles; cannot step."
+  ],
+  "skin_symptoms": [
+    "Dermatitis venenata with bled formation. Secondary eczema about scrotum and genitals, following excessive perspiration. Tendency to gangrene. Eruption with mealy scales. Vesicular eruptions, with burning and itching. Sunburn. Burns, scalds, with rawness and smarting, relieved by cold applications, followed by undue inflammation. Erysipelas, vesicular type, with great restlessness. Burning in soles of feet at night."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [
+    "Cold hands and feet; cold sweat. Soles burn. Chill, as if water were poured over him."
+  ],
+  "complementary_remedies": [
+    "Cantharidin--(Glomerular nephritis"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/c/canth.htm",
+    "title": "CANTHARIS VESICATORIA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:13:08.097Z"
+  },
+  "confidence_score": 0.8
+}

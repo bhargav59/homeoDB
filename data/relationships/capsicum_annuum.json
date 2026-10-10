@@ -1,0 +1,26 @@
+{
+  "remedy_name": "CAPSICUM ANNUUM",
+  "source_file": "raw_1772500398321.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/c/caps.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      "Cina"
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Pulsat",
+      "Lycop",
+      "Bell",
+      "Centaurea (surging of blood",
+      "homesickness",
+      "intermittent fever)"
+    ],
+    "incompatible": [],
+    "antidotes": [
+      "Cina"
+    ]
+  },
+  "parsed_at": "2026-03-03T15:23:37.409Z"
+}

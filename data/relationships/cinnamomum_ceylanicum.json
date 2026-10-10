@@ -1,0 +1,23 @@
+{
+  "remedy_name": "CINNAMOMUM CEYLANICUM",
+  "source_file": "raw_1772500872310.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/c/cinnm.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      "Acon"
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Ipec",
+      "Sil",
+      "Trill"
+    ],
+    "incompatible": [],
+    "antidotes": [
+      "Acon"
+    ]
+  },
+  "parsed_at": "2026-03-03T15:23:37.432Z"
+}

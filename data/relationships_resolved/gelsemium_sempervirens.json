@@ -1,0 +1,71 @@
+{
+  "remedy_name": "GELSEMIUM SEMPERVIRENS",
+  "source_file": "raw_1772501881745.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      {
+        "original": "China",
+        "resolved_name": "CHINA OFFICINALIS",
+        "confidence": 1,
+        "method": "exact"
+      }
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Ignatia",
+        "resolved_name": "IGNATIA AMARA",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Baptisa",
+        "resolved_name": "BAPTISIA TINCTORIA",
+        "confidence": 0.85,
+        "method": "levenshtein_1"
+      },
+      {
+        "original": "Ipecac",
+        "resolved_name": "IPECACUANHA",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      },
+      {
+        "original": "Acon",
+        "resolved_name": "ACONITUM NAPELLUS",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      },
+      {
+        "original": "Bell",
+        "resolved_name": "BELLADONNA",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      },
+      {
+        "original": "Cimicif",
+        "resolved_name": "CIMICIFUGA RACEMOSA",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      },
+      {
+        "original": "Magnes phos",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": [
+      {
+        "original": "China",
+        "resolved_name": "CHINA OFFICINALIS",
+        "confidence": 1,
+        "method": "exact"
+      }
+    ]
+  },
+  "resolved_at": "2026-03-11T01:50:09.693Z"
+}

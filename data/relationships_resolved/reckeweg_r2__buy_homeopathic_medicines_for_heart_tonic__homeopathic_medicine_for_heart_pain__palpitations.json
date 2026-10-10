@@ -1,0 +1,14 @@
+{
+  "remedy_name": "Reckeweg R2, Buy Homeopathic Medicines for Heart Tonic, Homeopathic Medicine for Heart Pain, Palpitations",
+  "source_file": "raw_1772509358152_reckeweg_dilutions_w3.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:10.978Z"
+}

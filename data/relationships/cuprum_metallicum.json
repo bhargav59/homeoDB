@@ -1,0 +1,28 @@
+{
+  "remedy_name": "CUPRUM METALLICUM",
+  "source_file": "raw_1772501220003.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/c/cupr.htm",
+  "relationships": {
+    "complementary": [
+      "Calc"
+    ],
+    "antidoted_by": [
+      "Bell"
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Cupr sulph (burning at vertex",
+      "incessant",
+      "spasmodic cough",
+      "worse at night",
+      "tongue and lips bluish",
+      "locally"
+    ],
+    "incompatible": [],
+    "antidotes": [
+      "Bell"
+    ]
+  },
+  "parsed_at": "2026-03-03T15:23:37.446Z"
+}

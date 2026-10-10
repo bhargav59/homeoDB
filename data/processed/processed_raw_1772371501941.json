@@ -1,0 +1,39 @@
+{
+  "name": "ABRUS PRECATORIUS",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "ABRUS PRECATORIUS -- JEQUIRITY"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [],
+  "guiding_symptoms": [],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Purulent conjunctivitis; inflammation spreads to face and neck. Granular ophthalmia. Keratitis."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/a/abr.htm",
+    "title": "ABRUS PRECATORIUS -- JEQUIRITY - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-01T13:25:01.941Z"
+  },
+  "confidence_score": 0.38
+}

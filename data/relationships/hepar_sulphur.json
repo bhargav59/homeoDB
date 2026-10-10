@@ -1,0 +1,35 @@
+{
+  "remedy_name": "HEPAR SULPHUR",
+  "source_file": "raw_1772502150890.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/h/hep.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      "Bellad",
+      "bad effects from Mercury",
+      "Iodine",
+      "Potash",
+      "Cod-liver oil"
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Acon",
+      "Spongia",
+      "Staphis",
+      "Silica",
+      "Sulph",
+      "Calc sulph",
+      "Myristica"
+    ],
+    "incompatible": [],
+    "antidotes": [
+      "Bellad",
+      "bad effects from Mercury",
+      "Iodine",
+      "Potash",
+      "Cod-liver oil"
+    ]
+  },
+  "parsed_at": "2026-03-03T15:23:37.489Z"
+}

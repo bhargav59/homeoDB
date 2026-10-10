@@ -1,0 +1,45 @@
+{
+  "remedy_name": "SANTONINUM",
+  "source_file": "raw_1772504730693.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Cina",
+        "resolved_name": "CINA MARITIMA",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Teucr",
+        "resolved_name": "TEUCRIUM MARUM VERUM",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Napth",
+        "resolved_name": "NATRUM MURIATICUM",
+        "confidence": 0.7,
+        "method": "levenshtein_2"
+      },
+      {
+        "original": "Nat phos",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "Spigel",
+        "resolved_name": "SPIGELIA",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:11.134Z"
+}

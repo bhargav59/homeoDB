@@ -1,0 +1,21 @@
+{
+  "remedy_name": "JUGLANS CINEREA",
+  "source_file": "raw_1772502488313.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/j/jug-c.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Juglandin (duodenal catarrh",
+      "bilious diarrhśa)",
+      "Chelidon",
+      "Bryon",
+      "Iris"
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "parsed_at": "2026-03-03T15:23:37.504Z"
+}

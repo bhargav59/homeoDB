@@ -1,0 +1,107 @@
+{
+  "remedy_name": "OPIUM",
+  "source_file": "raw_1772503570635_w1.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      {
+        "original": "Acute Opium poisoning",
+        "resolved_name": "OPIUM",
+        "confidence": 0.8,
+        "method": "substring"
+      }
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Apis",
+        "resolved_name": "APIS MELLIFICA",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Bell",
+        "resolved_name": "BELLADONNA",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      },
+      {
+        "original": "Gels",
+        "resolved_name": "GELSEMIUM",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      },
+      {
+        "original": "Nux mosch",
+        "resolved_name": "NUX MOSCHATA",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "twitching",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "tympanities",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "much itching)",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "Codein (dry",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "teasing",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "incessant cough",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "twitching of muscles",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "especially those of eyelids)",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "Eschscholtzia-Cal California Poppy--",
+        "resolved_name": "ESCHSCHOLTZIA CALIFORNICA",
+        "confidence": 0.8,
+        "method": "substring"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": [
+      {
+        "original": "Acute Opium poisoning",
+        "resolved_name": "OPIUM",
+        "confidence": 0.8,
+        "method": "substring"
+      }
+    ]
+  },
+  "resolved_at": "2026-03-11T01:50:10.553Z"
+}

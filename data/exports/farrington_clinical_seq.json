@@ -1,0 +1,27 @@
+[
+  {
+    "remedy_name": "Belladonna",
+    "abbreviation": "BELL",
+    "author": "Unknown",
+    "source_book": "Unknown",
+    "kingdom": "Animal",
+    "thermal_state": "Unknown",
+    "keynotes": [
+      "Unknown"
+    ],
+    "modalities": {
+      "aggravation": [
+        "Unknown"
+      ],
+      "amelioration": [
+        "Unknown"
+      ]
+    },
+    "mind_mental_symptoms": [
+      "Unknown"
+    ],
+    "clinical_indications": [
+      "Unknown"
+    ]
+  }
+]

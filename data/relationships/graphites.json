@@ -1,0 +1,28 @@
+{
+  "remedy_name": "GRAPHITES",
+  "source_file": "raw_1772501989707.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/g/graph.htm",
+  "relationships": {
+    "complementary": [
+      "Argent nit"
+    ],
+    "antidoted_by": [
+      "Nux"
+    ],
+    "follows_well": [
+      "in gastric derangements)"
+    ],
+    "inimical": [],
+    "compare": [
+      "Petrol",
+      "Sep",
+      "Sulph",
+      "Fluor ac"
+    ],
+    "incompatible": [],
+    "antidotes": [
+      "Nux"
+    ]
+  },
+  "parsed_at": "2026-03-03T15:23:37.482Z"
+}

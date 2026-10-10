@@ -1,0 +1,61 @@
+{
+  "name": "CARDUUS MARIANUS",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "St. Mary's Thistle"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Taste bitter. Aversion to salt meat. Appetite small; tongue furred; nausea; retching; vomiting of green, acid fluid. Stitches in left side of stomach, near spleen (Ceanoth). Gallstone disease with enlarged liver.",
+    "Stitching pains in lower right ribs and front; worse, moving, walking, etc. Asthmatic respiration. Pain in chest, going to shoulders, back, loins and abdomen, with urging to urinate.",
+    "Contractive feeling above eyebrows. Dull heavy, stupid, with foul tongue. Vertigo, with tendency to fall forward. Burning and pressure in eyes. Nose-bleed.",
+    "Pain in hip-joint, spreading through buttocks and down thigh; worse from stooping. Difficult rising. Weakness felt in feet, especially after sitting."
+  ],
+  "guiding_symptoms": [
+    "Taste bitter. Aversion to salt meat. Appetite small; tongue furred; nausea; retching; vomiting of green, acid fluid. Stitches in left side of stomach, near spleen (Ceanoth). Gallstone disease with enlarged liver.",
+    "Stitching pains in lower right ribs and front; worse, moving, walking, etc. Asthmatic respiration. Pain in chest, going to shoulders, back, loins and abdomen, with urging to urinate.",
+    "Contractive feeling above eyebrows. Dull heavy, stupid, with foul tongue. Vertigo, with tendency to fall forward. Burning and pressure in eyes. Nose-bleed."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [
+    "Despondency; forgetful, apathetic."
+  ],
+  "head_symptoms": [
+    "Contractive feeling above eyebrows. Dull heavy, stupid, with foul tongue. Vertigo, with tendency to fall forward. Burning and pressure in eyes. Nose-bleed."
+  ],
+  "respiratory_symptoms": [
+    "Stitching pains in lower right ribs and front; worse, moving, walking, etc. Asthmatic respiration. Pain in chest, going to shoulders, back, loins and abdomen, with urging to urinate."
+  ],
+  "gi_symptoms": [
+    "Taste bitter. Aversion to salt meat. Appetite small; tongue furred; nausea; retching; vomiting of green, acid fluid. Stitches in left side of stomach, near spleen (Ceanoth). Gallstone disease with enlarged liver."
+  ],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [
+    "Pain in hip-joint, spreading through buttocks and down thigh; worse from stooping. Difficult rising. Weakness felt in feet, especially after sitting."
+  ],
+  "skin_symptoms": [
+    "Itching on lying down at night. Varicose ulcers (Clematis vitalba). Eruption on lower part of sternum."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Card benedictus (strong action on eyes",
+    "stomach symptoms similar"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/c/card-m.htm",
+    "title": "CARDUUS MARIANUS - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:14:40.725Z"
+  },
+  "confidence_score": 0.8
+}

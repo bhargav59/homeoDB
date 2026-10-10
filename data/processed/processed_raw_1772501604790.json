@@ -1,0 +1,70 @@
+{
+  "name": "EUPHRASIA OFFICINALIS",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Eyebright"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Vomiting from hawking mucus. Nausea and bitterness after smoking.",
+    "Bursting headache with dazzling of eyes. Catarrhal headache, with profuse discharge from eyes and nose.",
+    "Frequent yawning when walking in open air. Profuse, fluent coryza in morning, with much cough and expectoration. Influenza. Gags when clearing the throat in morning. Whooping-cough only in day-time, with profuse lachrymation."
+  ],
+  "guiding_symptoms": [
+    "Vomiting from hawking mucus. Nausea and bitterness after smoking.",
+    "Bursting headache with dazzling of eyes. Catarrhal headache, with profuse discharge from eyes and nose.",
+    "Frequent yawning when walking in open air. Profuse, fluent coryza in morning, with much cough and expectoration. Influenza. Gags when clearing the throat in morning. Whooping-cough only in day-time, with profuse lachrymation."
+  ],
+  "modalities": {
+    "worse": [
+      "in evening, indoors, warmth",
+      "south winds",
+      "from light"
+    ],
+    "better": [
+      "from coffee, in dark"
+    ]
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Bursting headache with dazzling of eyes. Catarrhal headache, with profuse discharge from eyes and nose."
+  ],
+  "respiratory_symptoms": [
+    "Frequent yawning when walking in open air. Profuse, fluent coryza in morning, with much cough and expectoration. Influenza. Gags when clearing the throat in morning. Whooping-cough only in day-time, with profuse lachrymation."
+  ],
+  "gi_symptoms": [
+    "Vomiting from hawking mucus. Nausea and bitterness after smoking."
+  ],
+  "urinary_symptoms": [
+    "Spasmodic retraction of genitals, with pressure above pubic bone. Condyloma and sycotic excrescences. Prostatitis. Nocturnal irritability of bladder; dribbling urine."
+  ],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [
+    "First stage of measles; eye symptoms marked. Consequence of external injuries."
+  ],
+  "sleep_symptoms": [
+    "Yawning when walking in open air. Sleepy during day."
+  ],
+  "fever_symptoms": [
+    "Chilly and cold. Sweat mostly on chest, at night during sleep."
+  ],
+  "complementary_remedies": [
+    "hot lachrymation with itching",
+    "swollen lids",
+    "dull headache",
+    "also for effects of Poison-Oak"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/e/euphr.htm",
+    "title": "EUPHRASIA OFFICINALIS - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:33:24.790Z"
+  },
+  "confidence_score": 0.8
+}

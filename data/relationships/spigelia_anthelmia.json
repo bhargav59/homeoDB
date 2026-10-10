@@ -1,0 +1,36 @@
+{
+  "remedy_name": "SPIGELIA ANTHELMIA",
+  "source_file": "raw_1772504968280.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/s/spig.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      "Pulsat"
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "paroxysmal laughing and crying",
+      "loud",
+      "disconnected talking",
+      "vertigo",
+      "dilated pupils",
+      "congestions)",
+      "Acon",
+      "Cact",
+      "Cimicif",
+      "Arnica",
+      "Cinnab",
+      "Naja",
+      "Spong",
+      "Sabad",
+      "Teucr",
+      "Cina"
+    ],
+    "incompatible": [],
+    "antidotes": [
+      "Pulsat"
+    ]
+  },
+  "parsed_at": "2026-03-03T15:23:37.734Z"
+}

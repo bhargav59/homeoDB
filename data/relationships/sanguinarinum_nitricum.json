@@ -1,0 +1,22 @@
+{
+  "remedy_name": "SANGUINARINUM NITRICUM",
+  "source_file": "raw_1772504710787.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/s/sangin-n.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Sanguin tartaricum (exophthalmos",
+      "mydriasis",
+      "dim vision)",
+      "Arum triph",
+      "Psorin",
+      "Kal bich"
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "parsed_at": "2026-03-03T15:23:37.722Z"
+}

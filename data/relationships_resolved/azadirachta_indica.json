@@ -1,0 +1,33 @@
+{
+  "remedy_name": "AZADIRACHTA INDICA",
+  "source_file": "raw_1772499831877.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Cedron",
+        "resolved_name": "CEDRON",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Natr mur",
+        "resolved_name": "NATRIUM ARSENICOSUM",
+        "confidence": 0.55,
+        "method": "levenshtein_3"
+      },
+      {
+        "original": "Arsenic",
+        "resolved_name": "ARSENICUM ALBUM",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:08.614Z"
+}

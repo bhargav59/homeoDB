@@ -1,0 +1,52 @@
+{
+  "name": "ARALIA RACEMOSA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "American Spikenard"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Dry cough coming on after first sleep, about middle of night. Asthma on lying down at night with spasmodic cough; worse after first sleep, with tickling in throat. Constriction of chest; feels as if a foreign body were in throat. Obstruction worse in spring. Hay-fever; frequent sneezing. Rawness and burning behind sternum.",
+    "The least current of air causes sneezing, with copious watery, excoriating nasal discharge, of salty acrid taste."
+  ],
+  "guiding_symptoms": [
+    "Dry cough coming on after first sleep, about middle of night. Asthma on lying down at night with spasmodic cough; worse after first sleep, with tickling in throat. Constriction of chest; feels as if a foreign body were in throat. Obstruction worse in spring. Hay-fever; frequent sneezing. Rawness and burning behind sternum.",
+    "The least current of air causes sneezing, with copious watery, excoriating nasal discharge, of salty acrid taste."
+  ],
+  "modalities": {
+    "worse": [
+      "about 11 pm (cough)"
+    ],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [],
+  "respiratory_symptoms": [
+    "Dry cough coming on after first sleep, about middle of night. Asthma on lying down at night with spasmodic cough; worse after first sleep, with tickling in throat. Constriction of chest; feels as if a foreign body were in throat. Obstruction worse in spring. Hay-fever; frequent sneezing. Rawness and burning behind sternum.",
+    "The least current of air causes sneezing, with copious watery, excoriating nasal discharge, of salty acrid taste."
+  ],
+  "gi_symptoms": [],
+  "urinary_symptoms": [
+    "Menses suppressed; leucorrhśa foul-smelling, acrid, with pressing-down air. Lochia suppressed, with tympanites."
+  ],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Pecten-Scallop (humid asthma"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/a/aral.htm",
+    "title": "ARALIA RACEMOSA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-02T06:32:11.094Z"
+  },
+  "confidence_score": 0.5
+}

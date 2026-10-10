@@ -1,0 +1,47 @@
+{
+  "name": "AMMONIUM CAUSTICUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Hydrate of Ammonia-Ammonia Water"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Difficult respiration. Accumulation of mucus with incessant coughing. Loss of voice. Burning rawness in throat. Spasm of the glottis with suffocation; patient gasps for breath. Pain in śsophagus on breathing deeply. Scraping and burning in throat and śsophagus. Uvula covered with white mucus. Nasal diphtheria, with burning excoriating discharge.",
+    "Excessive exhaustion and muscular debility. Rheumatism of shoulders. Skin hot and dry."
+  ],
+  "guiding_symptoms": [
+    "Difficult respiration. Accumulation of mucus with incessant coughing. Loss of voice. Burning rawness in throat. Spasm of the glottis with suffocation; patient gasps for breath. Pain in śsophagus on breathing deeply. Scraping and burning in throat and śsophagus. Uvula covered with white mucus. Nasal diphtheria, with burning excoriating discharge.",
+    "Excessive exhaustion and muscular debility. Rheumatism of shoulders. Skin hot and dry."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [],
+  "respiratory_symptoms": [
+    "Difficult respiration. Accumulation of mucus with incessant coughing. Loss of voice. Burning rawness in throat. Spasm of the glottis with suffocation; patient gasps for breath. Pain in śsophagus on breathing deeply. Scraping and burning in throat and śsophagus. Uvula covered with white mucus. Nasal diphtheria, with burning excoriating discharge."
+  ],
+  "gi_symptoms": [],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [
+    "Excessive exhaustion and muscular debility. Rheumatism of shoulders. Skin hot and dry."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/a/am-caust.htm",
+    "title": "AMMONIUM CAUSTICUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-01T13:30:55.928Z"
+  },
+  "confidence_score": 0.38
+}

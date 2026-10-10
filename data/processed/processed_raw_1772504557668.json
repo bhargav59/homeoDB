@@ -1,0 +1,58 @@
+{
+  "name": "RHUS VENENATA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Poison-elder"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Heavy, frontal headache; worse, walking or stooping. Eyes nearly closed with great swelling. Vesicular inflammation of ears. Nose red and shiny. Face swollen.",
+    "Tongue.--Red at tip. Fissured in middle. Vesicles on under side.",
+    "Paralytic drawing in right arm, especially wrist, and extending to fingers."
+  ],
+  "guiding_symptoms": [
+    "Heavy, frontal headache; worse, walking or stooping. Eyes nearly closed with great swelling. Vesicular inflammation of ears. Nose red and shiny. Face swollen.",
+    "Tongue.--Red at tip. Fissured in middle. Vesicles on under side.",
+    "Paralytic drawing in right arm, especially wrist, and extending to fingers."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [
+    "Great melancholy; no desire to live, gloomy."
+  ],
+  "head_symptoms": [
+    "Heavy, frontal headache; worse, walking or stooping. Eyes nearly closed with great swelling. Vesicular inflammation of ears. Nose red and shiny. Face swollen.",
+    "Tongue.--Red at tip. Fissured in middle. Vesicles on under side."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "Profuse, watery, white stools in morning, 4 am, with colicky pains; expelled with force. Pain in hypogastrium before every stool."
+  ],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [
+    "Paralytic drawing in right arm, especially wrist, and extending to fingers."
+  ],
+  "skin_symptoms": [
+    "Itching; relieved by hot water. Vesicles. Erysipelas; skin dark red. Erythema nodosum, with nightly itching and pains in long bones."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Anacard"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/r/rhus-v.htm",
+    "title": "RHUS VENENATA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:22:37.668Z"
+  },
+  "confidence_score": 0.62
+}

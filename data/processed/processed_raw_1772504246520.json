@@ -1,0 +1,66 @@
+{
+  "name": "PLUMBUM METALLICUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Lead"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Contraction in œsophagus and stomach; pressure and tightness. Gastralgia. Constant vomiting. Solids cannot be swallowed.",
+    "Delirium alternating with colic. Pain as if a ball rose from throat to brain. Hair very dry. Tinnitus (Chin; Nat salic; Carbon sulph).",
+    "Cardiac weakness. Pulse soft and small, dichrotic. Wiry pulse, camp-like constriction of peripheral arteries.",
+    "Paralysis of single muscles. Cannot raise or lift anything with the hand. Extension is difficult. Paralysis from overexertion of the extensor muscles in piano players (Curare). Pains in muscles of thighs; come in paroxysms. Wrist-drop. Cramps in calves. Stinging and tearing in limbs, also twitching and tingling, numbness, pain or tremor. Paralysis. Feet swollen. Pain in atrophied limbs alternates with colic. Loss of patellar reflex. Hands and feet cold. Pain in right big toe at night, very sensitive to touch.",
+    "Spinal cord sclerosed. Lightning-like pains; temporarily better by pressure. Paralysis of lower extremities."
+  ],
+  "guiding_symptoms": [
+    "Contraction in œsophagus and stomach; pressure and tightness. Gastralgia. Constant vomiting. Solids cannot be swallowed.",
+    "Delirium alternating with colic. Pain as if a ball rose from throat to brain. Hair very dry. Tinnitus (Chin; Nat salic; Carbon sulph).",
+    "Cardiac weakness. Pulse soft and small, dichrotic. Wiry pulse, camp-like constriction of peripheral arteries."
+  ],
+  "modalities": {
+    "worse": [
+      "at night, motion"
+    ],
+    "better": [
+      "rubbing, hard pressure, physical exertion (Alumen)"
+    ]
+  },
+  "mind_symptoms": [
+    "Mental depression. Fear of being assassinated. Quiet melancholy. Slow perception; loss of memory; amnesic aphasia. Hallucinations and delusions. Intellectual apathy. Memory impaired (Anac; Baryta). Paretic dementia."
+  ],
+  "head_symptoms": [
+    "Delirium alternating with colic. Pain as if a ball rose from throat to brain. Hair very dry. Tinnitus (Chin; Nat salic; Carbon sulph)."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "Contraction in œsophagus and stomach; pressure and tightness. Gastralgia. Constant vomiting. Solids cannot be swallowed."
+  ],
+  "urinary_symptoms": [
+    "Frequent, ineffectual tenesmus. Albuminous; low specific gravity. Chronic interstitial nephritis, with great pain in abdomen. Urine scanty. Tenesmus of bladder. Emission drop by drop."
+  ],
+  "musculoskeletal_symptoms": [
+    "Paralysis of single muscles. Cannot raise or lift anything with the hand. Extension is difficult. Paralysis from overexertion of the extensor muscles in piano players (Curare). Pains in muscles of thighs; come in paroxysms. Wrist-drop. Cramps in calves. Stinging and tearing in limbs, also twitching and tingling, numbness, pain or tremor. Paralysis. Feet swollen. Pain in atrophied limbs alternates with colic. Loss of patellar reflex. Hands and feet cold. Pain in right big toe at night, very sensitive to touch."
+  ],
+  "skin_symptoms": [
+    "Yellow, dark-brown liver spots. Jaundice. Dry. Dilated veins of forearms and legs."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "locally",
+    "as an application (non-homeopathic"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/p/plb.htm",
+    "title": "PLUMBUM METALLICUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:17:26.520Z"
+  },
+  "confidence_score": 0.8
+}

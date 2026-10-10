@@ -1,0 +1,41 @@
+{
+  "remedy_name": "Piper Methysticum.",
+  "source_file": "raw_1772507856870_clarke_dictionary_w2.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      {
+        "original": "Puls",
+        "resolved_name": "PULSATILLA",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      }
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Cubeba",
+        "resolved_name": "CUBEBA OFFICINALIS",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Piper nig",
+        "resolved_name": "PIPER METHYSTICUM",
+        "confidence": 0.8,
+        "method": "substring"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": [
+      {
+        "original": "d by: Puls",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      }
+    ]
+  },
+  "resolved_at": "2026-03-11T01:50:10.791Z"
+}

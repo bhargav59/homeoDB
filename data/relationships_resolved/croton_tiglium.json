@@ -1,0 +1,71 @@
+{
+  "remedy_name": "CROTON TIGLIUM",
+  "source_file": "raw_1772501158608.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      {
+        "original": "Ant tart",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      }
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "producing colic",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "nausea",
+        "resolved_name": "Dr. Reckeweg R52, Homeopathic Medicine For Nausea &amp; Vomiting During Traveling",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "vomiting",
+        "resolved_name": "Dr. Reckeweg R52, Homeopathic Medicine For Nausea &amp; Vomiting During Traveling",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "cholera-like symptoms",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "thin",
+        "resolved_name": "LECITHINUM",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "watery",
+        "resolved_name": "Datura Arborea.",
+        "confidence": 0.55,
+        "method": "levenshtein_3"
+      },
+      {
+        "original": "yellow",
+        "resolved_name": "BELLIS PERENNIS",
+        "confidence": 0.55,
+        "method": "levenshtein_3"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": [
+      {
+        "original": "Ant tart",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      }
+    ]
+  },
+  "resolved_at": "2026-03-11T01:50:09.183Z"
+}

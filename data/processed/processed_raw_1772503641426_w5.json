@@ -1,0 +1,46 @@
+{
+  "name": "SYMPHYTUM OFFICINALE",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Comfrey-Knitbone"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Pain in occiput, top and forehead; changing places. Pain comes down bone of nose. Inflammation of inferior maxillary bone, hard, red, swelling."
+  ],
+  "guiding_symptoms": [
+    "Pain in occiput, top and forehead; changing places. Pain comes down bone of nose. Inflammation of inferior maxillary bone, hard, red, swelling."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Pain in occiput, top and forehead; changing places. Pain comes down bone of nose. Inflammation of inferior maxillary bone, hard, red, swelling."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Arn",
+    "Calc phos"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/s/symph.htm",
+    "title": "SYMPHYTUM OFFICINALE - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:07:21.426Z"
+  },
+  "confidence_score": 0.44
+}

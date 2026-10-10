@@ -1,0 +1,21 @@
+{
+  "remedy_name": "BOLETUS LARICIS",
+  "source_file": "raw_1772500052256.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Agaricin",
+        "resolved_name": "AGARICUS MUSCARIUS",
+        "confidence": 0.7,
+        "method": "levenshtein_2"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:08.675Z"
+}

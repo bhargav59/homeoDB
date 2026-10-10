@@ -1,0 +1,83 @@
+{
+  "remedy_name": "CLEMATIS ERECTA",
+  "source_file": "raw_1772500906719.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      {
+        "original": "Bryon",
+        "resolved_name": "BRYONIA",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      }
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Clematis vitalba",
+        "resolved_name": "CLEMATIS ERECTA",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Sil",
+        "resolved_name": "SILICEA",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      },
+      {
+        "original": "Staph",
+        "resolved_name": "STAPHYSAGRIA",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      },
+      {
+        "original": "Petrol",
+        "resolved_name": "PETROLEUM",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Oleand",
+        "resolved_name": "OLEANDER",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Sarsap",
+        "resolved_name": "SARSAPARILLA OFFICINALIS",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Canth",
+        "resolved_name": "CANTHARIS VESICATORIA",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Phos ac",
+        "resolved_name": "PHOSPHORUS",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      },
+      {
+        "original": "Pulsat",
+        "resolved_name": "PULSATILLA",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": [
+      {
+        "original": "Bryon",
+        "resolved_name": "BRYONIA",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      }
+    ]
+  },
+  "resolved_at": "2026-03-11T01:50:08.995Z"
+}

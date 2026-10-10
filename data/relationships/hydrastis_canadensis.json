@@ -1,0 +1,29 @@
+{
+  "remedy_name": "HYDRASTIS CANADENSIS",
+  "source_file": "raw_1772502231865.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/h/hydr.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      "Sulph"
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Xanthorrhiza apifolia",
+      "Kali bich",
+      "Conium",
+      "Ars iod",
+      "Phytol",
+      "Galium",
+      "Asterias",
+      "Stann",
+      "Puls"
+    ],
+    "incompatible": [],
+    "antidotes": [
+      "Sulph"
+    ]
+  },
+  "parsed_at": "2026-03-03T15:23:37.492Z"
+}

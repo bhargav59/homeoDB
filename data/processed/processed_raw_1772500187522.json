@@ -1,0 +1,48 @@
+{
+  "name": "CAINCA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Brazilian Plant-Chiococca"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Pain in region of kidneys; better lying bent backward. General fatigue."
+  ],
+  "guiding_symptoms": [
+    "Pain in region of kidneys; better lying bent backward. General fatigue."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [],
+  "urinary_symptoms": [
+    "Constant desire to urinate. Polyuria while travelling. Urine fiery. Burning pain in urethra, especially glandular portion."
+  ],
+  "musculoskeletal_symptoms": [
+    "Pain in region of kidneys; better lying bent backward. General fatigue."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Apocyn",
+    "Ars"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/c/cain.htm",
+    "title": "CAINCA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:09:47.522Z"
+  },
+  "confidence_score": 0.5
+}

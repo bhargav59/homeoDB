@@ -1,0 +1,26 @@
+{
+  "remedy_name": "Aconitum Napellus.",
+  "source_file": "raw_1772507501776_clarke_dictionary_w3.json",
+  "source_url": "https://www.homeoint.org/clarke/a/acon.htm",
+  "relationships": {
+    "complementary": [
+      "to: Coff"
+    ],
+    "antidoted_by": [
+      "Acet",
+      "Bell"
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "d with Stram",
+      "also: Pul"
+    ],
+    "incompatible": [],
+    "antidotes": [
+      "d by: Acet",
+      "Bell"
+    ]
+  },
+  "parsed_at": "2026-03-03T15:23:37.789Z"
+}

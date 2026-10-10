@@ -1,0 +1,108 @@
+{
+  "remedy_name": "Ignatia.",
+  "source_file": "raw_1772507820797_clarke_dictionary_w1.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      {
+        "original": "Puls",
+        "resolved_name": "PULSATILLA",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      },
+      {
+        "original": "Brandy",
+        "resolved_name": "ARANEA DIADEMA",
+        "confidence": 0.55,
+        "method": "levenshtein_3"
+      },
+      {
+        "original": "coffee",
+        "resolved_name": "COFFEA CRUDA",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      },
+      {
+        "original": "chamomile tea",
+        "resolved_name": "CHAMOMILLA",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      },
+      {
+        "original": "tobacco",
+        "resolved_name": "TABACUM",
+        "confidence": 0.55,
+        "method": "levenshtein_3"
+      },
+      {
+        "original": "Selen",
+        "resolved_name": "SELENIUM METALLICUM",
+        "confidence": 0.8,
+        "method": "substring"
+      }
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Croc",
+        "resolved_name": "CROCUS SATIVUS",
+        "confidence": 0.8,
+        "method": "substring"
+      }
+    ],
+    "incompatible": [
+      {
+        "original": "Coffea",
+        "resolved_name": "COFFEA CRUDA",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Tabac",
+        "resolved_name": "TABACUM",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      }
+    ],
+    "antidotes": [
+      {
+        "original": "d by: Puls",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "Brandy",
+        "resolved_name": "ARANEA DIADEMA",
+        "confidence": 0.55,
+        "method": "levenshtein_3"
+      },
+      {
+        "original": "coffee",
+        "resolved_name": "COFFEA CRUDA",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      },
+      {
+        "original": "chamomile tea",
+        "resolved_name": "CHAMOMILLA",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      },
+      {
+        "original": "tobacco",
+        "resolved_name": "TABACUM",
+        "confidence": 0.55,
+        "method": "levenshtein_3"
+      },
+      {
+        "original": "Selen",
+        "resolved_name": "SELENIUM METALLICUM",
+        "confidence": 0.8,
+        "method": "substring"
+      }
+    ]
+  },
+  "resolved_at": "2026-03-11T01:50:09.952Z"
+}

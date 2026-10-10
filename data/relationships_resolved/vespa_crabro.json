@@ -1,0 +1,65 @@
+{
+  "remedy_name": "VESPA CRABRO",
+  "source_file": "raw_1772505758444.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      {
+        "original": "Sempervivum tector",
+        "resolved_name": "SEMPERVIVUM TECTORUM",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "locally",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      }
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Scorpio (salivation",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "strabismus",
+        "resolved_name": "STRAMONIUM",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      },
+      {
+        "original": "tetanus)",
+        "resolved_name": "ASTACUS FLUVIATILIS",
+        "confidence": 0.55,
+        "method": "levenshtein_3"
+      },
+      {
+        "original": "Apis",
+        "resolved_name": "APIS MELLIFICA",
+        "confidence": 1,
+        "method": "exact"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": [
+      {
+        "original": "Sempervivum tector",
+        "resolved_name": "SEMPERVIVUM TECTORUM",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "locally",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      }
+    ]
+  },
+  "resolved_at": "2026-03-11T01:50:11.704Z"
+}

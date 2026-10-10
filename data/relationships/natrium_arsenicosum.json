@@ -1,0 +1,19 @@
+{
+  "remedy_name": "NATRIUM ARSENICOSUM",
+  "source_file": "raw_1772503498258.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/n/nat-ar.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Ars",
+      "Kali carb",
+      "Apis"
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "parsed_at": "2026-03-03T15:23:37.556Z"
+}

@@ -1,0 +1,84 @@
+{
+  "remedy_name": "CHAMOMILLA",
+  "source_file": "raw_1772500641266.json",
+  "relationships": {
+    "complementary": [
+      {
+        "original": "Bell",
+        "resolved_name": "BELLADONNA",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      }
+    ],
+    "antidoted_by": [
+      {
+        "original": "Camph",
+        "resolved_name": "CAMPHORA",
+        "confidence": 0.8,
+        "method": "substring"
+      }
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Cypriped",
+        "resolved_name": "CYPRIPEDIUM PUBESCENS",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Anthemis",
+        "resolved_name": "ANTHEMIS NOBILIS",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Aconite",
+        "resolved_name": "ACONITUM NAPELLUS",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      },
+      {
+        "original": "Puls",
+        "resolved_name": "PULSATILLA",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      },
+      {
+        "original": "Coffea",
+        "resolved_name": "COFFEA CRUDA",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Bellad",
+        "resolved_name": "BELLADONNA",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      },
+      {
+        "original": "Staphis",
+        "resolved_name": "STAPHYSAGRIA",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      },
+      {
+        "original": "Ignat",
+        "resolved_name": "IGNATIA AMARA",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": [
+      {
+        "original": "Camph",
+        "resolved_name": "CAMPHORA",
+        "confidence": 0.8,
+        "method": "substring"
+      }
+    ]
+  },
+  "resolved_at": "2026-03-11T01:50:08.920Z"
+}

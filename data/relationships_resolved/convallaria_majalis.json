@@ -1,0 +1,39 @@
+{
+  "remedy_name": "CONVALLARIA MAJALIS",
+  "source_file": "raw_1772501057702.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Digit",
+        "resolved_name": "DIGITALIS",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      },
+      {
+        "original": "Crataeg",
+        "resolved_name": "CRATAEGUS OXYACANTHA",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Lilium",
+        "resolved_name": "LILIUM TIGRINUM",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Adonis",
+        "resolved_name": "ADONIS VERNALIS",
+        "confidence": 1,
+        "method": "exact"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:09.075Z"
+}

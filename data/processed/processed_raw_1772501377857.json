@@ -1,0 +1,57 @@
+{
+  "name": "DUBOISIA MYOPOROIDES",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Corkwood Elm"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Impossible to stand with eyes shut, tendency to fall backwards.",
+    "Larynx dry, voice hoarse, phonation difficult. Dry cough with oppressed breathing.",
+    "Loss of power in limbs, staggers; feels as if he stepped on empty space. Trembling, numbness and weakness."
+  ],
+  "guiding_symptoms": [
+    "Impossible to stand with eyes shut, tendency to fall backwards.",
+    "Larynx dry, voice hoarse, phonation difficult. Dry cough with oppressed breathing.",
+    "Loss of power in limbs, staggers; feels as if he stepped on empty space. Trembling, numbness and weakness."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [
+    "Absent-minded, incoherent, silly and nonsensical, memory impaired."
+  ],
+  "head_symptoms": [
+    "Impossible to stand with eyes shut, tendency to fall backwards."
+  ],
+  "respiratory_symptoms": [
+    "Larynx dry, voice hoarse, phonation difficult. Dry cough with oppressed breathing."
+  ],
+  "gi_symptoms": [],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [
+    "Loss of power in limbs, staggers; feels as if he stepped on empty space. Trembling, numbness and weakness."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Bellad",
+    "Stram",
+    "Hyos"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/d/dubo-m.htm",
+    "title": "DUBOISIA MYOPOROIDES - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:29:37.857Z"
+  },
+  "confidence_score": 0.62
+}

@@ -1,0 +1,43 @@
+{
+  "name": "PAREIRA BRAVA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Virgin-vine"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [],
+  "guiding_symptoms": [],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [],
+  "urinary_symptoms": [
+    "Black, bloody, thick mucous urine. Constant urging; great straining; pain down thighs during efforts to urinate. Can emit urine only when he goes on his knees, pressing head firmly against the floor. Feeling of the bladder being distended and neuralgic pain in the anterior crural region. (Staph.) Dribbling after micturition. (Selen.) Violent pain in glans penis. Itching along urethra; urethritis, with prostatic trouble. Inflammation of urethra; becomes almost cartilaginous."
+  ],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Parietaria (renal calculi",
+    "nightmare",
+    "patient dreaming of being buried alive"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/p/pareir.htm",
+    "title": "PAREIRA BRAVA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:13:36.836Z"
+  },
+  "confidence_score": 0.38
+}

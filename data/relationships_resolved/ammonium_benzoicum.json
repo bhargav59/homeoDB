@@ -1,0 +1,69 @@
+{
+  "remedy_name": "AMMONIUM BENZOICUM",
+  "source_file": "raw_1772371821725.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Terebinth",
+        "resolved_name": "TEREBINTHINIAE OLEUM",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Benz ac",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "Ammonia salts",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "Caust",
+        "resolved_name": "CAUSTICUM",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      },
+      {
+        "original": "Kalmia",
+        "resolved_name": "KALMIA LATIFOLIA",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Helon",
+        "resolved_name": "CHELONE GLABRA",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Merc cor",
+        "resolved_name": "MERCURIUS SOLUBILIS",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      },
+      {
+        "original": "Berb",
+        "resolved_name": "BERBERIS VULGARIS",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Canth",
+        "resolved_name": "CANTHARIS VESICATORIA",
+        "confidence": 0.8,
+        "method": "substring"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:08.428Z"
+}

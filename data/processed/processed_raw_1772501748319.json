@@ -1,0 +1,64 @@
+{
+  "name": "FORMALINUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Aqueous Solution (35 per cent) of Formaldehyde Gas"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Food feels as if it were a ball in stomach. Burning in mouth and stomach.",
+    "Coryza; eyes water; vertigo.",
+    "Dyspnśa. Laryngismus stridulus. Whooping-cough."
+  ],
+  "guiding_symptoms": [
+    "Food feels as if it were a ball in stomach. Burning in mouth and stomach.",
+    "Coryza; eyes water; vertigo.",
+    "Dyspnśa. Laryngismus stridulus. Whooping-cough."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [
+    "Forgetfulness. Anxiety. Unconscious."
+  ],
+  "head_symptoms": [
+    "Coryza; eyes water; vertigo."
+  ],
+  "respiratory_symptoms": [
+    "Dyspnśa. Laryngismus stridulus. Whooping-cough."
+  ],
+  "gi_symptoms": [
+    "Food feels as if it were a ball in stomach. Burning in mouth and stomach."
+  ],
+  "urinary_symptoms": [
+    "Anuria; albuminous urine."
+  ],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [
+    "Puckers skin like leather; wrinkles; scales off. Eczema in neighborhood of wound. Damp sweat most marked on right upper extremity."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [
+    "Chills in forenoon, followed by long fever. Bones ache during whole paroxysm. During fever forgets where he was."
+  ],
+  "complementary_remedies": [
+    "Ammonium formaldehyde",
+    "known commercially as Cystogen (Dose",
+    "dissolved in hot water",
+    "after meals"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/f/formal.htm",
+    "title": "FORMALINUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:35:48.319Z"
+  },
+  "confidence_score": 0.8
+}

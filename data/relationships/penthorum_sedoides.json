@@ -1,0 +1,17 @@
+{
+  "remedy_name": "PENTHORUM SEDOIDES",
+  "source_file": "raw_1772504049900.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/p/pen.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Penthororun often follows Pulsat"
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "parsed_at": "2026-03-03T15:23:37.691Z"
+}

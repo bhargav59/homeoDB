@@ -1,0 +1,19 @@
+{
+  "remedy_name": "TANACETUM VULGARE",
+  "source_file": "raw_1772505269790.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/t/tanac.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Cimicif",
+      "Cina",
+      "Absinth"
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "parsed_at": "2026-03-03T15:23:37.750Z"
+}

@@ -1,0 +1,19 @@
+{
+  "remedy_name": "PLANTAGO MAJOR",
+  "source_file": "raw_1772504215305.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/p/plan.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Kalm",
+      "Cham",
+      "Puls"
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "parsed_at": "2026-03-03T15:23:37.699Z"
+}

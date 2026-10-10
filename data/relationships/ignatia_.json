@@ -1,0 +1,34 @@
+{
+  "remedy_name": "Ignatia.",
+  "source_file": "raw_1772507820797_clarke_dictionary_w1.json",
+  "source_url": "https://www.homeoint.org/clarke/i/ign.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      "Puls",
+      "Brandy",
+      "coffee",
+      "chamomile tea",
+      "tobacco",
+      "Selen"
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Croc"
+    ],
+    "incompatible": [
+      "Coffea",
+      "Tabac"
+    ],
+    "antidotes": [
+      "d by: Puls",
+      "Brandy",
+      "coffee",
+      "chamomile tea",
+      "tobacco",
+      "Selen"
+    ]
+  },
+  "parsed_at": "2026-03-03T15:23:38.200Z"
+}

@@ -1,0 +1,49 @@
+{
+  "name": "MERCURIALIS PERENNIS",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Dog's Mercury"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Vertigo on going down stairs. Head confused. Pain as from a band tightly across forehead. Nostrils sore, conscious of nose, feels as if she had two noses."
+  ],
+  "guiding_symptoms": [
+    "Vertigo on going down stairs. Head confused. Pain as from a band tightly across forehead. Nostrils sore, conscious of nose, feels as if she had two noses."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Vertigo on going down stairs. Head confused. Pain as from a band tightly across forehead. Nostrils sore, conscious of nose, feels as if she had two noses."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [],
+  "urinary_symptoms": [
+    "Amenorrhśa, scanty menses, accompanied with orgasms. Pains and swelling of breasts. Dysmenorrhśa."
+  ],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Borax",
+    "Croton",
+    "Euphorb"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/m/merl.htm",
+    "title": "MERCURIALIS PERENNIS - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:01:46.189Z"
+  },
+  "confidence_score": 0.5
+}

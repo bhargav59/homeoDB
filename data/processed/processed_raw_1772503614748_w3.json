@@ -1,0 +1,49 @@
+{
+  "name": "SANGUINARINUM NITRICUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Nitrate of Sanguinarine"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Short, hacking cough, with expectoration of thick, yellow, sweetish mucus. Pressure behind center of sternum. Dryness and burning in throat and bronchi. Tickling cough. Chronic nasal, laryngeal, and bronchial catarrh. Voice altered, deep, hoarse."
+  ],
+  "guiding_symptoms": [
+    "Short, hacking cough, with expectoration of thick, yellow, sweetish mucus. Pressure behind center of sternum. Dryness and burning in throat and bronchi. Tickling cough. Chronic nasal, laryngeal, and bronchial catarrh. Voice altered, deep, hoarse."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Feels obstructed. Profuse, watery mucus, with burning pain. Enlarged turbinates at beginning of hypertrophic process. Secretion scant, tendency to dryness. Small crusts which bleed when removed. Post-nasal secretions adherent to nasopharynx, dislodged with difficulty. Dry and burning nostrils; watery mucus, with pressure over root of nose. Nostrils plugged with thick, yellow, bloody mucus. Sneezing. Rawness and soreness in posterior nares."
+  ],
+  "respiratory_symptoms": [
+    "Short, hacking cough, with expectoration of thick, yellow, sweetish mucus. Pressure behind center of sternum. Dryness and burning in throat and bronchi. Tickling cough. Chronic nasal, laryngeal, and bronchial catarrh. Voice altered, deep, hoarse."
+  ],
+  "gi_symptoms": [],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Sanguin tartaricum (exophthalmos",
+    "mydriasis",
+    "dim vision"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/s/sangin-n.htm",
+    "title": "SANGUINARINUM NITRICUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:06:54.748Z"
+  },
+  "confidence_score": 0.56
+}

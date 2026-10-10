@@ -1,0 +1,31 @@
+{
+  "remedy_name": "HAMAMELIS VIRGINIANA",
+  "source_file": "raw_1772502079169.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/h/ham.htm",
+  "relationships": {
+    "complementary": [
+      "Ferrum"
+    ],
+    "antidoted_by": [
+      "Arnica"
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "in hæmorrhoids: Calc fluor",
+      "Aloe",
+      "Mur ac in varicose veins",
+      "Arnica",
+      "Calend",
+      "Trillium",
+      "Bellis",
+      "Sulph ac",
+      "Pulsatilla"
+    ],
+    "incompatible": [],
+    "antidotes": [
+      "Arnica"
+    ]
+  },
+  "parsed_at": "2026-03-03T15:23:37.486Z"
+}

@@ -1,0 +1,64 @@
+{
+  "name": "CONVALLARIA MAJALIS",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Lily of the Valley"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Pulmonary congestion. Orthopnea. Dyspnœa while walking. Hot feeling in throat.",
+    "Feeling as if heart beat throughout the chest. Endocarditis, with extreme orthopnea. Sensation as if heart ceased beating, then starting very suddenly. Palpitation from the least exertion. Tobacco heart, especially when due to cigarettes. Angina pectoris. Extremely rapid and irregular pulse.",
+    "Back and Extremities.--Pain and aching in lumbar region; aching of legs; in big toe. Trembling of hands. Aching in wrists and ankles."
+  ],
+  "guiding_symptoms": [
+    "Pulmonary congestion. Orthopnea. Dyspnœa while walking. Hot feeling in throat.",
+    "Feeling as if heart beat throughout the chest. Endocarditis, with extreme orthopnea. Sensation as if heart ceased beating, then starting very suddenly. Palpitation from the least exertion. Tobacco heart, especially when due to cigarettes. Angina pectoris. Extremely rapid and irregular pulse.",
+    "Back and Extremities.--Pain and aching in lumbar region; aching of legs; in big toe. Trembling of hands. Aching in wrists and ankles."
+  ],
+  "modalities": {
+    "worse": [
+      "in warm room"
+    ],
+    "better": [
+      "in open air"
+    ]
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Hydroa in nose and lips; raw and sore. Epistaxis. Sees imaginary gray spot about three inches square."
+  ],
+  "respiratory_symptoms": [
+    "Pulmonary congestion. Orthopnea. Dyspnœa while walking. Hot feeling in throat."
+  ],
+  "gi_symptoms": [
+    "Sensitive. Clothes feel too tight. Gurgling and pain on taking deep breath. Movement in abdomen like fist of a child. Colicky pains.",
+    "Urinary Organs.--Aching in bladder; feels distended. Frequent urination; offensive; scanty urine."
+  ],
+  "urinary_symptoms": [
+    "Great soreness in uterine region, with sympathetic palpitation of heart. Pain in sacro-iliac joints, running down leg. Itching at urinary meatus and vaginal orifice."
+  ],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [
+    "Chilly in back and down spine, followed by fever, little sweat. Thirst and headache during chill. Dyspnœa during fever."
+  ],
+  "complementary_remedies": [
+    "Digit",
+    "Crataeg",
+    "Lilium"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/c/conv.htm",
+    "title": "CONVALLARIA MAJALIS - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:24:17.702Z"
+  },
+  "confidence_score": 0.8
+}

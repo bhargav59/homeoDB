@@ -1,0 +1,27 @@
+{
+  "remedy_name": "CARLSBAD AQUA",
+  "source_file": "raw_1772500491108.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Nat sulph",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "Nux",
+        "resolved_name": "NUX MOSCHATA",
+        "confidence": 1,
+        "method": "exact"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:08.885Z"
+}

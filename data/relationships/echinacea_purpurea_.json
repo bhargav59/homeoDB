@@ -1,0 +1,15 @@
+{
+  "remedy_name": "Echinacea Purpurea.",
+  "source_file": "raw_1772507730474_clarke_dictionary_w1.json",
+  "source_url": "https://www.homeoint.org/clarke/e/echin_p.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "parsed_at": "2026-03-03T15:23:38.101Z"
+}

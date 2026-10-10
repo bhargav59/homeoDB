@@ -1,0 +1,54 @@
+{
+  "remedy_name": "CAUSTICUM",
+  "source_file": "raw_1772500579038.json",
+  "relationships": {
+    "complementary": [
+      {
+        "original": "Carbo",
+        "resolved_name": "CARBO ANIMALIS",
+        "confidence": 1,
+        "method": "exact"
+      }
+    ],
+    "antidoted_by": [
+      {
+        "original": "Paralysis from lead-poisoning",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      }
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Rhus",
+        "resolved_name": "RHUS GLABRA",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Arsenic",
+        "resolved_name": "ARSENICUM ALBUM",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      },
+      {
+        "original": "Amm phos",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": [
+      {
+        "original": "Paralysis from lead-poisoning",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      }
+    ]
+  },
+  "resolved_at": "2026-03-11T01:50:08.899Z"
+}

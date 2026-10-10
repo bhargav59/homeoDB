@@ -1,0 +1,51 @@
+{
+  "remedy_name": "SANGUINARINUM NITRICUM",
+  "source_file": "raw_1772504710787.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Sanguin tartaricum (exophthalmos",
+        "resolved_name": "SANGUINARIA",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      },
+      {
+        "original": "mydriasis",
+        "resolved_name": "HYDRASTIS CANADENSIS",
+        "confidence": 0.55,
+        "method": "levenshtein_3"
+      },
+      {
+        "original": "dim vision)",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "Arum triph",
+        "resolved_name": "ARUM DRACONTIUM",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Psorin",
+        "resolved_name": "PSORINUM",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Kal bich",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:11.128Z"
+}

@@ -1,0 +1,51 @@
+{
+  "remedy_name": "URANIUM NITRICUM",
+  "source_file": "raw_1772505604304.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Syzygium",
+        "resolved_name": "SYZYGIUM JAMBOLANUM",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Phos ac",
+        "resolved_name": "PHOSPHORUS",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      },
+      {
+        "original": "Lact ac",
+        "resolved_name": "LAC CANINUM",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Arg nit",
+        "resolved_name": "ARGENTUM NITRICUM",
+        "confidence": 0.55,
+        "method": "levenshtein_3"
+      },
+      {
+        "original": "Kali bich",
+        "resolved_name": "KALI CARBONICUM",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      },
+      {
+        "original": "Ars",
+        "resolved_name": "ARSENICUM ALBUM",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:11.634Z"
+}

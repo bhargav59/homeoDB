@@ -1,0 +1,27 @@
+{
+  "remedy_name": "TRILLIUM PENDULUM",
+  "source_file": "raw_1772505521549.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/t/tril-p.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Trillium cernum (eye symptoms",
+      "everything looks bluish",
+      "greasy feeling in mouth)",
+      "Ficus (hæmorrhages",
+      "menorrhagia",
+      "hæmaturia",
+      "epistaxis",
+      "Hæmatemesis",
+      "bleeding piles)",
+      "Sanguisuga-Leech--(hæmorrhages",
+      "bleeding from anus)"
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "parsed_at": "2026-03-03T15:23:37.762Z"
+}

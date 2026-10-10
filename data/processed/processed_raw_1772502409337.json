@@ -1,0 +1,69 @@
+{
+  "name": "IPECACUANHA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Ipecac-root"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Tongue usually clean. Mouth, moist; much saliva. Constant nausea and vomiting, with pale, twitching of face. Vomits food, bile, blood, mucus. Stomach feels relaxed, as if hanging down. Hiccough.",
+    "Bones of skull feel crushed or bruised. Pain extends to teeth and root of tongue.",
+    "Dyspnœa; constant constriction in chest. Asthma. Yearly attacks of difficult shortness of breathing. Continued sneezing; coryza; wheezing cough. Cough incessant and violent, with every breath. Chest seems full of phlegm, but does not yield to coughing. Bubbling rales. Suffocative cough; child becomes stiff, and blue in the face. Whooping-cough, with nosebleed, and from mouth. Bleeding from lungs, with nausea; feeling of constriction; rattling cough. Croup. Hæmoptysis from slightest exertion (Millef). Hoarseness, especially at end of a cold. Complete aphonia.",
+    "Body stretched stiff, followed by spasmodic jerking of arms towards each other."
+  ],
+  "guiding_symptoms": [
+    "Tongue usually clean. Mouth, moist; much saliva. Constant nausea and vomiting, with pale, twitching of face. Vomits food, bile, blood, mucus. Stomach feels relaxed, as if hanging down. Hiccough.",
+    "Bones of skull feel crushed or bruised. Pain extends to teeth and root of tongue.",
+    "Dyspnœa; constant constriction in chest. Asthma. Yearly attacks of difficult shortness of breathing. Continued sneezing; coryza; wheezing cough. Cough incessant and violent, with every breath. Chest seems full of phlegm, but does not yield to coughing. Bubbling rales. Suffocative cough; child becomes stiff, and blue in the face. Whooping-cough, with nosebleed, and from mouth. Bleeding from lungs, with nausea; feeling of constriction; rattling cough. Croup. Hæmoptysis from slightest exertion (Millef). Hoarseness, especially at end of a cold. Complete aphonia."
+  ],
+  "modalities": {
+    "worse": [
+      "periodically",
+      "from veal, moist warm wind, lying down"
+    ],
+    "better": []
+  },
+  "mind_symptoms": [
+    "Irritable; holds everything in contempt. Full of desires, for what they know not."
+  ],
+  "head_symptoms": [
+    "Bones of skull feel crushed or bruised. Pain extends to teeth and root of tongue."
+  ],
+  "respiratory_symptoms": [
+    "Dyspnœa; constant constriction in chest. Asthma. Yearly attacks of difficult shortness of breathing. Continued sneezing; coryza; wheezing cough. Cough incessant and violent, with every breath. Chest seems full of phlegm, but does not yield to coughing. Bubbling rales. Suffocative cough; child becomes stiff, and blue in the face. Whooping-cough, with nosebleed, and from mouth. Bleeding from lungs, with nausea; feeling of constriction; rattling cough. Croup. Hæmoptysis from slightest exertion (Millef). Hoarseness, especially at end of a cold. Complete aphonia."
+  ],
+  "gi_symptoms": [
+    "Tongue usually clean. Mouth, moist; much saliva. Constant nausea and vomiting, with pale, twitching of face. Vomits food, bile, blood, mucus. Stomach feels relaxed, as if hanging down. Hiccough."
+  ],
+  "urinary_symptoms": [
+    "Uterine hæmorrhage, profuse, bright, gushing, with nausea. Vomiting during pregnancy. Pain from navel to uterus. Menses too early and too profuse."
+  ],
+  "musculoskeletal_symptoms": [
+    "Body stretched stiff, followed by spasmodic jerking of arms towards each other."
+  ],
+  "skin_symptoms": [
+    "Pale, lax. Blue around eyes. Miliary rash."
+  ],
+  "sleep_symptoms": [
+    "With eyes half open. Shocks in all limbs on going to sleep (Ign)."
+  ],
+  "fever_symptoms": [
+    "Intermittent fever, irregular cases, after Quinine. Slightest chill with much heat, nausea, vomiting, and dyspnœa. Relapses from improper diet."
+  ],
+  "complementary_remedies": [
+    "but is not a bactericide"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/i/ip.htm",
+    "title": "IPECACUANHA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:46:49.337Z"
+  },
+  "confidence_score": 0.8
+}

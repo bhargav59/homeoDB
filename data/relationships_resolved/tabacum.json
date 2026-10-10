@@ -1,0 +1,83 @@
+{
+  "remedy_name": "TABACUM",
+  "source_file": "raw_1772505261360.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      {
+        "original": "Vinegar",
+        "resolved_name": "SENEGA",
+        "confidence": 0.55,
+        "method": "levenshtein_3"
+      }
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Hydrobromic acid",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "Camph",
+        "resolved_name": "CAMPHORA",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Verat",
+        "resolved_name": "VERATRUM ALBUM",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      },
+      {
+        "original": "Ars",
+        "resolved_name": "ARSENICUM ALBUM",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      },
+      {
+        "original": "nausea",
+        "resolved_name": "Dr. Reckeweg R52, Homeopathic Medicine For Nausea &amp; Vomiting During Traveling",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "cold sweat",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "and speedy collapse",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "head drawn back",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "muscles of neck and back rigid",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": [
+      {
+        "original": "Vinegar",
+        "resolved_name": "SENEGA",
+        "confidence": 0.55,
+        "method": "levenshtein_3"
+      }
+    ]
+  },
+  "resolved_at": "2026-03-11T01:50:11.371Z"
+}

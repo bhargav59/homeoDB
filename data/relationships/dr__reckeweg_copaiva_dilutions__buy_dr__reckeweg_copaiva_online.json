@@ -1,0 +1,15 @@
+{
+  "remedy_name": "Dr. Reckeweg Copaiva Dilutions, Buy Dr. Reckeweg Copaiva Online",
+  "source_file": "raw_1772510012558_reckeweg_dilutions_w2.json",
+  "source_url": "https://www.reckeweg-india.com/product-details/copaiva-492.html",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "parsed_at": "2026-03-03T15:23:38.682Z"
+}

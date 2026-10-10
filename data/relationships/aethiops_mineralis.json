@@ -1,0 +1,19 @@
+{
+  "remedy_name": "AETHIOPS MINERALIS",
+  "source_file": "raw_1772371638874.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/a/aethi-m.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Calc",
+      "Sil",
+      "Psorin"
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "parsed_at": "2026-03-03T15:23:37.319Z"
+}

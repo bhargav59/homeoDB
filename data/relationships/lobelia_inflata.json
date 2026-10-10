@@ -1,0 +1,25 @@
+{
+  "remedy_name": "LOBELIA INFLATA",
+  "source_file": "raw_1772502964019.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/l/lob.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      "Ipec"
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Tabac",
+      "Ars",
+      "Tart e",
+      "Verat",
+      "Rosa"
+    ],
+    "incompatible": [],
+    "antidotes": [
+      "Ipec"
+    ]
+  },
+  "parsed_at": "2026-03-03T15:23:37.527Z"
+}

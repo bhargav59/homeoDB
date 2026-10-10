@@ -1,0 +1,24 @@
+{
+  "remedy_name": "CASTOREUM CANADENSE",
+  "source_file": "raw_1772500523269.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/c/cast.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      "Colch"
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Ambra",
+      "Moschus",
+      "Mur acid",
+      "Valeriana"
+    ],
+    "incompatible": [],
+    "antidotes": [
+      "Colch"
+    ]
+  },
+  "parsed_at": "2026-03-03T15:23:37.416Z"
+}

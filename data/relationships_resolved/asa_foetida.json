@@ -1,0 +1,53 @@
+{
+  "remedy_name": "ASA FOETIDA",
+  "source_file": "raw_1772433346412.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      {
+        "original": "China",
+        "resolved_name": "CHINA OFFICINALIS",
+        "confidence": 1,
+        "method": "exact"
+      }
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Moschus",
+        "resolved_name": "MOSCHUS",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "China",
+        "resolved_name": "CHINA OFFICINALIS",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Mercur",
+        "resolved_name": "MERCURIUS SOLUBILIS",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      },
+      {
+        "original": "Aurum",
+        "resolved_name": "AURUM METALLICUM",
+        "confidence": 1,
+        "method": "exact"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": [
+      {
+        "original": "China",
+        "resolved_name": "CHINA OFFICINALIS",
+        "confidence": 1,
+        "method": "exact"
+      }
+    ]
+  },
+  "resolved_at": "2026-03-11T01:50:08.571Z"
+}

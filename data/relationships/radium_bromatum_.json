@@ -1,0 +1,19 @@
+{
+  "remedy_name": "Radium Bromatum.",
+  "source_file": "raw_1772508026384_clarke_dictionary_w1.json",
+  "source_url": "https://www.homeoint.org/clarke/r/rad_b.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      "Rhus and Nux mos"
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [],
+    "incompatible": [],
+    "antidotes": [
+      "d by Rhus and Nux mos"
+    ]
+  },
+  "parsed_at": "2026-03-03T15:23:38.394Z"
+}

@@ -1,0 +1,24 @@
+{
+  "remedy_name": "KALIUM NITRICUM",
+  "source_file": "raw_1772502622462.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/k/kali-n.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      "Opium",
+      "to Opium and Morphine poisoning",
+      "8-10 grains to glass of water"
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [],
+    "incompatible": [],
+    "antidotes": [
+      "Opium",
+      "Opium and Morphine poisoning",
+      "8-10 grains to glass of water",
+      "Ivy and Primula rash  Herpes facialis"
+    ]
+  },
+  "parsed_at": "2026-03-03T15:23:37.511Z"
+}

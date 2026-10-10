@@ -1,0 +1,49 @@
+{
+  "name": "CALCAREA IODATA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Iodide of Lime"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Headache while riding against cold wind. Lightheaded. Catarrh; worse at root of nose; sneezing; very little sensation. Polypi of nose and ear.",
+    "Chronic cough; Pain in chest, difficulty breathing after syphilis and mercurialization (Grauvogl). Hectic fever; green purulent expectoration. Croup. Pneumonia."
+  ],
+  "guiding_symptoms": [
+    "Headache while riding against cold wind. Lightheaded. Catarrh; worse at root of nose; sneezing; very little sensation. Polypi of nose and ear.",
+    "Chronic cough; Pain in chest, difficulty breathing after syphilis and mercurialization (Grauvogl). Hectic fever; green purulent expectoration. Croup. Pneumonia."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Headache while riding against cold wind. Lightheaded. Catarrh; worse at root of nose; sneezing; very little sensation. Polypi of nose and ear."
+  ],
+  "respiratory_symptoms": [
+    "Chronic cough; Pain in chest, difficulty breathing after syphilis and mercurialization (Grauvogl). Hectic fever; green purulent expectoration. Croup. Pneumonia."
+  ],
+  "gi_symptoms": [],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [
+    "Indolent ulcers, accompanying varicose veins. Easy perspiration. Copper-colored and papulous eruptions, tinea, favus, crusta lactea, swelling of the glands, skin cracked, falling out of hair."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/c/calc-i.htm",
+    "title": "CALCAREA IODATA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:11:04.546Z"
+  },
+  "confidence_score": 0.56
+}

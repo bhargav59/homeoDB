@@ -1,0 +1,64 @@
+{
+  "name": "ADONIS VERNALIS",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Pheasant's Eye"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Heavy weight. Gnawing hunger. Faint feeling in epigastrium. Better out of doors.",
+    "Urine.--Oily pellicle on urine. Scanty, albuminous.",
+    "Feels light; aches across front, from occiput around temples to eyes. Vertigo on rising, turning head quickly or lying down. Tinnitus. Scalp feels tight. Eyes dilated.",
+    "Frequent desire to take a long breath. Feeling of weight on chest.",
+    "Mitral and aortic regurgitation. Chronic aortitis, Fatty heart pericarditis. Rheumatic Endocarditis (Kalmia). Prećcordial pain, palpitation, and dyspnśa. Marked venous engorgement. Cardiac asthma (Quebracho). Fatty heart. Myocarditis, irregular cardiac action, constriction and vertigo. Pulse rapid, irregular.",
+    "Aching in nape. Spine stiff and aching. Śdema."
+  ],
+  "guiding_symptoms": [
+    "Heavy weight. Gnawing hunger. Faint feeling in epigastrium. Better out of doors.",
+    "Urine.--Oily pellicle on urine. Scanty, albuminous.",
+    "Feels light; aches across front, from occiput around temples to eyes. Vertigo on rising, turning head quickly or lying down. Tinnitus. Scalp feels tight. Eyes dilated."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Feels light; aches across front, from occiput around temples to eyes. Vertigo on rising, turning head quickly or lying down. Tinnitus. Scalp feels tight. Eyes dilated."
+  ],
+  "respiratory_symptoms": [
+    "Frequent desire to take a long breath. Feeling of weight on chest."
+  ],
+  "gi_symptoms": [
+    "Heavy weight. Gnawing hunger. Faint feeling in epigastrium. Better out of doors.",
+    "Urine.--Oily pellicle on urine. Scanty, albuminous."
+  ],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [
+    "Aching in nape. Spine stiff and aching. Śdema."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [
+    "Restlessness, with horrible dreams."
+  ],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Digit",
+    "Cratoeg",
+    "Conval",
+    "Strophanthus"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/a/adon.htm",
+    "title": "ADONIS VERNALIS - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-01T13:26:31.471Z"
+  },
+  "confidence_score": 0.74
+}

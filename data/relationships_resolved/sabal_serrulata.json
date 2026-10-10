@@ -1,0 +1,39 @@
+{
+  "remedy_name": "SABAL SERRULATA",
+  "source_file": "raw_1772504626466.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Phosph ac",
+        "resolved_name": "PHOSPHORUS",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      },
+      {
+        "original": "Stigmata maydis",
+        "resolved_name": "STIGMATA MAYDIS",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Santal",
+        "resolved_name": "OLEUM SANTALI",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Apis",
+        "resolved_name": "APIS MELLIFICA",
+        "confidence": 1,
+        "method": "exact"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:11.053Z"
+}

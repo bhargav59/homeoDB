@@ -1,0 +1,24 @@
+{
+  "remedy_name": "CROTALUS HORRIDUS",
+  "source_file": "raw_1772501148830.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/c/crot-h.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      "Lach"
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Bothrops",
+      "Naja",
+      "Lachesis",
+      "Elaps"
+    ],
+    "incompatible": [],
+    "antidotes": [
+      "Lach"
+    ]
+  },
+  "parsed_at": "2026-03-03T15:23:37.444Z"
+}

@@ -1,0 +1,34 @@
+{
+  "remedy_name": "CORNUS CIRCINATA",
+  "source_file": "raw_1772501098219.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/c/corn.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "disturbed sleep",
+      "fever",
+      "restlessness",
+      "eczema",
+      "skin cracked",
+      "chest feels cold",
+      "as if full of ice)",
+      "Cornus florida (chronic malaria",
+      "neuralgic pains in arms",
+      "chest",
+      "and trunk",
+      "and sensation as if broken in two",
+      "intermittent fever",
+      "with drowsiness",
+      "feels cold",
+      "but is warm to touch",
+      "great exhaustion in intervals",
+      "general clammy sweat"
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "parsed_at": "2026-03-03T15:23:37.441Z"
+}

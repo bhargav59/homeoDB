@@ -1,0 +1,39 @@
+{
+  "remedy_name": "MYGALE LASIODORA",
+  "source_file": "raw_1772503416501.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Agar",
+        "resolved_name": "AGARICUS MUSCARIUS",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Tarant",
+        "resolved_name": "ARANEA DIADEMA",
+        "confidence": 0.55,
+        "method": "levenshtein_3"
+      },
+      {
+        "original": "Cupr",
+        "resolved_name": "CUPRUM METALLICUM",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      },
+      {
+        "original": "Zizia",
+        "resolved_name": "ZIZIA AUREA",
+        "confidence": 1,
+        "method": "exact"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:10.394Z"
+}

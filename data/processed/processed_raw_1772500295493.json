@@ -1,0 +1,62 @@
+{
+  "name": "CALCAREA SILICATA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Silicate of Lime"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Sensation of coldness, especially when empty. Sinking sensation at pit. Great thirst. Flatulence and distention after eating. Vomiting and eructations.",
+    "Vertigo, head cold, especially at vertex; catarrh of nose and posterior nares, discharge thick, yellow, hard crusts. Corneal exudation.",
+    "Sensitive to cold air. Difficult respiration. Chronic irritation of air passages. Copious, yellow-green mucus. Coughs with coldness, weakness, emaciation, sensitiveness and peevishness, worse from cold air. Pain in chest walls."
+  ],
+  "guiding_symptoms": [
+    "Sensation of coldness, especially when empty. Sinking sensation at pit. Great thirst. Flatulence and distention after eating. Vomiting and eructations.",
+    "Vertigo, head cold, especially at vertex; catarrh of nose and posterior nares, discharge thick, yellow, hard crusts. Corneal exudation.",
+    "Sensitive to cold air. Difficult respiration. Chronic irritation of air passages. Copious, yellow-green mucus. Coughs with coldness, weakness, emaciation, sensitiveness and peevishness, worse from cold air. Pain in chest walls."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [
+    "Absent-minded, irritable, irresolute, lacks self-confidence. Fearful."
+  ],
+  "head_symptoms": [
+    "Vertigo, head cold, especially at vertex; catarrh of nose and posterior nares, discharge thick, yellow, hard crusts. Corneal exudation."
+  ],
+  "respiratory_symptoms": [
+    "Sensitive to cold air. Difficult respiration. Chronic irritation of air passages. Copious, yellow-green mucus. Coughs with coldness, weakness, emaciation, sensitiveness and peevishness, worse from cold air. Pain in chest walls."
+  ],
+  "gi_symptoms": [
+    "Sensation of coldness, especially when empty. Sinking sensation at pit. Great thirst. Flatulence and distention after eating. Vomiting and eructations."
+  ],
+  "urinary_symptoms": [
+    "Uterus heavy, prolapsed. Leucorrhśa, painful and irregular menses. Flow between periods."
+  ],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [
+    "Itching, burning, cold and blue, very sensitive. Pimples, comedones, wens. Psoric eruptions."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Arsenic",
+    "Tubercul",
+    "Baryt carb",
+    "Iod"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/c/calc-sil.htm",
+    "title": "CALCAREA SILICATA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:11:35.493Z"
+  },
+  "confidence_score": 0.6799999999999999
+}

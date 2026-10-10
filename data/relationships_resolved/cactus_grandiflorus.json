@@ -1,0 +1,65 @@
+{
+  "remedy_name": "CACTUS GRANDIFLORUS",
+  "source_file": "raw_1772500165886.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      {
+        "original": "Acon",
+        "resolved_name": "ACONITUM NAPELLUS",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      }
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Digital",
+        "resolved_name": "DIGITALIS",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      },
+      {
+        "original": "Spigel",
+        "resolved_name": "SPIGELIA",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      },
+      {
+        "original": "Convallar",
+        "resolved_name": "CONIUM MACULATUM",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      },
+      {
+        "original": "Kalmia",
+        "resolved_name": "KALMIA LATIFOLIA",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Naja",
+        "resolved_name": "NAJA TRIPUDIANS",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Magnol",
+        "resolved_name": "MAGNOLIA GRANDIFLORA",
+        "confidence": 0.8,
+        "method": "substring"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": [
+      {
+        "original": "Acon",
+        "resolved_name": "ACONITUM NAPELLUS",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      }
+    ]
+  },
+  "resolved_at": "2026-03-11T01:50:08.738Z"
+}

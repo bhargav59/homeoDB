@@ -1,0 +1,45 @@
+{
+  "remedy_name": "AMBROSIA ARTEMISIAEFOLIA",
+  "source_file": "raw_1772371938452.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "in hay-fever: Sabadilla",
+        "resolved_name": "SABADILLA",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Wyethia",
+        "resolved_name": "WYETHIA HELENOIDES",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Succin ac",
+        "resolved_name": "SUCCINUM",
+        "confidence": 0.55,
+        "method": "levenshtein_3"
+      },
+      {
+        "original": "Ars jod",
+        "resolved_name": "ARSENICUM ALBUM",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      },
+      {
+        "original": "Arundo",
+        "resolved_name": "ARUNDO MAURITANICA",
+        "confidence": 1,
+        "method": "exact"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:08.409Z"
+}

@@ -1,0 +1,33 @@
+{
+  "remedy_name": "INULA HELENIUM",
+  "source_file": "raw_1772502378676.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Crocus",
+        "resolved_name": "CROCUS SATIVUS",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Ignatia",
+        "resolved_name": "IGNATIA AMARA",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Arum dracontium",
+        "resolved_name": "ARUM DRACONTIUM",
+        "confidence": 1,
+        "method": "exact"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:09.960Z"
+}

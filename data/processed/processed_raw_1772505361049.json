@@ -1,0 +1,64 @@
+{
+  "name": "TEUCRIUM MARUM VERUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Cat-thyme"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Vomiting of large quantities of dark-green masses. Constant hiccough, attended with pain in back. Unnatural appetite. Hiccough on eating, after nursing.",
+    "Excited, tremulous feeling. Frontal pain; worse, stooping. Strengthens brain after delirium tremens.",
+    "Dry cough, tickling in trachea; moldy taste in throat when hawking up mucus, expectoration profuse.",
+    "Affection of finger-tips and joints of toes. Tearing pains in arms and legs. Pain in toe-nails, as if they had grown into flesh."
+  ],
+  "guiding_symptoms": [
+    "Vomiting of large quantities of dark-green masses. Constant hiccough, attended with pain in back. Unnatural appetite. Hiccough on eating, after nursing.",
+    "Excited, tremulous feeling. Frontal pain; worse, stooping. Strengthens brain after delirium tremens.",
+    "Dry cough, tickling in trachea; moldy taste in throat when hawking up mucus, expectoration profuse."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Excited, tremulous feeling. Frontal pain; worse, stooping. Strengthens brain after delirium tremens."
+  ],
+  "respiratory_symptoms": [
+    "Dry cough, tickling in trachea; moldy taste in throat when hawking up mucus, expectoration profuse."
+  ],
+  "gi_symptoms": [
+    "Vomiting of large quantities of dark-green masses. Constant hiccough, attended with pain in back. Unnatural appetite. Hiccough on eating, after nursing."
+  ],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [
+    "Affection of finger-tips and joints of toes. Tearing pains in arms and legs. Pain in toe-nails, as if they had grown into flesh."
+  ],
+  "skin_symptoms": [
+    "Itching causes tossing about all night. Very dry skin. Suppurating grooves in the nails."
+  ],
+  "sleep_symptoms": [
+    "Restless, with twitching, choking, and starting up frightened."
+  ],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "dropsy",
+    "orchitis and tuberculous epidymitis",
+    "especially in young",
+    "glands",
+    "bones and urogenitals"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/t/teucr.htm",
+    "title": "TEUCRIUM MARUM VERUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:36:01.049Z"
+  },
+  "confidence_score": 0.8
+}

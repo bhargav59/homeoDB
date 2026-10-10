@@ -1,0 +1,66 @@
+{
+  "name": "MAGNESIUM MURIATICUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Muriate of Magnesia"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Appetite poor, had taste in mouth. Eructations like rotten eggs. Continued rising of while froth into mouth Cannot digest milk. Urine can be passed only by pressing abdominal muscles.",
+    "Sensitive to noise; bursting headache; worse, motion, open air; better, pressure, and wrapping up warmly (Sil; Stront). Much sweating of head (Calc, Sil). Facial neuralgia pains, dull, aching, worse damp weather, slightest draft, better pressure heat.",
+    "Palpitation and cardiac pain while sitting; better by moving about (Gels). Functional cardiac affections with liver enlargement.",
+    "Respiration.--Spasmodic dry cough; worse forepart of night, with burning and sore chest.",
+    "Pain in back and hips; in arms and legs. Arms \"Go to sleep\" when waking in morning."
+  ],
+  "guiding_symptoms": [
+    "Appetite poor, had taste in mouth. Eructations like rotten eggs. Continued rising of while froth into mouth Cannot digest milk. Urine can be passed only by pressing abdominal muscles.",
+    "Sensitive to noise; bursting headache; worse, motion, open air; better, pressure, and wrapping up warmly (Sil; Stront). Much sweating of head (Calc, Sil). Facial neuralgia pains, dull, aching, worse damp weather, slightest draft, better pressure heat.",
+    "Palpitation and cardiac pain while sitting; better by moving about (Gels). Functional cardiac affections with liver enlargement."
+  ],
+  "modalities": {
+    "worse": [
+      "immediately after eating, lying on right side: from sea bathing"
+    ],
+    "better": [
+      "from pressure, motion: open air, except headache"
+    ]
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Sensitive to noise; bursting headache; worse, motion, open air; better, pressure, and wrapping up warmly (Sil; Stront). Much sweating of head (Calc, Sil). Facial neuralgia pains, dull, aching, worse damp weather, slightest draft, better pressure heat."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "Appetite poor, had taste in mouth. Eructations like rotten eggs. Continued rising of while froth into mouth Cannot digest milk. Urine can be passed only by pressing abdominal muscles."
+  ],
+  "urinary_symptoms": [
+    "Menses black, clotted. Pain in back and thighs. Metrorrhagia; worse at night. Great excitement at every period. Leucorrhśa with every stool and after exercise. Tinea ciliaris, eruptions in face and forehead worse before menses."
+  ],
+  "musculoskeletal_symptoms": [
+    "Pain in back and hips; in arms and legs. Arms \"Go to sleep\" when waking in morning."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [
+    "Sleep during day; restless at night on account of heat and shock: anxious dreams."
+  ],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Nat m",
+    "Puls",
+    "Sep",
+    "Amm m"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/m/mag-m.htm",
+    "title": "MAGNESIUM MURIATICUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:57:48.204Z"
+  },
+  "confidence_score": 0.8
+}

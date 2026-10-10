@@ -1,0 +1,41 @@
+{
+  "remedy_name": "KALIUM CARBONICUM",
+  "source_file": "raw_1772502568332.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/k/kali-c.htm",
+  "relationships": {
+    "complementary": [
+      "Carbo"
+    ],
+    "antidoted_by": [
+      "Camph"
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Kali salicylicum (vomiting",
+      "especially of pregnancy",
+      "arteriosclerosis",
+      "with chronic rheumatism)",
+      "kali silicum",
+      "Kali aceticum (diabetes",
+      "diarrhśa",
+      "dropsy",
+      "alkaline urine",
+      "very much increased in quantity)",
+      "Kali citricum",
+      "Calc",
+      "Ammon phos",
+      "Phos",
+      "Lycop",
+      "Bry",
+      "Natrum",
+      "Stann",
+      "Sepia"
+    ],
+    "incompatible": [],
+    "antidotes": [
+      "Camph"
+    ]
+  },
+  "parsed_at": "2026-03-03T15:23:37.508Z"
+}

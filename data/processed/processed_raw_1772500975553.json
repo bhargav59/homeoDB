@@ -1,0 +1,62 @@
+{
+  "name": "COCHLEARIA ARMORACIA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Horse-radish"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Pain towards back; worse, pressure on dorsal vertebræ. Belching and cramps. Colic with backache. Violent cramp from stomach through both sides around to back. Griping around navel.",
+    "Thinking is difficult. Anxiety, driven to despair by pain. Pressing, boring pain as if frontal bone would fall out. Violent headache with vomiting. Impaired hearing.",
+    "Dry, hacking, laryngeal cough, also post-influenzal cough, dry or loose, worse lying down. Chest painful to touch. Coryza, with hoarseness. Mucous asthma. Œdema of lungs. Throat feels rough and hoarse.",
+    "Pain in back as from incarcerated flatulence from abdomen through to back and down into sacrum."
+  ],
+  "guiding_symptoms": [
+    "Pain towards back; worse, pressure on dorsal vertebræ. Belching and cramps. Colic with backache. Violent cramp from stomach through both sides around to back. Griping around navel.",
+    "Thinking is difficult. Anxiety, driven to despair by pain. Pressing, boring pain as if frontal bone would fall out. Violent headache with vomiting. Impaired hearing.",
+    "Dry, hacking, laryngeal cough, also post-influenzal cough, dry or loose, worse lying down. Chest painful to touch. Coryza, with hoarseness. Mucous asthma. Œdema of lungs. Throat feels rough and hoarse."
+  ],
+  "modalities": {
+    "worse": [
+      "evening and at night"
+    ],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Thinking is difficult. Anxiety, driven to despair by pain. Pressing, boring pain as if frontal bone would fall out. Violent headache with vomiting. Impaired hearing."
+  ],
+  "respiratory_symptoms": [
+    "Dry, hacking, laryngeal cough, also post-influenzal cough, dry or loose, worse lying down. Chest painful to touch. Coryza, with hoarseness. Mucous asthma. Œdema of lungs. Throat feels rough and hoarse."
+  ],
+  "gi_symptoms": [
+    "Pain towards back; worse, pressure on dorsal vertebræ. Belching and cramps. Colic with backache. Violent cramp from stomach through both sides around to back. Griping around navel."
+  ],
+  "urinary_symptoms": [
+    "Burning and cutting at glans penis before, during, and after urination. Frequent urination."
+  ],
+  "musculoskeletal_symptoms": [
+    "Pain in back as from incarcerated flatulence from abdomen through to back and down into sacrum."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Cannab",
+    "Sinapis",
+    "Caps"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/c/coch.htm",
+    "title": "COCHLEARIA ARMORACIA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:22:55.553Z"
+  },
+  "confidence_score": 0.74
+}

@@ -1,0 +1,41 @@
+{
+  "remedy_name": "SENNA",
+  "source_file": "raw_1772504870941.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      {
+        "original": "Nux",
+        "resolved_name": "NUX MOSCHATA",
+        "confidence": 1,
+        "method": "exact"
+      }
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Kali carb",
+        "resolved_name": "KALI CARBONICUM",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      },
+      {
+        "original": "Jalapa",
+        "resolved_name": "JALAPA",
+        "confidence": 1,
+        "method": "exact"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": [
+      {
+        "original": "Nux",
+        "resolved_name": "NUX MOSCHATA",
+        "confidence": 1,
+        "method": "exact"
+      }
+    ]
+  },
+  "resolved_at": "2026-03-11T01:50:11.192Z"
+}

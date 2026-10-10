@@ -1,0 +1,39 @@
+{
+  "remedy_name": "CUNDURANGO",
+  "source_file": "raw_1772501200601.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Asterias",
+        "resolved_name": "ASTERIAS RUBENS",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Conium",
+        "resolved_name": "CONIUM MACULATUM",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Hydrast",
+        "resolved_name": "HYDRASTIS CANADENSIS",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Arsenic",
+        "resolved_name": "ARSENICUM ALBUM",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:09.190Z"
+}

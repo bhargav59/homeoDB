@@ -1,0 +1,19 @@
+{
+  "remedy_name": "INDIGO TINCTORIA",
+  "source_file": "raw_1772502348805.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/i/indg.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Cuprum",
+      "Śstrus cameli",
+      "an Indian medicine for epilepsy"
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "parsed_at": "2026-03-03T15:23:37.498Z"
+}

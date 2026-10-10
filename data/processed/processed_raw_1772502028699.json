@@ -1,0 +1,70 @@
+{
+  "name": "GUAJACUM OFFICINALE",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Resin of Lignum Vitæ"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Tongue furred. Desire for apples and other fruits. Aversion to milk. Burning in stomach. Constricted epigastric region.",
+    "Gouty and rheumatic pain in head and face, extending to neck. Tearing pain in skull; worse, cold, wet weather. Feels swollen, and blood-vessels distended. Aching in left ear. Pains often end in a stitch, especially in head.",
+    "Feels suffocated. Dry, tight cough. Fetid breath after coughing. Pleuritic stitches. Chest pains in articulations of ribs, with shortness of breathing till expectoration sets in.",
+    "Rheumatic pain in shoulders, arms and hands. Growing pains (Phos ac). Pricking in nates. Sciatica and lumbago. Gouty tearing, with contractions. Immovable stiffness. Ankle pain extending up the leg, causing lameness. Joints swollen, painful, and intolerant of pressure; can bear no heat. Stinging pain in limbs. Arthritic lancinations followed by contraction of limbs. A feeling of heat in the affected limbs.",
+    "Pain from head to neck. Aching in nape. Stiff neck and sore shoulders. Stitches between scapulæ to occiput. Contractive pain between scapulæ."
+  ],
+  "guiding_symptoms": [
+    "Tongue furred. Desire for apples and other fruits. Aversion to milk. Burning in stomach. Constricted epigastric region.",
+    "Gouty and rheumatic pain in head and face, extending to neck. Tearing pain in skull; worse, cold, wet weather. Feels swollen, and blood-vessels distended. Aching in left ear. Pains often end in a stitch, especially in head.",
+    "Feels suffocated. Dry, tight cough. Fetid breath after coughing. Pleuritic stitches. Chest pains in articulations of ribs, with shortness of breathing till expectoration sets in."
+  ],
+  "modalities": {
+    "worse": [
+      "from motion, heat, cold wet weather",
+      "pressure, touch, from 6 pm to 4 am"
+    ],
+    "better": [
+      "external pressure"
+    ]
+  },
+  "mind_symptoms": [
+    "Forgetful; thoughtless; staring. Slow to comprehend."
+  ],
+  "head_symptoms": [
+    "Gouty and rheumatic pain in head and face, extending to neck. Tearing pain in skull; worse, cold, wet weather. Feels swollen, and blood-vessels distended. Aching in left ear. Pains often end in a stitch, especially in head."
+  ],
+  "respiratory_symptoms": [
+    "Feels suffocated. Dry, tight cough. Fetid breath after coughing. Pleuritic stitches. Chest pains in articulations of ribs, with shortness of breathing till expectoration sets in."
+  ],
+  "gi_symptoms": [
+    "Tongue furred. Desire for apples and other fruits. Aversion to milk. Burning in stomach. Constricted epigastric region."
+  ],
+  "urinary_symptoms": [
+    "Sharp stitches after urinating. Constant desire."
+  ],
+  "musculoskeletal_symptoms": [
+    "Rheumatic pain in shoulders, arms and hands. Growing pains (Phos ac). Pricking in nates. Sciatica and lumbago. Gouty tearing, with contractions. Immovable stiffness. Ankle pain extending up the leg, causing lameness. Joints swollen, painful, and intolerant of pressure; can bear no heat. Stinging pain in limbs. Arthritic lancinations followed by contraction of limbs. A feeling of heat in the affected limbs."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Merc",
+    "Caust",
+    "Rhus",
+    "Mezer",
+    "Rhodod"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/g/guaj.htm",
+    "title": "GUAJACUM OFFICINALE - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:40:28.699Z"
+  },
+  "confidence_score": 0.8
+}

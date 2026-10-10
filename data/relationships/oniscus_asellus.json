@@ -1,0 +1,18 @@
+{
+  "remedy_name": "ONISCUS ASELLUS",
+  "source_file": "raw_1772503569296_w6.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/o/onis.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Pothos foet",
+      "Canth"
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "parsed_at": "2026-03-03T15:23:37.570Z"
+}

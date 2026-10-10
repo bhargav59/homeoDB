@@ -1,0 +1,65 @@
+{
+  "remedy_name": "AILANTHUS GLANDULOSA",
+  "source_file": "raw_1772371697587.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      {
+        "original": "Rhus",
+        "resolved_name": "RHUS GLABRA",
+        "confidence": 1,
+        "method": "exact"
+      }
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Ammon carb",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "Bapt",
+        "resolved_name": "BAPTISIA TINCTORIA",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Arn",
+        "resolved_name": "ARNICA MONTANA",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      },
+      {
+        "original": "Mur ac",
+        "resolved_name": "HURA BRASILIENSIS",
+        "confidence": 0.55,
+        "method": "levenshtein_3"
+      },
+      {
+        "original": "Lach",
+        "resolved_name": "LACHESIS",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      },
+      {
+        "original": "Rhus",
+        "resolved_name": "RHUS GLABRA",
+        "confidence": 1,
+        "method": "exact"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": [
+      {
+        "original": "Rhus",
+        "resolved_name": "RHUS GLABRA",
+        "confidence": 1,
+        "method": "exact"
+      }
+    ]
+  },
+  "resolved_at": "2026-03-11T01:50:08.393Z"
+}

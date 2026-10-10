@@ -1,0 +1,51 @@
+{
+  "name": "ASCLEPIAS TUBEROSA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Pleurisy-root"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Fullness, pressure, weight. Flatulence after meals. Sensitive to tobacco.",
+    "Respiration painful, especially at base of left lung. Dry cough; throat constricted; causes pain in head and abdomen. Pain in chest; shooting downward from left nipple. A general eliminative remedy, acting specially on the sudoriparous glands. Chest pains are relieved by bending forward. Spaces between ribs close to sternum tender. Lancinating pain between shoulders. Catarrh, with frontal headache, and sticky yellow discharge.",
+    "Rheumatic joints give sensation as if adhesions being broken up on bending."
+  ],
+  "guiding_symptoms": [
+    "Fullness, pressure, weight. Flatulence after meals. Sensitive to tobacco.",
+    "Respiration painful, especially at base of left lung. Dry cough; throat constricted; causes pain in head and abdomen. Pain in chest; shooting downward from left nipple. A general eliminative remedy, acting specially on the sudoriparous glands. Chest pains are relieved by bending forward. Spaces between ribs close to sternum tender. Lancinating pain between shoulders. Catarrh, with frontal headache, and sticky yellow discharge.",
+    "Rheumatic joints give sensation as if adhesions being broken up on bending."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [],
+  "respiratory_symptoms": [
+    "Respiration painful, especially at base of left lung. Dry cough; throat constricted; causes pain in head and abdomen. Pain in chest; shooting downward from left nipple. A general eliminative remedy, acting specially on the sudoriparous glands. Chest pains are relieved by bending forward. Spaces between ribs close to sternum tender. Lancinating pain between shoulders. Catarrh, with frontal headache, and sticky yellow discharge."
+  ],
+  "gi_symptoms": [
+    "Fullness, pressure, weight. Flatulence after meals. Sensitive to tobacco."
+  ],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [
+    "Rheumatic joints give sensation as if adhesions being broken up on bending."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/a/asc-t.htm",
+    "title": "ASCLEPIAS TUBEROSA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-02T06:36:18.395Z"
+  },
+  "confidence_score": 0.56
+}

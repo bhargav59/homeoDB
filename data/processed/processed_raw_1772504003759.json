@@ -1,0 +1,60 @@
+{
+  "name": "PARAFFINUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Purified Paraffin"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Hungry all the time. Pain across stomach. Pain in stomach alternates with pain in throat and spine, extends to chest with belching. Fixed pain in left hypochondrium, as if parts were being twisted. Palpitation with stomach pains.",
+    "Left side of head and face suffer most; pains stinging and twisting. Pain as if a nail were driven in left side of vertex. Twisting in left ear.",
+    "Pain in spine extending to inguinal region and in both loins, when ascending the stairs. Feeling of electric shocks in all joints. Wrenching pain in calves, extending into toes, in joints. Feet swollen with tearing in ankles and soles."
+  ],
+  "guiding_symptoms": [
+    "Hungry all the time. Pain across stomach. Pain in stomach alternates with pain in throat and spine, extends to chest with belching. Fixed pain in left hypochondrium, as if parts were being twisted. Palpitation with stomach pains.",
+    "Left side of head and face suffer most; pains stinging and twisting. Pain as if a nail were driven in left side of vertex. Twisting in left ear.",
+    "Pain in spine extending to inguinal region and in both loins, when ascending the stairs. Feeling of electric shocks in all joints. Wrenching pain in calves, extending into toes, in joints. Feet swollen with tearing in ankles and soles."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Left side of head and face suffer most; pains stinging and twisting. Pain as if a nail were driven in left side of vertex. Twisting in left ear."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "Hungry all the time. Pain across stomach. Pain in stomach alternates with pain in throat and spine, extends to chest with belching. Fixed pain in left hypochondrium, as if parts were being twisted. Palpitation with stomach pains."
+  ],
+  "urinary_symptoms": [
+    "Menses too late, black, abundant. Milky leucorrhśa. Nipples pain when touched, as if sore inside. Stabbing pain in mons veneris. Very hot urine with burning pains in vulva."
+  ],
+  "musculoskeletal_symptoms": [
+    "Pain in spine extending to inguinal region and in both loins, when ascending the stairs. Feeling of electric shocks in all joints. Wrenching pain in calves, extending into toes, in joints. Feet swollen with tearing in ankles and soles."
+  ],
+  "skin_symptoms": [
+    "Burns, even of third degree, with sloughing and sepsis. Wash with sterile water and dry and spray with paraffin, and cover with thin layer of cotton. Useful also in frost bites."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Naphthalin",
+    "Petrol",
+    "Kreos",
+    "Eupion"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/p/paraf.htm",
+    "title": "PARAFFINUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:13:23.756Z"
+  },
+  "confidence_score": 0.8
+}

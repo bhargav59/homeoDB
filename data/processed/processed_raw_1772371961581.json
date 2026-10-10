@@ -1,0 +1,58 @@
+{
+  "name": "AMYLENUM NITROSUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Amyl Nitrite"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Dyspnśa and asthmatic feelings. Great oppression and fullness of chest; spasmodic, suffocative cough. Prćcordial anxiety. Tumultuous action of heart. Pain and constriction around heart. Fluttering at slightest excitement.",
+    "Anxiety, as if something might happen; must have fresh air. Surging of blood to head and face; sensation as if blood would start through skin, with heat and redness. Flushings, followed by sweat at climacteric. Ears hyperćmic. Throbbing.",
+    "Constant stretching for hours. Veins of hands dilated; pulsations felt in tips of fingers."
+  ],
+  "guiding_symptoms": [
+    "Dyspnśa and asthmatic feelings. Great oppression and fullness of chest; spasmodic, suffocative cough. Prćcordial anxiety. Tumultuous action of heart. Pain and constriction around heart. Fluttering at slightest excitement.",
+    "Anxiety, as if something might happen; must have fresh air. Surging of blood to head and face; sensation as if blood would start through skin, with heat and redness. Flushings, followed by sweat at climacteric. Ears hyperćmic. Throbbing.",
+    "Constant stretching for hours. Veins of hands dilated; pulsations felt in tips of fingers."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Anxiety, as if something might happen; must have fresh air. Surging of blood to head and face; sensation as if blood would start through skin, with heat and redness. Flushings, followed by sweat at climacteric. Ears hyperćmic. Throbbing."
+  ],
+  "respiratory_symptoms": [
+    "Dyspnśa and asthmatic feelings. Great oppression and fullness of chest; spasmodic, suffocative cough. Prćcordial anxiety. Tumultuous action of heart. Pain and constriction around heart. Fluttering at slightest excitement."
+  ],
+  "gi_symptoms": [],
+  "urinary_symptoms": [
+    "After-pains; hćmorrhage associated with facial flushing. Climacteric headache and flushes of heat, with anxiety and palpitation."
+  ],
+  "musculoskeletal_symptoms": [
+    "Constant stretching for hours. Veins of hands dilated; pulsations felt in tips of fingers."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [
+    "Much flushing of heat; sometimes followed by cold and clammy skin and profuse sweat. Throbbing throughout whole body. Abnormal sweat after influenza."
+  ],
+  "complementary_remedies": [
+    "Glonoine",
+    "Lachesis"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/a/aml-ns.htm",
+    "title": "AMYLENUM NITROSUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-01T13:32:41.581Z"
+  },
+  "confidence_score": 0.6799999999999999
+}

@@ -1,0 +1,55 @@
+{
+  "name": "PIPER NIGRUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Black Pepper"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Gastric discomfort. Full feeling. Great thirst. Flatulence. Tympanites. Colic and cramps.",
+    "Dyspnśa, cough with pain in chest in spots, feels as if spitting blood. Palpitation, cardiac pain slow intermittent pulse. Great flow of milk.",
+    "Heavy headache, as if temples were pressed in; pressure in nasal and facial bones. Eyes inflamed and burning. Red burning face. Bursting aching in eyeballs. Nose itches; sneezing; nosebleed. Lips dry and cracked."
+  ],
+  "guiding_symptoms": [
+    "Gastric discomfort. Full feeling. Great thirst. Flatulence. Tympanites. Colic and cramps.",
+    "Dyspnśa, cough with pain in chest in spots, feels as if spitting blood. Palpitation, cardiac pain slow intermittent pulse. Great flow of milk.",
+    "Heavy headache, as if temples were pressed in; pressure in nasal and facial bones. Eyes inflamed and burning. Red burning face. Bursting aching in eyeballs. Nose itches; sneezing; nosebleed. Lips dry and cracked."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [
+    "Sad, apprehensive. Unable to concentrate; starts at any noise."
+  ],
+  "head_symptoms": [
+    "Heavy headache, as if temples were pressed in; pressure in nasal and facial bones. Eyes inflamed and burning. Red burning face. Bursting aching in eyeballs. Nose itches; sneezing; nosebleed. Lips dry and cracked."
+  ],
+  "respiratory_symptoms": [
+    "Dyspnśa, cough with pain in chest in spots, feels as if spitting blood. Palpitation, cardiac pain slow intermittent pulse. Great flow of milk."
+  ],
+  "gi_symptoms": [
+    "Gastric discomfort. Full feeling. Great thirst. Flatulence. Tympanites. Colic and cramps."
+  ],
+  "urinary_symptoms": [
+    "Burning in bladder and urethra. Difficult micturition. Bladder feels full, swollen; frequent inclination without success. Priapism."
+  ],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/p/pip-n.htm",
+    "title": "PIPER NIGRUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:16:28.430Z"
+  },
+  "confidence_score": 0.62
+}

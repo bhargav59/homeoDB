@@ -1,0 +1,59 @@
+{
+  "remedy_name": "CROCUS SATIVUS",
+  "source_file": "raw_1772501137370.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      {
+        "original": "Opium",
+        "resolved_name": "OPIUM",
+        "confidence": 1,
+        "method": "exact"
+      }
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Ipec",
+        "resolved_name": "IPECACUANHA",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      },
+      {
+        "original": "Trillium",
+        "resolved_name": "TRILLIUM PENDULUM",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Plat",
+        "resolved_name": "PLATINA",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      },
+      {
+        "original": "China",
+        "resolved_name": "CHINA OFFICINALIS",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Sabina",
+        "resolved_name": "SABINA",
+        "confidence": 1,
+        "method": "exact"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": [
+      {
+        "original": "Opium",
+        "resolved_name": "OPIUM",
+        "confidence": 1,
+        "method": "exact"
+      }
+    ]
+  },
+  "resolved_at": "2026-03-11T01:50:09.157Z"
+}

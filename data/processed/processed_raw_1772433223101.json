@@ -1,0 +1,79 @@
+{
+  "name": "ARNICA MONTANA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Leopard's Bane"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Longing for vinegar. Distaste for milk and meat. Canine hunger. Vomiting of blood. Pain in stomach during eating. Repletion with loathing. Oppressive gases pass upward and downward. Pressure as from a stone. Feeling as if stomach were passing against spine. Fetid vomiting.",
+    "Hot, with cold body; confused; sensitiveness of brain, with sharp, pinching pains. Scalp feels contracted. Cold spot on forehead. Chronic vertigo; objects whirl about especially when walking.",
+    "Coughs depending on cardiac lesion, paroxysmal, at night, during sleep, worse exercise. Acute tonsillitis, swelling of soft palate and uvula. Pneumonia; approaching paralysis. Hoarseness from overuse of voice. Raw, sore feeling in morning. Cough produced by weeping and lamenting. Dry, from tickling low down in trachea. Bloody expectoration. Dyspnœa with hæmoptysis. All bones and cartilages of chest painful. Violent spasmodic cough, with facial herpes. Whooping cough, child cries before coughing. Pleurodynia (Ranunc; Cimicif).",
+    "Angina pectoris; pain especially severe in elbow of left arm. Stitches in heart. Pulse feeble and irregular. Cardiac dropsy with distressing dyspnœa. Extremities distended, feel bruised and sore. Fatty heart and hypertrophy.",
+    "Gout. Great fear of being touched or approached. Pain in back and limbs, as if bruised or beaten. Sprained and dislocated feeling. Soreness after overexertion. Everything on which he lies seems too hard. Deathly coldness of forearm. Cannot walk erect, on account of bruised pain in pelvic region. Rheumatism begins low down and works up (Ledum)."
+  ],
+  "guiding_symptoms": [
+    "Longing for vinegar. Distaste for milk and meat. Canine hunger. Vomiting of blood. Pain in stomach during eating. Repletion with loathing. Oppressive gases pass upward and downward. Pressure as from a stone. Feeling as if stomach were passing against spine. Fetid vomiting.",
+    "Hot, with cold body; confused; sensitiveness of brain, with sharp, pinching pains. Scalp feels contracted. Cold spot on forehead. Chronic vertigo; objects whirl about especially when walking.",
+    "Coughs depending on cardiac lesion, paroxysmal, at night, during sleep, worse exercise. Acute tonsillitis, swelling of soft palate and uvula. Pneumonia; approaching paralysis. Hoarseness from overuse of voice. Raw, sore feeling in morning. Cough produced by weeping and lamenting. Dry, from tickling low down in trachea. Bloody expectoration. Dyspnœa with hæmoptysis. All bones and cartilages of chest painful. Violent spasmodic cough, with facial herpes. Whooping cough, child cries before coughing. Pleurodynia (Ranunc; Cimicif)."
+  ],
+  "modalities": {
+    "worse": [
+      "least touch",
+      "motion",
+      "rest",
+      "wine",
+      "damp cold"
+    ],
+    "better": [
+      "lying down, or with head low"
+    ]
+  },
+  "mind_symptoms": [
+    "Fears touch, or the approach of anyone. Unconscious; when spoken to answers correctly, but relapses. Indifference; inability to perform continuous active work; morose, delirious. Nervous; cannot bear pain; whole body oversensitive. Says there is nothing the matter with him. Wants to be let alone. Agoraphobia (fear of space). After mental strain or shock."
+  ],
+  "head_symptoms": [
+    "Hot, with cold body; confused; sensitiveness of brain, with sharp, pinching pains. Scalp feels contracted. Cold spot on forehead. Chronic vertigo; objects whirl about especially when walking."
+  ],
+  "respiratory_symptoms": [
+    "Coughs depending on cardiac lesion, paroxysmal, at night, during sleep, worse exercise. Acute tonsillitis, swelling of soft palate and uvula. Pneumonia; approaching paralysis. Hoarseness from overuse of voice. Raw, sore feeling in morning. Cough produced by weeping and lamenting. Dry, from tickling low down in trachea. Bloody expectoration. Dyspnœa with hæmoptysis. All bones and cartilages of chest painful. Violent spasmodic cough, with facial herpes. Whooping cough, child cries before coughing. Pleurodynia (Ranunc; Cimicif)."
+  ],
+  "gi_symptoms": [
+    "Longing for vinegar. Distaste for milk and meat. Canine hunger. Vomiting of blood. Pain in stomach during eating. Repletion with loathing. Oppressive gases pass upward and downward. Pressure as from a stone. Feeling as if stomach were passing against spine. Fetid vomiting."
+  ],
+  "urinary_symptoms": [
+    "Bruised parts after labor. Violent after-pains. Uterine hæmorrhage from mechanical injury after coition. Sore nipples. Mastitis from injury. Feeling as if fœtus were lying crosswise."
+  ],
+  "musculoskeletal_symptoms": [
+    "Gout. Great fear of being touched or approached. Pain in back and limbs, as if bruised or beaten. Sprained and dislocated feeling. Soreness after overexertion. Everything on which he lies seems too hard. Deathly coldness of forearm. Cannot walk erect, on account of bruised pain in pelvic region. Rheumatism begins low down and works up (Ledum)."
+  ],
+  "skin_symptoms": [
+    "Black and blue. Itching, burning, eruption of small pimples. Crops of small boils (Ichthyol; Silica). Ecchymosis. Bed sores (Bovinine locally). Acne indurata, characterized by symmetry in distribution."
+  ],
+  "sleep_symptoms": [
+    "Sleepless and restless when over tired. Comatose drowsiness; awakens with hot head; dreams of death, mutilated bodies, anxious and terrible. Horrors in the night. Involuntary stools during sleep."
+  ],
+  "fever_symptoms": [
+    "Febrile symptoms closely related to typhoid. Shivering over whole body. Heat and redness of head, with coolness of rest of body. Internal heat; feet and hands cold. Nightly sour sweats."
+  ],
+  "complementary_remedies": [
+    "Acon",
+    "Bapt",
+    "Bellis",
+    "Hamam",
+    "Rhus"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/a/arn.htm",
+    "title": "ARNICA MONTANA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-02T06:33:43.101Z"
+  },
+  "confidence_score": 0.8
+}

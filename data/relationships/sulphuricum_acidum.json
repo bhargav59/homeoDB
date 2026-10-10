@@ -1,0 +1,23 @@
+{
+  "remedy_name": "SULPHURICUM ACIDUM",
+  "source_file": "raw_1772505158258.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/s/sul-ac.htm",
+  "relationships": {
+    "complementary": [
+      "Puls"
+    ],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Arn",
+      "Calend",
+      "Led",
+      "Sep",
+      "Calc"
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "parsed_at": "2026-03-03T15:23:37.744Z"
+}

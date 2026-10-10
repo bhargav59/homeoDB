@@ -1,0 +1,47 @@
+{
+  "remedy_name": "CINNAMOMUM CEYLANICUM",
+  "source_file": "raw_1772500872310.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      {
+        "original": "Acon",
+        "resolved_name": "ACONITUM NAPELLUS",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      }
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Ipec",
+        "resolved_name": "IPECACUANHA",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      },
+      {
+        "original": "Sil",
+        "resolved_name": "SILICEA",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      },
+      {
+        "original": "Trill",
+        "resolved_name": "TRILLIUM PENDULUM",
+        "confidence": 0.8,
+        "method": "substring"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": [
+      {
+        "original": "Acon",
+        "resolved_name": "ACONITUM NAPELLUS",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      }
+    ]
+  },
+  "resolved_at": "2026-03-11T01:50:08.990Z"
+}

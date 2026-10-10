@@ -1,0 +1,43 @@
+{
+  "name": "ARSENICUM HYDROGENISATUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Arseniuretted Hydrogen"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Violent vertigo on going upstairs. Eyes sunken; broad, blue circles around. Violent sneezing. Nose cold. Must be wrapped up with warm cloths."
+  ],
+  "guiding_symptoms": [
+    "Violent vertigo on going upstairs. Eyes sunken; broad, blue circles around. Violent sneezing. Nose cold. Must be wrapped up with warm cloths."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Violent vertigo on going upstairs. Eyes sunken; broad, blue circles around. Violent sneezing. Nose cold. Must be wrapped up with warm cloths."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/a/ars-h.htm",
+    "title": "ARSENICUM HYDROGENISATUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-02T06:34:18.078Z"
+  },
+  "confidence_score": 0.38
+}

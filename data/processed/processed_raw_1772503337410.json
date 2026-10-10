@@ -1,0 +1,43 @@
+{
+  "name": "MICROMERIA DOUGLASII",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Yerba Buena"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Nausea; pain in stomach and bowels; flatulence."
+  ],
+  "guiding_symptoms": [
+    "Nausea; pain in stomach and bowels; flatulence."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "Nausea; pain in stomach and bowels; flatulence."
+  ],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/m/micr.htm",
+    "title": "MICROMERIA DOUGLASII - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:02:17.410Z"
+  },
+  "confidence_score": 0.32
+}

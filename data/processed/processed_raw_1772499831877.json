@@ -1,0 +1,49 @@
+{
+  "name": "AZADIRACHTA INDICA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Margosa Bark"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Forgetful; giddy on rising; head aches, scalp sensitive; eyes burn, pain in right eyeball."
+  ],
+  "guiding_symptoms": [
+    "Forgetful; giddy on rising; head aches, scalp sensitive; eyes burn, pain in right eyeball."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Forgetful; giddy on rising; head aches, scalp sensitive; eyes burn, pain in right eyeball."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [
+    "Slight chill, afternoon fever, glowing heat in face, hands, and feet, copious sweat on upper part of body."
+  ],
+  "complementary_remedies": [
+    "Cedron",
+    "Natr mur",
+    "Arsenic"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/a/aza.htm",
+    "title": "AZADIRACHTA INDICA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:03:51.877Z"
+  },
+  "confidence_score": 0.38
+}

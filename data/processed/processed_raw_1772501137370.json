@@ -1,0 +1,68 @@
+{
+  "name": "CROCUS SATIVUS",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Saffron"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Throbs, pulsates, during climacteric; worse during menses.",
+    "Wheezy cough, with frothy expectoration, containing threads like fine twine; worse, lying down. Breath has offensive, sickly smell. Feeling as if the uvula is elongated in hysterical patients.",
+    "Spasmodic contractions and twitchings of single set of muscles. Chorea and hysteria, with great alterations of feeling. Whole upper extremity fall asleep. Cracking in hip-joint and knees. Weakness in knees and legs. Pain in ankles and soles.",
+    "Sudden feeling of coldness in back as if cold water were thrown over him; icy-cold extremities."
+  ],
+  "guiding_symptoms": [
+    "Throbs, pulsates, during climacteric; worse during menses.",
+    "Wheezy cough, with frothy expectoration, containing threads like fine twine; worse, lying down. Breath has offensive, sickly smell. Feeling as if the uvula is elongated in hysterical patients.",
+    "Spasmodic contractions and twitchings of single set of muscles. Chorea and hysteria, with great alterations of feeling. Whole upper extremity fall asleep. Cracking in hip-joint and knees. Weakness in knees and legs. Pain in ankles and soles."
+  ],
+  "modalities": {
+    "worse": [
+      "lying down, hot weather, warm room, in morning, fasting, before breakfast, looking fixedly at an object"
+    ],
+    "better": [
+      "in open air"
+    ]
+  },
+  "mind_symptoms": [
+    "Vacillating; pleasant mania; sings and laughs. Happy and affectionate; then angry. Sudden changes from hilarity to melancholy. Vivid recollection from music heard (Lyc)."
+  ],
+  "head_symptoms": [
+    "Throbs, pulsates, during climacteric; worse during menses."
+  ],
+  "respiratory_symptoms": [
+    "Wheezy cough, with frothy expectoration, containing threads like fine twine; worse, lying down. Breath has offensive, sickly smell. Feeling as if the uvula is elongated in hysterical patients."
+  ],
+  "gi_symptoms": [
+    "Obstinate constipation due to portal stagnation. Constipation in infants. Crawling and stitches in anus. Sensation of something alive in abdomen, stomach, etc., especially on left side (Calend). Abdomen swollen, feeling of something heavy."
+  ],
+  "urinary_symptoms": [
+    "Threatened abortion, especially when hćmorrhage is dark and stringy. Urging of blood to genitals. Menses dark, viscid, too frequent and copious, black and slimy. Uterine hćmorrhage; clots with long strings; worse from least movement. Jerking pain in interior of left breast, as if drawn toward back by means of thread (Crot tig). A bounding feeling, as if something alive in right breast."
+  ],
+  "musculoskeletal_symptoms": [
+    "Spasmodic contractions and twitchings of single set of muscles. Chorea and hysteria, with great alterations of feeling. Whole upper extremity fall asleep. Cracking in hip-joint and knees. Weakness in knees and legs. Pain in ankles and soles."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Ipec",
+    "Trillium",
+    "Plat",
+    "China",
+    "Sabina"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/c/croc.htm",
+    "title": "CROCUS SATIVUS - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:25:37.370Z"
+  },
+  "confidence_score": 0.8
+}

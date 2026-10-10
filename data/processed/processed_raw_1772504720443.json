@@ -1,0 +1,64 @@
+{
+  "name": "SANICULA AQUA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "The Water of Sanicula Springs, Ottawa, I11"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Nausea and vomiting from car-riding. Thirst; drink little and often (Ars; Chin). Is vomited as soon as it reaches the stomach.",
+    "Dread of downward motion (Borax). Profuse sweat on occiput and in nape of neck, during sleep (Calc; Sil). Photophobia. Lachrymation in cold air or from cold application. Profuse scaly dandruff. Soreness behind ears.",
+    "Burning of soles of feet (Sulph; Lach). Offensive foot-sweat (Sil; Psor). Cold, clammy sweat of extremities.",
+    "Dislocated feeling in sacrum and better lying on right side."
+  ],
+  "guiding_symptoms": [
+    "Nausea and vomiting from car-riding. Thirst; drink little and often (Ars; Chin). Is vomited as soon as it reaches the stomach.",
+    "Dread of downward motion (Borax). Profuse sweat on occiput and in nape of neck, during sleep (Calc; Sil). Photophobia. Lachrymation in cold air or from cold application. Profuse scaly dandruff. Soreness behind ears.",
+    "Burning of soles of feet (Sulph; Lach). Offensive foot-sweat (Sil; Psor). Cold, clammy sweat of extremities."
+  ],
+  "modalities": {
+    "worse": [
+      "moving arms backward"
+    ],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Dread of downward motion (Borax). Profuse sweat on occiput and in nape of neck, during sleep (Calc; Sil). Photophobia. Lachrymation in cold air or from cold application. Profuse scaly dandruff. Soreness behind ears."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "Nausea and vomiting from car-riding. Thirst; drink little and often (Ars; Chin). Is vomited as soon as it reaches the stomach."
+  ],
+  "urinary_symptoms": [
+    "Bearing-down, as if contents of pelvis would escape; better, rest. Desire to support parts. Soreness of uterus. Leucorrhśa with odor of fish-brine or cold cheese (Hepar). Vagina feels large."
+  ],
+  "musculoskeletal_symptoms": [
+    "Burning of soles of feet (Sulph; Lach). Offensive foot-sweat (Sil; Psor). Cold, clammy sweat of extremities."
+  ],
+  "skin_symptoms": [
+    "Dirty, greasy, brownish, wrinkled. Eczema, fissured hands and fingers (Petrol; Graph)."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Abrot",
+    "Alum",
+    "Calc",
+    "Sil",
+    "Sulph"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/s/sanic.htm",
+    "title": "SANICULA AQUA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:25:20.443Z"
+  },
+  "confidence_score": 0.8
+}

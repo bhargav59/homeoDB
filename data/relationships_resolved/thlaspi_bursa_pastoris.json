@@ -1,0 +1,39 @@
+{
+  "remedy_name": "THLASPI BURSA PASTORIS",
+  "source_file": "raw_1772505411357.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Urtica",
+        "resolved_name": "URTICA URENS",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Croc",
+        "resolved_name": "CROCUS SATIVUS",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Trill",
+        "resolved_name": "TRILLIUM PENDULUM",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Millefol",
+        "resolved_name": "MILLEFOLIUM",
+        "confidence": 0.8,
+        "method": "substring"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:11.438Z"
+}

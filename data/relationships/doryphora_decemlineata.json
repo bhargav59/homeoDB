@@ -1,0 +1,25 @@
+{
+  "remedy_name": "DORYPHORA DECEMLINEATA",
+  "source_file": "raw_1772501357141.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/d/dor.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      "Stram"
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Agar",
+      "Apis",
+      "Canth",
+      "Lach",
+      "Coccion"
+    ],
+    "incompatible": [],
+    "antidotes": [
+      "Stram"
+    ]
+  },
+  "parsed_at": "2026-03-03T15:23:37.453Z"
+}

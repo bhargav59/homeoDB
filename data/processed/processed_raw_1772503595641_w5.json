@@ -1,0 +1,54 @@
+{
+  "name": "PRUNUS SPINOSA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Black-thorn"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Pressing-asunder pain beneath skull. Shooting from right frontal bone through brain to occiput. Pain in right eyeball, as if it would burst. Piercing toothache, as if teeth were pulled out; worse, taking anything warm.",
+    "Wheezing when walking. Oppression of chest; anxious, short respiration. Angina pectoris. Furious beating of heart; worse, slightest motion."
+  ],
+  "guiding_symptoms": [
+    "Pressing-asunder pain beneath skull. Shooting from right frontal bone through brain to occiput. Pain in right eyeball, as if it would burst. Piercing toothache, as if teeth were pulled out; worse, taking anything warm.",
+    "Wheezing when walking. Oppression of chest; anxious, short respiration. Angina pectoris. Furious beating of heart; worse, slightest motion."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Pressing-asunder pain beneath skull. Shooting from right frontal bone through brain to occiput. Pain in right eyeball, as if it would burst. Piercing toothache, as if teeth were pulled out; worse, taking anything warm."
+  ],
+  "respiratory_symptoms": [
+    "Wheezing when walking. Oppression of chest; anxious, short respiration. Angina pectoris. Furious beating of heart; worse, slightest motion."
+  ],
+  "gi_symptoms": [
+    "Ascites. Cramp-like pain in bladder region; worse, walking."
+  ],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [
+    "Herpes zoster. Dropsy. Itching on tips of fingers, as if frozen."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Lauroc",
+    "Prumus padus-Bird--cherry--(sore throat"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/p/prun.htm",
+    "title": "PRUNUS SPINOSA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:06:35.641Z"
+  },
+  "confidence_score": 0.6799999999999999
+}

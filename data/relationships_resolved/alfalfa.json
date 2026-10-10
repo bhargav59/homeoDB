@@ -1,0 +1,57 @@
+{
+  "remedy_name": "ALFALFA",
+  "source_file": "raw_1772371720555.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Avena sat",
+        "resolved_name": "AVENA SATIVA",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Dipodium punct",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "Gels",
+        "resolved_name": "GELSEMIUM",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      },
+      {
+        "original": "Hydr",
+        "resolved_name": "ARSENICUM HYDROGENISATUM",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Kali phos",
+        "resolved_name": "KALI CARBONICUM",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      },
+      {
+        "original": "Phos ac",
+        "resolved_name": "PHOSPHORUS",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      },
+      {
+        "original": "Zinc",
+        "resolved_name": "ZINCUM METALLICUM",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:08.399Z"
+}

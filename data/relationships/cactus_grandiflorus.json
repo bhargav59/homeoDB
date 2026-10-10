@@ -1,0 +1,26 @@
+{
+  "remedy_name": "CACTUS GRANDIFLORUS",
+  "source_file": "raw_1772500165886.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/c/cact.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      "Acon"
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Digital",
+      "Spigel",
+      "Convallar",
+      "Kalmia",
+      "Naja",
+      "Magnol"
+    ],
+    "incompatible": [],
+    "antidotes": [
+      "Acon"
+    ]
+  },
+  "parsed_at": "2026-03-03T15:23:37.396Z"
+}

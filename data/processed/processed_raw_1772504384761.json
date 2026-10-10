@@ -1,0 +1,65 @@
+{
+  "name": "PYROGENIUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Artificial Sepsin"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Coffee-grounds vomiting. Vomits water, when it becomes warm in stomach.",
+    "Painless throbbing. Fan-like motion of alć nasi (Lyc; Phos). Bursting headache with restlessness.",
+    "Tired feeling about heart. Palpitation. Sensation as if heart were too full. Always can hear her heart beat. Pulse abnormally rapid, out of proportion to the temperature pain in region of left nipple. Conscious of heart.",
+    "Throbbing in vessels of neck. Numbness of hands, arms, feet. Aching in all limbs and bones. Bed feels too hard (Arn). Great debility in the morning. Soreness; better by motion (Rhus). Rapid decubitus of septic origin."
+  ],
+  "guiding_symptoms": [
+    "Coffee-grounds vomiting. Vomits water, when it becomes warm in stomach.",
+    "Painless throbbing. Fan-like motion of alć nasi (Lyc; Phos). Bursting headache with restlessness.",
+    "Tired feeling about heart. Palpitation. Sensation as if heart were too full. Always can hear her heart beat. Pulse abnormally rapid, out of proportion to the temperature pain in region of left nipple. Conscious of heart."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [
+    "Full of anxiety and insane notions. Loquacious. Thinks he is very wealthy. Restless. Feels if crowded with arms and legs. Cannot tell whether dreaming while awake or asleep."
+  ],
+  "head_symptoms": [
+    "Painless throbbing. Fan-like motion of alć nasi (Lyc; Phos). Bursting headache with restlessness."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "Coffee-grounds vomiting. Vomits water, when it becomes warm in stomach."
+  ],
+  "urinary_symptoms": [
+    "Puerperal peritonitis, with extreme fetor. Septicćmia following abortion. Menses horribly offensive. Uterine hćmorrhages. Fever at each menstrual period, consequent upon latent pelvic inflammation. Septic puerperal infection. Pelvic calculitis. Inflammatory exudate. Post-operative cases, with overwhelming sepsis."
+  ],
+  "musculoskeletal_symptoms": [
+    "Throbbing in vessels of neck. Numbness of hands, arms, feet. Aching in all limbs and bones. Bed feels too hard (Arn). Great debility in the morning. Soreness; better by motion (Rhus). Rapid decubitus of septic origin."
+  ],
+  "skin_symptoms": [
+    "Small cut or injury becomes much swollen and inflamed-discolored. Dry."
+  ],
+  "sleep_symptoms": [
+    "Seems to be in semi-sleep. Dreams all night."
+  ],
+  "fever_symptoms": [
+    "Coldness and chilliness. Septic fevers. Latent pyogenic condition. Chill begins in back. Temperature rises rapidly. Great heat with profuse hot sweat, but sweating does not cause a fall in temperature."
+  ],
+  "complementary_remedies": [
+    "Streptoccin (anti-febrile action",
+    "septic symptoms in infectious diseases"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/p/pyrog.htm",
+    "title": "PYROGENIUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:19:44.761Z"
+  },
+  "confidence_score": 0.8
+}

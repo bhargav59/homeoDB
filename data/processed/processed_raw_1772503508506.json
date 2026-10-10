@@ -1,0 +1,68 @@
+{
+  "name": "NATRIUM CARBONICUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Carbonate of Sodium"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Feels swollen and sensitive. Ill effects of drinking cold water when overheated. Water-brash. Hungry at 5 am. Very weak digestion, caused by slightest error of diet. Averse to milk. Depressed after eating. Bitter taste. Old dyspeptics, always belching, have sour stomach and rheumatism. Dyspepsia relieved by soda biscuits.",
+    "Bowels.--Sudden call to stool. Escapes with haste and noise. Yellow substance like pulp of orange in discharge. Diarrhśa from milk.",
+    "Aches from slightest mental exertion, worse from sun or working under gas-light (Glon) Feels too large. Oversensitive of hearing. Head aches with return of hot weather. Vertigo from exposure to sun.",
+    "Dry cough, when coming into warm room from out of doors. Cough with coldness of left side of breast.",
+    "Old sprains. Great weakness of limbs, especially in morning. Easy dislocation and spraining of ankles. Foot bends under (Caust). Soreness between toes and fingers. Heel and tendo-Achilles affected. Capped hands. The hollow of the knee is painful on motion. Icy cold up to knees."
+  ],
+  "guiding_symptoms": [
+    "Feels swollen and sensitive. Ill effects of drinking cold water when overheated. Water-brash. Hungry at 5 am. Very weak digestion, caused by slightest error of diet. Averse to milk. Depressed after eating. Bitter taste. Old dyspeptics, always belching, have sour stomach and rheumatism. Dyspepsia relieved by soda biscuits.",
+    "Bowels.--Sudden call to stool. Escapes with haste and noise. Yellow substance like pulp of orange in discharge. Diarrhśa from milk.",
+    "Aches from slightest mental exertion, worse from sun or working under gas-light (Glon) Feels too large. Oversensitive of hearing. Head aches with return of hot weather. Vertigo from exposure to sun."
+  ],
+  "modalities": {
+    "worse": [
+      "sitting, from music, summer heat, mental exertion, thunderstorm"
+    ],
+    "better": [
+      "by moving, by boring in ears and nose"
+    ]
+  },
+  "mind_symptoms": [
+    "Unable to think; difficult, slow comprehension. Mental weakness and depression; worries; very sensitive to noise; colds, change of weather. Anxious and restless during thunderstorm; worse from music (Ambra). Marked gayety. Sensitive to presence of certain individuals."
+  ],
+  "head_symptoms": [
+    "Aches from slightest mental exertion, worse from sun or working under gas-light (Glon) Feels too large. Oversensitive of hearing. Head aches with return of hot weather. Vertigo from exposure to sun."
+  ],
+  "respiratory_symptoms": [
+    "Dry cough, when coming into warm room from out of doors. Cough with coldness of left side of breast."
+  ],
+  "gi_symptoms": [
+    "Feels swollen and sensitive. Ill effects of drinking cold water when overheated. Water-brash. Hungry at 5 am. Very weak digestion, caused by slightest error of diet. Averse to milk. Depressed after eating. Bitter taste. Old dyspeptics, always belching, have sour stomach and rheumatism. Dyspepsia relieved by soda biscuits.",
+    "Bowels.--Sudden call to stool. Escapes with haste and noise. Yellow substance like pulp of orange in discharge. Diarrhśa from milk."
+  ],
+  "urinary_symptoms": [
+    "Induration of cervix. Pudenda sore. Bearing-down sensation (Sep; Murex). Heaviness; worse, sitting; better by moving. Menses late, scanty like meat-washings (Nitric ac). Leucorrhśal discharge, offensive, irritating preceded by colic."
+  ],
+  "musculoskeletal_symptoms": [
+    "Old sprains. Great weakness of limbs, especially in morning. Easy dislocation and spraining of ankles. Foot bends under (Caust). Soreness between toes and fingers. Heel and tendo-Achilles affected. Capped hands. The hollow of the knee is painful on motion. Icy cold up to knees."
+  ],
+  "skin_symptoms": [
+    "Inclination to perspire easily, or dry, rough, cracked skin. Eruption on finger-tips, knuckles and toes. Vesicular eruption in patches and circles. Veins full. Soles of feet raw and sore."
+  ],
+  "sleep_symptoms": [
+    "Wakes too early in morning. Amorous dreams. Drowsy during day."
+  ],
+  "fever_symptoms": [],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/n/nat-c.htm",
+    "title": "NATRIUM CARBONICUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:05:08.506Z"
+  },
+  "confidence_score": 0.8
+}

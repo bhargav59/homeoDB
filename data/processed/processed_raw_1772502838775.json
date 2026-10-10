@@ -1,0 +1,59 @@
+{
+  "name": "LAUROCERASUS",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Cherry-laurel"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Cyanosis and dyspnśa; worse, sitting up. Patient puts hands on heart. Cough, with valvular disease. Exercise causes pain around heart. Tickling, dry cough. Dyspnśa. Constriction of chest. Cough, with copious, jelly-like, or bloody expectoration. Small and feeble pulse. Threatening paralysis of lungs. Gasping for breath; clutches at heart.",
+    "Mitral regurgitation. Clutching at heart and palpitation. Cyanosis neonatorum.",
+    "Toe and finger nails become knotty. Skin blue. Sprained pains in hips, thighs and heels. Cold, clammy feet and legs. Clubbing of fingers. Veins of hands distended."
+  ],
+  "guiding_symptoms": [
+    "Cyanosis and dyspnśa; worse, sitting up. Patient puts hands on heart. Cough, with valvular disease. Exercise causes pain around heart. Tickling, dry cough. Dyspnśa. Constriction of chest. Cough, with copious, jelly-like, or bloody expectoration. Small and feeble pulse. Threatening paralysis of lungs. Gasping for breath; clutches at heart.",
+    "Mitral regurgitation. Clutching at heart and palpitation. Cyanosis neonatorum.",
+    "Toe and finger nails become knotty. Skin blue. Sprained pains in hips, thighs and heels. Cold, clammy feet and legs. Clubbing of fingers. Veins of hands distended."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [],
+  "respiratory_symptoms": [
+    "Cyanosis and dyspnśa; worse, sitting up. Patient puts hands on heart. Cough, with valvular disease. Exercise causes pain around heart. Tickling, dry cough. Dyspnśa. Constriction of chest. Cough, with copious, jelly-like, or bloody expectoration. Small and feeble pulse. Threatening paralysis of lungs. Gasping for breath; clutches at heart."
+  ],
+  "gi_symptoms": [],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [
+    "Toe and finger nails become knotty. Skin blue. Sprained pains in hips, thighs and heels. Cold, clammy feet and legs. Clubbing of fingers. Veins of hands distended."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [
+    "Spells of deep sleep, with snoring and stertorous breathing."
+  ],
+  "fever_symptoms": [
+    "Coldness; chills and heat alternate. Thirst, with dry mouth in afternoon."
+  ],
+  "complementary_remedies": [
+    "Hydrocy ac",
+    "Camphor",
+    "Secale",
+    "Ammon carb",
+    "Ambra"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/l/laur.htm",
+    "title": "LAUROCERASUS - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:53:58.774Z"
+  },
+  "confidence_score": 0.62
+}

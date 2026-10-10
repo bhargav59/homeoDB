@@ -1,0 +1,64 @@
+{
+  "name": "CARBONEUM SULPHURATUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Alcohol Sulphuris-Bisulphide of Carbon"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Headache and dizziness. Aches as from a tight cap. Ears feel obstructed. Noises in head. Ulceration of the lips, anæsthesia of mouth and tongue.",
+    "Herpes on dorsal surface of hands. Sore, bruised limbs; anæsthesia of arms and hands. Cramps in limbs. Lightning-like pains, with cramps. Fingers swollen, insensible, rigid, stiff. Gait unsteady, tottering; worse in dark. Feet insensible. Sciatica. Flying pains, returning regularly for a long time. Pain in lower limbs, with cramps and formication. Neuritis."
+  ],
+  "guiding_symptoms": [
+    "Headache and dizziness. Aches as from a tight cap. Ears feel obstructed. Noises in head. Ulceration of the lips, anæsthesia of mouth and tongue.",
+    "Herpes on dorsal surface of hands. Sore, bruised limbs; anæsthesia of arms and hands. Cramps in limbs. Lightning-like pains, with cramps. Fingers swollen, insensible, rigid, stiff. Gait unsteady, tottering; worse in dark. Feet insensible. Sciatica. Flying pains, returning regularly for a long time. Pain in lower limbs, with cramps and formication. Neuritis."
+  ],
+  "modalities": {
+    "worse": [
+      "after breakfast",
+      "bathing"
+    ],
+    "better": [
+      "in open air"
+    ]
+  },
+  "mind_symptoms": [
+    "Irritable, anxious, intolerant; stupor. Sluggishness of mind. Hallucinations of sight and hearing. Changeable mood. Dementia alternating with excitement."
+  ],
+  "head_symptoms": [
+    "Headache and dizziness. Aches as from a tight cap. Ears feel obstructed. Noises in head. Ulceration of the lips, anæsthesia of mouth and tongue."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "Pain with wandering swellings as from flatus. Distention, with soreness and rumbling."
+  ],
+  "urinary_symptoms": [
+    "Desire lost, parts atrophied. Frequent profuse emissions."
+  ],
+  "musculoskeletal_symptoms": [
+    "Herpes on dorsal surface of hands. Sore, bruised limbs; anæsthesia of arms and hands. Cramps in limbs. Lightning-like pains, with cramps. Fingers swollen, insensible, rigid, stiff. Gait unsteady, tottering; worse in dark. Feet insensible. Sciatica. Flying pains, returning regularly for a long time. Pain in lower limbs, with cramps and formication. Neuritis."
+  ],
+  "skin_symptoms": [
+    "Anæsthesia; burning; itching; ulcers; small wounds fester. Useful to restrain the growth of cancer. Furunculosis. Chronic skin diseases with much itching."
+  ],
+  "sleep_symptoms": [
+    "Deep morning sleep with anxious, vexatious dreams."
+  ],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Potass"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/c/carbn-s.htm",
+    "title": "CARBONEUM SULPHURATUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:14:18.945Z"
+  },
+  "confidence_score": 0.8
+}

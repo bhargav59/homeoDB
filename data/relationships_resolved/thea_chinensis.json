@@ -1,0 +1,28 @@
+{
+  "remedy_name": "THEA CHINENSIS",
+  "source_file": "raw_1772505380548.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      {
+        "original": "Kali hypophos",
+        "resolved_name": "KALI CARBONICUM",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      }
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [],
+    "incompatible": [],
+    "antidotes": [
+      {
+        "original": "Kali hypophos",
+        "resolved_name": "KALI CARBONICUM",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      }
+    ]
+  },
+  "resolved_at": "2026-03-11T01:50:11.436Z"
+}

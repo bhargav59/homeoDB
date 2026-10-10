@@ -1,0 +1,44 @@
+{
+  "name": "SARCOLACTICUM ACIDUM",
+  "abbreviation": "Unknown",
+  "common_names": [],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Nausea. Uncontrollable vomiting even of water followed by extreme weakness.",
+    "Back and Extremities.--Tired feeling in back and neck and shoulders. Paralytic weakness. Wrist tires easily from writing. Extreme weakness from climbing stairs. Stiffness of thigh and calves. Arms feel as if no strength in them. Cramp in the calves."
+  ],
+  "guiding_symptoms": [
+    "Nausea. Uncontrollable vomiting even of water followed by extreme weakness.",
+    "Back and Extremities.--Tired feeling in back and neck and shoulders. Paralytic weakness. Wrist tires easily from writing. Extreme weakness from climbing stairs. Stiffness of thigh and calves. Arms feel as if no strength in them. Cramp in the calves."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "Nausea. Uncontrollable vomiting even of water followed by extreme weakness.",
+    "Back and Extremities.--Tired feeling in back and neck and shoulders. Paralytic weakness. Wrist tires easily from writing. Extreme weakness from climbing stairs. Stiffness of thigh and calves. Arms feel as if no strength in them. Cramp in the calves."
+  ],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/s/sarcol-a.htm",
+    "title": "SARCOLACTICUM ACIDUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:06:56.759Z"
+  },
+  "confidence_score": 0.38
+}

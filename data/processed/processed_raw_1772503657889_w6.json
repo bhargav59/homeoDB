@@ -1,0 +1,39 @@
+{
+  "name": "TROMBIDIUM MUSCAE DOMESTICAE",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Red acarus of the fly"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [],
+  "guiding_symptoms": [],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "Much pain before and after stool; stool only after eating. Griping in hypochondrium in morning. Congestion of the liver, with urgent, loose, stools on rising. Brown, thin, bloody stools, with tenesmus. During stool, sharp pain in left side, shooting downward. Burning in anus."
+  ],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/t/trom.htm",
+    "title": "TROMBIDIUM MUSCAE DOMESTICAE - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:07:37.889Z"
+  },
+  "confidence_score": 0.32
+}

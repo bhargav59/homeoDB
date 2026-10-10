@@ -1,0 +1,71 @@
+{
+  "remedy_name": "COLLINSONIA CANADENSIS",
+  "source_file": "raw_1772501017581.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      {
+        "original": "Nux",
+        "resolved_name": "NUX MOSCHATA",
+        "confidence": 1,
+        "method": "exact"
+      }
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Aescul",
+        "resolved_name": "AESCULUS HIPPOCASTANUM",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Aloes",
+        "resolved_name": "ALOE SOCOTRINA",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Hamam",
+        "resolved_name": "HAMAMELIS VIRGINIANA",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Lycopus",
+        "resolved_name": "LYCOPUS VIRGINICUS",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Negundo",
+        "resolved_name": "ARUNDO MAURITANICA",
+        "confidence": 0.55,
+        "method": "levenshtein_3"
+      },
+      {
+        "original": "Sulph",
+        "resolved_name": "SULPHUR",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      },
+      {
+        "original": "Nux",
+        "resolved_name": "NUX MOSCHATA",
+        "confidence": 1,
+        "method": "exact"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": [
+      {
+        "original": "Nux",
+        "resolved_name": "NUX MOSCHATA",
+        "confidence": 1,
+        "method": "exact"
+      }
+    ]
+  },
+  "resolved_at": "2026-03-11T01:50:09.048Z"
+}

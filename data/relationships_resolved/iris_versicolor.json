@@ -1,0 +1,65 @@
+{
+  "remedy_name": "IRIS VERSICOLOR",
+  "source_file": "raw_1772502428280.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      {
+        "original": "Nux",
+        "resolved_name": "NUX MOSCHATA",
+        "confidence": 1,
+        "method": "exact"
+      }
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Iris florentina-Orris-root--(delirium",
+        "resolved_name": "IRIS VERSICOLOR",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "convulsions",
+        "resolved_name": "CONIUM MACULATUM",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      },
+      {
+        "original": "and paralysis)",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "Iris factissima",
+        "resolved_name": "IRIS VERSICOLOR",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Iris germanica-Blue Garden Iris--",
+        "resolved_name": "IRIS VERSICOLOR",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Iris tenax-I",
+        "resolved_name": "IRIS VERSICOLOR",
+        "confidence": 0.8,
+        "method": "substring"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": [
+      {
+        "original": "Nux",
+        "resolved_name": "NUX MOSCHATA",
+        "confidence": 1,
+        "method": "exact"
+      }
+    ]
+  },
+  "resolved_at": "2026-03-11T01:50:09.971Z"
+}

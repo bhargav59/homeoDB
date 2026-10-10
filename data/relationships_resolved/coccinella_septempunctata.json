@@ -1,0 +1,27 @@
+{
+  "remedy_name": "COCCINELLA SEPTEMPUNCTATA",
+  "source_file": "raw_1772500964401.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Canth",
+        "resolved_name": "CANTHARIS VESICATORIA",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Magn c",
+        "resolved_name": "AGNUS CASTUS",
+        "confidence": 0.55,
+        "method": "levenshtein_3"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:09.018Z"
+}

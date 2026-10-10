@@ -1,0 +1,47 @@
+{
+  "remedy_name": "AMMONIUM MURIATICUM",
+  "source_file": "raw_1772371881045.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      {
+        "original": "Coffea",
+        "resolved_name": "COFFEA CRUDA",
+        "confidence": 1,
+        "method": "exact"
+      }
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Calcarea",
+        "resolved_name": "CALCAREA CARBONICA",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Senega",
+        "resolved_name": "SENEGA",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Caustic",
+        "resolved_name": "CAUSTICUM",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": [
+      {
+        "original": "Coffea",
+        "resolved_name": "COFFEA CRUDA",
+        "confidence": 1,
+        "method": "exact"
+      }
+    ]
+  },
+  "resolved_at": "2026-03-11T01:50:08.441Z"
+}

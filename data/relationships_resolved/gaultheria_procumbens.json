@@ -1,0 +1,21 @@
+{
+  "remedy_name": "GAULTHERIA PROCUMBENS",
+  "source_file": "raw_1772501870176.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Spirćea",
+        "resolved_name": "SPIRAEA ULMARIA",
+        "confidence": 0.85,
+        "method": "levenshtein_1"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:09.683Z"
+}

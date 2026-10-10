@@ -1,0 +1,66 @@
+{
+  "name": "OXYTROPIS LAMBERTI",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Loco-weed"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Eructations with colicky pains. Epigastrium tender.",
+    "Vertigo. Full, warm feeling about head. Feeling of intoxication, with loss of vision. Pain in maxillary bones and masseter muscles. Mouth and nose dry.",
+    "Pain along ulnar nerve. Numb feeling about spine. Staggering gait. Loss of co-ordination. Patellar tendon reflex lost. Pains come and go quickly, but muscles remain sore and stiff."
+  ],
+  "guiding_symptoms": [
+    "Eructations with colicky pains. Epigastrium tender.",
+    "Vertigo. Full, warm feeling about head. Feeling of intoxication, with loss of vision. Pain in maxillary bones and masseter muscles. Mouth and nose dry.",
+    "Pain along ulnar nerve. Numb feeling about spine. Staggering gait. Loss of co-ordination. Patellar tendon reflex lost. Pains come and go quickly, but muscles remain sore and stiff."
+  ],
+  "modalities": {
+    "worse": [
+      "thinking of symptoms (mono-maniac tendency)"
+    ],
+    "better": [
+      "after sleep"
+    ]
+  },
+  "mind_symptoms": [
+    "Desires to be alone. Disinclined to work or talk. Worse, thinking of symptoms (Oxalic ac). Mental depression. Vertigo (Granatum)."
+  ],
+  "head_symptoms": [
+    "Vertigo. Full, warm feeling about head. Feeling of intoxication, with loss of vision. Pain in maxillary bones and masseter muscles. Mouth and nose dry."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "Eructations with colicky pains. Epigastrium tender."
+  ],
+  "urinary_symptoms": [
+    "No desire or ability. Pain in testicles and along spermatic cord and down thighs."
+  ],
+  "musculoskeletal_symptoms": [
+    "Pain along ulnar nerve. Numb feeling about spine. Staggering gait. Loss of co-ordination. Patellar tendon reflex lost. Pains come and go quickly, but muscles remain sore and stiff."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [
+    "Restless, dreams of quarrel."
+  ],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Astrag",
+    "Lathyr",
+    "Oxal ac",
+    "Baryta (Loco plant is rich in Baryta"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/o/oxyt.htm",
+    "title": "OXYTROPIS LAMBERTI - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:06:16.540Z"
+  },
+  "confidence_score": 0.8
+}

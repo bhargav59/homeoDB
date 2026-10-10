@@ -1,0 +1,27 @@
+{
+  "remedy_name": "CALCAREA SULPHURICA",
+  "source_file": "raw_1772500285554.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Hepar",
+        "resolved_name": "HEPAR SULPHUR",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Silica",
+        "resolved_name": "Silica Marina.",
+        "confidence": 1,
+        "method": "exact"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:08.791Z"
+}

@@ -1,0 +1,22 @@
+{
+  "remedy_name": "CHIONANTHUS VIRGINICA",
+  "source_file": "raw_1772500731808.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/c/chion.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Cinchona",
+      "Ceanoth",
+      "Chelidon",
+      "Carduus",
+      "Podophyl",
+      "Lept"
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "parsed_at": "2026-03-03T15:23:37.425Z"
+}

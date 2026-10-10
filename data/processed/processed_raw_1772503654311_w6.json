@@ -1,0 +1,55 @@
+{
+  "name": "TORULA CEREVISIAE",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Saccharomyces - Yeast Plant"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Bad taste. Nausea. Poor digestion. Belching of gas in stomach and abdomen. Soreness all over abdomen. Sense of fullness. Rumbling, pains shift, flatulence. Constipation. Sour, yeasty, moldy odor from discharges.",
+    "Aching back of head and neck. Headache and sharp pains all over. Worse from constipation. Sneezing and wheezing. Catarrhal discharge from posterior nares. Irritable and nervous.",
+    "Backache, tired and weak from elbows and knees down. Hands cold like ice and go to sleep easily."
+  ],
+  "guiding_symptoms": [
+    "Bad taste. Nausea. Poor digestion. Belching of gas in stomach and abdomen. Soreness all over abdomen. Sense of fullness. Rumbling, pains shift, flatulence. Constipation. Sour, yeasty, moldy odor from discharges.",
+    "Aching back of head and neck. Headache and sharp pains all over. Worse from constipation. Sneezing and wheezing. Catarrhal discharge from posterior nares. Irritable and nervous.",
+    "Backache, tired and weak from elbows and knees down. Hands cold like ice and go to sleep easily."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Aching back of head and neck. Headache and sharp pains all over. Worse from constipation. Sneezing and wheezing. Catarrhal discharge from posterior nares. Irritable and nervous."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "Bad taste. Nausea. Poor digestion. Belching of gas in stomach and abdomen. Soreness all over abdomen. Sense of fullness. Rumbling, pains shift, flatulence. Constipation. Sour, yeasty, moldy odor from discharges."
+  ],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [
+    "Backache, tired and weak from elbows and knees down. Hands cold like ice and go to sleep easily."
+  ],
+  "skin_symptoms": [
+    "Boils, recurrent. Itching eczema around ankles. Tinea versicolor."
+  ],
+  "sleep_symptoms": [
+    "Disturbed with much restlessness."
+  ],
+  "fever_symptoms": [],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/t/tor.htm",
+    "title": "TORULA CEREVISIAE - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:07:34.311Z"
+  },
+  "confidence_score": 0.56
+}

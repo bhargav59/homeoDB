@@ -1,0 +1,59 @@
+{
+  "remedy_name": "NATRIUM HYPOCHLOROSUM",
+  "source_file": "raw_1772503519872.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      {
+        "original": "Pulsat",
+        "resolved_name": "PULSATILLA",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      }
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Aur mur nat",
+        "resolved_name": "AURUM METALLICUM",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      },
+      {
+        "original": "Calc",
+        "resolved_name": "CALCAREA CARBONICA",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      },
+      {
+        "original": "Sepia",
+        "resolved_name": "SEPIA OFFICINALIS",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Heliotropium (uterine displacement",
+        "resolved_name": "LAC CANINUM",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "membranous dysmenorrhśa)",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": [
+      {
+        "original": "Pulsat",
+        "resolved_name": "PULSATILLA",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      }
+    ]
+  },
+  "resolved_at": "2026-03-11T01:50:10.424Z"
+}

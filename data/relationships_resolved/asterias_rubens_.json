@@ -1,0 +1,67 @@
+{
+  "remedy_name": "Asterias Rubens.",
+  "source_file": "raw_1772507572794_clarke_dictionary_w1.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      {
+        "original": "Plumb",
+        "resolved_name": "PLUMBUM METALLICUM",
+        "confidence": 0.8,
+        "method": "substring"
+      }
+    ],
+    "follows_well": [
+      {
+        "original": "Bell",
+        "resolved_name": "BELLADONNA",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      }
+    ],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Murex",
+        "resolved_name": "MUREX PURPUREA",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Sepia",
+        "resolved_name": "SEPIA OFFICINALIS",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Astac",
+        "resolved_name": "ASTACUS FLUVIATILIS",
+        "confidence": 0.8,
+        "method": "substring"
+      }
+    ],
+    "incompatible": [
+      {
+        "original": "Coffee",
+        "resolved_name": "COFFEA CRUDA",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      },
+      {
+        "original": "Nux v",
+        "resolved_name": "NUX MOSCHATA",
+        "confidence": 0.8,
+        "method": "substring"
+      }
+    ],
+    "antidotes": [
+      {
+        "original": "d by: Plumb",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      }
+    ]
+  },
+  "resolved_at": "2026-03-11T01:50:08.600Z"
+}

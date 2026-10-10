@@ -1,0 +1,53 @@
+{
+  "remedy_name": "TEREBINTHINIAE OLEUM",
+  "source_file": "raw_1772505351110.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      {
+        "original": "Phos",
+        "resolved_name": "PHOSPHORUS",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      }
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Alumen",
+        "resolved_name": "ALUMEN",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Secale",
+        "resolved_name": "SECALE CORNUTUM",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Canth",
+        "resolved_name": "CANTHARIS VESICATORIA",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Nit ac",
+        "resolved_name": "NITRICUM ACIDUM",
+        "confidence": 0.85,
+        "method": "levenshtein_1"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": [
+      {
+        "original": "Phos",
+        "resolved_name": "PHOSPHORUS",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      }
+    ]
+  },
+  "resolved_at": "2026-03-11T01:50:11.410Z"
+}

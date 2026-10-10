@@ -1,0 +1,55 @@
+{
+  "name": "ANAGALLIS ARVENSIS",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Scarlet Pimpernel"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Great hilarity; headache over supra-orbital ridges, with rumbling in bowels and eructations; better from coffee. Sick headache. Pain in facial muscles.",
+    "Rheumatic and gouty pains. Pain in shoulder and arm. Cramp in ball of thumbs and fingers.",
+    "Urine.--More or less irritation in urethra, inclining to coition. Burning pain on urinating, with agglutination of orifice. Urine passes in several streams; must press before it passes."
+  ],
+  "guiding_symptoms": [
+    "Great hilarity; headache over supra-orbital ridges, with rumbling in bowels and eructations; better from coffee. Sick headache. Pain in facial muscles.",
+    "Rheumatic and gouty pains. Pain in shoulder and arm. Cramp in ball of thumbs and fingers.",
+    "Urine.--More or less irritation in urethra, inclining to coition. Burning pain on urinating, with agglutination of orifice. Urine passes in several streams; must press before it passes."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Great hilarity; headache over supra-orbital ridges, with rumbling in bowels and eructations; better from coffee. Sick headache. Pain in facial muscles."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [
+    "Rheumatic and gouty pains. Pain in shoulder and arm. Cramp in ball of thumbs and fingers.",
+    "Urine.--More or less irritation in urethra, inclining to coition. Burning pain on urinating, with agglutination of orifice. Urine passes in several streams; must press before it passes."
+  ],
+  "skin_symptoms": [
+    "Itching; dry, bran-like eruption, especially on hands and fingers. Palms especially affected. Vesicles in groups. Ulcers and swellings on joints."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Cyclamen",
+    "Primula obcon"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/a/anag.htm",
+    "title": "ANAGALLIS ARVENSIS - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-01T13:33:27.128Z"
+  },
+  "confidence_score": 0.5
+}

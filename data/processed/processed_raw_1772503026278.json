@@ -1,0 +1,60 @@
+{
+  "name": "LYCOPERSICUM ESCULENTUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Tomato"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Bursting pain, beginning in occiput and spreading all over. Whole head and scalp feels sore, bruised, after pain has ceased.",
+    "Voice husky. Pain in chest, extending to head. Hoarseness; constant desire to clear throat. Expulsive cough, deep and harsh. Chest oppressed; dry, hacking cough coming on at night and keeping one awake.",
+    "Urine.--Constant dribbling in open air. Must rise at night to urinate.",
+    "Decided decrease in pulse rate with anxiety and apprehensiveness.",
+    "Aching through back. Dull pain in lumbar region. Sharp pain in right deltoid and pectoralis muscles. Pain deep in middle of right arm. Rheumatic pain in right elbow and wrist, and hands of both sides. Intense aching in lower limbs. Right crural neuralgia. Tingling along right ulnar nerve."
+  ],
+  "guiding_symptoms": [
+    "Bursting pain, beginning in occiput and spreading all over. Whole head and scalp feels sore, bruised, after pain has ceased.",
+    "Voice husky. Pain in chest, extending to head. Hoarseness; constant desire to clear throat. Expulsive cough, deep and harsh. Chest oppressed; dry, hacking cough coming on at night and keeping one awake.",
+    "Urine.--Constant dribbling in open air. Must rise at night to urinate."
+  ],
+  "modalities": {
+    "worse": [
+      "right side, open air, continued motion, jars, noises"
+    ],
+    "better": [
+      "warm room, tobacco"
+    ]
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Bursting pain, beginning in occiput and spreading all over. Whole head and scalp feels sore, bruised, after pain has ceased."
+  ],
+  "respiratory_symptoms": [
+    "Voice husky. Pain in chest, extending to head. Hoarseness; constant desire to clear throat. Expulsive cough, deep and harsh. Chest oppressed; dry, hacking cough coming on at night and keeping one awake.",
+    "Urine.--Constant dribbling in open air. Must rise at night to urinate."
+  ],
+  "gi_symptoms": [],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [
+    "Aching through back. Dull pain in lumbar region. Sharp pain in right deltoid and pectoralis muscles. Pain deep in middle of right arm. Rheumatic pain in right elbow and wrist, and hands of both sides. Intense aching in lower limbs. Right crural neuralgia. Tingling along right ulnar nerve."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Bellad (follows well"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/l/lycpr.htm",
+    "title": "LYCOPERSICUM ESCULENTUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:57:06.278Z"
+  },
+  "confidence_score": 0.74
+}

@@ -1,0 +1,68 @@
+{
+  "name": "ALLIUM CEPA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Red Onion"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Canine hunger. Pain in pyloric region. Thirst. Belching. Nausea.",
+    "Catarrhal headache, mostly in forehead; worse in warm room towards evening. Thread-like pains in face. Headache ceases during menses; returns when flow disappears.",
+    "Hoarseness. Hacking cough on inspiring cold air. Tickling in larynx. Sensation as if larynx is split or torn. Oppressed breathing from pressure in middle of chest. Constricted feeling in region of epiglottis. Pain extending to ear.",
+    "Lame joints. Ulcers on heel. Painful affections of fingers about nails neuralgia of stump. Bad effects from getting feet wet. Limbs, especially arms, feel sore and tired."
+  ],
+  "guiding_symptoms": [
+    "Canine hunger. Pain in pyloric region. Thirst. Belching. Nausea.",
+    "Catarrhal headache, mostly in forehead; worse in warm room towards evening. Thread-like pains in face. Headache ceases during menses; returns when flow disappears.",
+    "Hoarseness. Hacking cough on inspiring cold air. Tickling in larynx. Sensation as if larynx is split or torn. Oppressed breathing from pressure in middle of chest. Constricted feeling in region of epiglottis. Pain extending to ear."
+  ],
+  "modalities": {
+    "worse": [
+      "in the evening, in warm room"
+    ],
+    "better": [
+      "in open air, and in cold room"
+    ]
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Catarrhal headache, mostly in forehead; worse in warm room towards evening. Thread-like pains in face. Headache ceases during menses; returns when flow disappears."
+  ],
+  "respiratory_symptoms": [
+    "Hoarseness. Hacking cough on inspiring cold air. Tickling in larynx. Sensation as if larynx is split or torn. Oppressed breathing from pressure in middle of chest. Constricted feeling in region of epiglottis. Pain extending to ear."
+  ],
+  "gi_symptoms": [
+    "Canine hunger. Pain in pyloric region. Thirst. Belching. Nausea."
+  ],
+  "urinary_symptoms": [
+    "Sensation of weakness in bladder and urethra. Increased secretion of urine with coryza. Urine red with much pressure and burning in urethra."
+  ],
+  "musculoskeletal_symptoms": [
+    "Lame joints. Ulcers on heel. Painful affections of fingers about nails neuralgia of stump. Bad effects from getting feet wet. Limbs, especially arms, feel sore and tired."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [
+    "Yawning with headache and drowsiness. Gaping in deep sleep. Dreams. Wakes at 2 am."
+  ],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Gels",
+    "Euph",
+    "Kali hyd",
+    "Aconite",
+    "Ipecac"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/a/all-c.htm",
+    "title": "ALLIUM CEPA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-01T13:28:51.915Z"
+  },
+  "confidence_score": 0.8
+}

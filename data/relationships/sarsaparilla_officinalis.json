@@ -1,0 +1,29 @@
+{
+  "remedy_name": "SARSAPARILLA OFFICINALIS",
+  "source_file": "raw_1772504780230.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/s/sars.htm",
+  "relationships": {
+    "complementary": [
+      "Merc"
+    ],
+    "antidoted_by": [
+      "Bell"
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Berb",
+      "Lycop",
+      "Nat m",
+      "Petrol",
+      "Sassafras",
+      "bladder",
+      "prostate and urinary passages"
+    ],
+    "incompatible": [],
+    "antidotes": [
+      "Bell"
+    ]
+  },
+  "parsed_at": "2026-03-03T15:23:37.725Z"
+}

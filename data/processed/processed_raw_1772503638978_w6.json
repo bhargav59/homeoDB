@@ -1,0 +1,53 @@
+{
+  "name": "SULPHUROSUM ACIDUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Sulphurous Acid; H2 S O3"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Loss of appetite. Obstinate constipation.",
+    "Anxious, furious, disposed to fight. Headache better by vomiting. Ringing in ears.",
+    "Persistent choking cough with copious expectoration. Hoarseness, constriction of chest. Difficult breathing."
+  ],
+  "guiding_symptoms": [
+    "Loss of appetite. Obstinate constipation.",
+    "Anxious, furious, disposed to fight. Headache better by vomiting. Ringing in ears.",
+    "Persistent choking cough with copious expectoration. Hoarseness, constriction of chest. Difficult breathing."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Anxious, furious, disposed to fight. Headache better by vomiting. Ringing in ears."
+  ],
+  "respiratory_symptoms": [
+    "Persistent choking cough with copious expectoration. Hoarseness, constriction of chest. Difficult breathing."
+  ],
+  "gi_symptoms": [
+    "Loss of appetite. Obstinate constipation."
+  ],
+  "urinary_symptoms": [
+    "Fluor albus. Debility."
+  ],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/s/sulo-ac.htm",
+    "title": "SULPHUROSUM ACIDUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:07:18.978Z"
+  },
+  "confidence_score": 0.56
+}

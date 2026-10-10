@@ -1,0 +1,15 @@
+{
+  "remedy_name": "Dr. Reckeweg R7, Homeopathic Medicines For Liver Disease, Homeopathic Medicines For Jaundice, Homeopathic Medicines For Gallbladder",
+  "source_file": "raw_1772509342963_reckeweg_dilutions_w4.json",
+  "source_url": "https://www.reckeweg-india.com/product-details/r7-7.html",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "parsed_at": "2026-03-03T15:23:38.512Z"
+}

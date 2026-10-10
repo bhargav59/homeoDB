@@ -1,0 +1,66 @@
+{
+  "name": "DIOSCOREA VILLOSA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Wild Yam"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Mouth dry and bitter in morning, tongue coated, no thirst. Belching of large quantities of offensive gas. Neuralgia of stomach. Sinking at the pit of the stomach; pyrosis. Pain along sternum and extending into arms. Eructations of sour, bitter wind, with hiccough. Sharp pain in epigastrium, relieved by standing erect.",
+    "Dull pain in both temples; better pressure, but worse afterwards. Buzzing in head.",
+    "Tight feeling all along sternum. Chest does not seem to expand on breathing. Short-winded.",
+    "Angina pectoris; pain back of sternum into arms; labored breathing; feeble action of heart. Especially with flatulence and pain through chest and tightness across.",
+    "Lameness in back; worse, stooping. Aching and stiffness in joints. Sciatica; pains shoot down thigh; worse, right side; better, when perfectly still. Felons in beginning, when pricking is first felt. Nails brittle. Cramps in flexors of fingers and toes."
+  ],
+  "guiding_symptoms": [
+    "Mouth dry and bitter in morning, tongue coated, no thirst. Belching of large quantities of offensive gas. Neuralgia of stomach. Sinking at the pit of the stomach; pyrosis. Pain along sternum and extending into arms. Eructations of sour, bitter wind, with hiccough. Sharp pain in epigastrium, relieved by standing erect.",
+    "Dull pain in both temples; better pressure, but worse afterwards. Buzzing in head.",
+    "Tight feeling all along sternum. Chest does not seem to expand on breathing. Short-winded."
+  ],
+  "modalities": {
+    "worse": [
+      "evening and night, lying down, and doubling up"
+    ],
+    "better": [
+      "standing erect, motion in open air",
+      "pressure"
+    ]
+  },
+  "mind_symptoms": [
+    "Calls things by the wrong name."
+  ],
+  "head_symptoms": [
+    "Dull pain in both temples; better pressure, but worse afterwards. Buzzing in head."
+  ],
+  "respiratory_symptoms": [
+    "Tight feeling all along sternum. Chest does not seem to expand on breathing. Short-winded."
+  ],
+  "gi_symptoms": [
+    "Mouth dry and bitter in morning, tongue coated, no thirst. Belching of large quantities of offensive gas. Neuralgia of stomach. Sinking at the pit of the stomach; pyrosis. Pain along sternum and extending into arms. Eructations of sour, bitter wind, with hiccough. Sharp pain in epigastrium, relieved by standing erect."
+  ],
+  "urinary_symptoms": [
+    "Relaxation and coldness of organs. Pains shoot into testicles from region of kidneys. Strong-smelling sweat on scrotum and pubes. Emissions in sleep, or from sexual atony, with weak knees."
+  ],
+  "musculoskeletal_symptoms": [
+    "Lameness in back; worse, stooping. Aching and stiffness in joints. Sciatica; pains shoot down thigh; worse, right side; better, when perfectly still. Felons in beginning, when pricking is first felt. Nails brittle. Cramps in flexors of fingers and toes."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Colocy (differs in modalities"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/d/dios.htm",
+    "title": "DIOSCOREA VILLOSA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:28:40.021Z"
+  },
+  "confidence_score": 0.8
+}

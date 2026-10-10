@@ -1,0 +1,70 @@
+{
+  "name": "NITRICUM ACIDUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Nitric Acid"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Great hunger, with sweetish taste. Longing for indigestible things-chalk, earth, etc. Pain in cardiac orifice. Dyspepsia with excess of oxalic acid, uric acid and phosphates in urine and great mental depression. Loves fat and salt (Sulph).",
+    "Sensation of a band around head. Headache from pressure of hat; full feeling; worse from street noises. Hair falls out. Scalp sensitive.",
+    "Hoarseness. Aphonia, with dry hacking cough, from tickling in larynx and pit of stomach. Soreness at lower end of sternum. Short breath on going upstairs (Ars; Calc). Cough during sleep (Cham).",
+    "Fetid foot-sweat, causing soreness of toes, with sticking pain; chilblains on toes. Sweating of palms, hands; cold, blue nails. Offensive sweat in axillæ at night."
+  ],
+  "guiding_symptoms": [
+    "Great hunger, with sweetish taste. Longing for indigestible things-chalk, earth, etc. Pain in cardiac orifice. Dyspepsia with excess of oxalic acid, uric acid and phosphates in urine and great mental depression. Loves fat and salt (Sulph).",
+    "Sensation of a band around head. Headache from pressure of hat; full feeling; worse from street noises. Hair falls out. Scalp sensitive.",
+    "Hoarseness. Aphonia, with dry hacking cough, from tickling in larynx and pit of stomach. Soreness at lower end of sternum. Short breath on going upstairs (Ars; Calc). Cough during sleep (Cham)."
+  ],
+  "modalities": {
+    "worse": [
+      "evening and night, cold climate, and also hot weather"
+    ],
+    "better": [
+      "while riding in carriage (Reverse: Cocculus)"
+    ]
+  },
+  "mind_symptoms": [
+    "Irritable, hateful, vindictive, headstrong. Hopeless despair. Sensitive to noise, pain, touch, jar. Fear of death."
+  ],
+  "head_symptoms": [
+    "Sensation of a band around head. Headache from pressure of hat; full feeling; worse from street noises. Hair falls out. Scalp sensitive."
+  ],
+  "respiratory_symptoms": [
+    "Hoarseness. Aphonia, with dry hacking cough, from tickling in larynx and pit of stomach. Soreness at lower end of sternum. Short breath on going upstairs (Ars; Calc). Cough during sleep (Cham)."
+  ],
+  "gi_symptoms": [
+    "Great hunger, with sweetish taste. Longing for indigestible things-chalk, earth, etc. Pain in cardiac orifice. Dyspepsia with excess of oxalic acid, uric acid and phosphates in urine and great mental depression. Loves fat and salt (Sulph)."
+  ],
+  "urinary_symptoms": [
+    "Soreness and burning in glans and beneath prepuce. Ulcers; burn and sting; exude, offensive matter."
+  ],
+  "musculoskeletal_symptoms": [
+    "Fetid foot-sweat, causing soreness of toes, with sticking pain; chilblains on toes. Sweating of palms, hands; cold, blue nails. Offensive sweat in axillæ at night."
+  ],
+  "skin_symptoms": [
+    "Warts, large jagged; bleed on washing. Ulcers bleed easily, sensitive; splinter-like pains; zigzag, irregular edges; base looks like raw flesh. Exuberant granulations. Black pores on face, papules worse on forehead."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Merc",
+    "Kali",
+    "Thuja",
+    "Hepar",
+    "Calc"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/n/nit-ac.htm",
+    "title": "NITRICUM ACIDUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:06:02.705Z"
+  },
+  "confidence_score": 0.8
+}

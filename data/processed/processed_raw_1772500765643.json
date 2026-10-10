@@ -1,0 +1,45 @@
+{
+  "name": "CHLORUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Chlorine Gas in Water"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Sooty, smoky nostrils. Coryza with sudden gushes of sharp, corroding fluid, making nose sore inside and about the alć. Constriction, with suffocation. Spasm of the glottis. Irritation of epiglottis, larynx, and bronchi. Loss of voice from damp air. Sudden dyspnśa from spasm of the vocal cords, with staring protruding eyes, blue face, cold sweat, pulse small. Inspiration free, with obstructed expiration. (Mephit). Livid face. Prolonged, loud, whistling rales. Extreme dryness of tongue."
+  ],
+  "guiding_symptoms": [
+    "Sooty, smoky nostrils. Coryza with sudden gushes of sharp, corroding fluid, making nose sore inside and about the alć. Constriction, with suffocation. Spasm of the glottis. Irritation of epiglottis, larynx, and bronchi. Loss of voice from damp air. Sudden dyspnśa from spasm of the vocal cords, with staring protruding eyes, blue face, cold sweat, pulse small. Inspiration free, with obstructed expiration. (Mephit). Livid face. Prolonged, loud, whistling rales. Extreme dryness of tongue."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [
+    "Fear of becoming crazy. Marked loss of memory, especially for names."
+  ],
+  "head_symptoms": [],
+  "respiratory_symptoms": [
+    "Sooty, smoky nostrils. Coryza with sudden gushes of sharp, corroding fluid, making nose sore inside and about the alć. Constriction, with suffocation. Spasm of the glottis. Irritation of epiglottis, larynx, and bronchi. Loss of voice from damp air. Sudden dyspnśa from spasm of the vocal cords, with staring protruding eyes, blue face, cold sweat, pulse small. Inspiration free, with obstructed expiration. (Mephit). Livid face. Prolonged, loud, whistling rales. Extreme dryness of tongue."
+  ],
+  "gi_symptoms": [],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/c/chlor.htm",
+    "title": "CHLORUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:19:25.643Z"
+  },
+  "confidence_score": 0.38
+}

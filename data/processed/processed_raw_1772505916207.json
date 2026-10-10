@@ -1,0 +1,58 @@
+{
+  "name": "ZINGIBER OFFICINALE",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Ginger"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Taste of food remains long, especially of bread and toast. Feels heavy, like from a stone. Complaints from eating melons and drinking impure water. Acidity (Calc; Robinia). Heaviness in stomach on awakening with wind and rumbling, great thirst and emptiness. Pain from pit to under sternum, worse eating.",
+    "Hemicrania; sudden glimmering before eyes; feels confused and empty. Pain over eyebrows.",
+    "Hoarseness. Smarting below larynx; breathing difficult. Asthma, without anxiety, worse toward morning. Scratching sensation in throat; stitches in chest. Cough dry, hacking; copious morning sputa.",
+    "Very weak in all joints. Back lame. Cramps in soles and palms."
+  ],
+  "guiding_symptoms": [
+    "Taste of food remains long, especially of bread and toast. Feels heavy, like from a stone. Complaints from eating melons and drinking impure water. Acidity (Calc; Robinia). Heaviness in stomach on awakening with wind and rumbling, great thirst and emptiness. Pain from pit to under sternum, worse eating.",
+    "Hemicrania; sudden glimmering before eyes; feels confused and empty. Pain over eyebrows.",
+    "Hoarseness. Smarting below larynx; breathing difficult. Asthma, without anxiety, worse toward morning. Scratching sensation in throat; stitches in chest. Cough dry, hacking; copious morning sputa."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Hemicrania; sudden glimmering before eyes; feels confused and empty. Pain over eyebrows."
+  ],
+  "respiratory_symptoms": [
+    "Hoarseness. Smarting below larynx; breathing difficult. Asthma, without anxiety, worse toward morning. Scratching sensation in throat; stitches in chest. Cough dry, hacking; copious morning sputa."
+  ],
+  "gi_symptoms": [
+    "Taste of food remains long, especially of bread and toast. Feels heavy, like from a stone. Complaints from eating melons and drinking impure water. Acidity (Calc; Robinia). Heaviness in stomach on awakening with wind and rumbling, great thirst and emptiness. Pain from pit to under sternum, worse eating."
+  ],
+  "urinary_symptoms": [
+    "Frequent desire tu urinate. Stinging, burning in orifice. Yellow discharge from urethra. Urine thick, turbid, of strong odor, suppressed. Complete suppression after typhoid. After urinating, continues to ooze in drops."
+  ],
+  "musculoskeletal_symptoms": [
+    "Very weak in all joints. Back lame. Cramps in soles and palms."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Calad"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/z/zing.htm",
+    "title": "ZINGIBER OFFICINALE - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:45:16.207Z"
+  },
+  "confidence_score": 0.8
+}

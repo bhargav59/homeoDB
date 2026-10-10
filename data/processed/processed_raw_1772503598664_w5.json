@@ -1,0 +1,49 @@
+{
+  "name": "QUASSIA AMARA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Quassia-wood"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Atonic dyspepsia, with gas and acidity. Heart-burn and gastralgia. Regurgitation of food. Abdomen feels empty and retracted. Dyspepsia after infectious diseases; especially grip, dysentery. Tongue dry or with brown sticky coating. Cirrhosis of liver with ascites.",
+    "Inclination to yawn and stretch (Rhus). Sensation of coldness over back. Prostration, with hunger. Cold extremities, with sensation of internal coldness (Helo-derma)."
+  ],
+  "guiding_symptoms": [
+    "Atonic dyspepsia, with gas and acidity. Heart-burn and gastralgia. Regurgitation of food. Abdomen feels empty and retracted. Dyspepsia after infectious diseases; especially grip, dysentery. Tongue dry or with brown sticky coating. Cirrhosis of liver with ascites.",
+    "Inclination to yawn and stretch (Rhus). Sensation of coldness over back. Prostration, with hunger. Cold extremities, with sensation of internal coldness (Helo-derma)."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "Atonic dyspepsia, with gas and acidity. Heart-burn and gastralgia. Regurgitation of food. Abdomen feels empty and retracted. Dyspepsia after infectious diseases; especially grip, dysentery. Tongue dry or with brown sticky coating. Cirrhosis of liver with ascites."
+  ],
+  "urinary_symptoms": [
+    "Excessive desire-impossible to retain urine; copious micturition day and night. As soon as the child wakes up the bed is drenched."
+  ],
+  "musculoskeletal_symptoms": [
+    "Inclination to yawn and stretch (Rhus). Sensation of coldness over back. Prostration, with hunger. Cold extremities, with sensation of internal coldness (Helo-derma)."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/q/quas.htm",
+    "title": "QUASSIA AMARA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:06:38.664Z"
+  },
+  "confidence_score": 0.44
+}

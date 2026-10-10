@@ -1,0 +1,59 @@
+{
+  "name": "STROPHANTHUS HISPIDUS",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Kombe-seed"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Nausea with special disgust for alcohol and so aids in treatment of dipsomania. Seven drops of tincture.",
+    "Temporal pains with double vision, impaired sight; brilliant eyes, flushed face. Senile vertigo.",
+    "Dyspnœa, especially on ascending. Lungs congested. Œdema of lungs. Bronchial and cardiac asthma.",
+    "Pulse quickened. Heart's action weak, rapid irregular, due to muscular debility; and insufficiency. Cardiac pain.",
+    "Swollen, dropsical. Anasarca."
+  ],
+  "guiding_symptoms": [
+    "Nausea with special disgust for alcohol and so aids in treatment of dipsomania. Seven drops of tincture.",
+    "Temporal pains with double vision, impaired sight; brilliant eyes, flushed face. Senile vertigo.",
+    "Dyspnœa, especially on ascending. Lungs congested. Œdema of lungs. Bronchial and cardiac asthma."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Temporal pains with double vision, impaired sight; brilliant eyes, flushed face. Senile vertigo."
+  ],
+  "respiratory_symptoms": [
+    "Dyspnœa, especially on ascending. Lungs congested. Œdema of lungs. Bronchial and cardiac asthma."
+  ],
+  "gi_symptoms": [
+    "Nausea with special disgust for alcohol and so aids in treatment of dipsomania. Seven drops of tincture."
+  ],
+  "urinary_symptoms": [
+    "Increased secretion; scanty and albuminous."
+  ],
+  "musculoskeletal_symptoms": [
+    "Swollen, dropsical. Anasarca."
+  ],
+  "skin_symptoms": [
+    "Urticaria, especially more chronic forms."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/s/stroph-h.htm",
+    "title": "STROPHANTHUS HISPIDUS - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:31:46.761Z"
+  },
+  "confidence_score": 0.8
+}

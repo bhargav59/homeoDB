@@ -1,0 +1,53 @@
+{
+  "remedy_name": "DROSERA ROTUNDIFOLIA",
+  "source_file": "raw_1772501367191.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      {
+        "original": "Camph",
+        "resolved_name": "CAMPHORA",
+        "confidence": 0.8,
+        "method": "substring"
+      }
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Fluoroform (2 per cent watery solution",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "2-4 drops",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "after paroxysms",
+        "resolved_name": "X",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "considered specific for whooping-cough)",
+        "resolved_name": "CONIUM MACULATUM",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": [
+      {
+        "original": "Camph",
+        "resolved_name": "CAMPHORA",
+        "confidence": 0.8,
+        "method": "substring"
+      }
+    ]
+  },
+  "resolved_at": "2026-03-11T01:50:09.565Z"
+}

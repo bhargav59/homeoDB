@@ -1,0 +1,51 @@
+{
+  "remedy_name": "SINAPIS NIGRA",
+  "source_file": "raw_1772504920668.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Sulph",
+        "resolved_name": "SULPHUR",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      },
+      {
+        "original": "Capsic",
+        "resolved_name": "CAPSICUM ANNUUM",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Colocy",
+        "resolved_name": "COLOCYNTHIS",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      },
+      {
+        "original": "especially pressure and burning",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "with obstruction in śsophagus",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "similar symptoms in rectum)",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:11.236Z"
+}

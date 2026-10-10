@@ -1,0 +1,60 @@
+{
+  "remedy_name": "SABADILLA",
+  "source_file": "raw_1772504616657.json",
+  "relationships": {
+    "complementary": [
+      {
+        "original": "Sepia",
+        "resolved_name": "SEPIA OFFICINALIS",
+        "confidence": 1,
+        "method": "exact"
+      }
+    ],
+    "antidoted_by": [
+      {
+        "original": "Puls",
+        "resolved_name": "PULSATILLA",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      }
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Veratrina (is alkaloid of Sabadilla",
+        "resolved_name": "VERATRUM ALBUM",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      },
+      {
+        "original": "not of Veratrum",
+        "resolved_name": "VERATRUM VIRIDE",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "locally in neuralgias",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "and for removal of dropsy",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": [
+      {
+        "original": "Puls",
+        "resolved_name": "PULSATILLA",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      }
+    ]
+  },
+  "resolved_at": "2026-03-11T01:50:11.052Z"
+}

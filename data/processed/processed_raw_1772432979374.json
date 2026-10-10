@@ -1,0 +1,70 @@
+{
+  "name": "ANTIMONIUM TARTARICUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Tartar Emetic. Tartrate of Antimony and Potash"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Difficult deglutition of liquids. Vomiting in any position, excepting lying on right side. Nausea, retching, and vomiting, especially after food, with deathly faintness and prostration. Thirst for cold water, little and often, and desire for apples, fruits, and acids generally. Nausea produces fear; with pressure in prćcordial region, followed by headache with yawning and lachrymation and vomiting.",
+    "Violent pain in sacro-lumbar region. Slightest effort to move may cause retching and cold, clammy sweat. Sensation of heavy weight at the coccyx, dragging downward all the time. Twitching of muscles; limbs tremulous."
+  ],
+  "guiding_symptoms": [
+    "Difficult deglutition of liquids. Vomiting in any position, excepting lying on right side. Nausea, retching, and vomiting, especially after food, with deathly faintness and prostration. Thirst for cold water, little and often, and desire for apples, fruits, and acids generally. Nausea produces fear; with pressure in prćcordial region, followed by headache with yawning and lachrymation and vomiting.",
+    "Violent pain in sacro-lumbar region. Slightest effort to move may cause retching and cold, clammy sweat. Sensation of heavy weight at the coccyx, dragging downward all the time. Twitching of muscles; limbs tremulous."
+  ],
+  "modalities": {
+    "worse": [
+      "in evening",
+      "from lying down at night",
+      "from warmth",
+      "in damp cold weather",
+      "from all sour things and milk"
+    ],
+    "better": [
+      "from sitting erect",
+      "from eructation and expectoration"
+    ]
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Cold, blue, pale; covered with cold sweat. Incessant quivering of chin and lower jaw (Gelsem)."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "Difficult deglutition of liquids. Vomiting in any position, excepting lying on right side. Nausea, retching, and vomiting, especially after food, with deathly faintness and prostration. Thirst for cold water, little and often, and desire for apples, fruits, and acids generally. Nausea produces fear; with pressure in prćcordial region, followed by headache with yawning and lachrymation and vomiting."
+  ],
+  "urinary_symptoms": [
+    "Burning in urethra during and after urinating. Last drops bloody with pain in bladder. Urging increased. Catarrh of bladder and urethra. Stricture. Orchitis.",
+    "Respiratory Organs.--Hoarseness. Great rattling of mucus, but very little is expectorated. Velvety feeling in chest. Burning sensation in chest, which ascends to throat. Rapid, short, difficult breathing; seems as if he would suffocate; must sit up. Emphysema of the aged. Coughing and gaping consecutively. Bronchial tubes overloaded with mucus. Cough excited by eating, with pain in chest and larynx. Śdema and impending paralysis of lungs. Much palpitation, with uncomfortable hot feeling. Pulse rapid, weak, trembling. Dizziness, with cough. Dyspnśa relieved by eructation. Cough and dyspnśa better lying on right side--(opposite Badiaga)."
+  ],
+  "musculoskeletal_symptoms": [
+    "Violent pain in sacro-lumbar region. Slightest effort to move may cause retching and cold, clammy sweat. Sensation of heavy weight at the coccyx, dragging downward all the time. Twitching of muscles; limbs tremulous."
+  ],
+  "skin_symptoms": [
+    "Pustular eruption, leaving a bluish-red mark. Small-pox. Warts."
+  ],
+  "sleep_symptoms": [
+    "Great drowsiness. On falling asleep electric-like shocks. Irresistible inclination to sleep with nearly all complaints."
+  ],
+  "fever_symptoms": [
+    "Coldness, trembling, and chilliness. Intense heat. Copious perspiration. Cold, clammy sweat, with great faintness. Intermittent fever with lethargic condition."
+  ],
+  "complementary_remedies": [
+    "Kali sulph",
+    "Ipecac"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/a/ant-t.htm",
+    "title": "ANTIMONIUM TARTARICUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-02T06:29:39.374Z"
+  },
+  "confidence_score": 0.8
+}

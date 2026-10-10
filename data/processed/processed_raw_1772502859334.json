@@ -1,0 +1,63 @@
+{
+  "name": "LEDUM PALUSTRE",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Marsh-Tea"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Vertigo when walking, with tendency to fall to one side. Distress when head is covered. Nosebleed (Mellilot; Bry).",
+    "Burning in nose. Cough, with bloody expectoration. Dyspnœa; chest feels constricted. Suffocative arrest of breathing. Pain along trachea. Bronchitis with emphysema of aged. Oppressive constriction of chest. Tickling in larynx; spasmodic cough. Hæmoptysis, alternating with rheumatism. Chest hurts when touched. Whooping-cough; spasmodic, double inspiration with sobbing.",
+    "Gouty pains shoot all through the foot and limb, and in joints, but especially small joints. Swollen, hot, pale. Throbbing in right shoulder. Pressure in shoulder, worse motion. Cracking in joints; worse, warmth of bed. Gouty nodosities. Ball of great to swollen (Bothrops). Rheumatism begins in lower limbs and ascends (Kalmia opposite). Ankles swollen. Soles painful, can hardly step on them (Ant c; Lyc). Easy spraining of ankle."
+  ],
+  "guiding_symptoms": [
+    "Vertigo when walking, with tendency to fall to one side. Distress when head is covered. Nosebleed (Mellilot; Bry).",
+    "Burning in nose. Cough, with bloody expectoration. Dyspnœa; chest feels constricted. Suffocative arrest of breathing. Pain along trachea. Bronchitis with emphysema of aged. Oppressive constriction of chest. Tickling in larynx; spasmodic cough. Hæmoptysis, alternating with rheumatism. Chest hurts when touched. Whooping-cough; spasmodic, double inspiration with sobbing.",
+    "Gouty pains shoot all through the foot and limb, and in joints, but especially small joints. Swollen, hot, pale. Throbbing in right shoulder. Pressure in shoulder, worse motion. Cracking in joints; worse, warmth of bed. Gouty nodosities. Ball of great to swollen (Bothrops). Rheumatism begins in lower limbs and ascends (Kalmia opposite). Ankles swollen. Soles painful, can hardly step on them (Ant c; Lyc). Easy spraining of ankle."
+  ],
+  "modalities": {
+    "worse": [
+      "at night, and from heat of bed"
+    ],
+    "better": [
+      "from cold, putting feet in cold water"
+    ]
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Vertigo when walking, with tendency to fall to one side. Distress when head is covered. Nosebleed (Mellilot; Bry)."
+  ],
+  "respiratory_symptoms": [
+    "Burning in nose. Cough, with bloody expectoration. Dyspnœa; chest feels constricted. Suffocative arrest of breathing. Pain along trachea. Bronchitis with emphysema of aged. Oppressive constriction of chest. Tickling in larynx; spasmodic cough. Hæmoptysis, alternating with rheumatism. Chest hurts when touched. Whooping-cough; spasmodic, double inspiration with sobbing."
+  ],
+  "gi_symptoms": [
+    "Anal fissures. Hæmorrhoidal pain."
+  ],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [
+    "Gouty pains shoot all through the foot and limb, and in joints, but especially small joints. Swollen, hot, pale. Throbbing in right shoulder. Pressure in shoulder, worse motion. Cracking in joints; worse, warmth of bed. Gouty nodosities. Ball of great to swollen (Bothrops). Rheumatism begins in lower limbs and ascends (Kalmia opposite). Ankles swollen. Soles painful, can hardly step on them (Ant c; Lyc). Easy spraining of ankle."
+  ],
+  "skin_symptoms": [
+    "Acne on forehead, sticking pain therein. Eczema (facial). Itching of feet and ankles; worse, scratching and warmth of bed. Ecchymosis. Long discoloration after injuries. Carbuncles (Anthracin. Tarant cuben). Antidote to Rhus poisoning (Grindel; Cyprip; Anac)."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [
+    "Coldness, want of animal heat. Sensation as of cold water over parts; general coldness with heat of face."
+  ],
+  "complementary_remedies": [
+    "Ledum antidotes spider poisons"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/l/led.htm",
+    "title": "LEDUM PALUSTRE - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:54:19.334Z"
+  },
+  "confidence_score": 0.8
+}

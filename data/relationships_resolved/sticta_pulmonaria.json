@@ -1,0 +1,45 @@
+{
+  "remedy_name": "STICTA PULMONARIA",
+  "source_file": "raw_1772505056739.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Eryng",
+        "resolved_name": "ERYNGIUM AQUATICUM",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Dros",
+        "resolved_name": "DROSERA",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      },
+      {
+        "original": "Stilling",
+        "resolved_name": "STILLINGIA SILVATICA",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Rumex",
+        "resolved_name": "RUMEX CRISPUS",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Sambuc",
+        "resolved_name": "SAMBUCUS NIGRA",
+        "confidence": 0.8,
+        "method": "substring"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:11.307Z"
+}

@@ -1,0 +1,49 @@
+{
+  "remedy_name": "DULCAMARA",
+  "source_file": "raw_1772501387289.json",
+  "relationships": {
+    "complementary": [
+      {
+        "original": "Baryta carb",
+        "resolved_name": "BARYTA ACETICA",
+        "confidence": 0.8,
+        "method": "substring"
+      }
+    ],
+    "antidoted_by": [
+      {
+        "original": "Camph",
+        "resolved_name": "CAMPHORA",
+        "confidence": 0.8,
+        "method": "substring"
+      }
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Pimpinello--",
+        "resolved_name": "Pimpinella.",
+        "confidence": 0.55,
+        "method": "levenshtein_3"
+      }
+    ],
+    "incompatible": [
+      {
+        "original": "Bellad",
+        "resolved_name": "BELLADONNA",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      }
+    ],
+    "antidotes": [
+      {
+        "original": "Camph",
+        "resolved_name": "CAMPHORA",
+        "confidence": 0.8,
+        "method": "substring"
+      }
+    ]
+  },
+  "resolved_at": "2026-03-11T01:50:09.571Z"
+}

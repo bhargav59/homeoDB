@@ -1,0 +1,60 @@
+{
+  "remedy_name": "BENZOICUM ACIDUM",
+  "source_file": "raw_1772499964890.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      {
+        "original": "Copaiva",
+        "resolved_name": "COPAIVA OFFICINALIS",
+        "confidence": 1,
+        "method": "exact"
+      }
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Nitric acid",
+        "resolved_name": "NITRI SPIRITUS DULCIS",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Ammon benz",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "Sabina",
+        "resolved_name": "SABINA",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Tropoeolum",
+        "resolved_name": "Tropæolum.",
+        "confidence": 0.55,
+        "method": "levenshtein_3"
+      }
+    ],
+    "incompatible": [
+      {
+        "original": "Wine",
+        "resolved_name": "CINA MARITIMA",
+        "confidence": 0.7,
+        "method": "levenshtein_2"
+      }
+    ],
+    "antidotes": [
+      {
+        "original": "Copaiva",
+        "resolved_name": "COPAIVA OFFICINALIS",
+        "confidence": 1,
+        "method": "exact"
+      }
+    ]
+  },
+  "resolved_at": "2026-03-11T01:50:08.665Z"
+}

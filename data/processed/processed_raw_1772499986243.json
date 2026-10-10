@@ -1,0 +1,63 @@
+{
+  "name": "BERBERIS VULGARIS",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Barberry"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Nausea before breakfast. Heartburn.",
+    "Listless, apathetic, indifferent. Puffy sensation, feeling as if becoming larger. Vertigo with attacks of fainting. Frontal headache. Chilliness in back and occiput. Tearing pain in auricle, and gouty concretions. Sensation of a tight cap pressing upon the whole scalp.",
+    "Hoarseness; polypus of larynx. Tearing stitches in chest and region of heart.",
+    "Rheumatic paralytic pain in shoulders, arms, hands and fingers, legs and feet. Neuralgia under finger-nails, with swelling of finger-joints. Sensation of cold on outside of thighs. Heels pain, as if ulcerated. Stitching between metatarsal bones as from a nail when standing. Pain in balls of feet on stepping. Intense weariness and lameness of legs after walking a short distance.",
+    "Stitches in neck and back; worse, respiration. Sticking pain in region of kidneys radiating thence around abdomen, to hips and groins. Numb, bruised sensation. Stitches from kidneys into bladder. Tearing, sticking with stiffness, making rising difficult, involving hips, nates, limbs, with numbness. Lumbago (Rhus; Tart em). Metatarsus and metacarpus feel sprained. Post-operative pain in lumbar region; soreness with sharp pain following course of circumflex iliac nerve to bladder with frequent urination."
+  ],
+  "guiding_symptoms": [
+    "Nausea before breakfast. Heartburn.",
+    "Listless, apathetic, indifferent. Puffy sensation, feeling as if becoming larger. Vertigo with attacks of fainting. Frontal headache. Chilliness in back and occiput. Tearing pain in auricle, and gouty concretions. Sensation of a tight cap pressing upon the whole scalp.",
+    "Hoarseness; polypus of larynx. Tearing stitches in chest and region of heart."
+  ],
+  "modalities": {
+    "worse": [
+      "motion, standing"
+    ],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Listless, apathetic, indifferent. Puffy sensation, feeling as if becoming larger. Vertigo with attacks of fainting. Frontal headache. Chilliness in back and occiput. Tearing pain in auricle, and gouty concretions. Sensation of a tight cap pressing upon the whole scalp."
+  ],
+  "respiratory_symptoms": [
+    "Hoarseness; polypus of larynx. Tearing stitches in chest and region of heart."
+  ],
+  "gi_symptoms": [
+    "Nausea before breakfast. Heartburn."
+  ],
+  "urinary_symptoms": [
+    "Burning pains. Sensation as if some urine remained after urinating. Urine with thick mucus and bright-red, mealy sediment. Bubbling, sore sensation in kidneys. Pain in bladder region. Pain in the thighs and loins on urinating. Frequent urination; urethra burns when not urinating."
+  ],
+  "musculoskeletal_symptoms": [
+    "Rheumatic paralytic pain in shoulders, arms, hands and fingers, legs and feet. Neuralgia under finger-nails, with swelling of finger-joints. Sensation of cold on outside of thighs. Heels pain, as if ulcerated. Stitching between metatarsal bones as from a nail when standing. Pain in balls of feet on stepping. Intense weariness and lameness of legs after walking a short distance."
+  ],
+  "skin_symptoms": [
+    "Flat warts. Itching, burning and smarting; worse, scratching; better, cold applications. Small pustules over whole body. Eczema of anus and hands. Circumscribed pigmentation following eczematous inflammation."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [
+    "Cold sensation in various parts, as if spattered with cold water. Warmth in lower part of back, hips, and thighs."
+  ],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/b/berb.htm",
+    "title": "BERBERIS VULGARIS - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:06:26.243Z"
+  },
+  "confidence_score": 0.8
+}

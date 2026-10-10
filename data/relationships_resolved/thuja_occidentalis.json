@@ -1,0 +1,72 @@
+{
+  "remedy_name": "THUJA OCCIDENTALIS",
+  "source_file": "raw_1772505421955.json",
+  "relationships": {
+    "complementary": [
+      {
+        "original": "Sabina",
+        "resolved_name": "SABINA",
+        "confidence": 1,
+        "method": "exact"
+      }
+    ],
+    "antidoted_by": [
+      {
+        "original": "Merc",
+        "resolved_name": "MERCURIUS SOLUBILIS",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      }
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "(Hydrogenoid constitution: Calcar",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "Silica",
+        "resolved_name": "Silica Marina.",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Nat sulph",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "Aranea",
+        "resolved_name": "ARANEA DIADEMA",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Apis",
+        "resolved_name": "APIS MELLIFICA",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Pulsat)",
+        "resolved_name": "PULSATILLA",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": [
+      {
+        "original": "Merc",
+        "resolved_name": "MERCURIUS SOLUBILIS",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      }
+    ]
+  },
+  "resolved_at": "2026-03-11T01:50:11.443Z"
+}

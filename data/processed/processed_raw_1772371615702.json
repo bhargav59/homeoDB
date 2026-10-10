@@ -1,0 +1,68 @@
+{
+  "name": "AESCULUS HIPPOCASTANUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Horse Chestnut"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Weight of a stone, with gnawing, aching pain; most manifest about three hours after meals. Tenderness and fullness in region of liver.",
+    "Feels constricted. Heart's action full and heavy, can feel pulsations all over. Laryngitis; coughs depending on hepatic disorders; hot feeling in chest; pain around heart in hæmorrhoidal subjects.",
+    "Depressed and irritable. Head dull, confused, aching as from a cold. Pressure in forehead, with nausea, followed by stitches in right hypochondrium. Pain from occiput to frontal region, with bruised sensation of the scalp; worse in the morning. Neuralgic stitches from right to left through forehead, followed by flying pains in epigastrium. Vertigo when sitting and walking.",
+    "Aching and soreness in limbs, in left acromion process with shooting down arms; finger tips numb.",
+    "Lameness in neck; aching between shoulder blades; region of spine feels weak; back and legs give out. Backache affecting sacrum and hips; worse walking or stooping. When walking feet turn under. Soles feel sore, tired, and swell. Hands and feet swell, and become red after washing, feel full."
+  ],
+  "guiding_symptoms": [
+    "Weight of a stone, with gnawing, aching pain; most manifest about three hours after meals. Tenderness and fullness in region of liver.",
+    "Feels constricted. Heart's action full and heavy, can feel pulsations all over. Laryngitis; coughs depending on hepatic disorders; hot feeling in chest; pain around heart in hæmorrhoidal subjects.",
+    "Depressed and irritable. Head dull, confused, aching as from a cold. Pressure in forehead, with nausea, followed by stitches in right hypochondrium. Pain from occiput to frontal region, with bruised sensation of the scalp; worse in the morning. Neuralgic stitches from right to left through forehead, followed by flying pains in epigastrium. Vertigo when sitting and walking."
+  ],
+  "modalities": {
+    "worse": [
+      "in morning on awaking, and from any motion, walking",
+      "from moving bowels",
+      "after eating, afternoon, standing"
+    ],
+    "better": [
+      "cool open air"
+    ]
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Depressed and irritable. Head dull, confused, aching as from a cold. Pressure in forehead, with nausea, followed by stitches in right hypochondrium. Pain from occiput to frontal region, with bruised sensation of the scalp; worse in the morning. Neuralgic stitches from right to left through forehead, followed by flying pains in epigastrium. Vertigo when sitting and walking."
+  ],
+  "respiratory_symptoms": [
+    "Feels constricted. Heart's action full and heavy, can feel pulsations all over. Laryngitis; coughs depending on hepatic disorders; hot feeling in chest; pain around heart in hæmorrhoidal subjects."
+  ],
+  "gi_symptoms": [
+    "Weight of a stone, with gnawing, aching pain; most manifest about three hours after meals. Tenderness and fullness in region of liver."
+  ],
+  "urinary_symptoms": [
+    "Frequent, scant, dark, muddy, hot urine. Pain in kidneys, especially left and ureter."
+  ],
+  "musculoskeletal_symptoms": [
+    "Aching and soreness in limbs, in left acromion process with shooting down arms; finger tips numb."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [
+    "Chill at 4 pm. Chilliness up and down back. Fever 7 to 12 pm. Evening fever, skin hot and dry. Sweat profuse and hot with the fever."
+  ],
+  "complementary_remedies": [
+    "also: Aloe",
+    "Collinson"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/a/aesc.htm",
+    "title": "AESCULUS HIPPOCASTANUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-01T13:26:55.702Z"
+  },
+  "confidence_score": 0.8
+}

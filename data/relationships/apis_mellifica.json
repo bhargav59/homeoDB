@@ -1,0 +1,26 @@
+{
+  "remedy_name": "APIS MELLIFICA",
+  "source_file": "raw_1772433060832.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/a/apis.htm",
+  "relationships": {
+    "complementary": [
+      "Nat mur"
+    ],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [
+      "Rhus"
+    ],
+    "compare": [
+      "Apium virus (auto-toxćmia",
+      "with pus products)",
+      "Zinc",
+      "Canth",
+      "Vespa",
+      "Lachesis"
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "parsed_at": "2026-03-03T15:23:37.352Z"
+}

@@ -1,0 +1,39 @@
+{
+  "remedy_name": "XANTOXYLUM FRAXINEUM",
+  "source_file": "raw_1772505852406.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Gnaph",
+        "resolved_name": "GNAPHALIUM POLYCEPHALUM",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Cimicif",
+        "resolved_name": "CIMICIFUGA RACEMOSA",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      },
+      {
+        "original": "Staph",
+        "resolved_name": "STAPHYSAGRIA",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      },
+      {
+        "original": "Mezer",
+        "resolved_name": "MEZEREUM",
+        "confidence": 0.8,
+        "method": "substring"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:11.748Z"
+}

@@ -1,0 +1,56 @@
+{
+  "name": "CODEINUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "An Alkaloid from Opium"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Spasmodic pain at pit of stomach. Eructations. Great thirst, with desire for bitter substances.",
+    "Pain from occiput to back of neck. Skin of face and scalp sore after neuralgia.",
+    "Short and irritating cough; worse, at night. Copious, purulent expectoration. Night cough of phthisis."
+  ],
+  "guiding_symptoms": [
+    "Spasmodic pain at pit of stomach. Eructations. Great thirst, with desire for bitter substances.",
+    "Pain from occiput to back of neck. Skin of face and scalp sore after neuralgia.",
+    "Short and irritating cough; worse, at night. Copious, purulent expectoration. Night cough of phthisis."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Pain from occiput to back of neck. Skin of face and scalp sore after neuralgia."
+  ],
+  "respiratory_symptoms": [
+    "Short and irritating cough; worse, at night. Copious, purulent expectoration. Night cough of phthisis."
+  ],
+  "gi_symptoms": [
+    "Spasmodic pain at pit of stomach. Eructations. Great thirst, with desire for bitter substances."
+  ],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Opium",
+    "Agaricus",
+    "Hyoscy",
+    "Ammon brom"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/c/cod.htm",
+    "title": "CODEINUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:23:04.978Z"
+  },
+  "confidence_score": 0.56
+}

@@ -1,0 +1,71 @@
+{
+  "name": "MERCURIUS SOLUBILIS",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Quicksilver"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Putrid eructations. Intense thirst for cold drinks. Weak digestion, with continuous hunger. Stomach sensitive to touch. Hiccough and regurgitation. Feels replete and constricted.",
+    "Vertigo, when lying on back. Band-feeling about head. One-sided, tearing pains. Tension about scalp, as if bandaged. Catarrhal headaches; much heat in head. Stinging, burning, fetid eruptions on scalp. Loss of hair. Exostosis, with feeling of soreness. Scalp tense; oily sweat on head.",
+    "Soreness from fauces to sternum. Cannot lie on right side (Left side, Lycop). Cough, with yellow muco-purulent expectoration. Paroxysms of two; worse, night, and from warmth of bed. Catarrh, with chilliness; dread of air. Stitches from lower lobe of right lung to back. Whooping-cough with nosebleed (Arnica) Cough worse, tobacco smoke.",
+    "Weakness of limbs. Bone-pains and in limbs; worse, night. Patient very sensitive to cold. Oily perspiration. Trembling extremities, especially hands, paralysis agitans. Lacerating pain in joints. Cold, clammy sweat on legs at night. Dropsical swelling of feet and legs.",
+    "Bruised pain in small of back, especially when sitting. Tearing pain in coccyx; better, pressing on abdomen."
+  ],
+  "guiding_symptoms": [
+    "Putrid eructations. Intense thirst for cold drinks. Weak digestion, with continuous hunger. Stomach sensitive to touch. Hiccough and regurgitation. Feels replete and constricted.",
+    "Vertigo, when lying on back. Band-feeling about head. One-sided, tearing pains. Tension about scalp, as if bandaged. Catarrhal headaches; much heat in head. Stinging, burning, fetid eruptions on scalp. Loss of hair. Exostosis, with feeling of soreness. Scalp tense; oily sweat on head.",
+    "Soreness from fauces to sternum. Cannot lie on right side (Left side, Lycop). Cough, with yellow muco-purulent expectoration. Paroxysms of two; worse, night, and from warmth of bed. Catarrh, with chilliness; dread of air. Stitches from lower lobe of right lung to back. Whooping-cough with nosebleed (Arnica) Cough worse, tobacco smoke."
+  ],
+  "modalities": {
+    "worse": [
+      "at night, wet, damp weather, lying on right side, perspiring",
+      "warm room and warm bed"
+    ],
+    "better": []
+  },
+  "mind_symptoms": [
+    "Slow in answering questions. Memory weakened, and loss of will-power. Weary of life. Mistrustful. Thinks he is losing his reason."
+  ],
+  "head_symptoms": [
+    "Vertigo, when lying on back. Band-feeling about head. One-sided, tearing pains. Tension about scalp, as if bandaged. Catarrhal headaches; much heat in head. Stinging, burning, fetid eruptions on scalp. Loss of hair. Exostosis, with feeling of soreness. Scalp tense; oily sweat on head."
+  ],
+  "respiratory_symptoms": [
+    "Soreness from fauces to sternum. Cannot lie on right side (Left side, Lycop). Cough, with yellow muco-purulent expectoration. Paroxysms of two; worse, night, and from warmth of bed. Catarrh, with chilliness; dread of air. Stitches from lower lobe of right lung to back. Whooping-cough with nosebleed (Arnica) Cough worse, tobacco smoke."
+  ],
+  "gi_symptoms": [
+    "Putrid eructations. Intense thirst for cold drinks. Weak digestion, with continuous hunger. Stomach sensitive to touch. Hiccough and regurgitation. Feels replete and constricted."
+  ],
+  "urinary_symptoms": [
+    "Vesicles and ulcers; soft chancre. Cold genitals. Prepuce irritated; itches. Nocturnal emissions, stained with blood."
+  ],
+  "musculoskeletal_symptoms": [
+    "Weakness of limbs. Bone-pains and in limbs; worse, night. Patient very sensitive to cold. Oily perspiration. Trembling extremities, especially hands, paralysis agitans. Lacerating pain in joints. Cold, clammy sweat on legs at night. Dropsical swelling of feet and legs."
+  ],
+  "skin_symptoms": [
+    "Almost constantly moist. Persistent dryness of the skin contra indicates mercurius. Excessive odorous viscid perspiration; worse, night. General tendency to free perspiration, but patient is not relieved thereby. Vesicular and pustular eruptions. Ulcers, irregular in shape, edges undefined. Pimples around the main eruption. Itching, worse from warmth of bed. Crusta lactea; yellowish-brown crusts, considerable suppuration. Glands swell every time patient takes cold. Buboes. Orchitis (Clemat, Hamam, Puls)."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [
+    "Generally gastric or bilious, with profuse nightly perspiration; debility, slow and lingering. Heat and shuddering alternately. Yellow perspiration. Profuse perspiration without relief. Creeping chilliness, worse in the evening and into night. Alternate flashes of heat in single parts."
+  ],
+  "complementary_remedies": [
+    "Capparis coriaccea (polyuria",
+    "glandular affections",
+    "mucous diarrhśa",
+    "influenza"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/m/merc.htm",
+    "title": "MERCURIUS SOLUBILIS - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:00:35.687Z"
+  },
+  "confidence_score": 0.8
+}

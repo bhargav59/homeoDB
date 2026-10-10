@@ -1,0 +1,22 @@
+{
+  "remedy_name": "PULSATILLA PRATENSIS",
+  "source_file": "raw_1772504364004.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/p/puls.htm",
+  "relationships": {
+    "complementary": [
+      "Coffea"
+    ],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Cyclamen",
+      "Kali bich",
+      "Kali sulph",
+      "Sulphur"
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "parsed_at": "2026-03-03T15:23:37.707Z"
+}

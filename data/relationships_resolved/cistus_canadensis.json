@@ -1,0 +1,53 @@
+{
+  "remedy_name": "CISTUS CANADENSIS",
+  "source_file": "raw_1772500883197.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      {
+        "original": "Rhus",
+        "resolved_name": "RHUS GLABRA",
+        "confidence": 1,
+        "method": "exact"
+      }
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Conium",
+        "resolved_name": "CONIUM MACULATUM",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Carbo",
+        "resolved_name": "CARBO ANIMALIS",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Calc",
+        "resolved_name": "CALCAREA CARBONICA",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      },
+      {
+        "original": "Arg n",
+        "resolved_name": "ARGENTUM NITRICUM",
+        "confidence": 0.85,
+        "method": "levenshtein_1"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": [
+      {
+        "original": "Rhus",
+        "resolved_name": "RHUS GLABRA",
+        "confidence": 1,
+        "method": "exact"
+      }
+    ]
+  },
+  "resolved_at": "2026-03-11T01:50:08.993Z"
+}

@@ -1,0 +1,21 @@
+{
+  "remedy_name": "EUPHORBIA POLYCARPA",
+  "source_file": "raw_1772501595258.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "The Euphorbias",
+        "resolved_name": "EUPHRASIA",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:09.598Z"
+}

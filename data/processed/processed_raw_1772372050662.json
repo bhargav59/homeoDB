@@ -1,0 +1,47 @@
+{
+  "name": "ANHALONIUM LEWINII",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Mescal Button"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Aches, with disturbed vision. Fantastic, brilliant, moving colored objects. Affected by beating time. Pupils dilated, vertigo, brain tired. Polychrome spectra. Exaggerated reverberation of ordinary sounds."
+  ],
+  "guiding_symptoms": [
+    "Aches, with disturbed vision. Fantastic, brilliant, moving colored objects. Affected by beating time. Pupils dilated, vertigo, brain tired. Polychrome spectra. Exaggerated reverberation of ordinary sounds."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [
+    "Loss of conception of time. Difficult enunciation. Distrust and resentment. Lazy contentment."
+  ],
+  "head_symptoms": [
+    "Aches, with disturbed vision. Fantastic, brilliant, moving colored objects. Affected by beating time. Pupils dilated, vertigo, brain tired. Polychrome spectra. Exaggerated reverberation of ordinary sounds."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Agave"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/a/anh.htm",
+    "title": "ANHALONIUM LEWINII - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-01T13:34:10.662Z"
+  },
+  "confidence_score": 0.44
+}

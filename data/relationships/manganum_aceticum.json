@@ -1,0 +1,27 @@
+{
+  "remedy_name": "MANGANUM ACETICUM",
+  "source_file": "raw_1772503126496.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/m/mang-act.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      "Coff"
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Colloidal Manganese",
+      "Mangan mur (painful ankles",
+      "bone-pains)",
+      "Mangan oxydat (pain in tibia",
+      "dysmenorrhśa",
+      "colic",
+      "and diarrhśa"
+    ],
+    "incompatible": [],
+    "antidotes": [
+      "Coff"
+    ]
+  },
+  "parsed_at": "2026-03-03T15:23:37.536Z"
+}

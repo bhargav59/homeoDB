@@ -1,0 +1,72 @@
+{
+  "remedy_name": "ARNICA MONTANA",
+  "source_file": "raw_1772433223101.json",
+  "relationships": {
+    "complementary": [
+      {
+        "original": "Acon",
+        "resolved_name": "ACONITUM NAPELLUS",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      }
+    ],
+    "antidoted_by": [
+      {
+        "original": "Camph",
+        "resolved_name": "CAMPHORA",
+        "confidence": 0.8,
+        "method": "substring"
+      }
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Acon",
+        "resolved_name": "ACONITUM NAPELLUS",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      },
+      {
+        "original": "Bapt",
+        "resolved_name": "BAPTISIA TINCTORIA",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Bellis",
+        "resolved_name": "BELLIS PERENNIS",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Hamam",
+        "resolved_name": "HAMAMELIS VIRGINIANA",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Rhus",
+        "resolved_name": "RHUS GLABRA",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Hyperic",
+        "resolved_name": "HYPERICUM PERFORATUM",
+        "confidence": 0.8,
+        "method": "substring"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": [
+      {
+        "original": "Camph",
+        "resolved_name": "CAMPHORA",
+        "confidence": 0.8,
+        "method": "substring"
+      }
+    ]
+  },
+  "resolved_at": "2026-03-11T01:50:08.547Z"
+}

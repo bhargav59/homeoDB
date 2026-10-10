@@ -1,0 +1,17 @@
+[
+    {
+        "id": "sbl_single",
+        "indexUrl": "https://sblglobal.in/collections/single-remedies",
+        "type": "ecommerce"
+    },
+    {
+        "id": "reckeweg_dilutions",
+        "indexUrl": "https://www.reckeweg-india.com/products/dr-reckeweg-dilutions.html",
+        "type": "ecommerce"
+    },
+    {
+        "id": "wheezal_dilutions",
+        "indexUrl": "https://wheezal.com/categories/dilutions",
+        "type": "ecommerce"
+    }
+]

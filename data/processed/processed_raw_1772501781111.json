@@ -1,0 +1,50 @@
+{
+  "name": "FRAXINUS AMERICANA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "White Ash"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Throbbing pain in back of head. Depression, with nervous restlessness, anxiety. Hot spot on top of head."
+  ],
+  "guiding_symptoms": [
+    "Throbbing pain in back of head. Depression, with nervous restlessness, anxiety. Hot spot on top of head."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Throbbing pain in back of head. Depression, with nervous restlessness, anxiety. Hot spot on top of head."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "Tenderness in left inguinal region; bearing-down pain, extending down thigh."
+  ],
+  "urinary_symptoms": [
+    "Uterus enlarged, and patulous. Watery, unirritating leucorrhśa. Fibroids with bearing-down sensation, cramping in feet, worse in afternoon and night. Dysmenorrhśa."
+  ],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Fraxinus excelsior-European Ash --(Gout",
+    "rheumatism"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/f/frax.htm",
+    "title": "FRAXINUS AMERICANA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:36:21.111Z"
+  },
+  "confidence_score": 0.5
+}

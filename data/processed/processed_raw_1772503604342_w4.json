@@ -1,0 +1,57 @@
+{
+  "name": "RHEUM PALMATUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Rhubarb"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Desire for various kinds of food, but soon tires of all. Throbbing in pit. Feels full.",
+    "Sweat on hairy scalp; constant and profuse. Cool sweat on the face, especially about mouth and nose."
+  ],
+  "guiding_symptoms": [
+    "Desire for various kinds of food, but soon tires of all. Throbbing in pit. Feels full.",
+    "Sweat on hairy scalp; constant and profuse. Cool sweat on the face, especially about mouth and nose."
+  ],
+  "modalities": {
+    "worse": [
+      "uncovering, after eating, moving about"
+    ],
+    "better": []
+  },
+  "mind_symptoms": [
+    "Impatient and vehement; desires many things and cries (Cina)."
+  ],
+  "head_symptoms": [
+    "Sweat on hairy scalp; constant and profuse. Cool sweat on the face, especially about mouth and nose."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "Desire for various kinds of food, but soon tires of all. Throbbing in pit. Feels full."
+  ],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Mag phos",
+    "Hep",
+    "Pod",
+    "Cham",
+    "Ipec"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/r/rheum.htm",
+    "title": "RHEUM PALMATUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:06:44.342Z"
+  },
+  "confidence_score": 0.74
+}

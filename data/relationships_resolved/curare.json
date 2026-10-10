@@ -1,0 +1,59 @@
+{
+  "remedy_name": "CURARE",
+  "source_file": "raw_1772501249400.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      {
+        "original": "Strychnin",
+        "resolved_name": "STRYCHNINUM PURUM",
+        "confidence": 0.8,
+        "method": "substring"
+      }
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Cystisin",
+        "resolved_name": "CYTISUS LABURNUM",
+        "confidence": 0.55,
+        "method": "levenshtein_3"
+      },
+      {
+        "original": "Conium",
+        "resolved_name": "CONIUM MACULATUM",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Causticum",
+        "resolved_name": "CAUSTICUM",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Crotalus",
+        "resolved_name": "CROTALUS HORRIDUS",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Nux",
+        "resolved_name": "NUX MOSCHATA",
+        "confidence": 1,
+        "method": "exact"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": [
+      {
+        "original": "Strychnin",
+        "resolved_name": "STRYCHNINUM PURUM",
+        "confidence": 0.8,
+        "method": "substring"
+      }
+    ]
+  },
+  "resolved_at": "2026-03-11T01:50:09.243Z"
+}

@@ -1,0 +1,43 @@
+{
+  "name": "ORNITHOGALUM UMBELLATUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Star of Bethlehem"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Tongue coated. Agonizing feeling in chest and stomach, staring from pylorus with flatus that rolls in balls from one side to the other, loss of appetite, phlegmy retchings and loss of flesh. Gastric ulceration even with hćmorrhage. Pains increased when food passes pyloric outlet. Vomiting of coffee-ground-looking matter. Distention of stomach. Frequent belching of offensive flatus. Painful sinking across epigastrium."
+  ],
+  "guiding_symptoms": [
+    "Tongue coated. Agonizing feeling in chest and stomach, staring from pylorus with flatus that rolls in balls from one side to the other, loss of appetite, phlegmy retchings and loss of flesh. Gastric ulceration even with hćmorrhage. Pains increased when food passes pyloric outlet. Vomiting of coffee-ground-looking matter. Distention of stomach. Frequent belching of offensive flatus. Painful sinking across epigastrium."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "Tongue coated. Agonizing feeling in chest and stomach, staring from pylorus with flatus that rolls in balls from one side to the other, loss of appetite, phlegmy retchings and loss of flesh. Gastric ulceration even with hćmorrhage. Pains increased when food passes pyloric outlet. Vomiting of coffee-ground-looking matter. Distention of stomach. Frequent belching of offensive flatus. Painful sinking across epigastrium."
+  ],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/o/orni.htm",
+    "title": "ORNITHOGALUM UMBELLATUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:11:05.626Z"
+  },
+  "confidence_score": 0.32
+}

@@ -1,0 +1,41 @@
+{
+  "name": "BORICUM ACIDUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Boracic Acid"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [],
+  "guiding_symptoms": [],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [],
+  "urinary_symptoms": [
+    "Climacteric flushings (Lach; Amyl nit). Vagina cold, as if packed with ice. Frequent urination with burning and tenesmus."
+  ],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [
+    "Multiform erythema of trunk and upper extremities. Śdema around eyes. Exfoliating dermatitis. Śdema of tissues around eyes."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/b/bor-ac.htm",
+    "title": "BORICUM ACIDUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:07:42.198Z"
+  },
+  "confidence_score": 0.38
+}

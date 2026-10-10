@@ -1,0 +1,21 @@
+{
+  "remedy_name": "FULIGO LIGNI",
+  "source_file": "raw_1772501812117.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Kreosot",
+        "resolved_name": "KREOSOTUM",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:09.676Z"
+}

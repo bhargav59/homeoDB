@@ -1,0 +1,45 @@
+{
+  "name": "ANTIMONIUM SULPHURATUM AURATUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Golden Sulphuret of Antimony"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Tickling in larynx. Increased mucus with fullness in bronchi. Respiration difficult, pressure in bronchi, with constriction. Tough mucus in bronchi and larynx. Dry hard cough. Congestion of upper lobe of left lung. Winter coughs patient is sore all over. Pneumonia, when hepatization occurred and resolution failed to take place."
+  ],
+  "guiding_symptoms": [
+    "Tickling in larynx. Increased mucus with fullness in bronchi. Respiration difficult, pressure in bronchi, with constriction. Tough mucus in bronchi and larynx. Dry hard cough. Congestion of upper lobe of left lung. Winter coughs patient is sore all over. Pneumonia, when hepatization occurred and resolution failed to take place."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [],
+  "respiratory_symptoms": [
+    "Tickling in larynx. Increased mucus with fullness in bronchi. Respiration difficult, pressure in bronchi, with constriction. Tough mucus in bronchi and larynx. Dry hard cough. Congestion of upper lobe of left lung. Winter coughs patient is sore all over. Pneumonia, when hepatization occurred and resolution failed to take place."
+  ],
+  "gi_symptoms": [],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [
+    "Acne (pustular variety). Itching on hands and feet."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/a/ant-saur.htm",
+    "title": "ANTIMONIUM SULPHURATUM AURATUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-02T06:29:27.261Z"
+  },
+  "confidence_score": 0.38
+}

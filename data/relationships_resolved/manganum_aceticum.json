@@ -1,0 +1,71 @@
+{
+  "remedy_name": "MANGANUM ACETICUM",
+  "source_file": "raw_1772503126496.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      {
+        "original": "Coff",
+        "resolved_name": "COFFEA CRUDA",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      }
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Colloidal Manganese",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "Mangan mur (painful ankles",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "bone-pains)",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "Mangan oxydat (pain in tibia",
+        "resolved_name": "X",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "dysmenorrhśa",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "colic",
+        "resolved_name": "Dr. Reckeweg R37, Homeopathic Colic Drops, Homeopathic Remedy For Stomach Spasms, Homeopathic Medicine For Colic",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "and diarrhśa",
+        "resolved_name": "Dirca Palustris.",
+        "confidence": 0.55,
+        "method": "levenshtein_3"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": [
+      {
+        "original": "Coff",
+        "resolved_name": "COFFEA CRUDA",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      }
+    ]
+  },
+  "resolved_at": "2026-03-11T01:50:10.270Z"
+}

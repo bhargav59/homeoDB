@@ -1,0 +1,77 @@
+{
+  "name": "CALCAREA CARBONICA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Carbonate of Lime"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Aversion to meat, boiled things; craving for indigestible things-chalk, coal, pencils; also for eggs, salt and sweets. Milk disagrees. Frequent sour eructations; sour vomiting. Dislike of fat. Loss of appetite when overworked. Heartburn and loud belching. Cramps in stomach; worse, pressure, cold water. Ravenous hunger. Swelling over pit of stomach, like a saucer turned bottom up. Repugnance to hot food. Pain in epigastric region to touch. Thirst; longing for cold drinks. Aggravation while eating. Hyperchlorhydria (Phos).",
+    "Sense of weight on top of head. Headache, with cold hands and feet. Vertigo on ascending, and when turning head. Headache from overlifting, from mental exertion, with nausea. Head feels hot and heavy, with pale face. Icy coldness in, and on the head, especially right side. Open fontanelles; head enlarged; much perspiration, wets the pillow. Itching of the scalp. Scratches head on waking.",
+    "Tickling cough troublesome at night, dry and free expectoration in morning; cough when playing piano, or by eating. Persistent, irritating cough from arsenical wall paper (Clarke). Extreme dyspnśa. Painless hoarseness; worse in the morning. Expectoration only during the day; thick, yellow, sour mucus. Bloody expectoration; with sour sensation in chest. Suffocating spells; tightness, burning and soreness in chest; worse going upstairs or slightest ascent, must sit down. Sharp pains in chest from before backwards. Chest very sensitive to touch, percussion, or pressure. Longing for fresh air. Scanty, salty expectoration (Lyc).",
+    "Palpitation at night and after eating. Palpitation with feeling of coldness, with restless oppression of chest; after suppressed eruption.",
+    "Rheumatoid pains, as after exposure to wet. Sharp sticking, as if parts were wrenched or sprained. Cold, damp feet; feel as if damp stockings were worn. Cold knees cramps in calves. Sour foot-sweat. Weakness of extremities. Swelling of joints, especially knee. Burning of soles of feet. Sweat of hands. Arthritic nodosities. Soles of feet raw. Feet feel cold and dead at night. Old sprains. Tearing in muscles.",
+    "Pain as if sprained; can scarcely rise; from overlifting. Pain between shoulder-blades, impeding breathing. Rheumatism in lumbar region; weakness in small of back. Curvature of dorsal vertebrć. Nape of neck stiff and rigid. Renal colic."
+  ],
+  "guiding_symptoms": [
+    "Aversion to meat, boiled things; craving for indigestible things-chalk, coal, pencils; also for eggs, salt and sweets. Milk disagrees. Frequent sour eructations; sour vomiting. Dislike of fat. Loss of appetite when overworked. Heartburn and loud belching. Cramps in stomach; worse, pressure, cold water. Ravenous hunger. Swelling over pit of stomach, like a saucer turned bottom up. Repugnance to hot food. Pain in epigastric region to touch. Thirst; longing for cold drinks. Aggravation while eating. Hyperchlorhydria (Phos).",
+    "Sense of weight on top of head. Headache, with cold hands and feet. Vertigo on ascending, and when turning head. Headache from overlifting, from mental exertion, with nausea. Head feels hot and heavy, with pale face. Icy coldness in, and on the head, especially right side. Open fontanelles; head enlarged; much perspiration, wets the pillow. Itching of the scalp. Scratches head on waking.",
+    "Tickling cough troublesome at night, dry and free expectoration in morning; cough when playing piano, or by eating. Persistent, irritating cough from arsenical wall paper (Clarke). Extreme dyspnśa. Painless hoarseness; worse in the morning. Expectoration only during the day; thick, yellow, sour mucus. Bloody expectoration; with sour sensation in chest. Suffocating spells; tightness, burning and soreness in chest; worse going upstairs or slightest ascent, must sit down. Sharp pains in chest from before backwards. Chest very sensitive to touch, percussion, or pressure. Longing for fresh air. Scanty, salty expectoration (Lyc)."
+  ],
+  "modalities": {
+    "worse": [
+      "from exertion, mental or physical",
+      "ascending",
+      "cold in every form",
+      "water, washing, moist air, wet weather",
+      "during full moon"
+    ],
+    "better": [
+      "dry climate and weather",
+      "lying on painful side"
+    ]
+  },
+  "mind_symptoms": [
+    "Apprehensive; worse towards evening; fears loss of reason, misfortune, contagious diseases. Forgetful, confused, low-spirited. Anxiety with palpitation. Obstinacy; slight mental effort produces hot head. Averse to work or exertion."
+  ],
+  "head_symptoms": [
+    "Sense of weight on top of head. Headache, with cold hands and feet. Vertigo on ascending, and when turning head. Headache from overlifting, from mental exertion, with nausea. Head feels hot and heavy, with pale face. Icy coldness in, and on the head, especially right side. Open fontanelles; head enlarged; much perspiration, wets the pillow. Itching of the scalp. Scratches head on waking."
+  ],
+  "respiratory_symptoms": [
+    "Tickling cough troublesome at night, dry and free expectoration in morning; cough when playing piano, or by eating. Persistent, irritating cough from arsenical wall paper (Clarke). Extreme dyspnśa. Painless hoarseness; worse in the morning. Expectoration only during the day; thick, yellow, sour mucus. Bloody expectoration; with sour sensation in chest. Suffocating spells; tightness, burning and soreness in chest; worse going upstairs or slightest ascent, must sit down. Sharp pains in chest from before backwards. Chest very sensitive to touch, percussion, or pressure. Longing for fresh air. Scanty, salty expectoration (Lyc)."
+  ],
+  "gi_symptoms": [
+    "Aversion to meat, boiled things; craving for indigestible things-chalk, coal, pencils; also for eggs, salt and sweets. Milk disagrees. Frequent sour eructations; sour vomiting. Dislike of fat. Loss of appetite when overworked. Heartburn and loud belching. Cramps in stomach; worse, pressure, cold water. Ravenous hunger. Swelling over pit of stomach, like a saucer turned bottom up. Repugnance to hot food. Pain in epigastric region to touch. Thirst; longing for cold drinks. Aggravation while eating. Hyperchlorhydria (Phos)."
+  ],
+  "urinary_symptoms": [
+    "Frequent emissions. Increased desire. Semen emitted too soon. Coition followed by weakness and irritability."
+  ],
+  "musculoskeletal_symptoms": [
+    "Rheumatoid pains, as after exposure to wet. Sharp sticking, as if parts were wrenched or sprained. Cold, damp feet; feel as if damp stockings were worn. Cold knees cramps in calves. Sour foot-sweat. Weakness of extremities. Swelling of joints, especially knee. Burning of soles of feet. Sweat of hands. Arthritic nodosities. Soles of feet raw. Feet feel cold and dead at night. Old sprains. Tearing in muscles."
+  ],
+  "skin_symptoms": [
+    "Unhealthy; readily ulcerating; flaccid. Small wounds do not heal readily. Glands swollen. Nettle rash; better in cold air. Warts on face and hands. Petechial eruptions. Chilblains. Boils."
+  ],
+  "sleep_symptoms": [
+    "Ideas crowding in her mind prevent sleep. Horrid visions when opening eyes. Starts at every noise; fears that she will go crazy. Drowsy in early part of evening. Frequent waking at night. Same disagreeable idea always arouses from light slumber. Night terrors (Kali phos). Dreams of the dead."
+  ],
+  "fever_symptoms": [
+    "Chill at 2 pm begins internally in stomach region. Fever with sweat. Pulse full and frequent. Chilliness and heat. Partial sweats. Night sweats, especially on head, neck and chest. Hectic fever. Heat at night during menstruation, with restless sleep. Sweat over head in children, so that pillow becomes wet."
+  ],
+  "complementary_remedies": [
+    "Aqua calcar"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/c/calc.htm",
+    "title": "CALCAREA CARBONICA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:10:17.512Z"
+  },
+  "confidence_score": 0.8
+}

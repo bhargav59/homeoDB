@@ -1,0 +1,58 @@
+{
+  "name": "SABAL SERRULATA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Saw Palmetto"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Belching and acidity. Desire for milk (Rhus; Apis)",
+    "Confused, full; dislikes sympathy; makes her angry. Vertigo, with headache. Neuralgia in feeble patients. Pain runs up from nose and centers in forehead.",
+    "Copious expectoration, with catarrh of nose. Chronic bronchitis (Stann; Hep)."
+  ],
+  "guiding_symptoms": [
+    "Belching and acidity. Desire for milk (Rhus; Apis)",
+    "Confused, full; dislikes sympathy; makes her angry. Vertigo, with headache. Neuralgia in feeble patients. Pain runs up from nose and centers in forehead.",
+    "Copious expectoration, with catarrh of nose. Chronic bronchitis (Stann; Hep)."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Confused, full; dislikes sympathy; makes her angry. Vertigo, with headache. Neuralgia in feeble patients. Pain runs up from nose and centers in forehead."
+  ],
+  "respiratory_symptoms": [
+    "Copious expectoration, with catarrh of nose. Chronic bronchitis (Stann; Hep)."
+  ],
+  "gi_symptoms": [
+    "Belching and acidity. Desire for milk (Rhus; Apis)"
+  ],
+  "urinary_symptoms": [
+    "Constant desire to pass water at night. Enuresis; paresis of sphincter vesicć. Chronic gonorrhśa. Difficult urination. Cystitis with prostatic hypertrophy."
+  ],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Phosph ac",
+    "Stigmata maydis",
+    "Santal",
+    "Apis"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/s/sabal.htm",
+    "title": "SABAL SERRULATA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:06:50.578Z"
+  },
+  "confidence_score": 0.6799999999999999
+}

@@ -1,0 +1,68 @@
+{
+  "name": "GLONOINUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "GLONOINUM : GL = Glycerin; O = Oxygen; N = Nitrogen"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Gastralgia in anćmic patients with feeble circulation. Nausea and vomiting. Faint, gnawing, and empty feeling at pit of stomach. Abnormal hunger.",
+    "Confusion, with dizziness. Effects of sunstroke; heat on head, as in type-setters and workers under gas and electric light. Head heavy, but cannot lay it on pillow. Cannot bear any heat about head. Better from uncovering head. Throbbing headache. Angio-spastic neuralgia of head and face. Very irritable. Vertigo on assuming upright position. Cerebral congestion. Head feels enormously large, as if skull were too small for brain. Sun headaches; increases and decreases with the sun. Shocks in head, synchronous with pulse. Headache in place of menses. Rush of blood to head in pregnant women. Threatened apoplexy. Meningitis.",
+    "Laborious action. Fluttering. Palpitation with dyspnśa. Cannot go uphill. Any exertion brings on rush of blood to heart and fainting spells. Throbbing in the whole body to finger-tips.",
+    "Itching all over, worse extremities. Pain in left biceps. Drawing pain in all limbs. Backache."
+  ],
+  "guiding_symptoms": [
+    "Gastralgia in anćmic patients with feeble circulation. Nausea and vomiting. Faint, gnawing, and empty feeling at pit of stomach. Abnormal hunger.",
+    "Confusion, with dizziness. Effects of sunstroke; heat on head, as in type-setters and workers under gas and electric light. Head heavy, but cannot lay it on pillow. Cannot bear any heat about head. Better from uncovering head. Throbbing headache. Angio-spastic neuralgia of head and face. Very irritable. Vertigo on assuming upright position. Cerebral congestion. Head feels enormously large, as if skull were too small for brain. Sun headaches; increases and decreases with the sun. Shocks in head, synchronous with pulse. Headache in place of menses. Rush of blood to head in pregnant women. Threatened apoplexy. Meningitis.",
+    "Laborious action. Fluttering. Palpitation with dyspnśa. Cannot go uphill. Any exertion brings on rush of blood to heart and fainting spells. Throbbing in the whole body to finger-tips."
+  ],
+  "modalities": {
+    "worse": [
+      "in sun",
+      "exposure to sun-rays, gas, open fire",
+      "jar, stooping, having hair cut",
+      "peaches, stimulants",
+      "lying down"
+    ],
+    "better": [
+      "brandy"
+    ]
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Confusion, with dizziness. Effects of sunstroke; heat on head, as in type-setters and workers under gas and electric light. Head heavy, but cannot lay it on pillow. Cannot bear any heat about head. Better from uncovering head. Throbbing headache. Angio-spastic neuralgia of head and face. Very irritable. Vertigo on assuming upright position. Cerebral congestion. Head feels enormously large, as if skull were too small for brain. Sun headaches; increases and decreases with the sun. Shocks in head, synchronous with pulse. Headache in place of menses. Rush of blood to head in pregnant women. Threatened apoplexy. Meningitis."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "Gastralgia in anćmic patients with feeble circulation. Nausea and vomiting. Faint, gnawing, and empty feeling at pit of stomach. Abnormal hunger."
+  ],
+  "urinary_symptoms": [
+    "Menses delayed, or sudden cessation with congestion to head. Climacteric flushing."
+  ],
+  "musculoskeletal_symptoms": [
+    "Itching all over, worse extremities. Pain in left biceps. Drawing pain in all limbs. Backache."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Amyl nit",
+    "Bellad",
+    "Opium",
+    "Stram",
+    "Verat vir"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/g/glon.htm",
+    "title": "GLONOINUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:38:54.905Z"
+  },
+  "confidence_score": 0.8
+}

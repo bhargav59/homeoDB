@@ -1,0 +1,52 @@
+{
+  "name": "KALIUM SILICICUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Silicate of Potash"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Absent-minded, anxious, indolent, timid. Feeble will power. Head congested, blood surges from body to head. Vertigo, coldness of head; photophobia. Nasal catarrh, discharge bloody, excoriating, offensive nose, swollen, ulcerated.",
+    "Gastric.--Weight in stomach after eating, nausea, pain, flatulence. Pain in liver region. Constipation. Construction of anus during stool.",
+    "Stiffness over body and limbs. Creeping sensation over limbs. Twitching of muscles. Weak and weary."
+  ],
+  "guiding_symptoms": [
+    "Absent-minded, anxious, indolent, timid. Feeble will power. Head congested, blood surges from body to head. Vertigo, coldness of head; photophobia. Nasal catarrh, discharge bloody, excoriating, offensive nose, swollen, ulcerated.",
+    "Gastric.--Weight in stomach after eating, nausea, pain, flatulence. Pain in liver region. Constipation. Construction of anus during stool.",
+    "Stiffness over body and limbs. Creeping sensation over limbs. Twitching of muscles. Weak and weary."
+  ],
+  "modalities": {
+    "worse": [
+      "open air, drafts, cold, exertion, motion uncovering, bathing"
+    ],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Absent-minded, anxious, indolent, timid. Feeble will power. Head congested, blood surges from body to head. Vertigo, coldness of head; photophobia. Nasal catarrh, discharge bloody, excoriating, offensive nose, swollen, ulcerated.",
+    "Gastric.--Weight in stomach after eating, nausea, pain, flatulence. Pain in liver region. Constipation. Construction of anus during stool."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [
+    "Stiffness over body and limbs. Creeping sensation over limbs. Twitching of muscles. Weak and weary."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/k/kali-sil.htm",
+    "title": "KALIUM SILICICUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:51:05.074Z"
+  },
+  "confidence_score": 0.44
+}

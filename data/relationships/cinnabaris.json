@@ -1,0 +1,24 @@
+{
+  "remedy_name": "CINNABARIS",
+  "source_file": "raw_1772500862996.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/c/cinnb.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      "Hepar"
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Hepar",
+      "Nitr ac",
+      "Thuja",
+      "Sep"
+    ],
+    "incompatible": [],
+    "antidotes": [
+      "Hepar"
+    ]
+  },
+  "parsed_at": "2026-03-03T15:23:37.431Z"
+}

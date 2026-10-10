@@ -1,0 +1,39 @@
+{
+  "remedy_name": "CYCLAMEN EUROPAEUM",
+  "source_file": "raw_1772501259170.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Ambra",
+        "resolved_name": "AMBRA GRISEA",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Pulsat",
+        "resolved_name": "PULSATILLA",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      },
+      {
+        "original": "Cinchona",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "Fer cit et Chin",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:09.259Z"
+}

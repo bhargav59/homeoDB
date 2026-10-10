@@ -1,0 +1,60 @@
+{
+  "name": "APHIS CHENOPODII GLAUCI",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Plant-lice from Chenopodium"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "No appetite for meat and bread. Vesicles at end of tongue. Much mucus. Colic with much rumbling and ineffectual urging to stool.",
+    "Stools.--Hard and knotty. Diarrhśa in morning, with painful urging and burning in anus, and pressure in rectum and bladder.",
+    "Urine.--Voluptuous feeling in glans. Burning in urethra. Urination frequent, copious, frothy.",
+    "Sad; aching, worse from motion. Brain seems swashed hither and thither. Coryza, with burning or biting in nostrils. Noise in ears, as of cannon. Yellow face. Orbital right neuralgia, with profuse lachrymation. Toothache, relieved by general warm sweat (Cham). Toothache extends to ear, temple, and cheek-bone (Plantago).",
+    "Severe pains in region of lower inner angle of left shoulder-blade, running into chest."
+  ],
+  "guiding_symptoms": [
+    "No appetite for meat and bread. Vesicles at end of tongue. Much mucus. Colic with much rumbling and ineffectual urging to stool.",
+    "Stools.--Hard and knotty. Diarrhśa in morning, with painful urging and burning in anus, and pressure in rectum and bladder.",
+    "Urine.--Voluptuous feeling in glans. Burning in urethra. Urination frequent, copious, frothy."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Sad; aching, worse from motion. Brain seems swashed hither and thither. Coryza, with burning or biting in nostrils. Noise in ears, as of cannon. Yellow face. Orbital right neuralgia, with profuse lachrymation. Toothache, relieved by general warm sweat (Cham). Toothache extends to ear, temple, and cheek-bone (Plantago)."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "No appetite for meat and bread. Vesicles at end of tongue. Much mucus. Colic with much rumbling and ineffectual urging to stool.",
+    "Stools.--Hard and knotty. Diarrhśa in morning, with painful urging and burning in anus, and pressure in rectum and bladder.",
+    "Urine.--Voluptuous feeling in glans. Burning in urethra. Urination frequent, copious, frothy."
+  ],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [
+    "Severe pains in region of lower inner angle of left shoulder-blade, running into chest."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [
+    "Shuddering all over; burning in palms; hot sweat in bed."
+  ],
+  "complementary_remedies": [
+    "Nat sulph",
+    "Nux"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/a/aphis.htm",
+    "title": "APHIS CHENOPODII GLAUCI - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-02T06:30:48.920Z"
+  },
+  "confidence_score": 0.56
+}

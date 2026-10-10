@@ -1,0 +1,50 @@
+{
+  "name": "AMMONIUM PHOSPHORICUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Phosphate of Ammonia"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Sneezing with excessive running from nose and eyes, only in morning.",
+    "Deep rough cough with greenish expectoration.",
+    "Urine.--Rose-colored sediment."
+  ],
+  "guiding_symptoms": [
+    "Sneezing with excessive running from nose and eyes, only in morning.",
+    "Deep rough cough with greenish expectoration.",
+    "Urine.--Rose-colored sediment."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Sneezing with excessive running from nose and eyes, only in morning."
+  ],
+  "respiratory_symptoms": [
+    "Deep rough cough with greenish expectoration.",
+    "Urine.--Rose-colored sediment."
+  ],
+  "gi_symptoms": [],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/a/am-p.htm",
+    "title": "AMMONIUM PHOSPHORICUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-01T13:31:31.430Z"
+  },
+  "confidence_score": 0.38
+}

@@ -1,0 +1,68 @@
+{
+  "name": "STRONTIUM CARBONICUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Carbonate of Strontia"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Loss of appetite, aversion to meat, craves bread and beer. Food tasteless. Eructations after eating. Hiccough causes chest pains; cardialgia.",
+    "Vertigo with headache and nausea. Distensive pressure. Aches from nape of neck, spreading upwards; better wrapping head up warmly (Sil). Flushes in face; violent pulsating. Supraorbital neuralgia; pains increase and decrease slowly (Stann). Bloody crusts in nose. Face red; burns, itches. Itching, redness and burning of nose.",
+    "Sciatica with œdema of ankle. Rheumatic pain in right shoulder. Rheumatism with diarrhœa. Gnawing as if in marrow of bones. Cramps in calves and soles. Chronic spasms, particularly of ankle-joint. Œdematous swelling. Icy-cold feet. Rheumatic pains, especially in joints. Veins of hands engorged."
+  ],
+  "guiding_symptoms": [
+    "Loss of appetite, aversion to meat, craves bread and beer. Food tasteless. Eructations after eating. Hiccough causes chest pains; cardialgia.",
+    "Vertigo with headache and nausea. Distensive pressure. Aches from nape of neck, spreading upwards; better wrapping head up warmly (Sil). Flushes in face; violent pulsating. Supraorbital neuralgia; pains increase and decrease slowly (Stann). Bloody crusts in nose. Face red; burns, itches. Itching, redness and burning of nose.",
+    "Sciatica with œdema of ankle. Rheumatic pain in right shoulder. Rheumatism with diarrhœa. Gnawing as if in marrow of bones. Cramps in calves and soles. Chronic spasms, particularly of ankle-joint. Œdematous swelling. Icy-cold feet. Rheumatic pains, especially in joints. Veins of hands engorged."
+  ],
+  "modalities": {
+    "worse": [
+      "change of weather",
+      "from being quiet",
+      "when beginning to move",
+      "great sensitiveness to cold"
+    ],
+    "better": [
+      "immersing in hot water"
+    ]
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Vertigo with headache and nausea. Distensive pressure. Aches from nape of neck, spreading upwards; better wrapping head up warmly (Sil). Flushes in face; violent pulsating. Supraorbital neuralgia; pains increase and decrease slowly (Stann). Bloody crusts in nose. Face red; burns, itches. Itching, redness and burning of nose."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "Loss of appetite, aversion to meat, craves bread and beer. Food tasteless. Eructations after eating. Hiccough causes chest pains; cardialgia."
+  ],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [
+    "Sciatica with œdema of ankle. Rheumatic pain in right shoulder. Rheumatism with diarrhœa. Gnawing as if in marrow of bones. Cramps in calves and soles. Chronic spasms, particularly of ankle-joint. Œdematous swelling. Icy-cold feet. Rheumatic pains, especially in joints. Veins of hands engorged."
+  ],
+  "skin_symptoms": [
+    "Moist, itching, burning eruption; better in open air, especially warm sunshine. Sprains of ankle-joint, with œdema. Violent perspiration at night."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [
+    "Heat, with aversion to uncover or undress."
+  ],
+  "complementary_remedies": [
+    "Arnica",
+    "Ruta",
+    "Sil",
+    "Baryta c",
+    "Carbo"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/s/stront-c.htm",
+    "title": "STRONTIUM CARBONICUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:07:14.475Z"
+  },
+  "confidence_score": 0.8
+}

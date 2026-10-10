@@ -1,0 +1,57 @@
+{
+  "name": "RAPHANUS SATIVUS",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Black Garden Radish"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Putrid eructations. Burning in epigastrium, followed by hot eructation.",
+    "Pain in chest extends to back and to throat. Heavy lump and coldness in center of chest.",
+    "Sadness, aversion to children, especially girls. Headache, brain feels tender and sore. Śdema of lower eyelids. Mucus in posterior nares."
+  ],
+  "guiding_symptoms": [
+    "Putrid eructations. Burning in epigastrium, followed by hot eructation.",
+    "Pain in chest extends to back and to throat. Heavy lump and coldness in center of chest.",
+    "Sadness, aversion to children, especially girls. Headache, brain feels tender and sore. Śdema of lower eyelids. Mucus in posterior nares."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Sadness, aversion to children, especially girls. Headache, brain feels tender and sore. Śdema of lower eyelids. Mucus in posterior nares."
+  ],
+  "respiratory_symptoms": [
+    "Pain in chest extends to back and to throat. Heavy lump and coldness in center of chest."
+  ],
+  "gi_symptoms": [
+    "Putrid eructations. Burning in epigastrium, followed by hot eructation."
+  ],
+  "urinary_symptoms": [
+    "Nervous irritation of genitals. Menses very profuse and long-lasting. Nymphomania, with aversion to her own sex and to children, and sexual insomnia.",
+    "Urine.--Turbid, with yeast-like sediment. Urine more copious, thick like milk."
+  ],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Momordica (worse",
+    "near splenic flexure"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/r/raph.htm",
+    "title": "RAPHANUS SATIVUS - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:06:42.469Z"
+  },
+  "confidence_score": 0.6799999999999999
+}

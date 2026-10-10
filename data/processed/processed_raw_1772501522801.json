@@ -1,0 +1,47 @@
+{
+  "name": "EUGENIA JAMBOS",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Rose-apple"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Headache as if a board were lying on right side. Talkative. Hot lachrymation.",
+    "Nightly cramp in soles of feet (Cupr; Zing). Skin cracks about toes. Fissures between toes. Skin recedes from the nails, forming pus."
+  ],
+  "guiding_symptoms": [
+    "Headache as if a board were lying on right side. Talkative. Hot lachrymation.",
+    "Nightly cramp in soles of feet (Cupr; Zing). Skin cracks about toes. Fissures between toes. Skin recedes from the nails, forming pus."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Headache as if a board were lying on right side. Talkative. Hot lachrymation."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [
+    "Nightly cramp in soles of feet (Cupr; Zing). Skin cracks about toes. Fissures between toes. Skin recedes from the nails, forming pus."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/e/eug.htm",
+    "title": "EUGENIA JAMBOS - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:32:02.801Z"
+  },
+  "confidence_score": 0.38
+}

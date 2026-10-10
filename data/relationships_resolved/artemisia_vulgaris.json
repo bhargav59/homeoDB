@@ -1,0 +1,33 @@
+{
+  "remedy_name": "ARTEMISIA VULGARIS",
+  "source_file": "raw_1772433302042.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Absinth",
+        "resolved_name": "ABSINTHIUM",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Cina",
+        "resolved_name": "CINA MARITIMA",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Cicuta",
+        "resolved_name": "CICUTA VIROSA",
+        "confidence": 1,
+        "method": "exact"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:08.556Z"
+}

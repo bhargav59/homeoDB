@@ -1,0 +1,52 @@
+{
+  "name": "GAMBOGIA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Gummi Gutti"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Heavy, with inertia, and drowsiness. Itching and burning in eyes; lids stick together, with sneezing.",
+    "Gastro-enteric Symptoms.--Feeling of coldness at edge of teeth. Great irritability of the stomach; burning, smarting, and dryness of the tongue and throat. Pain in the stomach after food. Tenderness in epigastrium. Pain and distention of abdomen from flatulence, after stool. Rumbling and rolling. Dysentery, with retained scybala, with pain in sacral region. Diarrhœa, with sudden and forcible ejection of bilious stools. Tenesmus after, with burning at anus. Ileo-cæcal region sensitive to pressure. Profuse, watery diarrhœa in hot weather, particularly old people. Pain in coccyx."
+  ],
+  "guiding_symptoms": [
+    "Heavy, with inertia, and drowsiness. Itching and burning in eyes; lids stick together, with sneezing.",
+    "Gastro-enteric Symptoms.--Feeling of coldness at edge of teeth. Great irritability of the stomach; burning, smarting, and dryness of the tongue and throat. Pain in the stomach after food. Tenderness in epigastrium. Pain and distention of abdomen from flatulence, after stool. Rumbling and rolling. Dysentery, with retained scybala, with pain in sacral region. Diarrhœa, with sudden and forcible ejection of bilious stools. Tenesmus after, with burning at anus. Ileo-cæcal region sensitive to pressure. Profuse, watery diarrhœa in hot weather, particularly old people. Pain in coccyx."
+  ],
+  "modalities": {
+    "worse": [
+      "towards evening and at night"
+    ],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Heavy, with inertia, and drowsiness. Itching and burning in eyes; lids stick together, with sneezing.",
+    "Gastro-enteric Symptoms.--Feeling of coldness at edge of teeth. Great irritability of the stomach; burning, smarting, and dryness of the tongue and throat. Pain in the stomach after food. Tenderness in epigastrium. Pain and distention of abdomen from flatulence, after stool. Rumbling and rolling. Dysentery, with retained scybala, with pain in sacral region. Diarrhœa, with sudden and forcible ejection of bilious stools. Tenesmus after, with burning at anus. Ileo-cæcal region sensitive to pressure. Profuse, watery diarrhœa in hot weather, particularly old people. Pain in coccyx."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Croton",
+    "Aloes",
+    "Pod"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/g/gamb.htm",
+    "title": "GAMBOGIA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:37:38.819Z"
+  },
+  "confidence_score": 0.44
+}

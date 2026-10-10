@@ -1,0 +1,55 @@
+{
+  "name": "LACTICUM ACIDUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Lactic Acid"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Tongue dry, parched. Thirst; voracious hunger. Canker, copious salivation and water-brash. Nausea; morning sickness, especially in pale anćmic women. Hot, acrid eructation. Nausea; better, eating. Burning, hot gas from stomach to throat, causing profuse secretion of tenacious mucus, worse smoking.",
+    "Pain in breasts, with enlargement of axillary glands, and pain extends into hand.",
+    "Rheumatic pain in joints and shoulders, wrists, knees, with much weakness. Trembling of whole body while walking. Limbs feel chilly.",
+    "Urine.--Large quantities passed, frequently. Saccharine."
+  ],
+  "guiding_symptoms": [
+    "Tongue dry, parched. Thirst; voracious hunger. Canker, copious salivation and water-brash. Nausea; morning sickness, especially in pale anćmic women. Hot, acrid eructation. Nausea; better, eating. Burning, hot gas from stomach to throat, causing profuse secretion of tenacious mucus, worse smoking.",
+    "Pain in breasts, with enlargement of axillary glands, and pain extends into hand.",
+    "Rheumatic pain in joints and shoulders, wrists, knees, with much weakness. Trembling of whole body while walking. Limbs feel chilly."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [],
+  "respiratory_symptoms": [
+    "Pain in breasts, with enlargement of axillary glands, and pain extends into hand."
+  ],
+  "gi_symptoms": [
+    "Tongue dry, parched. Thirst; voracious hunger. Canker, copious salivation and water-brash. Nausea; morning sickness, especially in pale anćmic women. Hot, acrid eructation. Nausea; better, eating. Burning, hot gas from stomach to throat, causing profuse secretion of tenacious mucus, worse smoking."
+  ],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [
+    "Rheumatic pain in joints and shoulders, wrists, knees, with much weakness. Trembling of whole body while walking. Limbs feel chilly.",
+    "Urine.--Large quantities passed, frequently. Saccharine."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Sarcolactic acid q v"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/l/lac-ac.htm",
+    "title": "LACTICUM ACIDUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:52:03.030Z"
+  },
+  "confidence_score": 0.56
+}

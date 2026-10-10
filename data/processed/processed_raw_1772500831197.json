@@ -1,0 +1,48 @@
+{
+  "name": "CIMEX LECTULARIUS",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Bedbug"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Violent headache, caused by drinking. Great rage; vehement at beginning of chilly stage. Would like to tear everything to pieces. Pain under right frontal bone."
+  ],
+  "guiding_symptoms": [
+    "Violent headache, caused by drinking. Great rage; vehement at beginning of chilly stage. Would like to tear everything to pieces. Pain under right frontal bone."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Violent headache, caused by drinking. Great rage; vehement at beginning of chilly stage. Would like to tear everything to pieces. Pain under right frontal bone."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [],
+  "urinary_symptoms": [
+    "Shooting pain from vagina up towards left ovary."
+  ],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [
+    "Chilliness of whole body. Sensation as of wind blowing on knees. Pains in all joints, as if tendons were too short, especially knee-joints. Chill; worse lying down. Thirst during apyrexia, but little during chilly stage; still less during hot stage, and none during sweating. Musty, offensive sweat.",
+    "Bowels.--Constipation, feces dry and in small balls (Op; Plumb; Thuj) and hard. Ulcer of rectum."
+  ],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/c/cimx.htm",
+    "title": "CIMEX LECTULARIUS - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:20:31.197Z"
+  },
+  "confidence_score": 0.44
+}

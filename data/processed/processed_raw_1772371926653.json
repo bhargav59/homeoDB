@@ -1,0 +1,74 @@
+{
+  "name": "AMBRA GRISEA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Ambergis-A Morbid Secretion of the Whale"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Eructations, with violent, convulsive cough. Acid eructations, like heartburn. Distention of stomach and abdomen after midnight. Sensation of coldness in abdomen.",
+    "Slow comprehension. Vertigo, with weakness in head and stomach. Pressure on front part of head with mental depression. Tearing pain in upper half of brain. Senile dizziness. Rush of blood to head, when listening to music. Hearing impaired. Epistaxis, especially in the morning. Profuse bleeding from teeth. Hair falls out.",
+    "Asthmatic breathing with eructation of gas. Nervous, spasmodic cough, with hoarseness and eructation, on waking in morning; worse in presence of people. Tickling in throat, larynx and trachea, chest oppressed, gets out of breath when coughing. Hollow, spasmodic, barking cough, coming from deep in chest. Choking when hawking up phlegm.",
+    "Palpitation, with pressure in chest as from a lump lodged there, or as if chest was obstructed. Conscious of the pulse. Palpitation in open air with pale face.",
+    "Cramps in hands and fingers, worse grasping anything. Cramps in legs."
+  ],
+  "guiding_symptoms": [
+    "Eructations, with violent, convulsive cough. Acid eructations, like heartburn. Distention of stomach and abdomen after midnight. Sensation of coldness in abdomen.",
+    "Slow comprehension. Vertigo, with weakness in head and stomach. Pressure on front part of head with mental depression. Tearing pain in upper half of brain. Senile dizziness. Rush of blood to head, when listening to music. Hearing impaired. Epistaxis, especially in the morning. Profuse bleeding from teeth. Hair falls out.",
+    "Asthmatic breathing with eructation of gas. Nervous, spasmodic cough, with hoarseness and eructation, on waking in morning; worse in presence of people. Tickling in throat, larynx and trachea, chest oppressed, gets out of breath when coughing. Hollow, spasmodic, barking cough, coming from deep in chest. Choking when hawking up phlegm."
+  ],
+  "modalities": {
+    "worse": [
+      "music",
+      "presence of strangers",
+      "from any unusual thing",
+      "morning, warm room"
+    ],
+    "better": [
+      "slow motion in open air",
+      "lying on painful part",
+      "cold drinks"
+    ]
+  },
+  "mind_symptoms": [
+    "Dread of people, and desire to be alone. Cannot do anything in presence of others. Intensely shy, blushes easily. Music causes weeping. Despair, loathing of life. Fantastic illusions. Bashful. Loss of love of life. Restless, excited, very loquacious. Time passes slowly. Thinking, difficult in the morning with old people. Dwells upon unpleasant things."
+  ],
+  "head_symptoms": [
+    "Slow comprehension. Vertigo, with weakness in head and stomach. Pressure on front part of head with mental depression. Tearing pain in upper half of brain. Senile dizziness. Rush of blood to head, when listening to music. Hearing impaired. Epistaxis, especially in the morning. Profuse bleeding from teeth. Hair falls out."
+  ],
+  "respiratory_symptoms": [
+    "Asthmatic breathing with eructation of gas. Nervous, spasmodic cough, with hoarseness and eructation, on waking in morning; worse in presence of people. Tickling in throat, larynx and trachea, chest oppressed, gets out of breath when coughing. Hollow, spasmodic, barking cough, coming from deep in chest. Choking when hawking up phlegm."
+  ],
+  "gi_symptoms": [
+    "Eructations, with violent, convulsive cough. Acid eructations, like heartburn. Distention of stomach and abdomen after midnight. Sensation of coldness in abdomen."
+  ],
+  "urinary_symptoms": [
+    "Pain in bladder and rectum at the same time. Burning in orifice of urethra and anus. Feeling in urethra as if a few drops passed out. Burning and itching in urethra while urinating. Urine turbid, even during emission forming a brown sediment."
+  ],
+  "musculoskeletal_symptoms": [
+    "Cramps in hands and fingers, worse grasping anything. Cramps in legs."
+  ],
+  "skin_symptoms": [
+    "Itching and soreness, especially around genitals. Numbness of skin. Arms \"go to sleep\"."
+  ],
+  "sleep_symptoms": [
+    "Cannot sleep from worry; must get up. Anxious dreams. Coldness of body and twitching of limbs, during sleep."
+  ],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Oleum succinum (hiccough"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/a/ambr.htm",
+    "title": "AMBRA GRISEA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-01T13:32:06.653Z"
+  },
+  "confidence_score": 0.8
+}

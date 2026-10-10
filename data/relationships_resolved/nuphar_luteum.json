@@ -1,0 +1,51 @@
+{
+  "remedy_name": "NUPHAR LUTEUM",
+  "source_file": "raw_1772503622707.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "in sexual weakness",
+        "resolved_name": "X",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Agnus",
+        "resolved_name": "AGNUS CASTUS",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Kali brom",
+        "resolved_name": "KALI CARBONICUM",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      },
+      {
+        "original": "Lycop",
+        "resolved_name": "LYCOPODIUM CLAVATUM",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      },
+      {
+        "original": "Selen",
+        "resolved_name": "SELENIUM METALLICUM",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Yohimbin",
+        "resolved_name": "YOHIMBINUM",
+        "confidence": 0.8,
+        "method": "substring"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:10.476Z"
+}

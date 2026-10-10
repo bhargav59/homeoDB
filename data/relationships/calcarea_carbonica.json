@@ -1,0 +1,29 @@
+{
+  "remedy_name": "CALCAREA CARBONICA",
+  "source_file": "raw_1772500217512.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/c/calc.htm",
+  "relationships": {
+    "complementary": [
+      "Bell"
+    ],
+    "antidoted_by": [
+      "Camph"
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Aqua calcar",
+      "also with Calcarea: Lycop",
+      "Silica",
+      "Pulsat",
+      "Chamom"
+    ],
+    "incompatible": [
+      "Bry"
+    ],
+    "antidotes": [
+      "Camph"
+    ]
+  },
+  "parsed_at": "2026-03-03T15:23:37.399Z"
+}

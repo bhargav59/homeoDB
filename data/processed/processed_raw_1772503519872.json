@@ -1,0 +1,61 @@
+{
+  "name": "NATRIUM HYPOCHLOROSUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Labarraque's Solution"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Drowsy after meals.",
+    "Urine.--Dark, with albumen and casts. Diffuse nephritis. Much pain across small of back.",
+    "Vertigo, with aching across forehead. Swimming feeling, as if top of head would float off. Bleeding of nose in clots.",
+    "Hands swollen every morning. Extreme weakness in ankles and knees."
+  ],
+  "guiding_symptoms": [
+    "Drowsy after meals.",
+    "Urine.--Dark, with albumen and casts. Diffuse nephritis. Much pain across small of back.",
+    "Vertigo, with aching across forehead. Swimming feeling, as if top of head would float off. Bleeding of nose in clots."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Vertigo, with aching across forehead. Swimming feeling, as if top of head would float off. Bleeding of nose in clots."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "Drowsy after meals.",
+    "Urine.--Dark, with albumen and casts. Diffuse nephritis. Much pain across small of back."
+  ],
+  "urinary_symptoms": [
+    "Feeling as if uterus were pushed up on sitting down (Ferr iod). Feels as if it opened and shut. Violent metrorrhagia. Leucorrhśa and backache. Passive, bearing-down from heavy condition of uterus. Womb is heavy, sodden, with tendency to prolapse. Subinvolution."
+  ],
+  "musculoskeletal_symptoms": [
+    "Hands swollen every morning. Extreme weakness in ankles and knees."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Aur mur nat",
+    "Calc",
+    "Sepia",
+    "Heliotropium (uterine displacement",
+    "membranous dysmenorrhśa"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/n/nat-hchl.htm",
+    "title": "NATRIUM HYPOCHLOROSUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:05:19.872Z"
+  },
+  "confidence_score": 0.62
+}

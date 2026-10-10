@@ -1,0 +1,25 @@
+{
+  "remedy_name": "BRYONIA ALBA",
+  "source_file": "raw_1772500133465.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/b/bry.htm",
+  "relationships": {
+    "complementary": [
+      "Upas when Bryonia fails"
+    ],
+    "antidoted_by": [
+      "Acon"
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Asclep tub",
+      "Kali mur",
+      "Ptelia"
+    ],
+    "incompatible": [],
+    "antidotes": [
+      "Acon"
+    ]
+  },
+  "parsed_at": "2026-03-03T15:23:37.394Z"
+}

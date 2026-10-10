@@ -1,0 +1,47 @@
+{
+  "name": "SAROTHAMNUS SCOPARIUS",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Broom"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Great accumulation of gas in gastro-intestinal canal, with mental depression.",
+    "Tobacco heart. Angina pectoris. Irregular action, disturbed rhythm due to gas, etc, feeble in nervous hysterical patients. Myocardial degeneration, failing compensation. Hypotension. Spartein in 2 gr doses for water-logged cases, cannot lie down. Here it produces much comfort. Has specific action upon the kidneys, enabling them to eliminate and relieve the distress upon the heart."
+  ],
+  "guiding_symptoms": [
+    "Great accumulation of gas in gastro-intestinal canal, with mental depression.",
+    "Tobacco heart. Angina pectoris. Irregular action, disturbed rhythm due to gas, etc, feeble in nervous hysterical patients. Myocardial degeneration, failing compensation. Hypotension. Spartein in 2 gr doses for water-logged cases, cannot lie down. Here it produces much comfort. Has specific action upon the kidneys, enabling them to eliminate and relieve the distress upon the heart."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "Great accumulation of gas in gastro-intestinal canal, with mental depression."
+  ],
+  "urinary_symptoms": [
+    "Burning along urinary tract or in pudendum. Profuse flow of urine."
+  ],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/s/saroth.htm",
+    "title": "SAROTHAMNUS SCOPARIUS - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:06:56.551Z"
+  },
+  "confidence_score": 0.44
+}

@@ -1,0 +1,52 @@
+{
+  "name": "CHENOPODIUM ANTHELMINTICUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Jerusalem Oak"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Intense pain between angle of right shoulder-blade near spine, and through the chest.",
+    "Urine.--Copious, yellow, foaming urine, with acrid sensation in urethra. Yellowish sediment (Chel)."
+  ],
+  "guiding_symptoms": [
+    "Intense pain between angle of right shoulder-blade near spine, and through the chest.",
+    "Urine.--Copious, yellow, foaming urine, with acrid sensation in urethra. Yellowish sediment (Chel)."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Torpor of auditory nerve. Hearing better for high-pitched sounds. Comparative deafness to sound of voice, but great sensitiveness to sound, as of passing vehicles and also a shrinking from low tones. Buzzing in ears. Enlargement of tonsils. Aural vertigo."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [
+    "Intense pain between angle of right shoulder-blade near spine, and through the chest.",
+    "Urine.--Copious, yellow, foaming urine, with acrid sensation in urethra. Yellowish sediment (Chel)."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Opium",
+    "China",
+    "Chelid"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/c/chen-a.htm",
+    "title": "CHENOPODIUM ANTHELMINTICUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:18:01.010Z"
+  },
+  "confidence_score": 0.44
+}

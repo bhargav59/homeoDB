@@ -1,0 +1,22 @@
+{
+  "remedy_name": "Pćonia.",
+  "source_file": "raw_1772507981979_clarke_dictionary_w5.json",
+  "source_url": "https://www.homeoint.org/clarke/p/paeon.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      "Alo"
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "In varices",
+      "Ham"
+    ],
+    "incompatible": [],
+    "antidotes": [
+      "d by: Alo"
+    ]
+  },
+  "parsed_at": "2026-03-03T15:23:38.346Z"
+}

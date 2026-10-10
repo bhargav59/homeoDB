@@ -1,0 +1,35 @@
+{
+  "remedy_name": "ALUMINA",
+  "source_file": "raw_1772371786449.json",
+  "relationships": {
+    "complementary": [
+      {
+        "original": "Bryonia",
+        "resolved_name": "BRYONIA ALBA",
+        "confidence": 1,
+        "method": "exact"
+      }
+    ],
+    "antidoted_by": [
+      {
+        "original": "Ipecac",
+        "resolved_name": "IPECACUANHA",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      }
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [],
+    "incompatible": [],
+    "antidotes": [
+      {
+        "original": "Ipecac",
+        "resolved_name": "IPECACUANHA",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      }
+    ]
+  },
+  "resolved_at": "2026-03-11T01:50:08.403Z"
+}

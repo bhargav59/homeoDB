@@ -1,0 +1,68 @@
+{
+  "name": "VALERIANA OFFICINALIS",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Valerian"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Hunger, with nausea. Eructations foul. Heartburn with gulping of rancid fluid. Nausea, with faintness. Child vomits curdled milk in large lumps after nursing.",
+    "Sensation of great coldness. Pressure in forehead. Feeling of intoxication.",
+    "Choking on falling asleep. Spasmodic asthma; convulsive movements of the diaphragm.",
+    "Rheumatic pains in limbs. Constant jerking. Heaviness. Sciatica; pain worse standing and resting on floor (Bell); better walking. Pain in heels when sitting."
+  ],
+  "guiding_symptoms": [
+    "Hunger, with nausea. Eructations foul. Heartburn with gulping of rancid fluid. Nausea, with faintness. Child vomits curdled milk in large lumps after nursing.",
+    "Sensation of great coldness. Pressure in forehead. Feeling of intoxication.",
+    "Choking on falling asleep. Spasmodic asthma; convulsive movements of the diaphragm."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [
+    "Changeable disposition. Feels light, as if floating in air. Over-sensitiveness (Staph). Hallucinations at night. Irritable. Tremulous."
+  ],
+  "head_symptoms": [
+    "Sensation of great coldness. Pressure in forehead. Feeling of intoxication."
+  ],
+  "respiratory_symptoms": [
+    "Choking on falling asleep. Spasmodic asthma; convulsive movements of the diaphragm."
+  ],
+  "gi_symptoms": [
+    "Hunger, with nausea. Eructations foul. Heartburn with gulping of rancid fluid. Nausea, with faintness. Child vomits curdled milk in large lumps after nursing."
+  ],
+  "urinary_symptoms": [
+    "Menses late and scanty (Puls)."
+  ],
+  "musculoskeletal_symptoms": [
+    "Rheumatic pains in limbs. Constant jerking. Heaviness. Sciatica; pain worse standing and resting on floor (Bell); better walking. Pain in heels when sitting."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [
+    "Sleepless, with nightly itching and muscular spasms. Worse on waking."
+  ],
+  "fever_symptoms": [
+    "Long lasting heat, often with sweat on face. Heat predominates. Sensation of icy coldness (Heloderma; Camp; Abies c)."
+  ],
+  "complementary_remedies": [
+    "Asaf",
+    "Ign",
+    "Croc",
+    "Castor",
+    "Amm valer (in neuralgia"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/v/valer.htm",
+    "title": "VALERIANA OFFICINALIS - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:41:15.350Z"
+  },
+  "confidence_score": 0.8
+}

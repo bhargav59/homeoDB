@@ -1,0 +1,59 @@
+{
+  "name": "PHYSALIS ALKEKENGI",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Alkekengi-Winter Cherry"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Vertigo, hazy feeling; memory weakness; desire to talk constantly. Throbbing pain, heavy over eyes in forehead. Facial paralysis. Dryness of mouth.",
+    "Cough. Hoarse voice; throat irritated; chest oppressed, causing insomnia. Stabbing in chest.",
+    "Stiff limbs; tonic cramps. Paralysis. When walking, every jar seems repeated in the head."
+  ],
+  "guiding_symptoms": [
+    "Vertigo, hazy feeling; memory weakness; desire to talk constantly. Throbbing pain, heavy over eyes in forehead. Facial paralysis. Dryness of mouth.",
+    "Cough. Hoarse voice; throat irritated; chest oppressed, causing insomnia. Stabbing in chest.",
+    "Stiff limbs; tonic cramps. Paralysis. When walking, every jar seems repeated in the head."
+  ],
+  "modalities": {
+    "worse": [
+      "cold camp evening"
+    ],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Vertigo, hazy feeling; memory weakness; desire to talk constantly. Throbbing pain, heavy over eyes in forehead. Facial paralysis. Dryness of mouth."
+  ],
+  "respiratory_symptoms": [
+    "Cough. Hoarse voice; throat irritated; chest oppressed, causing insomnia. Stabbing in chest."
+  ],
+  "gi_symptoms": [],
+  "urinary_symptoms": [
+    "Acrid, foul, retained, abundant. Polyuria. Sudden inability to hold it in women. Nocturnal incontinence. Enuresis."
+  ],
+  "musculoskeletal_symptoms": [
+    "Stiff limbs; tonic cramps. Paralysis. When walking, every jar seems repeated in the head."
+  ],
+  "skin_symptoms": [
+    "Excoriation between fingers and toes; pustules on thighs; nodes on forehead."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [
+    "Chilly in open air. Feverish in evening. Sweat during stool, with creeping sensation, with abundant urine. Pain in liver during, fever."
+  ],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/p/physal.htm",
+    "title": "PHYSALIS ALKEKENGI - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:06:25.981Z"
+  },
+  "confidence_score": 0.6799999999999999
+}

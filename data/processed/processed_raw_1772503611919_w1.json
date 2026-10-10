@@ -1,0 +1,60 @@
+{
+  "name": "SALICYLICUM ACIDUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Salicylic Acid"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Canker sores, with burning soreness and fetid breath. Flatulence; hot, sour belching. Putrid fermentation. Fermentative dyspepsia. Tongue purplish, leaden-colored; foul breath.",
+    "Stools.--Putrid diarrhśa; gastro-intestinal derangements, especially in children; stools like green frog's spawn (Magn carb). Pruritus ani.",
+    "Vertigo; tendency to fall to left side. Headache; confusion in head on rising suddenly. Incipient coryza. Piercing pain in temples.",
+    "Knees swollen and painful. Acute articular rheumatism; worse, touch and motion, profuse sweat. Pain shifts. Sciatica, burning pain; worse at night. Copious foot-sweat and ill affects where suppressed."
+  ],
+  "guiding_symptoms": [
+    "Canker sores, with burning soreness and fetid breath. Flatulence; hot, sour belching. Putrid fermentation. Fermentative dyspepsia. Tongue purplish, leaden-colored; foul breath.",
+    "Stools.--Putrid diarrhśa; gastro-intestinal derangements, especially in children; stools like green frog's spawn (Magn carb). Pruritus ani.",
+    "Vertigo; tendency to fall to left side. Headache; confusion in head on rising suddenly. Incipient coryza. Piercing pain in temples."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Vertigo; tendency to fall to left side. Headache; confusion in head on rising suddenly. Incipient coryza. Piercing pain in temples."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "Canker sores, with burning soreness and fetid breath. Flatulence; hot, sour belching. Putrid fermentation. Fermentative dyspepsia. Tongue purplish, leaden-colored; foul breath.",
+    "Stools.--Putrid diarrhśa; gastro-intestinal derangements, especially in children; stools like green frog's spawn (Magn carb). Pruritus ani."
+  ],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [
+    "Knees swollen and painful. Acute articular rheumatism; worse, touch and motion, profuse sweat. Pain shifts. Sciatica, burning pain; worse at night. Copious foot-sweat and ill affects where suppressed."
+  ],
+  "skin_symptoms": [
+    "Itching vesicles and pustules; better by scratching. Sweat without sleep. Urticaria. Hot and burning skin. Purpura. Herpes zoster. Necrosis and softening of bones."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Salol (rheumatic pain in joints",
+    "with soreness and stiffness",
+    "headache over eyes",
+    "urine violet-smelling"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/s/sal-ac.htm",
+    "title": "SALICYLICUM ACIDUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:06:51.919Z"
+  },
+  "confidence_score": 0.74
+}

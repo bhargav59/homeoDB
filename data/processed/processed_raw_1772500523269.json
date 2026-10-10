@@ -1,0 +1,46 @@
+{
+  "name": "CASTOREUM CANADENSE",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "The Beaver"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [],
+  "guiding_symptoms": [],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [],
+  "urinary_symptoms": [
+    "Dysmenorrhśa; blood discharged in drops with tenesmus. Pain commences in middle of thighs. Amenorrhśa, with painful tympanites."
+  ],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [
+    "Predominant chilliness. Attacks of chilliness with ice-coldness in back."
+  ],
+  "complementary_remedies": [
+    "Ambra",
+    "Moschus",
+    "Mur acid",
+    "Valeriana"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/c/cast.htm",
+    "title": "CASTOREUM CANADENSE - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:15:23.269Z"
+  },
+  "confidence_score": 0.44
+}

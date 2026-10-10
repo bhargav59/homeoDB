@@ -1,0 +1,24 @@
+{
+  "remedy_name": "COCA",
+  "source_file": "raw_1772500935228.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/c/coca.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      "Gels"
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Ars",
+      "Paulin",
+      "Cyp",
+      "Chamom"
+    ],
+    "incompatible": [],
+    "antidotes": [
+      "Gels"
+    ]
+  },
+  "parsed_at": "2026-03-03T15:23:37.434Z"
+}

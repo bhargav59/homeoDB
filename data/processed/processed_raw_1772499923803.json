@@ -1,0 +1,57 @@
+{
+  "name": "BARYTA MURIATICA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Barium Chloride"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Gone feeling at epigastrium a good guiding symptom for it in chronic affections. Retching and vomiting. Sensation of heat ascending to head.",
+    "Urine.--Great increase in uric acid, diminution of chlorides.",
+    "Bronchial affection of old people with cardiac dilation. Facilitates expectoration. Great accumulation and rattling of mucus with difficult expectoration. Arterio-sclerosis of the lung, thus in senile asthma, modifies the arterial tension."
+  ],
+  "guiding_symptoms": [
+    "Gone feeling at epigastrium a good guiding symptom for it in chronic affections. Retching and vomiting. Sensation of heat ascending to head.",
+    "Urine.--Great increase in uric acid, diminution of chlorides.",
+    "Bronchial affection of old people with cardiac dilation. Facilitates expectoration. Great accumulation and rattling of mucus with difficult expectoration. Arterio-sclerosis of the lung, thus in senile asthma, modifies the arterial tension."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Whizzing and buzzing. Noises on chewing and swallowing, or sneezing. Earache; better sipping cold water. Parotids swollen. Offensive otorrhśa. Inflates middle ear on blowing nose."
+  ],
+  "respiratory_symptoms": [
+    "Bronchial affection of old people with cardiac dilation. Facilitates expectoration. Great accumulation and rattling of mucus with difficult expectoration. Arterio-sclerosis of the lung, thus in senile asthma, modifies the arterial tension."
+  ],
+  "gi_symptoms": [
+    "Gone feeling at epigastrium a good guiding symptom for it in chronic affections. Retching and vomiting. Sensation of heat ascending to head.",
+    "Urine.--Great increase in uric acid, diminution of chlorides."
+  ],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "in sclerotic degenerations",
+    "especially of spinal cord",
+    "liver",
+    "and heart"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/b/bar-m.htm",
+    "title": "BARYTA MURIATICA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:05:23.803Z"
+  },
+  "confidence_score": 0.62
+}

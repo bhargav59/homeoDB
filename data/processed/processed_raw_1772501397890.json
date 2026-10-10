@@ -1,0 +1,68 @@
+{
+  "name": "ECHINACEA ANGUSTIFOLIA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Purple Cone-flower"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Sour belching and heartburn. Nausea; better lying down.",
+    "Pain as of a lump in chest and under sternum. Pain in pectoral muscles (Aristolochia).",
+    "Urine.--Albuminous, scanty, frequent, and involuntary.",
+    "Confused, depressed. Aches with a peculiar periodical flushing of the face, even to the neck; dizziness and profound prostration.",
+    "Aching in limbs and general lassitude."
+  ],
+  "guiding_symptoms": [
+    "Sour belching and heartburn. Nausea; better lying down.",
+    "Pain as of a lump in chest and under sternum. Pain in pectoral muscles (Aristolochia).",
+    "Urine.--Albuminous, scanty, frequent, and involuntary."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Confused, depressed. Aches with a peculiar periodical flushing of the face, even to the neck; dizziness and profound prostration."
+  ],
+  "respiratory_symptoms": [
+    "Pain as of a lump in chest and under sternum. Pain in pectoral muscles (Aristolochia).",
+    "Urine.--Albuminous, scanty, frequent, and involuntary."
+  ],
+  "gi_symptoms": [
+    "Sour belching and heartburn. Nausea; better lying down."
+  ],
+  "urinary_symptoms": [
+    "Puerperal septicæmia; discharges suppressed; abdomen sensitive and tympanitic; offensive, excoriating leucorrhœa."
+  ],
+  "musculoskeletal_symptoms": [
+    "Aching in limbs and general lassitude."
+  ],
+  "skin_symptoms": [
+    "Recurring boils. Carbuncles. Irritations from insect bites and poisonous plants. Lymphatics enlarged. Old tibial ulcers. Gangrene."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [
+    "Chilliness, with nausea. Cold flashes all over back. Malarial fever."
+  ],
+  "complementary_remedies": [
+    "Cenchris contortrix",
+    "Bothrops",
+    "Ars",
+    "Laches",
+    "Baptis"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/e/echi.htm",
+    "title": "ECHINACEA ANGUSTIFOLIA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:29:57.890Z"
+  },
+  "confidence_score": 0.8
+}

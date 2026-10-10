@@ -1,0 +1,51 @@
+{
+  "remedy_name": "LEPTANDRA VIRGINICA",
+  "source_file": "raw_1772502887404.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Podop",
+        "resolved_name": "PODOPHYLLINUM",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Iris",
+        "resolved_name": "IRIS VERSICOLOR",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Bry",
+        "resolved_name": "BRYONIA",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      },
+      {
+        "original": "Merc",
+        "resolved_name": "MERCURIUS SOLUBILIS",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      },
+      {
+        "original": "Ptel",
+        "resolved_name": "PTELEA TRIFOLIATA",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Myrica",
+        "resolved_name": "MYRICA CERIFERA",
+        "confidence": 1,
+        "method": "exact"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:10.176Z"
+}

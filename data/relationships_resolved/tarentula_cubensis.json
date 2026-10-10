@@ -1,0 +1,57 @@
+{
+  "remedy_name": "TARENTULA CUBENSIS",
+  "source_file": "raw_1772505309717.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Ars",
+        "resolved_name": "ARSENICUM ALBUM",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      },
+      {
+        "original": "Pyrog",
+        "resolved_name": "PYROGENIUM",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Crotal",
+        "resolved_name": "CROTALUS HORRIDUS",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Echin",
+        "resolved_name": "ECHINACEA ANGUSTIFOLIA",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Anthrac",
+        "resolved_name": "ANTHRACINUM",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Bellad",
+        "resolved_name": "BELLADONNA",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      },
+      {
+        "original": "Apis",
+        "resolved_name": "APIS MELLIFICA",
+        "confidence": 1,
+        "method": "exact"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:11.377Z"
+}

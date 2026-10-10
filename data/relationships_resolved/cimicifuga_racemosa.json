@@ -1,0 +1,39 @@
+{
+  "remedy_name": "CIMICIFUGA RACEMOSA",
+  "source_file": "raw_1772500818069.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Rhamnus Californica (muscular pains",
+        "resolved_name": "RHAMNUS CALIFORNICA",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "lumbago",
+        "resolved_name": "Plumbago.",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "pleurodynia",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "acute rheumatism)",
+        "resolved_name": "RHEUM PALMATUM",
+        "confidence": 0.8,
+        "method": "substring"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:08.985Z"
+}

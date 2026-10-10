@@ -1,0 +1,59 @@
+{
+  "name": "LIMULUS CYCLOPS",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Horse-foot-King-crab"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Mental depression. Difficult to remember names, confused with heat of face, rush of blood to face, worse when meditating. Pain behind left eye-ball.",
+    "Husky voice. Dyspnśa after drinking water. Oppression of chest.",
+    "Crural neuralgia. Soles of feet ache, feel numb. Pain in right hip-joint. Heels sore."
+  ],
+  "guiding_symptoms": [
+    "Mental depression. Difficult to remember names, confused with heat of face, rush of blood to face, worse when meditating. Pain behind left eye-ball.",
+    "Husky voice. Dyspnśa after drinking water. Oppression of chest.",
+    "Crural neuralgia. Soles of feet ache, feel numb. Pain in right hip-joint. Heels sore."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Mental depression. Difficult to remember names, confused with heat of face, rush of blood to face, worse when meditating. Pain behind left eye-ball."
+  ],
+  "respiratory_symptoms": [
+    "Husky voice. Dyspnśa after drinking water. Oppression of chest."
+  ],
+  "gi_symptoms": [
+    "Colic with heat. Cramp-like pain with watery stools. Abdomen hot and constricted. Piles, constriction of anus."
+  ],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [
+    "Crural neuralgia. Soles of feet ache, feel numb. Pain in right hip-joint. Heels sore."
+  ],
+  "skin_symptoms": [
+    "Itching spots and vesicles on face and hands. Burning in palms."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Asterias",
+    "Homarus",
+    "Cuprum"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/l/lim.htm",
+    "title": "LIMULUS CYCLOPS - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:55:20.838Z"
+  },
+  "confidence_score": 0.6799999999999999
+}

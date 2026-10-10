@@ -1,0 +1,51 @@
+{
+  "name": "HIPPOMANES",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "The old famous Aphrodisiacum of the Greek authors."
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Icy coldness in stomach.",
+    "Violent pain in wrist. Paralysis of wrists. Sprained sensation in wrist. Great weakness of hands and fingers. Weakness in joints of feet, knee, and soles. Chorea. Much weakness after growing too fast."
+  ],
+  "guiding_symptoms": [
+    "Icy coldness in stomach.",
+    "Violent pain in wrist. Paralysis of wrists. Sprained sensation in wrist. Great weakness of hands and fingers. Weakness in joints of feet, knee, and soles. Chorea. Much weakness after growing too fast."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "Icy coldness in stomach."
+  ],
+  "urinary_symptoms": [
+    "Sexual desire increased. Prostatitis. Drawing pain in testicles."
+  ],
+  "musculoskeletal_symptoms": [
+    "Violent pain in wrist. Paralysis of wrists. Sprained sensation in wrist. Great weakness of hands and fingers. Weakness in joints of feet, knee, and soles. Chorea. Much weakness after growing too fast."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Caustic"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/h/hipp.htm",
+    "title": "HIPPOMANES - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:43:10.236Z"
+  },
+  "confidence_score": 0.5
+}

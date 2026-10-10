@@ -1,0 +1,35 @@
+{
+  "remedy_name": "UPAS TIEUT",
+  "source_file": "raw_1772505594093.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      {
+        "original": "Curare",
+        "resolved_name": "CURARE",
+        "confidence": 1,
+        "method": "exact"
+      }
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "(a deadly poison to the muscular system",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": [
+      {
+        "original": "Curare",
+        "resolved_name": "CURARE",
+        "confidence": 1,
+        "method": "exact"
+      }
+    ]
+  },
+  "resolved_at": "2026-03-11T01:50:11.631Z"
+}

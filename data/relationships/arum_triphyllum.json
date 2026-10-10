@@ -1,0 +1,23 @@
+{
+  "remedy_name": "ARUM TRIPHYLLUM",
+  "source_file": "raw_1772433324539.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/a/arum-t.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      "Buttermilk"
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Ammon carb",
+      "Ailanthus",
+      "Cepa"
+    ],
+    "incompatible": [],
+    "antidotes": [
+      "Buttermilk"
+    ]
+  },
+  "parsed_at": "2026-03-03T15:23:37.368Z"
+}

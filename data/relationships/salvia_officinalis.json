@@ -1,0 +1,17 @@
+{
+  "remedy_name": "SALVIA OFFICINALIS",
+  "source_file": "raw_1772504681084.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/s/salv.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Chrysanhemum Leucanthemum--Ox-eye Daisy"
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "parsed_at": "2026-03-03T15:23:37.721Z"
+}

@@ -1,0 +1,53 @@
+{
+  "name": "PIPER METHYSTICUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Kava-kava"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Pain in right arm. Hands feel paralyzed. Pain in thumb-joint."
+  ],
+  "guiding_symptoms": [
+    "Pain in right arm. Hands feel paralyzed. Pain in thumb-joint."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": [
+      "by turning mind to another topic",
+      "changing position"
+    ]
+  },
+  "mind_symptoms": [
+    "Very sensitive. Exaltation of mind. Amelioration of pains for a time by diverting attention. Restless desire to change position.",
+    "Urine.--Increased. Burning during micturition, gonorrhśa, and gleet. Cystitis. Chordee."
+  ],
+  "head_symptoms": [],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [
+    "Pain in right arm. Hands feel paralyzed. Pain in thumb-joint."
+  ],
+  "skin_symptoms": [
+    "Scaly. Fall of scales leaves white spots, which often ulcerate. Leprosy. Ichthyosis."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "especially in early cases"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/p/pip-m.htm",
+    "title": "PIPER METHYSTICUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:06:27.389Z"
+  },
+  "confidence_score": 0.56
+}

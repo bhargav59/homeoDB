@@ -1,0 +1,19 @@
+{
+  "remedy_name": "CASTOR EQUI",
+  "source_file": "raw_1772500544015.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/c/castor-e.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Graphites",
+      "Hippomanes",
+      "Calc"
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "parsed_at": "2026-03-03T15:23:37.417Z"
+}

@@ -1,0 +1,63 @@
+{
+  "name": "URTICA URENS",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Stinging-nettle"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Vertigo, headache with spleen pains.",
+    "Pain in acute gout deltoid; pain in ankles, wrists."
+  ],
+  "guiding_symptoms": [
+    "Vertigo, headache with spleen pains.",
+    "Pain in acute gout deltoid; pain in ankles, wrists."
+  ],
+  "modalities": {
+    "worse": [
+      "from snow-air",
+      "water, cool moist air, touch"
+    ],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Vertigo, headache with spleen pains."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "Diarrhśa chronic disease of large intestine characterized by large secretion of mucus."
+  ],
+  "urinary_symptoms": [
+    "Itching of scrotum, keeps him awake; scrotum swollen."
+  ],
+  "musculoskeletal_symptoms": [
+    "Pain in acute gout deltoid; pain in ankles, wrists."
+  ],
+  "skin_symptoms": [
+    "Itching blotches. Urticaria, burning heat, with formication; violent itching. Consequences of suppressed nettlerash. Rheumatism alternates with nettle-rash. Burn confined to skin. Urticaria nodosa (Bov). Erythema, with burning and stinging. Burns and scalds. Chicken-pox (Dulc). Angioneurotic śdema. Herpes labialis with sensation of heat and itching. Itching and stinging of scrotum."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [
+    "General heat in bed with soreness over abdomen. Fever of gout. Tropical fever."
+  ],
+  "complementary_remedies": [
+    "Medusa",
+    "Nat mur",
+    "Lac can",
+    "Ricin (diminished mammary secretion"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/u/urt-u.htm",
+    "title": "URTICA URENS - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:40:23.715Z"
+  },
+  "confidence_score": 0.8
+}

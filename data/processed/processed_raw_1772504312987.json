@@ -1,0 +1,59 @@
+{
+  "name": "PRIMULA VERIS",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Cowslip"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Sensation of a band around head; cannot keen hat on (Carbol ac). Skin of forehead tense. Fear of falling when standing up. Violent vertigo, as if everything turned around. Buzzing in ears; better in open air.",
+    "Cough, with burning and pricking in respiratory tracts. Weak voice.",
+    "Right axillary muscles painful. Weight and lassitude in limbs, especially the shoulders. Burning in hollow of right hand. Drawing pain in thumb and big toe."
+  ],
+  "guiding_symptoms": [
+    "Sensation of a band around head; cannot keen hat on (Carbol ac). Skin of forehead tense. Fear of falling when standing up. Violent vertigo, as if everything turned around. Buzzing in ears; better in open air.",
+    "Cough, with burning and pricking in respiratory tracts. Weak voice.",
+    "Right axillary muscles painful. Weight and lassitude in limbs, especially the shoulders. Burning in hollow of right hand. Drawing pain in thumb and big toe."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Sensation of a band around head; cannot keen hat on (Carbol ac). Skin of forehead tense. Fear of falling when standing up. Violent vertigo, as if everything turned around. Buzzing in ears; better in open air."
+  ],
+  "respiratory_symptoms": [
+    "Cough, with burning and pricking in respiratory tracts. Weak voice."
+  ],
+  "gi_symptoms": [],
+  "urinary_symptoms": [
+    "Urine smells strongly of violets (Terebinth)."
+  ],
+  "musculoskeletal_symptoms": [
+    "Right axillary muscles painful. Weight and lassitude in limbs, especially the shoulders. Burning in hollow of right hand. Drawing pain in thumb and big toe."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Cyclamen",
+    "Ranunc",
+    "Śnothera--Evening Primrose--(exhausting",
+    "watery diarrhśa",
+    "cholera infantum"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/p/prim-v.htm",
+    "title": "PRIMULA VERIS - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:18:32.987Z"
+  },
+  "confidence_score": 0.56
+}

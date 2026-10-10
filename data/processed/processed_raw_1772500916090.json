@@ -1,0 +1,63 @@
+{
+  "name": "COBALTUM METALLICUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "The Metal Cobalt"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Aches; worse, bending head forward. Itching of hairy scalp and beard.",
+    "Teeth.--Feel too long. Pain in teeth. Cracks across tongue. Coated white (Ant cr).",
+    "Aching in wrist-joints. Shooting into thighs from liver. Weak knees. Trembling in limbs. Tingling in feet. Foot-sweat, mostly between toes.",
+    "Pain in back and sacrum; worse while sitting; better, walking or lying. Weakness in legs and backache after emissions."
+  ],
+  "guiding_symptoms": [
+    "Aches; worse, bending head forward. Itching of hairy scalp and beard.",
+    "Teeth.--Feel too long. Pain in teeth. Cracks across tongue. Coated white (Ant cr).",
+    "Aching in wrist-joints. Shooting into thighs from liver. Weak knees. Trembling in limbs. Tingling in feet. Foot-sweat, mostly between toes."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [
+    "All mental excitement increases suffering. Constant interchange of mental moods."
+  ],
+  "head_symptoms": [
+    "Aches; worse, bending head forward. Itching of hairy scalp and beard.",
+    "Teeth.--Feel too long. Pain in teeth. Cracks across tongue. Coated white (Ant cr)."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "Shooting in liver. Pain in spleen."
+  ],
+  "urinary_symptoms": [
+    "Pain in right testicle; better, urinating. Emissions without erection. Impotence. Backache in lumbar region and weak legs. Lewd dreams. Pain in end of urethra; greenish discharge; brown spots on genitals and abdomen."
+  ],
+  "musculoskeletal_symptoms": [
+    "Aching in wrist-joints. Shooting into thighs from liver. Weak knees. Trembling in limbs. Tingling in feet. Foot-sweat, mostly between toes."
+  ],
+  "skin_symptoms": [
+    "Dry and pimply. Pimples about nates, chin, hairy scalp."
+  ],
+  "sleep_symptoms": [
+    "Unrefreshing; disturbed by lewd dreams."
+  ],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Cannab"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/c/cob.htm",
+    "title": "COBALTUM METALLICUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:21:56.089Z"
+  },
+  "confidence_score": 0.8
+}

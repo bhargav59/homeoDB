@@ -1,0 +1,24 @@
+{
+  "remedy_name": "LACTUCA VIROSA",
+  "source_file": "raw_1772502775768.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/l/lact-v.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      "Acet ac"
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "similar to Lactuca",
+      "(chronic diarrhśa",
+      "worse after eating",
+      "nights and towards morning"
+    ],
+    "incompatible": [],
+    "antidotes": [
+      "Acet ac"
+    ]
+  },
+  "parsed_at": "2026-03-03T15:23:37.518Z"
+}

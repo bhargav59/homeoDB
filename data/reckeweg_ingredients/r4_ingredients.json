@@ -1,0 +1,19 @@
+{
+  "remedy_number": "R4",
+  "remedy_name": "Diarrhoea Drops",
+  "ingredients": [
+    "Argentum nitricum D6",
+    "Arsenicum album D8",
+    "Baptisia D4",
+    "China D4",
+    "Colchicum D4",
+    "Colocynthis D4",
+    "Mercurius corrosivus D6",
+    "Nux vomica D4",
+    "Phosphorus D6",
+    "Podophyllum D4",
+    "Veratrum D4"
+  ],
+  "source": "Compiled from reckeweg-india.com, 1mg.com, medikosh.com references",
+  "parsed_at": "2026-03-03T15:30:15.189Z"
+}

@@ -1,0 +1,47 @@
+{
+  "remedy_name": "COLOCYNTHIS",
+  "source_file": "raw_1772501027144.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      {
+        "original": "Coffea",
+        "resolved_name": "COFFEA CRUDA",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "to lead poisoning",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      }
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Lobelia erinus",
+        "resolved_name": "LOBELIA INFLATA",
+        "confidence": 0.8,
+        "method": "substring"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": [
+      {
+        "original": "Coffea",
+        "resolved_name": "COFFEA CRUDA",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "lead poisoning",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      }
+    ]
+  },
+  "resolved_at": "2026-03-11T01:50:09.060Z"
+}

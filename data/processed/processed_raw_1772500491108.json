@@ -1,0 +1,55 @@
+{
+  "name": "CARLSBAD AQUA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "The Waters of the Sprudel Springs"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Tongue coated white. Offensive smell from mouth. Furry sensation. Sour or salty taste. Hiccough and yawning. Heartburn (Carbo).",
+    "Urine.--Stream weak and slow; only passed by pressing abdominal muscles.",
+    "Aches, with swollen temporal veins (Sang); better, motion, in open air."
+  ],
+  "guiding_symptoms": [
+    "Tongue coated white. Offensive smell from mouth. Furry sensation. Sour or salty taste. Hiccough and yawning. Heartburn (Carbo).",
+    "Urine.--Stream weak and slow; only passed by pressing abdominal muscles.",
+    "Aches, with swollen temporal veins (Sang); better, motion, in open air."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [
+    "Discouraged and anxious about domestic duties."
+  ],
+  "head_symptoms": [
+    "Aches, with swollen temporal veins (Sang); better, motion, in open air."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "Tongue coated white. Offensive smell from mouth. Furry sensation. Sour or salty taste. Hiccough and yawning. Heartburn (Carbo).",
+    "Urine.--Stream weak and slow; only passed by pressing abdominal muscles."
+  ],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Nat sulph",
+    "Nux"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/c/carl.htm",
+    "title": "CARLSBAD AQUA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:14:51.108Z"
+  },
+  "confidence_score": 0.62
+}

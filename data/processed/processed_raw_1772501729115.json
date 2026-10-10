@@ -1,0 +1,69 @@
+{
+  "name": "FLUORICUM ACIDUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Hydrofluoric Acid"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Heaviness and weight in stomach heat in stomach before meals. Sour eructations. Averse to coffee, wants fancy dishes. Stomach symptoms relieved by tight clothes. Desire for highly seasoned food. Craves cold water, hungry. Warm drinks produce diarrhœa.",
+    "Alopecia. Caries of skin. Pressure on sides of head from within outward. Caries of ossicles and mastoid, with copious discharge; worse warmth (Silica; worse cold). Exostosis.",
+    "Oppression of chest, difficult breathing, great dyspnœa. Hydrothorax.",
+    "Inflammation of joints of fingers. Feeling as of a splinter under nail. Nails crumble. Caries and necrosis, especially of long bones. Coccygodynia. Ulcer over tibia."
+  ],
+  "guiding_symptoms": [
+    "Heaviness and weight in stomach heat in stomach before meals. Sour eructations. Averse to coffee, wants fancy dishes. Stomach symptoms relieved by tight clothes. Desire for highly seasoned food. Craves cold water, hungry. Warm drinks produce diarrhœa.",
+    "Alopecia. Caries of skin. Pressure on sides of head from within outward. Caries of ossicles and mastoid, with copious discharge; worse warmth (Silica; worse cold). Exostosis.",
+    "Oppression of chest, difficult breathing, great dyspnœa. Hydrothorax."
+  ],
+  "modalities": {
+    "worse": [
+      "warmth, morning, warm drinks"
+    ],
+    "better": [
+      "cold while walking"
+    ]
+  },
+  "mind_symptoms": [
+    "Indifference towards those loved best; inability to realize responsibility; buoyancy. Mentally elated and gay."
+  ],
+  "head_symptoms": [
+    "Alopecia. Caries of skin. Pressure on sides of head from within outward. Caries of ossicles and mastoid, with copious discharge; worse warmth (Silica; worse cold). Exostosis."
+  ],
+  "respiratory_symptoms": [
+    "Oppression of chest, difficult breathing, great dyspnœa. Hydrothorax."
+  ],
+  "gi_symptoms": [
+    "Heaviness and weight in stomach heat in stomach before meals. Sour eructations. Averse to coffee, wants fancy dishes. Stomach symptoms relieved by tight clothes. Desire for highly seasoned food. Craves cold water, hungry. Warm drinks produce diarrhœa."
+  ],
+  "urinary_symptoms": [
+    "Burning in urethra. Sexual passion and desire increased with erections at night, during sleep. Swollen scrotum.",
+    "Urine.--Scanty, dark. In dropsy, produces frequent and free discharge, with great relief."
+  ],
+  "musculoskeletal_symptoms": [
+    "Inflammation of joints of fingers. Feeling as of a splinter under nail. Nails crumble. Caries and necrosis, especially of long bones. Coccygodynia. Ulcer over tibia."
+  ],
+  "skin_symptoms": [
+    "Varicose veins. Nævi. Ulcers; red edges and vesicles. Decubitus; worse, warmth. Syphilitic rupia. Itching of cicatrices. Feels as if burning vapor were emitted from pores. Itching especially of the orifices, and in spots, worse warmth. Nails grow rapidly. Periosteal abscess. Profuse, sour, offensive perspiration. Syphilitic tubercles. Dropsy of limbs in old, feeble constitutions. Atony of capillary and venous system. Tissues bloated."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "adhesions",
+    "strictures",
+    "tumors"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/f/fl-ac.htm",
+    "title": "FLUORICUM ACIDUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:35:29.115Z"
+  },
+  "confidence_score": 0.8
+}

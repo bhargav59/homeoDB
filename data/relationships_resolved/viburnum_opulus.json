@@ -1,0 +1,39 @@
+{
+  "remedy_name": "VIBURNUM OPULUS",
+  "source_file": "raw_1772505769170.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "after-pains",
+        "resolved_name": "APHIS CHENOPODII GLAUCI",
+        "confidence": 0.55,
+        "method": "levenshtein_3"
+      },
+      {
+        "original": "cancer of the tongue",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "obstinate hiccough",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "supposed to be a uterine tonic",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:11.721Z"
+}

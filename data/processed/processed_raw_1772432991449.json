@@ -1,0 +1,43 @@
+{
+  "name": "ANTHEMIS NOBILIS",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Roman Chamomile"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [],
+  "guiding_symptoms": [],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "Aching in region of liver; griping and chilliness inside of abdomen and into legs. Itching of anus, with white putty-like stools."
+  ],
+  "urinary_symptoms": [
+    "Bladder feels distended. Pain along spermatic cord, which feels full, as if varicosed. Frequent urination."
+  ],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [
+    "Itching of the soles, as if from chilblains. Gooseflesh."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/a/anth.htm",
+    "title": "ANTHEMIS NOBILIS - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-02T06:29:51.449Z"
+  },
+  "confidence_score": 0.44
+}

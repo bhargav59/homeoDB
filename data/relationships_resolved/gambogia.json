@@ -1,0 +1,33 @@
+{
+  "remedy_name": "GAMBOGIA",
+  "source_file": "raw_1772501858819.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Croton",
+        "resolved_name": "CROTON TIGLIUM",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Aloes",
+        "resolved_name": "ALOE SOCOTRINA",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Pod",
+        "resolved_name": "APHIS CHENOPODII GLAUCI",
+        "confidence": 0.8,
+        "method": "substring"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:09.679Z"
+}

@@ -1,0 +1,28 @@
+{
+  "remedy_name": "EUPHORBIA LATHYRIS",
+  "source_file": "raw_1772501586132.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      {
+        "original": "Rhus tox",
+        "resolved_name": "RHUS TOXICODENDRON",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      }
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [],
+    "incompatible": [],
+    "antidotes": [
+      {
+        "original": "d by Rhus tox",
+        "resolved_name": "RHUS GLABRA",
+        "confidence": 0.8,
+        "method": "substring"
+      }
+    ]
+  },
+  "resolved_at": "2026-03-11T01:50:09.597Z"
+}

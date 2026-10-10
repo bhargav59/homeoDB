@@ -1,0 +1,47 @@
+{
+  "name": "KALIUM CHLORICUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Chlorate of Potassium-K clo. 3"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Feeling of weight in epigastric and umbilical region. Flatulence. Vomiting of greenish-black matter."
+  ],
+  "guiding_symptoms": [
+    "Feeling of weight in epigastric and umbilical region. Flatulence. Vomiting of greenish-black matter."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Profuse secretion of acid saliva. Whole mucous surface red, tumid, with gray-based ulcers. Tongue swollen. Stomatitis-aphthous and gangrenous. Fetor. Mercurial stomatitis (as a mouth wash)."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "Feeling of weight in epigastric and umbilical region. Flatulence. Vomiting of greenish-black matter."
+  ],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [
+    "Jaundice. Itching miliary or papular eruptions. Discolored; chocolate tint."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/k/kali-chl.htm",
+    "title": "KALIUM CHLORICUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:49:39.031Z"
+  },
+  "confidence_score": 0.5
+}

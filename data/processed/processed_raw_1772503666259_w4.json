@@ -1,0 +1,53 @@
+{
+  "name": "VARIOLINUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Lymph from Small-pox Pustule"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Morbid fear of small-pox. Deafness. Pain in occiput. Inflamed eyelids.",
+    "Oppressed breathing. Throat feels closed. Cough with thick viscid, bloody mucus. Feeling of a lump in right side of throat."
+  ],
+  "guiding_symptoms": [
+    "Morbid fear of small-pox. Deafness. Pain in occiput. Inflamed eyelids.",
+    "Oppressed breathing. Throat feels closed. Cough with thick viscid, bloody mucus. Feeling of a lump in right side of throat."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Morbid fear of small-pox. Deafness. Pain in occiput. Inflamed eyelids."
+  ],
+  "respiratory_symptoms": [
+    "Oppressed breathing. Throat feels closed. Cough with thick viscid, bloody mucus. Feeling of a lump in right side of throat."
+  ],
+  "gi_symptoms": [],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [
+    "Hot, dry. Eruption of pustules. Shingles."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [
+    "Hot fever, with intense radiating heat. Profuse, bad-smelling sweat."
+  ],
+  "complementary_remedies": [
+    "Vaccin (same action"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/v/vario.htm",
+    "title": "VARIOLINUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:07:46.259Z"
+  },
+  "confidence_score": 0.56
+}

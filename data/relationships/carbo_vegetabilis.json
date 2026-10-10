@@ -1,0 +1,23 @@
+{
+  "remedy_name": "CARBO VEGETABILIS",
+  "source_file": "raw_1772500428157.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/c/carb-v.htm",
+  "relationships": {
+    "complementary": [
+      "Kali carb"
+    ],
+    "antidoted_by": [
+      "Spirits Nitre"
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "down trachea and extremities"
+    ],
+    "incompatible": [],
+    "antidotes": [
+      "Spirits Nitre"
+    ]
+  },
+  "parsed_at": "2026-03-03T15:23:37.412Z"
+}

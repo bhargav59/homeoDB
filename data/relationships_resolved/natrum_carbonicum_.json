@@ -1,0 +1,54 @@
+{
+  "remedy_name": "Natrum Carbonicum.",
+  "source_file": "raw_1772507953395_clarke_dictionary_w3.json",
+  "relationships": {
+    "complementary": [
+      {
+        "original": "Sep",
+        "resolved_name": "SEPIA",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      }
+    ],
+    "antidoted_by": [
+      {
+        "original": "Camph",
+        "resolved_name": "CAMPHORA",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Chi",
+        "resolved_name": "CHINA OFFICINALIS",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      }
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Nat",
+        "resolved_name": "NATRUM MURIATICUM",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": [
+      {
+        "original": "d by: Camph",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "Chi",
+        "resolved_name": "CHINA OFFICINALIS",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      }
+    ]
+  },
+  "resolved_at": "2026-03-11T01:50:10.468Z"
+}

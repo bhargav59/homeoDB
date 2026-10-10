@@ -1,0 +1,78 @@
+{
+  "remedy_name": "PHYTOLACCA DECANDRA",
+  "source_file": "raw_1772504147209.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      {
+        "original": "Milk and salt",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      }
+    ],
+    "follows_well": [],
+    "inimical": [
+      {
+        "original": "Mercur",
+        "resolved_name": "MERCURIUS SOLUBILIS",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      }
+    ],
+    "compare": [
+      {
+        "original": "Tincture of Phytolacca Berry",
+        "resolved_name": "LAC CANINUM",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Bry",
+        "resolved_name": "BRYONIA",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      },
+      {
+        "original": "Rhus",
+        "resolved_name": "RHUS GLABRA",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Kali hyd",
+        "resolved_name": "KALI CARBONICUM",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      },
+      {
+        "original": "Merc",
+        "resolved_name": "MERCURIUS SOLUBILIS",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      },
+      {
+        "original": "Sang",
+        "resolved_name": "SANGUINARIA",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      },
+      {
+        "original": "Arum triph",
+        "resolved_name": "ARUM DRACONTIUM",
+        "confidence": 0.8,
+        "method": "substring"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": [
+      {
+        "original": "Milk and salt",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      }
+    ]
+  },
+  "resolved_at": "2026-03-11T01:50:10.749Z"
+}

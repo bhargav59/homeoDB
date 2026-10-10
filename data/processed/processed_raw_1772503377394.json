@@ -1,0 +1,67 @@
+{
+  "name": "MORPHINUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "An Alkaloid of Opium"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Nausea incessant and deathly, faintness, constant retching. Vomiting of green fluid. Nausea and vomiting on rising up.",
+    "Vertigo from the least movement of the head. Headache with sensation of being \"wound-up\". Bursting pain; head drawn back.",
+    "Faint and struggling for breath diaphragmatic paralysis; hiccough; dyspnśa, paroxysmal, on first falling asleep (Lach; Grindel). Cheyne-Stokes respiration. Chest tight. Pain in middle of sternum. Dry, hard, teasing, exhausting cough, worse at night. Strangling cough, with viscid mucus sputum; thin, scanty, but sounds loose and abundant.",
+    "Alternation of tachycardia and bradycardia. Cardiac muscular tissue is intact, even if severely exhausted. Pulse small, weak, dicrotic.",
+    "Staggering gait. Numbness.",
+    "Pain along spine. Weakness of loins. Aching across lumbo-sacral region; cannot walk erect (Cimicif)."
+  ],
+  "guiding_symptoms": [
+    "Nausea incessant and deathly, faintness, constant retching. Vomiting of green fluid. Nausea and vomiting on rising up.",
+    "Vertigo from the least movement of the head. Headache with sensation of being \"wound-up\". Bursting pain; head drawn back.",
+    "Faint and struggling for breath diaphragmatic paralysis; hiccough; dyspnśa, paroxysmal, on first falling asleep (Lach; Grindel). Cheyne-Stokes respiration. Chest tight. Pain in middle of sternum. Dry, hard, teasing, exhausting cough, worse at night. Strangling cough, with viscid mucus sputum; thin, scanty, but sounds loose and abundant."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [
+    "Profound depression. Irritable, fault-finding, hysterical. Shock induced by terror. Dream-like state."
+  ],
+  "head_symptoms": [
+    "Vertigo from the least movement of the head. Headache with sensation of being \"wound-up\". Bursting pain; head drawn back."
+  ],
+  "respiratory_symptoms": [
+    "Faint and struggling for breath diaphragmatic paralysis; hiccough; dyspnśa, paroxysmal, on first falling asleep (Lach; Grindel). Cheyne-Stokes respiration. Chest tight. Pain in middle of sternum. Dry, hard, teasing, exhausting cough, worse at night. Strangling cough, with viscid mucus sputum; thin, scanty, but sounds loose and abundant."
+  ],
+  "gi_symptoms": [
+    "Nausea incessant and deathly, faintness, constant retching. Vomiting of green fluid. Nausea and vomiting on rising up."
+  ],
+  "urinary_symptoms": [
+    "Paresis of bladder. Strangury. Slow and difficult urination. Retention of prostatic hypertrophy. Urćmia, acute and chronic."
+  ],
+  "musculoskeletal_symptoms": [
+    "Staggering gait. Numbness."
+  ],
+  "skin_symptoms": [
+    "Livid; purple spots; zoster-like herpes. Itching. Skin lost its elasticity. Urticaria appearing at climaxis.",
+    "Nervous.--Restlessness and hyperethesia; trembling, twitching, jerking, convulsions. Extremely susceptible to pain. Pain causes twitching and jerking of limbs. Violent and sudden neuralgic pains and sudden fainting. Delirium, melancholic in character. Neuralgias intensely painful, left supraorbital; right intercostal, better from heat; multiple neuritis. Sore feeling all over. Bed feels too hard. Aggravation after sleep (Lach). Neuralgia after zoster (Mezer)."
+  ],
+  "sleep_symptoms": [
+    "Yawning, drowsy; prolonged, deep sleep, Sleepless; restless sleep, with frequent startings. Sleepy, but cannot sleep."
+  ],
+  "fever_symptoms": [
+    "Chills. Icy coldness. Burning heat; profuse sweat."
+  ],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/m/morph.htm",
+    "title": "MORPHINUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:02:57.394Z"
+  },
+  "confidence_score": 0.8
+}

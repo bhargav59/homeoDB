@@ -1,0 +1,21 @@
+{
+  "remedy_name": "Momordica.",
+  "source_file": "raw_1772507938252_clarke_dictionary_w1.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "s with the effects of Lyc",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:10.387Z"
+}

@@ -1,0 +1,54 @@
+{
+  "name": "JATROPHA CURCAS",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Purging Nut"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Hiccough, followed by copious vomiting. Nausea and vomiting, brought on by drinking, with acrid feeling from throat. Great thirst. Very easy vomiting. Heat and burning in stomach, with crampy, constrictive pain in epigastrium.",
+    "Cramps in muscles, especially calves, legs, and feet. Coldness of whole body. Pain in ankles, feet and toes. Heels sensitive."
+  ],
+  "guiding_symptoms": [
+    "Hiccough, followed by copious vomiting. Nausea and vomiting, brought on by drinking, with acrid feeling from throat. Great thirst. Very easy vomiting. Heat and burning in stomach, with crampy, constrictive pain in epigastrium.",
+    "Cramps in muscles, especially calves, legs, and feet. Coldness of whole body. Pain in ankles, feet and toes. Heels sensitive."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": [
+      "by placing hands in cold water"
+    ]
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "Hiccough, followed by copious vomiting. Nausea and vomiting, brought on by drinking, with acrid feeling from throat. Great thirst. Very easy vomiting. Heat and burning in stomach, with crampy, constrictive pain in epigastrium."
+  ],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [
+    "Cramps in muscles, especially calves, legs, and feet. Coldness of whole body. Pain in ankles, feet and toes. Heels sensitive."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Camph",
+    "Verat",
+    "Gambog",
+    "Croton"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/j/jatr.htm",
+    "title": "JATROPHA CURCAS - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:47:48.230Z"
+  },
+  "confidence_score": 0.62
+}

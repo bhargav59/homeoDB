@@ -1,0 +1,52 @@
+{
+  "remedy_name": "ACONITUM NAPELLUS",
+  "source_file": "raw_1772371569994.json",
+  "relationships": {
+    "complementary": [
+      {
+        "original": "Coffea",
+        "resolved_name": "COFFEA CRUDA",
+        "confidence": 1,
+        "method": "exact"
+      }
+    ],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Bellad",
+        "resolved_name": "BELLADONNA",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      },
+      {
+        "original": "Cham",
+        "resolved_name": "CHAMOMILLA",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      },
+      {
+        "original": "Coffea",
+        "resolved_name": "COFFEA CRUDA",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Ferr",
+        "resolved_name": "FERRUM METALLICUM",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      },
+      {
+        "original": "phos",
+        "resolved_name": "PHOSPHORUS",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:08.346Z"
+}

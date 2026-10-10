@@ -1,0 +1,72 @@
+{
+  "name": "CARBO VEGETABILIS",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Vegetable Charcoal"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Eructations, heaviness, fullness, and sleepiness; tense from flatulence, with pain; worse lying down. Eructations after eating and drinking. Temporary relief from belching. Rancid, sour, or putrid eructations. Waterbrash, asthmatic breathing from flatulence. Nausea in the morning. Burning in stomach, extending to back and along spine. Contractive pain extending to chest, with distention of abdomen. Faint gone feeling in stomach, not relieved by eating. Crampy pains forcing patient to bend double. Distress comes on a half-hour after eating. Sensitiveness of epigastric region. Digestion slow; food putrefies before it digests. Gastralgia of nursing women, with excessive flatulence, sour, rancid belching. Aversion to milk, meat, and fat things. The simplest food distresses. Epigastric region very sensitive.",
+    "Aches from any over-indulgence. Hair feels sore, falls off easily; scalp itches when getting warm in bed. Hat pressed upon head like a heavy weight. Head feels heavy, constricted. Vertigo with nausea and tinnitus. Pimples on forehead and face.",
+    "Cough with itching in larynx; spasmodic with gagging and vomiting of mucus. Whooping cough, especially in beginning. Deep, rough voice, failing on slight exertion. Hoarseness; worse, evenings, talking; evening oppression of breathing, sore and raw chest. Wheezing and rattling of mucus in chest. Occasional spells of long coughing attacks. Cough, with burning in chest; worse in evening, in open air, after eating and talking. Spasmodic cough, bluish face, offensive expectoration, neglected pneumonia. Breath cold; must be fanned. Hćmorrhage from lungs. Asthma in aged with blue skin.",
+    "Heavy, stiff; feel paralyzed; limbs, go to sleep; want of muscular energy; joints weak. Pain in shins. Cramp in soles; feet numb and sweaty. Cold from knees down. Toes red, swollen. Burning pain in bones and limbs."
+  ],
+  "guiding_symptoms": [
+    "Eructations, heaviness, fullness, and sleepiness; tense from flatulence, with pain; worse lying down. Eructations after eating and drinking. Temporary relief from belching. Rancid, sour, or putrid eructations. Waterbrash, asthmatic breathing from flatulence. Nausea in the morning. Burning in stomach, extending to back and along spine. Contractive pain extending to chest, with distention of abdomen. Faint gone feeling in stomach, not relieved by eating. Crampy pains forcing patient to bend double. Distress comes on a half-hour after eating. Sensitiveness of epigastric region. Digestion slow; food putrefies before it digests. Gastralgia of nursing women, with excessive flatulence, sour, rancid belching. Aversion to milk, meat, and fat things. The simplest food distresses. Epigastric region very sensitive.",
+    "Aches from any over-indulgence. Hair feels sore, falls off easily; scalp itches when getting warm in bed. Hat pressed upon head like a heavy weight. Head feels heavy, constricted. Vertigo with nausea and tinnitus. Pimples on forehead and face.",
+    "Cough with itching in larynx; spasmodic with gagging and vomiting of mucus. Whooping cough, especially in beginning. Deep, rough voice, failing on slight exertion. Hoarseness; worse, evenings, talking; evening oppression of breathing, sore and raw chest. Wheezing and rattling of mucus in chest. Occasional spells of long coughing attacks. Cough, with burning in chest; worse in evening, in open air, after eating and talking. Spasmodic cough, bluish face, offensive expectoration, neglected pneumonia. Breath cold; must be fanned. Hćmorrhage from lungs. Asthma in aged with blue skin."
+  ],
+  "modalities": {
+    "worse": [
+      "evening",
+      "night and open air",
+      "cold",
+      "from fat food, butter, coffee, milk, warm damp weather",
+      "wine"
+    ],
+    "better": [
+      "from eructation, from fanning, cold"
+    ]
+  },
+  "mind_symptoms": [
+    "Aversion to darkness. Fear of ghosts. Sudden loss of memory."
+  ],
+  "head_symptoms": [
+    "Aches from any over-indulgence. Hair feels sore, falls off easily; scalp itches when getting warm in bed. Hat pressed upon head like a heavy weight. Head feels heavy, constricted. Vertigo with nausea and tinnitus. Pimples on forehead and face."
+  ],
+  "respiratory_symptoms": [
+    "Cough with itching in larynx; spasmodic with gagging and vomiting of mucus. Whooping cough, especially in beginning. Deep, rough voice, failing on slight exertion. Hoarseness; worse, evenings, talking; evening oppression of breathing, sore and raw chest. Wheezing and rattling of mucus in chest. Occasional spells of long coughing attacks. Cough, with burning in chest; worse in evening, in open air, after eating and talking. Spasmodic cough, bluish face, offensive expectoration, neglected pneumonia. Breath cold; must be fanned. Hćmorrhage from lungs. Asthma in aged with blue skin."
+  ],
+  "gi_symptoms": [
+    "Eructations, heaviness, fullness, and sleepiness; tense from flatulence, with pain; worse lying down. Eructations after eating and drinking. Temporary relief from belching. Rancid, sour, or putrid eructations. Waterbrash, asthmatic breathing from flatulence. Nausea in the morning. Burning in stomach, extending to back and along spine. Contractive pain extending to chest, with distention of abdomen. Faint gone feeling in stomach, not relieved by eating. Crampy pains forcing patient to bend double. Distress comes on a half-hour after eating. Sensitiveness of epigastric region. Digestion slow; food putrefies before it digests. Gastralgia of nursing women, with excessive flatulence, sour, rancid belching. Aversion to milk, meat, and fat things. The simplest food distresses. Epigastric region very sensitive."
+  ],
+  "urinary_symptoms": [
+    "Discharge of prostatic fluid at stool. Itching and moisture at thigh near scrotum."
+  ],
+  "musculoskeletal_symptoms": [
+    "Heavy, stiff; feel paralyzed; limbs, go to sleep; want of muscular energy; joints weak. Pain in shins. Cramp in soles; feet numb and sweaty. Cold from knees down. Toes red, swollen. Burning pain in bones and limbs."
+  ],
+  "skin_symptoms": [
+    "Blue, cold ecchymosed. Marbled with venous over distension. Itching; worse on evening, when warm in bed. Moist skin; hot perspiration; senile gangrene beginning in toes; bed sores; bleed easily. Falling out of hair, from a general weakened condition. Indolent ulcers, burning pain. Ichorous, offensive discharge; tendency to gangrene of the margins. Purpura. Varicose ulcers, carbuncles (Ars; Anthrac)."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [
+    "Coldness, with thirst. Chill begins in forearm. Burning in various places. Perspiration on eating. Hectic fever, exhausting sweats."
+  ],
+  "complementary_remedies": [
+    "down trachea and extremities"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/c/carb-v.htm",
+    "title": "CARBO VEGETABILIS - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:13:48.157Z"
+  },
+  "confidence_score": 0.8
+}

@@ -1,0 +1,51 @@
+{
+  "remedy_name": "CALCAREA FLUORICA",
+  "source_file": "raw_1772500254044.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Con",
+        "resolved_name": "CONIUM MACULATUM",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      },
+      {
+        "original": "Lapis",
+        "resolved_name": "LAPIS ALBUS",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Baryt mur",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "Hecla",
+        "resolved_name": "HECLA LAVA",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Rhus",
+        "resolved_name": "RHUS GLABRA",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Cacodylate of Soda",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:08.772Z"
+}

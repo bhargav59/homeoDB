@@ -1,0 +1,61 @@
+{
+  "name": "IRIS VERSICOLOR",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Blue Flag"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Burning of whole alimentary canal. Vomiting, sour bloody, biliary. Nausea. Profuse flow of saliva (Merc; Ipec; Kali iod). Deficient appetite.",
+    "Frontal headache, with nausea. Scalp feels constricted. Right temples especially affected. Sick headache, worse rest; begins with a blur before eyes, after relaxing from a mental strain. Pustular eruption on scalp.",
+    "Shifting pains. Sciatica, as if left hip-joint were wrenched. Pain extends to popliteal space. Gonorrhœal rheumatism (use Irisin)."
+  ],
+  "guiding_symptoms": [
+    "Burning of whole alimentary canal. Vomiting, sour bloody, biliary. Nausea. Profuse flow of saliva (Merc; Ipec; Kali iod). Deficient appetite.",
+    "Frontal headache, with nausea. Scalp feels constricted. Right temples especially affected. Sick headache, worse rest; begins with a blur before eyes, after relaxing from a mental strain. Pustular eruption on scalp.",
+    "Shifting pains. Sciatica, as if left hip-joint were wrenched. Pain extends to popliteal space. Gonorrhœal rheumatism (use Irisin)."
+  ],
+  "modalities": {
+    "worse": [
+      "in evening and at night, from rest"
+    ],
+    "better": [
+      "from continued motion"
+    ]
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Frontal headache, with nausea. Scalp feels constricted. Right temples especially affected. Sick headache, worse rest; begins with a blur before eyes, after relaxing from a mental strain. Pustular eruption on scalp."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "Burning of whole alimentary canal. Vomiting, sour bloody, biliary. Nausea. Profuse flow of saliva (Merc; Ipec; Kali iod). Deficient appetite."
+  ],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [
+    "Shifting pains. Sciatica, as if left hip-joint were wrenched. Pain extends to popliteal space. Gonorrhœal rheumatism (use Irisin)."
+  ],
+  "skin_symptoms": [
+    "Herpes zoster, associated with gastric derangements. Pustular eruptions. Psoriasis; irregular patches with shining scales. Eczema, with nightly itching."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Iris florentina-Orris-root--(delirium",
+    "convulsions",
+    "and paralysis"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/i/iris.htm",
+    "title": "IRIS VERSICOLOR - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:47:08.280Z"
+  },
+  "confidence_score": 0.8
+}

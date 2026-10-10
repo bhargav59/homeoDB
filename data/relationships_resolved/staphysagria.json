@@ -1,0 +1,79 @@
+{
+  "remedy_name": "STAPHYSAGRIA",
+  "source_file": "raw_1772505035797.json",
+  "relationships": {
+    "complementary": [
+      {
+        "original": "Caust",
+        "resolved_name": "CAUSTICUM",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      }
+    ],
+    "antidoted_by": [
+      {
+        "original": "Camph",
+        "resolved_name": "CAMPHORA",
+        "confidence": 0.8,
+        "method": "substring"
+      }
+    ],
+    "follows_well": [],
+    "inimical": [
+      {
+        "original": "Ranunc bulb",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      }
+    ],
+    "compare": [
+      {
+        "original": "Ferrum pyrophos",
+        "resolved_name": "FERRUM METALLICUM",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      },
+      {
+        "original": "Colocy",
+        "resolved_name": "COLOCYNTHIS",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      },
+      {
+        "original": "Caust",
+        "resolved_name": "CAUSTICUM",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      },
+      {
+        "original": "Ign",
+        "resolved_name": "IGNATIA AMARA",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      },
+      {
+        "original": "Phos ac",
+        "resolved_name": "PHOSPHORUS",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      },
+      {
+        "original": "Calad",
+        "resolved_name": "CALADIUM SEGUINUM",
+        "confidence": 0.8,
+        "method": "substring"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": [
+      {
+        "original": "Camph",
+        "resolved_name": "CAMPHORA",
+        "confidence": 0.8,
+        "method": "substring"
+      }
+    ]
+  },
+  "resolved_at": "2026-03-11T01:50:11.289Z"
+}

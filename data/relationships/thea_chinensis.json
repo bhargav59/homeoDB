@@ -1,0 +1,19 @@
+{
+  "remedy_name": "THEA CHINENSIS",
+  "source_file": "raw_1772505380548.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/t/thea.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      "Kali hypophos"
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [],
+    "incompatible": [],
+    "antidotes": [
+      "Kali hypophos"
+    ]
+  },
+  "parsed_at": "2026-03-03T15:23:37.755Z"
+}

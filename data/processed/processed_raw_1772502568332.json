@@ -1,0 +1,78 @@
+{
+  "name": "KALIUM CARBONICUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Carbonate of Potassium"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Flatulence. Desire for sweets. Feeling of lump in pit of stomach. Gagging. Dyspepsia of old people; burning acidity, bloating. Gastric disorders from ice-water. Sour eructations. Nausea; better lying down. Constant feeling as if stomach were full of water. Sour vomiting; throbbing and cutting in stomach. Disgust for food. Anxiety felt in stomach. Epigastrium sensitive externally. Easy choking when eating. Epigastric pain to back.",
+    "Vertigo on turning. Headache from riding in cold wind. Headache comes on with yawning. Stitches in temples; aching in occiput, one-sided, with nausea, on riding in carriage. Loose feeling in head. Great dryness of hair; falls out (Fluor ac).",
+    "Cutting pain in chest; worse lying on right side. Hoarseness and loss of voice. Dry, hard cough about 3 am, with stitching pains and dryness of pharynx. Bronchitis, whole chest is very sensitive. Expectoration scanty and tenacious, but increasing in morning and after eating; aggravated right lower chest and lying on painful side. Hydrothorax. Leaning forward relieves chest symptoms. Expectoration must be swallowed; cheesy taste; copious, offensive, lump. Coldness of chest. Wheezing. Cough with relaxed uvula. Tendency to tuberculosis; constant cold taking; better in warm climate.",
+    "Sensation as if heart were suspended. Palpitation and burning in heart region. Weak, rapid pulse; intermits, due to digestive disturbance. Threatened heart failure.",
+    "Backs and legs give out. Uneasiness heaviness, and tearing in limbs and jerking. Tearing pain in limbs with swelling. Limbs sensitive to pressure. White swelling of knee. Tearing in arms from shoulder to wrist. Lacerating in wrist-joint. Paralysis of old people, and dropsical affections. Limbs go to sleep easily. Tips of toes and fingers painful. Soles very sensitive. Itching of great toe, with pain. Pain from hip to knee. Pain in knees.",
+    "Great exhaustion. Stitches in region of kidneys and right scapula. Small of back feels weak. Stiffness and paralytic feeling in back. Burning in spine (Guaco). Severe backache during pregnancy, and after miscarriage. Hip-disease. Pain in nates and thighs and hip-joint. Lumbago with sudden sharp pains extending up and down back and to thighs."
+  ],
+  "guiding_symptoms": [
+    "Flatulence. Desire for sweets. Feeling of lump in pit of stomach. Gagging. Dyspepsia of old people; burning acidity, bloating. Gastric disorders from ice-water. Sour eructations. Nausea; better lying down. Constant feeling as if stomach were full of water. Sour vomiting; throbbing and cutting in stomach. Disgust for food. Anxiety felt in stomach. Epigastrium sensitive externally. Easy choking when eating. Epigastric pain to back.",
+    "Vertigo on turning. Headache from riding in cold wind. Headache comes on with yawning. Stitches in temples; aching in occiput, one-sided, with nausea, on riding in carriage. Loose feeling in head. Great dryness of hair; falls out (Fluor ac).",
+    "Cutting pain in chest; worse lying on right side. Hoarseness and loss of voice. Dry, hard cough about 3 am, with stitching pains and dryness of pharynx. Bronchitis, whole chest is very sensitive. Expectoration scanty and tenacious, but increasing in morning and after eating; aggravated right lower chest and lying on painful side. Hydrothorax. Leaning forward relieves chest symptoms. Expectoration must be swallowed; cheesy taste; copious, offensive, lump. Coldness of chest. Wheezing. Cough with relaxed uvula. Tendency to tuberculosis; constant cold taking; better in warm climate."
+  ],
+  "modalities": {
+    "worse": [
+      "after coition",
+      "in cold weather",
+      "from soup and coffee",
+      "in morning about three o'clock",
+      "lying on left and painful side"
+    ],
+    "better": [
+      "in warm weather, though moist",
+      "during day, while moving about"
+    ]
+  },
+  "mind_symptoms": [
+    "Despondent. Alternating moods. Very irritable. Full of fear and imaginations. Anxiety felt in stomach. Sensation as if bed were sinking. Never wants to be left alone. Never quiet or contented. Obstinate and hypersensitive to pain, noise, touch."
+  ],
+  "head_symptoms": [
+    "Vertigo on turning. Headache from riding in cold wind. Headache comes on with yawning. Stitches in temples; aching in occiput, one-sided, with nausea, on riding in carriage. Loose feeling in head. Great dryness of hair; falls out (Fluor ac)."
+  ],
+  "respiratory_symptoms": [
+    "Cutting pain in chest; worse lying on right side. Hoarseness and loss of voice. Dry, hard cough about 3 am, with stitching pains and dryness of pharynx. Bronchitis, whole chest is very sensitive. Expectoration scanty and tenacious, but increasing in morning and after eating; aggravated right lower chest and lying on painful side. Hydrothorax. Leaning forward relieves chest symptoms. Expectoration must be swallowed; cheesy taste; copious, offensive, lump. Coldness of chest. Wheezing. Cough with relaxed uvula. Tendency to tuberculosis; constant cold taking; better in warm climate."
+  ],
+  "gi_symptoms": [
+    "Flatulence. Desire for sweets. Feeling of lump in pit of stomach. Gagging. Dyspepsia of old people; burning acidity, bloating. Gastric disorders from ice-water. Sour eructations. Nausea; better lying down. Constant feeling as if stomach were full of water. Sour vomiting; throbbing and cutting in stomach. Disgust for food. Anxiety felt in stomach. Epigastrium sensitive externally. Easy choking when eating. Epigastric pain to back."
+  ],
+  "urinary_symptoms": [
+    "Complaints from coition. Deficient sexual instinct. Excessive emissions, followed by weakness."
+  ],
+  "musculoskeletal_symptoms": [
+    "Backs and legs give out. Uneasiness heaviness, and tearing in limbs and jerking. Tearing pain in limbs with swelling. Limbs sensitive to pressure. White swelling of knee. Tearing in arms from shoulder to wrist. Lacerating in wrist-joint. Paralysis of old people, and dropsical affections. Limbs go to sleep easily. Tips of toes and fingers painful. Soles very sensitive. Itching of great toe, with pain. Pain from hip to knee. Pain in knees."
+  ],
+  "skin_symptoms": [
+    "Burning as from a mustard plaster."
+  ],
+  "sleep_symptoms": [
+    "Drowsy after eating. Wakes about two o'clock and cannot sleep again."
+  ],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Kali salicylicum (vomiting",
+    "especially of pregnancy",
+    "arteriosclerosis",
+    "with chronic rheumatism"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/k/kali-c.htm",
+    "title": "KALIUM CARBONICUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:49:28.332Z"
+  },
+  "confidence_score": 0.8
+}

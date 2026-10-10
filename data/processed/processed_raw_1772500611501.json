@@ -1,0 +1,54 @@
+{
+  "name": "CENCHRIS CONTORTRIX",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Copperhead Snake"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Forgetful, absent-minded, alternating moods. Aching pain in left frontal eminence and left side of teeth. Swelling around eyes, aching and itching in eyes.",
+    "Feels distended, fills whole chest, as if it fell down in abdomen; sharp stitches, fluttering under left scapula."
+  ],
+  "guiding_symptoms": [
+    "Forgetful, absent-minded, alternating moods. Aching pain in left frontal eminence and left side of teeth. Swelling around eyes, aching and itching in eyes.",
+    "Feels distended, fills whole chest, as if it fell down in abdomen; sharp stitches, fluttering under left scapula."
+  ],
+  "modalities": {
+    "worse": [
+      "pressure",
+      "lying down",
+      "afternoon and night"
+    ],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Forgetful, absent-minded, alternating moods. Aching pain in left frontal eminence and left side of teeth. Swelling around eyes, aching and itching in eyes."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [],
+  "sleep_symptoms": [
+    "Dreams horrible and vivid; lascivious."
+  ],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Ars",
+    "Laches"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/c/cench.htm",
+    "title": "CENCHRIS CONTORTRIX - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:16:51.501Z"
+  },
+  "confidence_score": 0.56
+}

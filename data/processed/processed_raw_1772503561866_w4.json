@@ -1,0 +1,49 @@
+{
+  "name": "NICCOLUM SULPHURICUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Sulphate of Nickel"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Nervous, uneasy, desire to recline, tired, cannot settle down to any occupation. Periodic headaches, occipital pain, extending down to spine, worse lying on back; sore pain in eyes.",
+    "Stiff, numb sensation, worse in neck. Spine sore. Awakened in morning with burning soles, Spinal pains, legs and arms heavy and weak, cannot lie on back."
+  ],
+  "guiding_symptoms": [
+    "Nervous, uneasy, desire to recline, tired, cannot settle down to any occupation. Periodic headaches, occipital pain, extending down to spine, worse lying on back; sore pain in eyes.",
+    "Stiff, numb sensation, worse in neck. Spine sore. Awakened in morning with burning soles, Spinal pains, legs and arms heavy and weak, cannot lie on back."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Nervous, uneasy, desire to recline, tired, cannot settle down to any occupation. Periodic headaches, occipital pain, extending down to spine, worse lying on back; sore pain in eyes."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [],
+  "urinary_symptoms": [
+    "Dull aching in ovaries, with sensation as if menses appear. Hot flashes, followed by perspiration on parts touching each other, when separated become dry."
+  ],
+  "musculoskeletal_symptoms": [
+    "Stiff, numb sensation, worse in neck. Spine sore. Awakened in morning with burning soles, Spinal pains, legs and arms heavy and weak, cannot lie on back."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/n/nicc-s.htm",
+    "title": "NICCOLUM SULPHURICUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:06:01.866Z"
+  },
+  "confidence_score": 0.44
+}

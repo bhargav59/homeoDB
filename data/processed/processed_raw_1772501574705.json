@@ -1,0 +1,59 @@
+{
+  "name": "EUPHORBIUM OFFICINARUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Spurge-The resinous Juice of Euphorbia Resinifera"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Great hunger. Sialorrhea (profuse salty saliva). Waterbrash. Thirst for cold drinks.",
+    "Acute mania. Violent, pressive headache.",
+    "Breathing oppressed, as if chest were not wide enough. Spasmodic, dry cough, day and night, with asthma. Violent, fluent coryza, with burning and cough. Constant cough, with stitches from pit of stomach to sides of chest. Croup, dry, hollow, cough. Warm feeling in chest, as if hot food had been swallowed.",
+    "Paralytic pains. Pain in hip-joint and coccyx."
+  ],
+  "guiding_symptoms": [
+    "Great hunger. Sialorrhea (profuse salty saliva). Waterbrash. Thirst for cold drinks.",
+    "Acute mania. Violent, pressive headache.",
+    "Breathing oppressed, as if chest were not wide enough. Spasmodic, dry cough, day and night, with asthma. Violent, fluent coryza, with burning and cough. Constant cough, with stitches from pit of stomach to sides of chest. Croup, dry, hollow, cough. Warm feeling in chest, as if hot food had been swallowed."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Acute mania. Violent, pressive headache."
+  ],
+  "respiratory_symptoms": [
+    "Breathing oppressed, as if chest were not wide enough. Spasmodic, dry cough, day and night, with asthma. Violent, fluent coryza, with burning and cough. Constant cough, with stitches from pit of stomach to sides of chest. Croup, dry, hollow, cough. Warm feeling in chest, as if hot food had been swallowed."
+  ],
+  "gi_symptoms": [
+    "Great hunger. Sialorrhea (profuse salty saliva). Waterbrash. Thirst for cold drinks."
+  ],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [
+    "Paralytic pains. Pain in hip-joint and coccyx."
+  ],
+  "skin_symptoms": [
+    "Erysipelatous inflammation, especially of the cheek. Biting and stinging, red, swollen. Vesicular erysipelas. Carbuncle; old, torpid, indolent ulcers with biting, lancinating pain. Old torpid ulcer, pustules; gangrene (Echinac; Secale). Ulcerating carcinoma and epithelioma of the skin."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "illusion of smell",
+    "odor of mice"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/e/euph.htm",
+    "title": "EUPHORBIUM OFFICINARUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:32:54.705Z"
+  },
+  "confidence_score": 0.74
+}

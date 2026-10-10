@@ -1,0 +1,56 @@
+{
+  "name": "HELODERMA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Gila Monster"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Cold feeling in lungs and in heart. Slow labored thumping of heart.",
+    "Very depressed. Sensation as if would fall to right side. Cold band around head; cold pressure within the skull. Eyelids heavy. Pain beginning in right ear, extending round back of head to left ear.",
+    "Numbness and trembling. Cyanosis of hands. Coldness. Sensation as if walking on sponge, and as if feet were swollen. Staggering gait. Cock's gait. When walking, lifts feet higher than usual, and puts down heel hard. Feet cold as ice or burn. Stretching relieves pains in muscles and limbs.",
+    "Coldness across scapulć. Burning along spine."
+  ],
+  "guiding_symptoms": [
+    "Cold feeling in lungs and in heart. Slow labored thumping of heart.",
+    "Very depressed. Sensation as if would fall to right side. Cold band around head; cold pressure within the skull. Eyelids heavy. Pain beginning in right ear, extending round back of head to left ear.",
+    "Numbness and trembling. Cyanosis of hands. Coldness. Sensation as if walking on sponge, and as if feet were swollen. Staggering gait. Cock's gait. When walking, lifts feet higher than usual, and puts down heel hard. Feet cold as ice or burn. Stretching relieves pains in muscles and limbs."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Very depressed. Sensation as if would fall to right side. Cold band around head; cold pressure within the skull. Eyelids heavy. Pain beginning in right ear, extending round back of head to left ear."
+  ],
+  "respiratory_symptoms": [
+    "Cold feeling in lungs and in heart. Slow labored thumping of heart."
+  ],
+  "gi_symptoms": [],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [
+    "Numbness and trembling. Cyanosis of hands. Coldness. Sensation as if walking on sponge, and as if feet were swollen. Staggering gait. Cock's gait. When walking, lifts feet higher than usual, and puts down heel hard. Feet cold as ice or burn. Stretching relieves pains in muscles and limbs."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [
+    "Internal coldness, as if frozen to death. Cold rings around body. Cold waves (Abies c; Acon). Cold spots. Arctic coldness. Temperature subnormal-96° (Camph)."
+  ],
+  "complementary_remedies": [
+    "Lacerta-Green Lizard (skin eruptions"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/h/helo.htm",
+    "title": "HELODERMA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:42:10.380Z"
+  },
+  "confidence_score": 0.74
+}

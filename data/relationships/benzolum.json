@@ -1,0 +1,17 @@
+{
+  "remedy_name": "BENZOLUM",
+  "source_file": "raw_1772499975804.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/b/benzol.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Benzin"
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "parsed_at": "2026-03-03T15:23:37.384Z"
+}

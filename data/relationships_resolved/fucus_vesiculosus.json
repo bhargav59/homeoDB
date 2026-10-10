@@ -1,0 +1,39 @@
+{
+  "remedy_name": "FUCUS VESICULOSUS",
+  "source_file": "raw_1772501791747.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Phytol",
+        "resolved_name": "PHYTOLACCA",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      },
+      {
+        "original": "Thyroidine",
+        "resolved_name": "THYROIDINUM",
+        "confidence": 0.7,
+        "method": "levenshtein_2"
+      },
+      {
+        "original": "Badiaga",
+        "resolved_name": "BADIAGA",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Iodum",
+        "resolved_name": "IODIUM",
+        "confidence": 0.85,
+        "method": "levenshtein_1"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:09.675Z"
+}

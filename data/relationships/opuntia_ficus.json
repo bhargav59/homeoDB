@@ -1,0 +1,17 @@
+{
+  "remedy_name": "OPUNTIA FICUS",
+  "source_file": "raw_1772503822083.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/o/opun-f.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Chaparra amargosa"
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "parsed_at": "2026-03-03T15:23:37.682Z"
+}

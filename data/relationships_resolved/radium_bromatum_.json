@@ -1,0 +1,28 @@
+{
+  "remedy_name": "Radium Bromatum.",
+  "source_file": "raw_1772508026384_clarke_dictionary_w1.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      {
+        "original": "Rhus and Nux mos",
+        "resolved_name": "RHUS TOXICODENDRON",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      }
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [],
+    "incompatible": [],
+    "antidotes": [
+      {
+        "original": "d by Rhus and Nux mos",
+        "resolved_name": "NUX MOSCHATA",
+        "confidence": 0.8,
+        "method": "substring"
+      }
+    ]
+  },
+  "resolved_at": "2026-03-11T01:50:10.934Z"
+}

@@ -1,0 +1,59 @@
+{
+  "remedy_name": "BROMIUM",
+  "source_file": "raw_1772500122470.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      {
+        "original": "Ammon carb",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      }
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Conium",
+        "resolved_name": "CONIUM MACULATUM",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Spongia",
+        "resolved_name": "SPONGIA TOSTA",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Iod",
+        "resolved_name": "AMMONIUM IODATUM",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Aster",
+        "resolved_name": "ASTERIAS RUBENS",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Arg nit",
+        "resolved_name": "ARGENTUM NITRICUM",
+        "confidence": 0.55,
+        "method": "levenshtein_3"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": [
+      {
+        "original": "Ammon carb",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      }
+    ]
+  },
+  "resolved_at": "2026-03-11T01:50:08.715Z"
+}

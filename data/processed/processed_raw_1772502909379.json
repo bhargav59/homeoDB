@@ -1,0 +1,70 @@
+{
+  "name": "LILIUM TIGRINUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Tiger-lily"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Flatulent; nausea, with sensation of lump in stomach. Hungry; longs for meat. Thirsty, drinks often and much, and before severe symptoms.",
+    "Hot, dull, heavy. Faint in warm room. Wild feeling in head.",
+    "Sensation as if heart were grasped in a vise (Cact). Feels full to bursting. Pulsations over whole body. Palpitation; irregular pulse; very rapid. Pain in cardiac region, with feeling of a load on chest. Cold feeling about heart. Suffocating feeling in a crowded and warm room. Angina pectoris with pain in right arm.",
+    "Cannot walk on uneven ground. Pain in back and spine, with trembling, but oftener in front of a pressing-down character. Pricking in fingers. Pain in right arm and hip. Legs ache; cannot keep them still. Pain in ankle joint. Burning palms and soles."
+  ],
+  "guiding_symptoms": [
+    "Flatulent; nausea, with sensation of lump in stomach. Hungry; longs for meat. Thirsty, drinks often and much, and before severe symptoms.",
+    "Hot, dull, heavy. Faint in warm room. Wild feeling in head.",
+    "Sensation as if heart were grasped in a vise (Cact). Feels full to bursting. Pulsations over whole body. Palpitation; irregular pulse; very rapid. Pain in cardiac region, with feeling of a load on chest. Cold feeling about heart. Suffocating feeling in a crowded and warm room. Angina pectoris with pain in right arm."
+  ],
+  "modalities": {
+    "worse": [
+      "consolation, warm room"
+    ],
+    "better": [
+      "fresh air"
+    ]
+  },
+  "mind_symptoms": [
+    "Tormented about her salvation. Consolation aggravates. Profound depression of spirits. Constant inclination to weep. Anxious; fears some organic and incurable disease. Disposed to curse, strike, think obscene things. Aimless, hurried manner; must keep busy."
+  ],
+  "head_symptoms": [
+    "Hot, dull, heavy. Faint in warm room. Wild feeling in head."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "Flatulent; nausea, with sensation of lump in stomach. Hungry; longs for meat. Thirsty, drinks often and much, and before severe symptoms."
+  ],
+  "urinary_symptoms": [
+    "Frequent urging. Urine milky, scanty, hot."
+  ],
+  "musculoskeletal_symptoms": [
+    "Cannot walk on uneven ground. Pain in back and spine, with trembling, but oftener in front of a pressing-down character. Pricking in fingers. Pain in right arm and hip. Legs ache; cannot keep them still. Pain in ankle joint. Burning palms and soles."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [
+    "Unrefreshing, with disagreeable dreams. Unable to sleep, with wild feeling in head."
+  ],
+  "fever_symptoms": [
+    "Great heat and lassitude in afternoon, with throbbing throughout body."
+  ],
+  "complementary_remedies": [
+    "Cact",
+    "Helon",
+    "Murex",
+    "Sep",
+    "Plat"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/l/lil-t.htm",
+    "title": "LILIUM TIGRINUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:55:09.379Z"
+  },
+  "confidence_score": 0.8
+}

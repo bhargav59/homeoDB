@@ -1,0 +1,26 @@
+{
+  "remedy_name": "ALLIUM SATIVUM",
+  "source_file": "raw_1772371742411.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/a/all-s.htm",
+  "relationships": {
+    "complementary": [
+      "Arsenic"
+    ],
+    "antidoted_by": [
+      "Lycopod"
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Capsicum",
+      "Arsenic",
+      "Senega",
+      "Kali nit"
+    ],
+    "incompatible": [],
+    "antidotes": [
+      "Lycopod"
+    ]
+  },
+  "parsed_at": "2026-03-03T15:23:37.327Z"
+}

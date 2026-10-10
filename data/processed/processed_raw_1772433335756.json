@@ -1,0 +1,58 @@
+{
+  "name": "ARUNDO MAURITANICA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Reed"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Coldness in stomach. Longing for acids.",
+    "Itching; falling off of hair; roots of hair painful. Pustules. Pain in occiput, extends to right ciliary region. Deep seated pain in sides of head.",
+    "Dyspnœa; cough; bluish expectoration. Burning and pain in nipples.",
+    "Itching, burning; œdema of hands and feet. Burning and swelling of soles. Copious and offensive sweat of feet."
+  ],
+  "guiding_symptoms": [
+    "Coldness in stomach. Longing for acids.",
+    "Itching; falling off of hair; roots of hair painful. Pustules. Pain in occiput, extends to right ciliary region. Deep seated pain in sides of head.",
+    "Dyspnœa; cough; bluish expectoration. Burning and pain in nipples."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Itching; falling off of hair; roots of hair painful. Pustules. Pain in occiput, extends to right ciliary region. Deep seated pain in sides of head."
+  ],
+  "respiratory_symptoms": [
+    "Dyspnœa; cough; bluish expectoration. Burning and pain in nipples."
+  ],
+  "gi_symptoms": [
+    "Coldness in stomach. Longing for acids."
+  ],
+  "urinary_symptoms": [
+    "Pain in spermatic cord after embrace."
+  ],
+  "musculoskeletal_symptoms": [
+    "Itching, burning; œdema of hands and feet. Burning and swelling of soles. Copious and offensive sweat of feet."
+  ],
+  "skin_symptoms": [
+    "Eczema; itching and crawling, especially of chest, upper extremities. Fissures in fingers and heels."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/a/arund.htm",
+    "title": "ARUNDO MAURITANICA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-02T06:35:35.756Z"
+  },
+  "confidence_score": 0.8
+}

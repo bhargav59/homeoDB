@@ -1,0 +1,24 @@
+{
+  "remedy_name": "ARGENTUM NITRICUM",
+  "source_file": "raw_1772433190861.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/a/arg-n.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      "Nat mur"
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Ars",
+      "Merc",
+      "Phos",
+      "Pulsat"
+    ],
+    "incompatible": [],
+    "antidotes": [
+      "Nat mur"
+    ]
+  },
+  "parsed_at": "2026-03-03T15:23:37.360Z"
+}

@@ -1,0 +1,123 @@
+{
+  "remedy_name": "PRUNUS SPINOSA",
+  "source_file": "raw_1772504332966.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Lauroc",
+        "resolved_name": "LAUROCERASUS",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Prumus padus-Bird--cherry--(sore throat",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "irritable heart",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "dilatation of right heart",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "cough",
+        "resolved_name": "Dr. Reckeweg R9, Buy Homeopathic Medicine For Cough, Buy Homeopathic Medicine Cough Syrup Online",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "worse at night on lying down",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "weak digestion",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "especially in elderly people",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "chronic bronchitis",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "increases muscular tone)",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "Pyrus-Mountain Ash--(irritation of eyes",
+        "resolved_name": "Pyrus Americana.",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "constriction around waist",
+        "resolved_name": "CONIUM MACULATUM",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      },
+      {
+        "original": "spasmodic pains in uterus",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "bladder",
+        "resolved_name": "Dr. Reckeweg R7, Homeopathic Medicines For Liver Disease, Homeopathic Medicines For Jaundice, Homeopathic Medicines For Gallbladder",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "heart",
+        "resolved_name": "Reckeweg R2, Buy Homeopathic Medicines for Heart Tonic, Homeopathic Medicine for Heart Pain, Palpitations",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "cold-water sensation in stomach",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "coldness extends up śsophagus",
+        "resolved_name": "X",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "neuralgic and gouty pains)",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:10.889Z"
+}

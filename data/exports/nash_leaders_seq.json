@@ -1,0 +1,27 @@
+[
+  {
+    "remedy_name": "NUX VOMICA",
+    "abbreviation": "Nux V",
+    "author": "Unknown",
+    "source_book": "Unknown",
+    "kingdom": "Unknown",
+    "thermal_state": "Unknown",
+    "keynotes": [
+      "high fever"
+    ],
+    "modalities": {
+      "aggravation": [
+        "after eating"
+      ],
+      "amelioration": [
+        "Unknown"
+      ]
+    },
+    "mind_mental_symptoms": [
+      "Unknown"
+    ],
+    "clinical_indications": [
+      "digestive organs"
+    ]
+  }
+]

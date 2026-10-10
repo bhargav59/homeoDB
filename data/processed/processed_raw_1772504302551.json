@@ -1,0 +1,50 @@
+{
+  "name": "PRIMULA OBCONICA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Primrose"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Eczema on arms, wrists, forearms, hands, papular and excoriated. Rheumatic pain around shoulder. Palms dry and hot. Cracking over joints and fingers. Eruption between fingers. Purple blotches on back of hands, palmar surface stiff. Blisters on fingers."
+  ],
+  "guiding_symptoms": [
+    "Eczema on arms, wrists, forearms, hands, papular and excoriated. Rheumatic pain around shoulder. Palms dry and hot. Cracking over joints and fingers. Eruption between fingers. Purple blotches on back of hands, palmar surface stiff. Blisters on fingers."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Moist eczema. Papular eruption on chin. Burns at night. Urticaria-like eruption. Eyelids swollen."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [
+    "Eczema on arms, wrists, forearms, hands, papular and excoriated. Rheumatic pain around shoulder. Palms dry and hot. Cracking over joints and fingers. Eruption between fingers. Purple blotches on back of hands, palmar surface stiff. Blisters on fingers."
+  ],
+  "skin_symptoms": [
+    "Great itching, worse at night, red and swollen like erysipelas. Tumefied. Small papules on a raised base. Skin symptoms accompanied by febrile symptoms."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Rhus",
+    "Fagopyrum (Antidotal"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/p/prim-o.htm",
+    "title": "PRIMULA OBCONICA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:18:22.551Z"
+  },
+  "confidence_score": 0.44
+}

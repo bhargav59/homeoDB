@@ -1,0 +1,47 @@
+{
+  "name": "ACETANILIDUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Antifebrinum"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Enlarged sensation. Fainting. Moral depravity.",
+    "Weak, irregular, with blue mucous membranes, albuminuria, śdema of feet and ankles."
+  ],
+  "guiding_symptoms": [
+    "Enlarged sensation. Fainting. Moral depravity.",
+    "Weak, irregular, with blue mucous membranes, albuminuria, śdema of feet and ankles."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Enlarged sensation. Fainting. Moral depravity."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Antipyrin"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/a/acetan.htm",
+    "title": "ACETANILIDUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-01T13:25:58.477Z"
+  },
+  "confidence_score": 0.5
+}

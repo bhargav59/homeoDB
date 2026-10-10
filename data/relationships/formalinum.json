@@ -1,0 +1,22 @@
+{
+  "remedy_name": "FORMALINUM",
+  "source_file": "raw_1772501748319.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/f/formal.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      "Ammonia water"
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Ammonium formaldehyde",
+      "known commercially as Cystogen ("
+    ],
+    "incompatible": [],
+    "antidotes": [
+      "Ammonia water"
+    ]
+  },
+  "parsed_at": "2026-03-03T15:23:37.472Z"
+}

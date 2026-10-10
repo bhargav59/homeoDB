@@ -1,0 +1,30 @@
+{
+  "remedy_name": "PAREIRA BRAVA",
+  "source_file": "raw_1772504016838.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/p/pareir.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Parietaria (renal calculi",
+      "nightmare",
+      "patient dreaming of being buried alive)",
+      "acute prostatitis",
+      "Fabiana",
+      "see Pichi (dysuria",
+      "post-gonorrhœal complications",
+      "gravel",
+      "vesical catarrh)",
+      "Uva",
+      "Hydrang",
+      "Berber",
+      "Ocim",
+      "Hedeom"
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "parsed_at": "2026-03-03T15:23:37.690Z"
+}

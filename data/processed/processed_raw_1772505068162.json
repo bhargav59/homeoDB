@@ -1,0 +1,40 @@
+{
+  "name": "STIGMATA MAYDIS",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Corn-silk"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [],
+  "guiding_symptoms": [],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [],
+  "urinary_symptoms": [
+    "Suppression and retention. Dysuria. Renal lithiasis; nephritic colic; blood and red sand in urine. Tenesmus after urinating. Vesical catarrh. Gonorrhśa. Cystitis.",
+    "Shucks (as a decoction used for chronic malaria, teaspoonful doses freely. Dr. E. C. Lowe, England)."
+  ],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/s/stigm.htm",
+    "title": "STIGMATA MAYDIS - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:31:08.162Z"
+  },
+  "confidence_score": 0.32
+}

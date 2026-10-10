@@ -1,0 +1,56 @@
+{
+  "name": "CLEMATIS ERECTA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Virgin's Bower"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "After eating, weakness in all limbs and pulsation in arteries.",
+    "Boring pain in temples. Confused feeling; better in open air. Eruption on occiput at base of hair, moist, pustular sensitive, itching."
+  ],
+  "guiding_symptoms": [
+    "After eating, weakness in all limbs and pulsation in arteries.",
+    "Boring pain in temples. Confused feeling; better in open air. Eruption on occiput at base of hair, moist, pustular sensitive, itching."
+  ],
+  "modalities": {
+    "worse": [
+      "at night, and warmth of bed (washing in cold water)",
+      "new moon--(monthly aggravation)"
+    ],
+    "better": [
+      "in open air"
+    ]
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Boring pain in temples. Confused feeling; better in open air. Eruption on occiput at base of hair, moist, pustular sensitive, itching."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "After eating, weakness in all limbs and pulsation in arteries."
+  ],
+  "urinary_symptoms": [
+    "Tingling in urethra lasting some time after urinating. Frequent, scanty urination; burning at orifice. Interrupted flow. Urethra feels constricted. Urine emitted drop by drop. Inability to pass all the urine; dribbling after urinating. Pain worse at night, pain along the spermatic cord. Commencing stricture."
+  ],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [
+    "Red, burning, vesicular, scaly, scabby. Itches terribly; worse, washing in cold water; worse face and hands and scalp around occiput. Glands hot, painful, swollen; worse inguinal glands. Glandular indurations and tumors of breast. Varicose ulcers."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/c/clem.htm",
+    "title": "CLEMATIS ERECTA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:21:46.719Z"
+  },
+  "confidence_score": 0.8
+}

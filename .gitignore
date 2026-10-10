@@ -1,0 +1,8 @@
+node_modules/
+venv/
+__pycache__/
+.env
+.DS_Store
+data/vector_store/
+homeoui/node_modules/
+Zomeo.pdf

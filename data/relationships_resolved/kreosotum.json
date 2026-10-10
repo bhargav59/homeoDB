@@ -1,0 +1,42 @@
+{
+  "remedy_name": "KREOSOTUM",
+  "source_file": "raw_1772502714430.json",
+  "relationships": {
+    "complementary": [
+      {
+        "original": "in malignant diseases: Ars",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      }
+    ],
+    "antidoted_by": [
+      {
+        "original": "Nux",
+        "resolved_name": "NUX MOSCHATA",
+        "confidence": 1,
+        "method": "exact"
+      }
+    ],
+    "follows_well": [],
+    "inimical": [
+      {
+        "original": "Carbo",
+        "resolved_name": "CARBO ANIMALIS",
+        "confidence": 1,
+        "method": "exact"
+      }
+    ],
+    "compare": [],
+    "incompatible": [],
+    "antidotes": [
+      {
+        "original": "Nux",
+        "resolved_name": "NUX MOSCHATA",
+        "confidence": 1,
+        "method": "exact"
+      }
+    ]
+  },
+  "resolved_at": "2026-03-11T01:50:10.054Z"
+}

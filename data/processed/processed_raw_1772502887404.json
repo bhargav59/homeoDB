@@ -1,0 +1,53 @@
+{
+  "name": "LEPTANDRA VIRGINICA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Culver's Root"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Tongue coated yellow. Great distress in stomach and intestines, with desire for stool. Aching in region of liver extending to spine, which feels chilly.",
+    "Dull frontal pain; vertigo, drowsiness, and depression. Smarting and aching in eyes."
+  ],
+  "guiding_symptoms": [
+    "Tongue coated yellow. Great distress in stomach and intestines, with desire for stool. Aching in region of liver extending to spine, which feels chilly.",
+    "Dull frontal pain; vertigo, drowsiness, and depression. Smarting and aching in eyes."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Dull frontal pain; vertigo, drowsiness, and depression. Smarting and aching in eyes."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "Tongue coated yellow. Great distress in stomach and intestines, with desire for stool. Aching in region of liver extending to spine, which feels chilly."
+  ],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Podop",
+    "Iris",
+    "Bry",
+    "Merc",
+    "Ptel"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/l/lept.htm",
+    "title": "LEPTANDRA VIRGINICA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:54:47.404Z"
+  },
+  "confidence_score": 0.5
+}

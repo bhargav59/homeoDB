@@ -1,0 +1,54 @@
+{
+  "name": "ERIODYCTION CALIFORNICUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Yerba Santa"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Dizzy, feels intoxicated. Pressure outwards; worse, occiput. Pain in ears. Coryza. Burning in throat. Foul mouth in morning. Coryza with dizziness and sneezing.",
+    "Wheezing; asthma, with coryza and mucous secretions. Dull pain in right lung. Burning in fauces. Chronic bronchitis, bronchial tuberculosis, with profuse, easily raised bronchial secretion, giving relief."
+  ],
+  "guiding_symptoms": [
+    "Dizzy, feels intoxicated. Pressure outwards; worse, occiput. Pain in ears. Coryza. Burning in throat. Foul mouth in morning. Coryza with dizziness and sneezing.",
+    "Wheezing; asthma, with coryza and mucous secretions. Dull pain in right lung. Burning in fauces. Chronic bronchitis, bronchial tuberculosis, with profuse, easily raised bronchial secretion, giving relief."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Dizzy, feels intoxicated. Pressure outwards; worse, occiput. Pain in ears. Coryza. Burning in throat. Foul mouth in morning. Coryza with dizziness and sneezing."
+  ],
+  "respiratory_symptoms": [
+    "Wheezing; asthma, with coryza and mucous secretions. Dull pain in right lung. Burning in fauces. Chronic bronchitis, bronchial tuberculosis, with profuse, easily raised bronchial secretion, giving relief."
+  ],
+  "gi_symptoms": [],
+  "urinary_symptoms": [
+    "Sore, dragging in testicle, could not bear any pressure; better gentle support."
+  ],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Grind",
+    "Aral",
+    "Eucalyp",
+    "Ipec"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/e/erio.htm",
+    "title": "ERIODYCTION CALIFORNICUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:31:25.163Z"
+  },
+  "confidence_score": 0.5
+}

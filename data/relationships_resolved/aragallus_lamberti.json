@@ -1,0 +1,33 @@
+{
+  "remedy_name": "ARAGALLUS LAMBERTI",
+  "source_file": "raw_1772433121715.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Astragallus and Oxytropis",
+        "resolved_name": "OXYTROPIS LAMBERTI",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "two varieties of Loco Weed",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "also Baryta",
+        "resolved_name": "BARYTA ACETICA",
+        "confidence": 0.8,
+        "method": "substring"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:08.523Z"
+}

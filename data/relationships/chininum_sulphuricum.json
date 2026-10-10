@@ -1,0 +1,23 @@
+{
+  "remedy_name": "CHININUM SULPHURICUM",
+  "source_file": "raw_1772500721856.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/c/chinin-s.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      "Parthenum"
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Chin salicyl (Deafness",
+      "tinnitus",
+      "and Meniere's disease)"
+    ],
+    "incompatible": [],
+    "antidotes": [
+      "Parthenum"
+    ]
+  },
+  "parsed_at": "2026-03-03T15:23:37.425Z"
+}

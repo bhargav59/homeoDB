@@ -1,0 +1,39 @@
+{
+  "remedy_name": "BARYTA MURIATICA",
+  "source_file": "raw_1772499923803.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "in sclerotic degenerations",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "especially of spinal cord",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "liver",
+        "resolved_name": "Dr. Reckeweg R7, Homeopathic Medicines For Liver Disease, Homeopathic Medicines For Jaundice, Homeopathic Medicines For Gallbladder",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "and heart",
+        "resolved_name": "Reckeweg R2, Buy Homeopathic Medicines for Heart Tonic, Homeopathic Medicine for Heart Pain, Palpitations",
+        "confidence": 0.8,
+        "method": "substring"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:08.638Z"
+}

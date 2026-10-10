@@ -1,0 +1,41 @@
+{
+  "name": "MERCURIUS IODATUS RUBER",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Bin-iodide of Mercury"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [],
+  "guiding_symptoms": [],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Coryza and dull hearing; right side of nose hot. Hawks mucus from posterior nares. Turbinated bones swollen. Boggy mucus membrane of nose and throat; closure of Eustachian tube, opening with a pop."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [
+    "Small fissures and cracks; hard papules; Hunterian chancre; syphilitic ulcers. Bubo. Sarcocele."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/m/merc-i-r.htm",
+    "title": "MERCURIUS IODATUS RUBER - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:01:27.114Z"
+  },
+  "confidence_score": 0.5
+}

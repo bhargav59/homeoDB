@@ -1,0 +1,40 @@
+{
+  "name": "OLEUM SANTALI",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Oil of Sandalwood"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [],
+  "guiding_symptoms": [],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [],
+  "urinary_symptoms": [
+    "Painful erections; swelling of the prepuce. Thick, yellowish, muco-purulent discharge. Deep pain in perineum.",
+    "Urine.--Frequent, burning, smarting swelling, and redness of meatus. Stream small and slow. Acute aching in kidney region. Sensation of a ball pressing against the urethra; worse, standing. Gleet, with profuse, thick discharge; chronic cystitis."
+  ],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/o/ol-sant.htm",
+    "title": "OLEUM SANTALI - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:06:08.393Z"
+  },
+  "confidence_score": 0.32
+}

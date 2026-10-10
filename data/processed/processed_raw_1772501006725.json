@@ -1,0 +1,69 @@
+{
+  "name": "COLCHICUM AUTUMNALE",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Meadow Saffron"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Dry mouth, tongue burns, gums and teeth pain. Thirst; pain in stomach and flatulence. The smell of food causes nausea even to fainting, especially fish. Profuse salivary secretion. Vomiting of mucus, bile and food; worse, any motion; great coldness in stomach. Craving for various things, but is averse to then when smelling them, seized them with nausea. Gouty gastralgia. Burning or icy coldness in stomach and abdomen. Thirst for effervescent, alcoholic beverages. Pain in transverse colon.",
+    "Headache chiefly frontal and temporal, but also occipital and in nape of neck, worse afternoon and evening.",
+    "Anxiety in region of heart. Impulse not felt. Pericarditis, with severe pain, oppression and dyspnśa, pulse threadlike. Sound of heart become weaker, pulse of low tension.",
+    "Sharp pain down left arm. Tearing in limbs during warm weather, stinging during cold. Pins and needles in hands and wrists, fingertips numb. Pain in front of thigh. Right plantar reflex abolished. Limbs, lame, weak, tingling. Pain worse in evening and warm weather. Joints stiff and feverish; shifting rheumatism; pains worse at night. Inflammation of great toe, gout in heel, cannot bear to have it touched or moved. Tingling in the finger nails. Knees strike together, can hardly walk. Śdematous swelling and coldness of legs and feet.",
+    "Aching in lumbar and lumbo-sacral region. Dull pain across loins. Backache, better, rest and pressure."
+  ],
+  "guiding_symptoms": [
+    "Dry mouth, tongue burns, gums and teeth pain. Thirst; pain in stomach and flatulence. The smell of food causes nausea even to fainting, especially fish. Profuse salivary secretion. Vomiting of mucus, bile and food; worse, any motion; great coldness in stomach. Craving for various things, but is averse to then when smelling them, seized them with nausea. Gouty gastralgia. Burning or icy coldness in stomach and abdomen. Thirst for effervescent, alcoholic beverages. Pain in transverse colon.",
+    "Headache chiefly frontal and temporal, but also occipital and in nape of neck, worse afternoon and evening.",
+    "Anxiety in region of heart. Impulse not felt. Pericarditis, with severe pain, oppression and dyspnśa, pulse threadlike. Sound of heart become weaker, pulse of low tension."
+  ],
+  "modalities": {
+    "worse": [
+      "sundown to sunrise",
+      "motion, loss of sleep, smell of food in evening, mental exertion"
+    ],
+    "better": [
+      "stooping"
+    ]
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Headache chiefly frontal and temporal, but also occipital and in nape of neck, worse afternoon and evening."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "Dry mouth, tongue burns, gums and teeth pain. Thirst; pain in stomach and flatulence. The smell of food causes nausea even to fainting, especially fish. Profuse salivary secretion. Vomiting of mucus, bile and food; worse, any motion; great coldness in stomach. Craving for various things, but is averse to then when smelling them, seized them with nausea. Gouty gastralgia. Burning or icy coldness in stomach and abdomen. Thirst for effervescent, alcoholic beverages. Pain in transverse colon."
+  ],
+  "urinary_symptoms": [
+    "Pruritus of genitals. Cold feeling in thigh after period. Sensation of swelling in vulva and clitoris.",
+    "Urine.--Dark, scanty or suppressed; bloody, brown, black, inky; contains clots of putrid decomposed blood, albumin, sugar."
+  ],
+  "musculoskeletal_symptoms": [
+    "Sharp pain down left arm. Tearing in limbs during warm weather, stinging during cold. Pins and needles in hands and wrists, fingertips numb. Pain in front of thigh. Right plantar reflex abolished. Limbs, lame, weak, tingling. Pain worse in evening and warm weather. Joints stiff and feverish; shifting rheumatism; pains worse at night. Inflammation of great toe, gout in heel, cannot bear to have it touched or moved. Tingling in the finger nails. Knees strike together, can hardly walk. Śdematous swelling and coldness of legs and feet."
+  ],
+  "skin_symptoms": [
+    "Blotchy papular rash on face. Pink spots on back, chest and abdomen. Urticaria."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "convulsive jerkings of right hand",
+    "rheumatic fever",
+    "gout",
+    "endo and pericarditis",
+    "pleurisy"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/c/colch.htm",
+    "title": "COLCHICUM AUTUMNALE - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:23:26.725Z"
+  },
+  "confidence_score": 0.8
+}

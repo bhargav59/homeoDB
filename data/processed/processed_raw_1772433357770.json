@@ -1,0 +1,72 @@
+{
+  "name": "ASARUM EUROPAEUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "European Snake-root"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Loss of appetite, flatulence, eructation, and vomiting. Desire for alcoholic drinks. Smoking tobacco tastes bitter. Nausea; worse after eating. Clean tongue. Great faintness. Accumulation of cold, watery saliva.",
+    "Compressive pain. Tension of scalp; hair painful (China). Coryza, with sneezing.",
+    "Nervous, hacking cough. Short respiration.",
+    "Paralytic pain in muscles of nape of neck. Weakness, with staggering."
+  ],
+  "guiding_symptoms": [
+    "Loss of appetite, flatulence, eructation, and vomiting. Desire for alcoholic drinks. Smoking tobacco tastes bitter. Nausea; worse after eating. Clean tongue. Great faintness. Accumulation of cold, watery saliva.",
+    "Compressive pain. Tension of scalp; hair painful (China). Coryza, with sneezing.",
+    "Nervous, hacking cough. Short respiration."
+  ],
+  "modalities": {
+    "worse": [
+      "in cold dry weather",
+      "penetrating sounds"
+    ],
+    "better": [
+      "from washing",
+      "in damp and wet weather"
+    ]
+  },
+  "mind_symptoms": [
+    "Thoughts vanish, with drawing pressure in forehead. Sensibility increased, even from mere imagination."
+  ],
+  "head_symptoms": [
+    "Compressive pain. Tension of scalp; hair painful (China). Coryza, with sneezing."
+  ],
+  "respiratory_symptoms": [
+    "Nervous, hacking cough. Short respiration."
+  ],
+  "gi_symptoms": [
+    "Loss of appetite, flatulence, eructation, and vomiting. Desire for alcoholic drinks. Smoking tobacco tastes bitter. Nausea; worse after eating. Clean tongue. Great faintness. Accumulation of cold, watery saliva."
+  ],
+  "urinary_symptoms": [
+    "Menses too early, long lasting, black. Violent pain in small of back. Tenacious, yellow leucorrhśa."
+  ],
+  "musculoskeletal_symptoms": [
+    "Paralytic pain in muscles of nape of neck. Weakness, with staggering."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [
+    "Chilliness, single parts get icy cold. Easily excited perspiration."
+  ],
+  "complementary_remedies": [
+    "Ipecac",
+    "especially in diarrhśa",
+    "Silica",
+    "Nux",
+    "China"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/a/asar.htm",
+    "title": "ASARUM EUROPAEUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-02T06:35:57.770Z"
+  },
+  "confidence_score": 0.8
+}

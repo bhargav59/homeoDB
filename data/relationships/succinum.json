@@ -1,0 +1,21 @@
+{
+  "remedy_name": "SUCCINUM",
+  "source_file": "raw_1772505148508.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/s/succ.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Do not confound with Ambergris",
+      "Arundo",
+      "Wyethia",
+      "Sabadilla",
+      "Sinapis"
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "parsed_at": "2026-03-03T15:23:37.743Z"
+}

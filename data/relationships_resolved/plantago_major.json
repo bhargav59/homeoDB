@@ -1,0 +1,33 @@
+{
+  "remedy_name": "PLANTAGO MAJOR",
+  "source_file": "raw_1772504215305.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Kalm",
+        "resolved_name": "KALMIA LATIFOLIA",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Cham",
+        "resolved_name": "CHAMOMILLA",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      },
+      {
+        "original": "Puls",
+        "resolved_name": "PULSATILLA",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:10.794Z"
+}

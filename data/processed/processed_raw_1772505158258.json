@@ -1,0 +1,70 @@
+{
+  "name": "SULPHURICUM ACIDUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Sulphuric Acid"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Heartburn; sour eructations; sets teeth on edge (Robin). Craving for alcohol. Water causes coldness of stomach; must be mixed with liquors. Relaxed feeling in stomach. Averse to smell of coffee. Sour vomiting. Desire for fresh food. Hiccough. Coldness of stomach relieved by applied heat Nausea with chilliness.",
+    "Right-sided neuralgia; painful shocks; skin feels pinched. Sensation as if brain was loose in forehead and falling from side to side (Bell; Rhus). Concussion of brain where skin is cold, body bathed in cold sweat. Compressive pain in side of occiput; relieved by holding the hands near the head. Pain of outer parts, as if there were subcutaneous ulceration; painful to touch. Thrust in right temple as if plug were pressed in.",
+    "Respiration rapid with shooting in cervical muscles and movement of wings of nose; larynx moves up and down violently. Bronchitis in children with short, teasing cough.",
+    "Cramp-like paralytic contraction in arms, hands; jerking of fingers while writing."
+  ],
+  "guiding_symptoms": [
+    "Heartburn; sour eructations; sets teeth on edge (Robin). Craving for alcohol. Water causes coldness of stomach; must be mixed with liquors. Relaxed feeling in stomach. Averse to smell of coffee. Sour vomiting. Desire for fresh food. Hiccough. Coldness of stomach relieved by applied heat Nausea with chilliness.",
+    "Right-sided neuralgia; painful shocks; skin feels pinched. Sensation as if brain was loose in forehead and falling from side to side (Bell; Rhus). Concussion of brain where skin is cold, body bathed in cold sweat. Compressive pain in side of occiput; relieved by holding the hands near the head. Pain of outer parts, as if there were subcutaneous ulceration; painful to touch. Thrust in right temple as if plug were pressed in.",
+    "Respiration rapid with shooting in cervical muscles and movement of wings of nose; larynx moves up and down violently. Bronchitis in children with short, teasing cough."
+  ],
+  "modalities": {
+    "worse": [
+      "from excess of heat or cold in forenoon and evening"
+    ],
+    "better": [
+      "from warmth, and lying on affected side"
+    ]
+  },
+  "mind_symptoms": [
+    "Fretful, impatient. Unwilling to answer questions; hurried."
+  ],
+  "head_symptoms": [
+    "Right-sided neuralgia; painful shocks; skin feels pinched. Sensation as if brain was loose in forehead and falling from side to side (Bell; Rhus). Concussion of brain where skin is cold, body bathed in cold sweat. Compressive pain in side of occiput; relieved by holding the hands near the head. Pain of outer parts, as if there were subcutaneous ulceration; painful to touch. Thrust in right temple as if plug were pressed in."
+  ],
+  "respiratory_symptoms": [
+    "Respiration rapid with shooting in cervical muscles and movement of wings of nose; larynx moves up and down violently. Bronchitis in children with short, teasing cough."
+  ],
+  "gi_symptoms": [
+    "Heartburn; sour eructations; sets teeth on edge (Robin). Craving for alcohol. Water causes coldness of stomach; must be mixed with liquors. Relaxed feeling in stomach. Averse to smell of coffee. Sour vomiting. Desire for fresh food. Hiccough. Coldness of stomach relieved by applied heat Nausea with chilliness."
+  ],
+  "urinary_symptoms": [
+    "Menstruation early and profuse. Erosion of cervix in the aged; easily bleeding. Acrid, burning leucorrhśa, often of bloody mucus."
+  ],
+  "musculoskeletal_symptoms": [
+    "Cramp-like paralytic contraction in arms, hands; jerking of fingers while writing."
+  ],
+  "skin_symptoms": [
+    "Bad effects from mechanical injuries, with bruises and livid skin. Ecchymosis. Petechić. Purpura hćmorrhagica. Livid, red, itching blotches. Hćmorrhage of black blood from all outlets. Cicatrices turn red and blue and become painful. Chilblains with gangrenous tendency. Carbuncles, boils and other staphylococcic and streptococcic infections."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Arn",
+    "Calend",
+    "Led",
+    "Sep",
+    "Calc"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/s/sul-ac.htm",
+    "title": "SULPHURICUM ACIDUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:32:38.257Z"
+  },
+  "confidence_score": 0.8
+}

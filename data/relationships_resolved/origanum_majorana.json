@@ -1,0 +1,45 @@
+{
+  "remedy_name": "ORIGANUM MAJORANA",
+  "source_file": "raw_1772503852763.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "icy coldness in occiput)",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "Plat",
+        "resolved_name": "PLATINA",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      },
+      {
+        "original": "Valer",
+        "resolved_name": "AMMONIUM VALERIANICUM",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Canth",
+        "resolved_name": "CANTHARIS VESICATORIA",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Hyos",
+        "resolved_name": "HYOSCYAMUS NIGER",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:10.566Z"
+}

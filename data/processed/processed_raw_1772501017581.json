@@ -1,0 +1,64 @@
+{
+  "name": "COLLINSONIA CANADENSIS",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Stone-Root"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Dull frontal headache; from suppressed hæmorrhoids. Chronic catarrh. Yellow-coated tongue. Bitter taste (Colocy; Bry).",
+    "Cough from excessive use of voice; \"minister's sore throat\"; sharp pain in larynx. Hoarseness. Harassing, dry cough.",
+    "Palpitation; rapid but weak. Dropsy. After heart symptoms relieved, piles or menses return. Chest-pains alternate with hæmorrhoids. Oppression, faintness, and dyspnœa (Acon ferox)."
+  ],
+  "guiding_symptoms": [
+    "Dull frontal headache; from suppressed hæmorrhoids. Chronic catarrh. Yellow-coated tongue. Bitter taste (Colocy; Bry).",
+    "Cough from excessive use of voice; \"minister's sore throat\"; sharp pain in larynx. Hoarseness. Harassing, dry cough.",
+    "Palpitation; rapid but weak. Dropsy. After heart symptoms relieved, piles or menses return. Chest-pains alternate with hæmorrhoids. Oppression, faintness, and dyspnœa (Acon ferox)."
+  ],
+  "modalities": {
+    "worse": [
+      "from the slightest mental emotion or excitement",
+      "cold"
+    ],
+    "better": [
+      "heat"
+    ]
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Dull frontal headache; from suppressed hæmorrhoids. Chronic catarrh. Yellow-coated tongue. Bitter taste (Colocy; Bry)."
+  ],
+  "respiratory_symptoms": [
+    "Cough from excessive use of voice; \"minister's sore throat\"; sharp pain in larynx. Hoarseness. Harassing, dry cough."
+  ],
+  "gi_symptoms": [
+    "Sensation of sharp sticks in rectum. Sense of constriction. Vascular engorgement of rectum. Dry feces. Most obstinate constipation, with protruding hæmorrhoids. Aching in anus and hypogastrium. Constipation during pregnancy; with membranous dysmenorrhœa, following labor (Nux). Painful bleeding piles. Dysentery, with tenesmus. Alternate constipation and diarrhœa, and great flatulence. Itching of anus (Teucrium; Ratanh)."
+  ],
+  "urinary_symptoms": [
+    "Dysmenorrhœa; pruritus of vulva; prolapse of womb; swelling and dark redness of genitals; pain on sitting down. Membranous dysmenorrhœa, with constipation. Pruritus. Cold feeling in thighs after menstruation. Sensation of swelling of labia and of clitoris."
+  ],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Aescul",
+    "Aloes",
+    "Hamam",
+    "Lycopus",
+    "Negundo"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/c/coll.htm",
+    "title": "COLLINSONIA CANADENSIS - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:23:37.581Z"
+  },
+  "confidence_score": 0.6799999999999999
+}

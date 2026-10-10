@@ -1,0 +1,26 @@
+{
+  "remedy_name": "BORAX VENETA",
+  "source_file": "raw_1772500071683.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/b/borx.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      "Cham"
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Calc",
+      "Bryon",
+      "Sanicula",
+      "Sulph ac"
+    ],
+    "incompatible": [
+      "Antidote: Cham"
+    ],
+    "antidotes": [
+      "Cham"
+    ]
+  },
+  "parsed_at": "2026-03-03T15:23:37.390Z"
+}

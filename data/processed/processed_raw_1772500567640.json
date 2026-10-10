@@ -1,0 +1,53 @@
+{
+  "name": "CAULOPHYLLUM THALICTROIDES",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Blue Cohosh"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Cardialgia, spasms of stomach. Dyspepsia with spasmodic symptoms.",
+    "Severe drawing, erratic pain and stiffness in small joints, fingers, toes, ankles, etc. Aching in wrists. Cutting pains on closing hands. Erratic pains, changing place every few minutes."
+  ],
+  "guiding_symptoms": [
+    "Cardialgia, spasms of stomach. Dyspepsia with spasmodic symptoms.",
+    "Severe drawing, erratic pain and stiffness in small joints, fingers, toes, ankles, etc. Aching in wrists. Cutting pains on closing hands. Erratic pains, changing place every few minutes."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "Cardialgia, spasms of stomach. Dyspepsia with spasmodic symptoms."
+  ],
+  "urinary_symptoms": [
+    "Extraordinary rigidity of os (Bell; Gels; Ver v). Spasmodic and severe pains, which fly in all directions; shivering, without progress; false pains. Revives labor pains and furthers progress of labor. After pains. Leucorrhœa, with moth-spots on forehead. Habitual abortion from uterine debility (Helon; Puls; Sab). Needle-like pains in cervix. Dysmenorrhœa, with pains flying to other parts of body. Lochia protracted; great atony. Menses and leucorrhœa profuse."
+  ],
+  "musculoskeletal_symptoms": [
+    "Severe drawing, erratic pain and stiffness in small joints, fingers, toes, ankles, etc. Aching in wrists. Cutting pains on closing hands. Erratic pains, changing place every few minutes."
+  ],
+  "skin_symptoms": [
+    "Discoloration of skin in women with menstrual and uterine disorder."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Viol"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/c/caul.htm",
+    "title": "CAULOPHYLLUM THALICTROIDES - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:16:07.640Z"
+  },
+  "confidence_score": 0.56
+}

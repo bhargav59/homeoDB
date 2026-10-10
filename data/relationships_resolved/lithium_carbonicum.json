@@ -1,0 +1,51 @@
+{
+  "remedy_name": "LITHIUM CARBONICUM",
+  "source_file": "raw_1772502953982.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Lyc",
+        "resolved_name": "LYCOPODIUM CLAVATUM",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      },
+      {
+        "original": "Ammon phos",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "Benz ac",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "Calc",
+        "resolved_name": "CALCAREA CARBONICA",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      },
+      {
+        "original": "Lithium chlor (symptoms of cinchonism",
+        "resolved_name": "LITHIUM CARBONICUM",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "viz",
+        "resolved_name": "OVI GALLINAE PELLICULA",
+        "confidence": 0.7,
+        "method": "levenshtein_2"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:10.190Z"
+}

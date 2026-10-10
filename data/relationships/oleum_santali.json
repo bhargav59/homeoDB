@@ -1,0 +1,15 @@
+{
+  "remedy_name": "OLEUM SANTALI",
+  "source_file": "raw_1772503711592.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/o/ol-sant.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "parsed_at": "2026-03-03T15:23:37.680Z"
+}

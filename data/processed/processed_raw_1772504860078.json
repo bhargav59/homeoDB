@@ -1,0 +1,62 @@
+{
+  "name": "SENEGA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Snakewort"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Dullness, with pressure and weakness of eyes. Pain in temples. Bursting pain in forehead.",
+    "Hoarseness. Hurts to talk. Bursting pain in back on coughing. Catarrh of larynx. Loss of voice. Hacking cough. Thorax feels too narrow. Cough often ends in a sneeze. Rattling in chest (Tart emet). Chest oppressed on ascending. Bronchial catarrh, with sore chest walls; much mucus; sensation of oppression and weight of chest. Difficult raising of tough, profuse mucus, in the aged. Asthenic bronchitis of old people with chronic interstitial nephritis or chronic emphysema. Old asthmatics with congestive attacks. Exudations in Pleura. Hydrothorax (Merc sulph). Pressure on chest as though lungs were forced back to spine. Voice unsteady, vocal cords partially paralyzed."
+  ],
+  "guiding_symptoms": [
+    "Dullness, with pressure and weakness of eyes. Pain in temples. Bursting pain in forehead.",
+    "Hoarseness. Hurts to talk. Bursting pain in back on coughing. Catarrh of larynx. Loss of voice. Hacking cough. Thorax feels too narrow. Cough often ends in a sneeze. Rattling in chest (Tart emet). Chest oppressed on ascending. Bronchial catarrh, with sore chest walls; much mucus; sensation of oppression and weight of chest. Difficult raising of tough, profuse mucus, in the aged. Asthenic bronchitis of old people with chronic interstitial nephritis or chronic emphysema. Old asthmatics with congestive attacks. Exudations in Pleura. Hydrothorax (Merc sulph). Pressure on chest as though lungs were forced back to spine. Voice unsteady, vocal cords partially paralyzed."
+  ],
+  "modalities": {
+    "worse": [
+      "walking in open air, during rest"
+    ],
+    "better": [
+      "from sweat",
+      "bending head backwards"
+    ]
+  },
+  "mind_symptoms": [
+    "Suddenly remembers unimportant regions which he saw long ago. Inclined to quarrel."
+  ],
+  "head_symptoms": [
+    "Dullness, with pressure and weakness of eyes. Pain in temples. Bursting pain in forehead."
+  ],
+  "respiratory_symptoms": [
+    "Hoarseness. Hurts to talk. Bursting pain in back on coughing. Catarrh of larynx. Loss of voice. Hacking cough. Thorax feels too narrow. Cough often ends in a sneeze. Rattling in chest (Tart emet). Chest oppressed on ascending. Bronchial catarrh, with sore chest walls; much mucus; sensation of oppression and weight of chest. Difficult raising of tough, profuse mucus, in the aged. Asthenic bronchitis of old people with chronic interstitial nephritis or chronic emphysema. Old asthmatics with congestive attacks. Exudations in Pleura. Hydrothorax (Merc sulph). Pressure on chest as though lungs were forced back to spine. Voice unsteady, vocal cords partially paralyzed."
+  ],
+  "gi_symptoms": [],
+  "urinary_symptoms": [
+    "Greatly diminished; loaded with shreds and mucus; scalding before and after urinating. Back, bursting distending pain in kidney region."
+  ],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Caust",
+    "Phos",
+    "Saponin",
+    "Ammon",
+    "Calc"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/s/seneg.htm",
+    "title": "SENEGA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:27:40.078Z"
+  },
+  "confidence_score": 0.8
+}

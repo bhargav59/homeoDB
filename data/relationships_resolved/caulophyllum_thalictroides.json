@@ -1,0 +1,28 @@
+{
+  "remedy_name": "CAULOPHYLLUM THALICTROIDES",
+  "source_file": "raw_1772500567640.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Viol",
+        "resolved_name": "VIOLA TRICOLOR",
+        "confidence": 0.8,
+        "method": "substring"
+      }
+    ],
+    "incompatible": [
+      {
+        "original": "Coffea",
+        "resolved_name": "COFFEA CRUDA",
+        "confidence": 1,
+        "method": "exact"
+      }
+    ],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:08.893Z"
+}

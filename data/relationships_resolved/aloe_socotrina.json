@@ -1,0 +1,54 @@
+{
+  "remedy_name": "ALOE SOCOTRINA",
+  "source_file": "raw_1772371762394.json",
+  "relationships": {
+    "complementary": [
+      {
+        "original": "Sulphur",
+        "resolved_name": "SULPHUR",
+        "confidence": 1,
+        "method": "exact"
+      }
+    ],
+    "antidoted_by": [
+      {
+        "original": "Opium",
+        "resolved_name": "OPIUM",
+        "confidence": 1,
+        "method": "exact"
+      }
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Kali bich",
+        "resolved_name": "KALI CARBONICUM",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      },
+      {
+        "original": "Lycop",
+        "resolved_name": "LYCOPODIUM CLAVATUM",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      },
+      {
+        "original": "Allium sat",
+        "resolved_name": "ALLIUM CEPA",
+        "confidence": 0.8,
+        "method": "substring"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": [
+      {
+        "original": "Opium",
+        "resolved_name": "OPIUM",
+        "confidence": 1,
+        "method": "exact"
+      }
+    ]
+  },
+  "resolved_at": "2026-03-11T01:50:08.402Z"
+}

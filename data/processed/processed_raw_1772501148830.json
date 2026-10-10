@@ -1,0 +1,74 @@
+{
+  "name": "CROTALUS HORRIDUS",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Rattlesnake"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Intolerance of clothing around stomach. Unable to retain anything; violent vomiting of food; bilious vomiting, vomiting of blood. Constant nausea and vomiting every month, after menstruation. Cannot lie on right side, without vomiting dark-green matter. Black or coffee-grounds vomiting. Cancer of stomach with vomiting of bloody, slimy mucus. Trembling, fluttering feeling below the epigastrium. Intolerance of clothing about epigastrium. Faintness and sinking at stomach. Ulceration of the stomach. Atonic dyspepsia. Gastritis in chronic alcoholism. Hungry, craves stimulants, sugar; averse to meat.",
+    "Vertigo, with weakness and trembling. Dull heavy occipital pain, on right side and right eye. Headache with pain in heart on lying on left side. Headache; must walk on tip-toe to avoid jarring.",
+    "Cough, with bloody expectoration. Tickling from a dry spot in larynx.",
+    "Action feeble, pulse tremulous. Palpitation, especially at menstrual period. Trembling feeling of heart.",
+    "Hands tremble, swollen. Lower extremities go to sleep easily. Right-sided paralysis."
+  ],
+  "guiding_symptoms": [
+    "Intolerance of clothing around stomach. Unable to retain anything; violent vomiting of food; bilious vomiting, vomiting of blood. Constant nausea and vomiting every month, after menstruation. Cannot lie on right side, without vomiting dark-green matter. Black or coffee-grounds vomiting. Cancer of stomach with vomiting of bloody, slimy mucus. Trembling, fluttering feeling below the epigastrium. Intolerance of clothing about epigastrium. Faintness and sinking at stomach. Ulceration of the stomach. Atonic dyspepsia. Gastritis in chronic alcoholism. Hungry, craves stimulants, sugar; averse to meat.",
+    "Vertigo, with weakness and trembling. Dull heavy occipital pain, on right side and right eye. Headache with pain in heart on lying on left side. Headache; must walk on tip-toe to avoid jarring.",
+    "Cough, with bloody expectoration. Tickling from a dry spot in larynx."
+  ],
+  "modalities": {
+    "worse": [
+      "right side",
+      "open air",
+      "evening and morning",
+      "in spring, coming on of warm weather",
+      "yearly"
+    ],
+    "better": []
+  },
+  "mind_symptoms": [
+    "Weeping mood; clouded perception and memory; impatient. Loquacious, with desire to escape. Sadness. Delusions of cerebral decay."
+  ],
+  "head_symptoms": [
+    "Vertigo, with weakness and trembling. Dull heavy occipital pain, on right side and right eye. Headache with pain in heart on lying on left side. Headache; must walk on tip-toe to avoid jarring."
+  ],
+  "respiratory_symptoms": [
+    "Cough, with bloody expectoration. Tickling from a dry spot in larynx."
+  ],
+  "gi_symptoms": [
+    "Intolerance of clothing around stomach. Unable to retain anything; violent vomiting of food; bilious vomiting, vomiting of blood. Constant nausea and vomiting every month, after menstruation. Cannot lie on right side, without vomiting dark-green matter. Black or coffee-grounds vomiting. Cancer of stomach with vomiting of bloody, slimy mucus. Trembling, fluttering feeling below the epigastrium. Intolerance of clothing about epigastrium. Faintness and sinking at stomach. Ulceration of the stomach. Atonic dyspepsia. Gastritis in chronic alcoholism. Hungry, craves stimulants, sugar; averse to meat."
+  ],
+  "urinary_symptoms": [
+    "Dark, bloody urine. Casts. Inflamed kidney. Albuminous, dark, scanty (Merc cor)."
+  ],
+  "musculoskeletal_symptoms": [
+    "Hands tremble, swollen. Lower extremities go to sleep easily. Right-sided paralysis."
+  ],
+  "skin_symptoms": [
+    "Swelling and discoloration, skin tense and shows every tint of color, with excruciating pain. Vesication. Sallow. Yellow color of the whole body. Great sensitiveness of skin of right half of body. Purpura hćmorrhagica. Hćmorrhage from every part of body. Bloody sweat. Chilblains, felons. Dissecting wounds. Pustular eruptions. Insect stings. Post-vaccination eruptions. Bad effects of vaccination. Lymphangitis and septicćmia. Boils, carbuncles, and eruptions are surrounded by purplish, mottled skin and śdema. Anthrax. Sore sensation relieved by pressure."
+  ],
+  "sleep_symptoms": [
+    "Dreams of the dead. Starting in sleep. Yawning. Smothering sensation when awaking."
+  ],
+  "fever_symptoms": [
+    "Malignant fevers of a hćmorrhagic or putrescent character. Low bilious remittents. Yellow fever. Bloody sweat. Cerebro-spinal meningitis (Cicuta; Cup acet). Cold sweats."
+  ],
+  "complementary_remedies": [
+    "Bothrops",
+    "Naja (more nervous phenomena"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/c/crot-h.htm",
+    "title": "CROTALUS HORRIDUS - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:25:48.830Z"
+  },
+  "confidence_score": 0.8
+}

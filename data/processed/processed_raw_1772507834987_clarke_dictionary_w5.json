@@ -1,0 +1,37 @@
+{
+  "name": "Juglans Cinerea.",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Main"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [],
+  "guiding_symptoms": [],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/clarke/j/jug_c.htm",
+    "title": "Juglans Cinerea. - A DICTIONARY OF PRACTICAL MATERIA MEDICA By John Henry CLARKE, M.D. Presented by Médi-T ®",
+    "scraped_at": "2026-03-03T03:17:14.988Z"
+  },
+  "confidence_score": 0.2
+}

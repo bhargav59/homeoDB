@@ -1,0 +1,70 @@
+{
+  "name": "CAPSICUM ANNUUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Cayenne Pepper"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Burning in tip of tongue. Atonic dyspepsia. Much flatulence, especially in debilitated subjects. Intense craving for stimulants. Vomiting, sinking at pit of stomach. Much thirst; but drinking causes shuddering.",
+    "Bursting headache; worse, coughing. Hot face. Red cheeks. Face red, though cold (Asafaet).",
+    "Constriction of chest; arrests breathing Hoarseness. Pain at apex of heart or in rib region, worse touch. Dry, hacking cough, expelling an offensive breath from lungs. Dyspnœa. Feels as if chest and head would fly to pieces. Explosive cough. Threatening gangrene of lung. Pain in distant parts on coughing-bladder, legs, ears, etc.",
+    "Pain from hips to feet. Sciatica, worse bending backward; worse, coughing. Tensive pain in the knee."
+  ],
+  "guiding_symptoms": [
+    "Burning in tip of tongue. Atonic dyspepsia. Much flatulence, especially in debilitated subjects. Intense craving for stimulants. Vomiting, sinking at pit of stomach. Much thirst; but drinking causes shuddering.",
+    "Bursting headache; worse, coughing. Hot face. Red cheeks. Face red, though cold (Asafaet).",
+    "Constriction of chest; arrests breathing Hoarseness. Pain at apex of heart or in rib region, worse touch. Dry, hacking cough, expelling an offensive breath from lungs. Dyspnœa. Feels as if chest and head would fly to pieces. Explosive cough. Threatening gangrene of lung. Pain in distant parts on coughing-bladder, legs, ears, etc."
+  ],
+  "modalities": {
+    "worse": [
+      "open air, uncovering, draughts"
+    ],
+    "better": [
+      "while eating, from heat"
+    ]
+  },
+  "mind_symptoms": [
+    "Excessive peevishness. Homesickness, with sleeplessness and disposition to suicide. Wants to be let alone. Peppery disposition. Delirium tremens."
+  ],
+  "head_symptoms": [
+    "Bursting headache; worse, coughing. Hot face. Red cheeks. Face red, though cold (Asafaet)."
+  ],
+  "respiratory_symptoms": [
+    "Constriction of chest; arrests breathing Hoarseness. Pain at apex of heart or in rib region, worse touch. Dry, hacking cough, expelling an offensive breath from lungs. Dyspnœa. Feels as if chest and head would fly to pieces. Explosive cough. Threatening gangrene of lung. Pain in distant parts on coughing-bladder, legs, ears, etc."
+  ],
+  "gi_symptoms": [
+    "Burning in tip of tongue. Atonic dyspepsia. Much flatulence, especially in debilitated subjects. Intense craving for stimulants. Vomiting, sinking at pit of stomach. Much thirst; but drinking causes shuddering."
+  ],
+  "urinary_symptoms": [
+    "Coldness of scrotum, with impotency, atrophied testicles, loss of sensibility in testicles, with softening and dwindling. Gonorrhœa, with chordee, excessive burning, pain in prostate."
+  ],
+  "musculoskeletal_symptoms": [
+    "Pain from hips to feet. Sciatica, worse bending backward; worse, coughing. Tensive pain in the knee."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [
+    "Coldness, with ill-humor. Shivering after drinking. Chill begins in back; better, heat. Must have something hot to back. Thirst before chill."
+  ],
+  "complementary_remedies": [
+    "Pulsat",
+    "Lycop",
+    "Bell",
+    "Centaurea (surging of blood",
+    "homesickness"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/c/caps.htm",
+    "title": "CAPSICUM ANNUUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:13:18.321Z"
+  },
+  "confidence_score": 0.8
+}

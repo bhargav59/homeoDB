@@ -1,0 +1,67 @@
+{
+  "name": "PLATINUM METALLICUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "The Metal"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Fermentation, much flatulence; constriction; ravenous hunger; persistent nausea, with anxiety and weakness.",
+    "Tense, pressing pain, confined to a small spot. Cramplike, squeezing pain. Constriction about forehead and right temples. Numbness, with headache.",
+    "Tightness of thighs, as if too tightly wrapped. Numb and weary sensation. Feel paralyzed."
+  ],
+  "guiding_symptoms": [
+    "Fermentation, much flatulence; constriction; ravenous hunger; persistent nausea, with anxiety and weakness.",
+    "Tense, pressing pain, confined to a small spot. Cramplike, squeezing pain. Constriction about forehead and right temples. Numbness, with headache.",
+    "Tightness of thighs, as if too tightly wrapped. Numb and weary sensation. Feel paralyzed."
+  ],
+  "modalities": {
+    "worse": [
+      "sitting and standing",
+      "evening"
+    ],
+    "better": [
+      "walking"
+    ]
+  },
+  "mind_symptoms": [
+    "Irresistible impulse to kill. Self-exaltation; contempt for others. Arrogant, proud. Weary of everything. Everything seems changed. Mental trouble pressed menses. Physical symptoms disappear as mental symptoms develop."
+  ],
+  "head_symptoms": [
+    "Tense, pressing pain, confined to a small spot. Cramplike, squeezing pain. Constriction about forehead and right temples. Numbness, with headache."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "Fermentation, much flatulence; constriction; ravenous hunger; persistent nausea, with anxiety and weakness."
+  ],
+  "urinary_symptoms": [
+    "Parts hypersensitive. Tingling internally and externally (Kali brom; Orig). Ovaries sensitive and burn. Menses too early, too profuse, dark-clotted, with spasms and painful bearing-down, chilliness, and sensitiveness of parts. Vaginismus. Nymphomania. Excessive sexual development; vaginismus. Pruritus vulvæ. Ovaritis with sterility. Abnormal sexual appetite and melancholia."
+  ],
+  "musculoskeletal_symptoms": [
+    "Tightness of thighs, as if too tightly wrapped. Numb and weary sensation. Feel paralyzed."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [
+    "Sleeps with legs far apart (Chamom)."
+  ],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Rhodium",
+    "Stann",
+    "Valer",
+    "Sep"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/p/plat.htm",
+    "title": "PLATINUM METALLICUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:17:04.378Z"
+  },
+  "confidence_score": 0.8
+}

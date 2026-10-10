@@ -1,0 +1,24 @@
+{
+  "remedy_name": "HYDROCYANICUM ACIDUM",
+  "source_file": "raw_1772502241170.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/h/hydr-ac.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      "Ammon"
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Cicuta",
+      "Oenanthe",
+      "Camph",
+      "Lauroc"
+    ],
+    "incompatible": [],
+    "antidotes": [
+      "Ammon"
+    ]
+  },
+  "parsed_at": "2026-03-03T15:23:37.493Z"
+}

@@ -1,0 +1,21 @@
+{
+  "remedy_name": "LEDUM PALUSTRE",
+  "source_file": "raw_1772502859334.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/l/led.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      "spider poisons"
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Ledum antidotes spider poisons"
+    ],
+    "incompatible": [],
+    "antidotes": [
+      "spider poisons"
+    ]
+  },
+  "parsed_at": "2026-03-03T15:23:37.522Z"
+}

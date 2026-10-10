@@ -1,0 +1,43 @@
+{
+  "name": "AMMONIUM PICRICUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Pictrate of Ammonia"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Periodical neuralgia in right side of occiput; boring extends to ear, orbit, and jaw. Vertigo on rising. Periodic bilious headaches (Sanguin)."
+  ],
+  "guiding_symptoms": [
+    "Periodical neuralgia in right side of occiput; boring extends to ear, orbit, and jaw. Vertigo on rising. Periodic bilious headaches (Sanguin)."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Periodical neuralgia in right side of occiput; boring extends to ear, orbit, and jaw. Vertigo on rising. Periodic bilious headaches (Sanguin)."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/a/am-pic.htm",
+    "title": "AMMONIUM PICRICUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-01T13:31:43.044Z"
+  },
+  "confidence_score": 0.32
+}

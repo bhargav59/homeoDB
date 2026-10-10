@@ -1,0 +1,83 @@
+{
+  "remedy_name": "AGARICUS MUSCARIUS",
+  "source_file": "raw_1772371649895.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      {
+        "original": "Absinth",
+        "resolved_name": "ABSINTHIUM",
+        "confidence": 0.8,
+        "method": "substring"
+      }
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Muscarine",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "increasing lachrymal",
+        "resolved_name": "LAC CANINUM",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "salivary",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "hepatic",
+        "resolved_name": "HEPAR SULPHURIS",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      },
+      {
+        "original": "etc",
+        "resolved_name": "BETA VULGARIS",
+        "confidence": 0.7,
+        "method": "levenshtein_2"
+      },
+      {
+        "original": "but diminishing renal",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "probably neurotic in origin",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "hence salivation",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "lachrymation and excessive perspiration",
+        "resolved_name": "LACHESIS",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": [
+      {
+        "original": "Absinth",
+        "resolved_name": "ABSINTHIUM",
+        "confidence": 0.8,
+        "method": "substring"
+      }
+    ]
+  },
+  "resolved_at": "2026-03-11T01:50:08.382Z"
+}

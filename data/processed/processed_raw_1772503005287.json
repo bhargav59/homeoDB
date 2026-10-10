@@ -1,0 +1,53 @@
+{
+  "name": "LUPULUS HUMULUS",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Hops"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Morbid vigilance. Highly excited. Dull, heavy headache with dizziness. Drawing and twitching in every muscle."
+  ],
+  "guiding_symptoms": [
+    "Morbid vigilance. Highly excited. Dull, heavy headache with dizziness. Drawing and twitching in every muscle."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Morbid vigilance. Highly excited. Dull, heavy headache with dizziness. Drawing and twitching in every muscle."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [],
+  "urinary_symptoms": [
+    "Painful erections. Emissions, depending on sexual weakness and after organism. Spermatorrhśa."
+  ],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [
+    "Scarlatina-like eruption on face. Feels like insects crawling under skin; feels chapped, skin peels."
+  ],
+  "sleep_symptoms": [
+    "Drowsy during the day. Sopor."
+  ],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Nux",
+    "Urtica",
+    "Cannab"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/l/lup.htm",
+    "title": "LUPULUS HUMULUS - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:56:45.287Z"
+  },
+  "confidence_score": 0.56
+}

@@ -1,0 +1,22 @@
+{
+  "remedy_name": "ANTIMONIUM TARTARICUM",
+  "source_file": "raw_1772432979374.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/a/ant-t.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      "Puls"
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Kali sulph",
+      "Ipecac"
+    ],
+    "incompatible": [],
+    "antidotes": [
+      "Puls"
+    ]
+  },
+  "parsed_at": "2026-03-03T15:23:37.347Z"
+}

@@ -1,0 +1,47 @@
+{
+  "remedy_name": "AMMONIACUM GUMMI",
+  "source_file": "raw_1772371974623.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      {
+        "original": "Bry",
+        "resolved_name": "BRYONIA",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      }
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Senega",
+        "resolved_name": "SENEGA",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Tart emet",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "Balsam Peru",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": [
+      {
+        "original": "Bry",
+        "resolved_name": "BRYONIA",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      }
+    ]
+  },
+  "resolved_at": "2026-03-11T01:50:08.419Z"
+}

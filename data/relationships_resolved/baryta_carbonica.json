@@ -1,0 +1,73 @@
+{
+  "remedy_name": "BARYTA CARBONICA",
+  "source_file": "raw_1772499902416.json",
+  "relationships": {
+    "complementary": [
+      {
+        "original": "Dulc",
+        "resolved_name": "DULCAMARA",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      }
+    ],
+    "antidoted_by": [
+      {
+        "original": "for poisonous",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      }
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Digitalis",
+        "resolved_name": "DIGITALIS PURPUREA",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Radium",
+        "resolved_name": "RADIUM BROMATUM",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Aragallus",
+        "resolved_name": "ARAGALLUS LAMBERTI",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Oxytrop",
+        "resolved_name": "OXYTROPIS LAMBERTI",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Astrag",
+        "resolved_name": "ASTRAGALUS MOLLISSIMUS",
+        "confidence": 0.8,
+        "method": "substring"
+      }
+    ],
+    "incompatible": [
+      {
+        "original": "Calc",
+        "resolved_name": "CALCAREA CARBONICA",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      }
+    ],
+    "antidotes": [
+      {
+        "original": "for poisonous",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      }
+    ]
+  },
+  "resolved_at": "2026-03-11T01:50:08.628Z"
+}

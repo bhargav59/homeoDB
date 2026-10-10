@@ -1,0 +1,30 @@
+{
+  "remedy_name": "IODIUM",
+  "source_file": "raw_1772502389272.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/i/iod.htm",
+  "relationships": {
+    "complementary": [
+      "Lycopod"
+    ],
+    "antidoted_by": [
+      "Hepar"
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Brom",
+      "Hepar",
+      "Mercur",
+      "Phosph",
+      "Abrot",
+      "Nat mur",
+      "Sanic",
+      "Tuber"
+    ],
+    "incompatible": [],
+    "antidotes": [
+      "Hepar"
+    ]
+  },
+  "parsed_at": "2026-03-03T15:23:37.499Z"
+}

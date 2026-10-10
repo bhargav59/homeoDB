@@ -1,0 +1,60 @@
+{
+  "remedy_name": "Aconitum Napellus.",
+  "source_file": "raw_1772507501776_clarke_dictionary_w3.json",
+  "relationships": {
+    "complementary": [
+      {
+        "original": "to: Coff",
+        "resolved_name": "COFFEA CRUDA",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      }
+    ],
+    "antidoted_by": [
+      {
+        "original": "Acet",
+        "resolved_name": "ACETICUM ACIDUM",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Bell",
+        "resolved_name": "BELLADONNA",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      }
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "d with Stram",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "also: Pul",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": [
+      {
+        "original": "d by: Acet",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "Bell",
+        "resolved_name": "BELLADONNA",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      }
+    ]
+  },
+  "resolved_at": "2026-03-11T01:50:08.357Z"
+}

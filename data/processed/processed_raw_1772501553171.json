@@ -1,0 +1,65 @@
+{
+  "name": "EUPATORIUM PERFOLIATUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Thoroughwort"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Tongue yellow. Taste bitter. Hepatic region sore. Great thirst. Vomiting and purging of bile, of green liquid several quarts at a time. Vomiting preceded by thirst. Hiccough (Sulph ac; Hydrocy ac). Avoids tight clothing.",
+    "Throbbing pain. Pressure as if a cap of lead pressed over the whole skull. Vertigo; sensation of falling to left. Vomiting of bile. Top and back of head with pain and soreness of eyeballs. Periodical headache, every third and seventh day. Occipital pain after lying down, with sense of weight.",
+    "Coryza, with sneezing. Hoarseness and cough, with soreness in chest; must support it. Influenza, with great soreness of muscles and bones. Chronic loose cough, chest sore; worse at night. Cough relieved by getting on hands and knees.",
+    "Aching pain in back. Aching in bones of extremities with soreness of flesh. Aching in arms and wrists. Swelling of left great toe. Gouty soreness and inflamed nodosities of joints, associated with headache. Dropsical swelling."
+  ],
+  "guiding_symptoms": [
+    "Tongue yellow. Taste bitter. Hepatic region sore. Great thirst. Vomiting and purging of bile, of green liquid several quarts at a time. Vomiting preceded by thirst. Hiccough (Sulph ac; Hydrocy ac). Avoids tight clothing.",
+    "Throbbing pain. Pressure as if a cap of lead pressed over the whole skull. Vertigo; sensation of falling to left. Vomiting of bile. Top and back of head with pain and soreness of eyeballs. Periodical headache, every third and seventh day. Occipital pain after lying down, with sense of weight.",
+    "Coryza, with sneezing. Hoarseness and cough, with soreness in chest; must support it. Influenza, with great soreness of muscles and bones. Chronic loose cough, chest sore; worse at night. Cough relieved by getting on hands and knees."
+  ],
+  "modalities": {
+    "worse": [
+      "periodically"
+    ],
+    "better": [
+      "by conversation, by getting on hands and knees"
+    ]
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Throbbing pain. Pressure as if a cap of lead pressed over the whole skull. Vertigo; sensation of falling to left. Vomiting of bile. Top and back of head with pain and soreness of eyeballs. Periodical headache, every third and seventh day. Occipital pain after lying down, with sense of weight."
+  ],
+  "respiratory_symptoms": [
+    "Coryza, with sneezing. Hoarseness and cough, with soreness in chest; must support it. Influenza, with great soreness of muscles and bones. Chronic loose cough, chest sore; worse at night. Cough relieved by getting on hands and knees."
+  ],
+  "gi_symptoms": [
+    "Tongue yellow. Taste bitter. Hepatic region sore. Great thirst. Vomiting and purging of bile, of green liquid several quarts at a time. Vomiting preceded by thirst. Hiccough (Sulph ac; Hydrocy ac). Avoids tight clothing."
+  ],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [
+    "Aching pain in back. Aching in bones of extremities with soreness of flesh. Aching in arms and wrists. Swelling of left great toe. Gouty soreness and inflamed nodosities of joints, associated with headache. Dropsical swelling."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [
+    "Perspiration relieves all symptoms except headache. Chill between 7 and 9 am, preceded by thirst with great soreness and aching of bones. Nausea, vomiting of bile at close of chill or hot stage; throbbing headache. Knows chill is coming on because he cannot drink enough."
+  ],
+  "complementary_remedies": [
+    "Bryon",
+    "Sepia",
+    "Natr mur",
+    "Chelidon"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/e/eup-per.htm",
+    "title": "EUPATORIUM PERFOLIATUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:32:33.171Z"
+  },
+  "confidence_score": 0.8
+}

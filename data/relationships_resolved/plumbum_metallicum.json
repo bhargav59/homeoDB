@@ -1,0 +1,77 @@
+{
+  "remedy_name": "PLUMBUM METALLICUM",
+  "source_file": "raw_1772504246520.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      {
+        "original": "Plat",
+        "resolved_name": "PLATINA",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      }
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "locally",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "as an application  in moist eczema",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "Alumina",
+        "resolved_name": "ALUMINA",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Plat",
+        "resolved_name": "PLATINA",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      },
+      {
+        "original": "Opium",
+        "resolved_name": "OPIUM",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Podoph",
+        "resolved_name": "PODOPHYLLINUM",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Merc",
+        "resolved_name": "MERCURIUS SOLUBILIS",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      },
+      {
+        "original": "Thall",
+        "resolved_name": "THALLIUM METALLICUM",
+        "confidence": 0.8,
+        "method": "substring"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": [
+      {
+        "original": "Plat",
+        "resolved_name": "PLATINA",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      }
+    ]
+  },
+  "resolved_at": "2026-03-11T01:50:10.831Z"
+}

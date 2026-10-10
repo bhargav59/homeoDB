@@ -1,0 +1,19 @@
+{
+  "remedy_name": "CHINA OFFICINALIS",
+  "source_file": "raw_1772500701120.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/c/chin.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      "Arn"
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [],
+    "incompatible": [],
+    "antidotes": [
+      "Arn"
+    ]
+  },
+  "parsed_at": "2026-03-03T15:23:37.424Z"
+}

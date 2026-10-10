@@ -1,0 +1,22 @@
+{
+  "remedy_name": "Manganum.",
+  "source_file": "raw_1772507900512_clarke_dictionary_w1.json",
+  "source_url": "https://www.homeoint.org/clarke/m/mang.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      "Coff"
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Am",
+      "also: Fer"
+    ],
+    "incompatible": [],
+    "antidotes": [
+      "d by: Coff"
+    ]
+  },
+  "parsed_at": "2026-03-03T15:23:38.278Z"
+}

@@ -1,0 +1,51 @@
+{
+  "name": "SANTONINUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Santonin"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Occipital headache, with chromatic hallucinations. Itching of nose. Bores into nostrils."
+  ],
+  "guiding_symptoms": [
+    "Occipital headache, with chromatic hallucinations. Itching of nose. Bores into nostrils."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Occipital headache, with chromatic hallucinations. Itching of nose. Bores into nostrils."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [],
+  "urinary_symptoms": [
+    "Urine greenish if acid and reddish purple if alkaline. Incontinence and dysuria. Enuresis. Feeling of fullness of bladder. Nephritis."
+  ],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Cina",
+    "Teucr",
+    "Napth",
+    "Nat phos",
+    "Spigel"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/s/santin.htm",
+    "title": "SANTONINUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:25:30.693Z"
+  },
+  "confidence_score": 0.56
+}

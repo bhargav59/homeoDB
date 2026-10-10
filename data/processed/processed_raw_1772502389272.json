@@ -1,0 +1,73 @@
+{
+  "name": "IODIUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Iodine"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Throbbing at pit of stomach. Ravenous hunger and much thirst. Empty eructations, as if every particle of food were turned into gas. Anxious and worried if he does not eat (Cina; Sulph). Loss flesh, yet hungry and eating well (Abrot).",
+    "Throbbing; rush of blood, and feeling of a tight band. Vertigo; worse from stooping, worse in warm room. Chronic, congestive headache of old people (Phos).",
+    "Hoarse. Raw and tickling feeling provoking a dry cough. Pain in larynx. Laryngitis, with painful roughness; worse during cough. Child grasps throat when coughing. Right-sided pneumonia with high temperature. Difficult expansion of chest, blood-streaked sputum; internal dry heat, external coldness. Violent heart action. Pneumonia. Hepatization spreads rapidly with persistent high temperature; absence of pain in spite of great involvement, worse warmth; craves cool air. Croup in scrofulous children with dark hair and eyes (Brom opposite). Inspiration difficult. Dry, morning cough, from tickling in larynx. Croupy cough, with difficult respiration; wheezy. Cold extends downwards from head to throat and bronchi. Great weakness about chest. Palpitation from least exertion. Pleuritic effusion. Tickling all over chest. Iod cough is worse indoors, in warm, wet weather, and when lying on back.",
+    "Heart feels squeezed. Myocarditis, painful compression around heart. Feels as if squeezed by an iron hand (Cactus) followed by great weakness and faintness. Palpitation from least exertion. Tachycardia.",
+    "Joints inflamed and painful. Pain in bones at night. White swelling. Gonorrhśal rheumatism. Rheumatism of nape and upper extremities. Cold hands and feet. Acrid sweat of feet. Pulsation in large arterial trunks. Rheumatic pains, nightly pains in joints; constrictive sensations."
+  ],
+  "guiding_symptoms": [
+    "Throbbing at pit of stomach. Ravenous hunger and much thirst. Empty eructations, as if every particle of food were turned into gas. Anxious and worried if he does not eat (Cina; Sulph). Loss flesh, yet hungry and eating well (Abrot).",
+    "Throbbing; rush of blood, and feeling of a tight band. Vertigo; worse from stooping, worse in warm room. Chronic, congestive headache of old people (Phos).",
+    "Hoarse. Raw and tickling feeling provoking a dry cough. Pain in larynx. Laryngitis, with painful roughness; worse during cough. Child grasps throat when coughing. Right-sided pneumonia with high temperature. Difficult expansion of chest, blood-streaked sputum; internal dry heat, external coldness. Violent heart action. Pneumonia. Hepatization spreads rapidly with persistent high temperature; absence of pain in spite of great involvement, worse warmth; craves cool air. Croup in scrofulous children with dark hair and eyes (Brom opposite). Inspiration difficult. Dry, morning cough, from tickling in larynx. Croupy cough, with difficult respiration; wheezy. Cold extends downwards from head to throat and bronchi. Great weakness about chest. Palpitation from least exertion. Pleuritic effusion. Tickling all over chest. Iod cough is worse indoors, in warm, wet weather, and when lying on back."
+  ],
+  "modalities": {
+    "worse": [
+      "when quiet, in warm room, right side"
+    ],
+    "better": [
+      "walking about, in open air"
+    ]
+  },
+  "mind_symptoms": [
+    "Anxiety when quiet. Present anxiety and depression, no reference to the future. Sudden impulse to run and do violence. Forgetful. Must be busy. Fear of people, shuns every one. Melancholy. Suicidal tendency."
+  ],
+  "head_symptoms": [
+    "Throbbing; rush of blood, and feeling of a tight band. Vertigo; worse from stooping, worse in warm room. Chronic, congestive headache of old people (Phos)."
+  ],
+  "respiratory_symptoms": [
+    "Hoarse. Raw and tickling feeling provoking a dry cough. Pain in larynx. Laryngitis, with painful roughness; worse during cough. Child grasps throat when coughing. Right-sided pneumonia with high temperature. Difficult expansion of chest, blood-streaked sputum; internal dry heat, external coldness. Violent heart action. Pneumonia. Hepatization spreads rapidly with persistent high temperature; absence of pain in spite of great involvement, worse warmth; craves cool air. Croup in scrofulous children with dark hair and eyes (Brom opposite). Inspiration difficult. Dry, morning cough, from tickling in larynx. Croupy cough, with difficult respiration; wheezy. Cold extends downwards from head to throat and bronchi. Great weakness about chest. Palpitation from least exertion. Pleuritic effusion. Tickling all over chest. Iod cough is worse indoors, in warm, wet weather, and when lying on back."
+  ],
+  "gi_symptoms": [
+    "Throbbing at pit of stomach. Ravenous hunger and much thirst. Empty eructations, as if every particle of food were turned into gas. Anxious and worried if he does not eat (Cina; Sulph). Loss flesh, yet hungry and eating well (Abrot)."
+  ],
+  "urinary_symptoms": [
+    "Testicles swollen and indurated. Hydrocele. Loss of sexual power, with atrophied testes."
+  ],
+  "musculoskeletal_symptoms": [
+    "Joints inflamed and painful. Pain in bones at night. White swelling. Gonorrhśal rheumatism. Rheumatism of nape and upper extremities. Cold hands and feet. Acrid sweat of feet. Pulsation in large arterial trunks. Rheumatic pains, nightly pains in joints; constrictive sensations."
+  ],
+  "skin_symptoms": [
+    "Hot, dry, yellow and withered. Glands enlarged. Nodosities. Anasarca of cardiac disease."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [
+    "Flushes of heat all over body. Marked fever, restlessness, red cheeks, apathetic. Profuse sweat."
+  ],
+  "complementary_remedies": [
+    "Brom",
+    "Hepar",
+    "Mercur",
+    "Phosph",
+    "Abrot"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/i/iod.htm",
+    "title": "IODIUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:46:29.272Z"
+  },
+  "confidence_score": 0.8
+}

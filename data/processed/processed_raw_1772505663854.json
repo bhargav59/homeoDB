@@ -1,0 +1,52 @@
+{
+  "name": "VACCININUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Nosode-From vaccine matter."
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Frontal headache. Forehead and eyes feel as if split. Inflamed and red lids."
+  ],
+  "guiding_symptoms": [
+    "Frontal headache. Forehead and eyes feel as if split. Inflamed and red lids."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [
+    "Irritable, impatient ill-humored, nervous."
+  ],
+  "head_symptoms": [
+    "Frontal headache. Forehead and eyes feel as if split. Inflamed and red lids."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [
+    "Hot and dry. Pimples and blotches. Eruption like variola."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "anti-vaccinal remedies",
+    "Variolin",
+    "Malandrinum",
+    "Thuja"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/v/vac.htm",
+    "title": "VACCININUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:41:03.854Z"
+  },
+  "confidence_score": 0.5
+}

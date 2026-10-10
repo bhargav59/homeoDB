@@ -1,0 +1,21 @@
+{
+  "remedy_name": "MEDUSA",
+  "source_file": "raw_1772503156532.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/m/medus.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Pyrarara",
+      "Physalia",
+      "Urtica",
+      "Homar",
+      "Sep"
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "parsed_at": "2026-03-03T15:23:37.538Z"
+}

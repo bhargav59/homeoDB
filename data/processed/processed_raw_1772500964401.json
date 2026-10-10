@@ -1,0 +1,54 @@
+{
+  "name": "COCCINELLA SEPTEMPUNCTATA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Lady Bug"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Hiccough and burning in stomach.",
+    "Pain in forehead over right eye, sensitive to touch; from superior molars to forehead. Aching in temples and occiput. Rush of blood to face. Throbbing toothache. Cold sensation in teeth and mouth (Cistus). Periodical attacks of frontal neuralgia. Cannot open eyes during paroxysm. Pain worse from any bright object; better, sleep.",
+    "Pain in region of kidneys and loins. Icy cold extremities."
+  ],
+  "guiding_symptoms": [
+    "Hiccough and burning in stomach.",
+    "Pain in forehead over right eye, sensitive to touch; from superior molars to forehead. Aching in temples and occiput. Rush of blood to face. Throbbing toothache. Cold sensation in teeth and mouth (Cistus). Periodical attacks of frontal neuralgia. Cannot open eyes during paroxysm. Pain worse from any bright object; better, sleep.",
+    "Pain in region of kidneys and loins. Icy cold extremities."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Pain in forehead over right eye, sensitive to touch; from superior molars to forehead. Aching in temples and occiput. Rush of blood to face. Throbbing toothache. Cold sensation in teeth and mouth (Cistus). Periodical attacks of frontal neuralgia. Cannot open eyes during paroxysm. Pain worse from any bright object; better, sleep."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "Hiccough and burning in stomach."
+  ],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [
+    "Pain in region of kidneys and loins. Icy cold extremities."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Canth",
+    "Magn c"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/c/cocc-s.htm",
+    "title": "COCCINELLA SEPTEMPUNCTATA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:22:44.401Z"
+  },
+  "confidence_score": 0.5
+}

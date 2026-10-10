@@ -1,0 +1,43 @@
+{
+  "name": "LEMNA MINOR",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Duckweed"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [],
+  "guiding_symptoms": [],
+  "modalities": {
+    "worse": [
+      "in damp, rainy weather, especially heavy rains"
+    ],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Putrid smell; loss of smell. Crusts and muco-purulent discharge very abundant. Post-nasal dropping. Pain like a string from nostrils to ear. Reduces nasal obstruction when it is an œdematous condition. Dryness of naso-pharynx."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "Disposition to noisy diarrhœa."
+  ],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/l/lem-m.htm",
+    "title": "LEMNA MINOR - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:54:27.950Z"
+  },
+  "confidence_score": 0.56
+}

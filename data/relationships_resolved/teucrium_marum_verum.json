@@ -1,0 +1,51 @@
+{
+  "remedy_name": "TEUCRIUM MARUM VERUM",
+  "source_file": "raw_1772505361049.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "dropsy",
+        "resolved_name": "DROSERA",
+        "confidence": 0.7,
+        "method": "levenshtein_2"
+      },
+      {
+        "original": "orchitis and tuberculous epidymitis",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "especially in young",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "glands",
+        "resolved_name": "ALNUS RUBRA",
+        "confidence": 0.55,
+        "method": "levenshtein_3"
+      },
+      {
+        "original": "bones and urogenitals",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "3x)",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:11.431Z"
+}

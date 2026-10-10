@@ -1,0 +1,43 @@
+{
+  "name": "AMMONIUM IODATUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Iodide of Ammonia"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Dull headache, especially in young people, face stupid, heavy; vertigo, Meniere's disease."
+  ],
+  "guiding_symptoms": [
+    "Dull headache, especially in young people, face stupid, heavy; vertigo, Meniere's disease."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Dull headache, especially in young people, face stupid, heavy; vertigo, Meniere's disease."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/a/am-i.htm",
+    "title": "AMMONIUM IODATUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-01T13:31:08.891Z"
+  },
+  "confidence_score": 0.32
+}

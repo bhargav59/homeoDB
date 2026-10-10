@@ -1,0 +1,69 @@
+{
+  "name": "NATRIUM SULPHURICUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Sulphate of Sodium-Glauber's Salt"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Vomits sour. Brown, bitter coating on tongue. Yellow complexion. Thirst for something cold. Bilious vomiting, acid dyspepsia, with heartburn and flatulence.",
+    "Occipital pain. Piercing stitches in ears. Vertigo; relieved by sweat on head. Bursting feeling on coughing. Hot feeling on top of head. Bursting feeling on coughing. Hot feeling on top of head. Boring in right temple, preceded by burning in stomach. Ill-effects of falls and injuries to the head, and mental troubles arising therefrom. Dreams of running water.",
+    "Dyspnśa, during damp weather. Must hold chest when coughing. Humid asthma; rattling in chest, at 4 and 5 am. Cough, with thick ropy, greenish expectoration; chest feels all gone. Constant desire to take deep, long breath. Asthma in children, as a constitutional remedy. Delayed resolution in pneumonia. Springs up in bed the cough hurts so; holds painful side (Bry). Pain through lower left chest. Every fresh cold brings on attack of asthma.",
+    "Swelling of axillary glands. Inflammation around root of nails. Burning in soles; śdema of feet; itching between toes. Gout. Pain in limbs, compels frequent change in position. Run-arounds. Pain in hip-joints, worse left, worse, stooping. Stiffness of knees, cracking of joints. Rheumatism, worse in damp cold weather.",
+    "Itching when undressing. Violent pains in back of neck, and at base of brain. Piercing pain between scapulć. Spinal meningitis; opisthotonos."
+  ],
+  "guiding_symptoms": [
+    "Vomits sour. Brown, bitter coating on tongue. Yellow complexion. Thirst for something cold. Bilious vomiting, acid dyspepsia, with heartburn and flatulence.",
+    "Occipital pain. Piercing stitches in ears. Vertigo; relieved by sweat on head. Bursting feeling on coughing. Hot feeling on top of head. Bursting feeling on coughing. Hot feeling on top of head. Boring in right temple, preceded by burning in stomach. Ill-effects of falls and injuries to the head, and mental troubles arising therefrom. Dreams of running water.",
+    "Dyspnśa, during damp weather. Must hold chest when coughing. Humid asthma; rattling in chest, at 4 and 5 am. Cough, with thick ropy, greenish expectoration; chest feels all gone. Constant desire to take deep, long breath. Asthma in children, as a constitutional remedy. Delayed resolution in pneumonia. Springs up in bed the cough hurts so; holds painful side (Bry). Pain through lower left chest. Every fresh cold brings on attack of asthma."
+  ],
+  "modalities": {
+    "worse": [
+      "music (makes her sad)",
+      "lying on left side",
+      "dampness of basement, damp weather"
+    ],
+    "better": [
+      "dry weather, pressure, changing position"
+    ]
+  },
+  "mind_symptoms": [
+    "Lively music saddens. Melancholy, with periodical attacks of mania. Suicidal tendency; must exercise restraint. Inability to think. Dislikes to speak, or to be spoken to."
+  ],
+  "head_symptoms": [
+    "Occipital pain. Piercing stitches in ears. Vertigo; relieved by sweat on head. Bursting feeling on coughing. Hot feeling on top of head. Bursting feeling on coughing. Hot feeling on top of head. Boring in right temple, preceded by burning in stomach. Ill-effects of falls and injuries to the head, and mental troubles arising therefrom. Dreams of running water."
+  ],
+  "respiratory_symptoms": [
+    "Dyspnśa, during damp weather. Must hold chest when coughing. Humid asthma; rattling in chest, at 4 and 5 am. Cough, with thick ropy, greenish expectoration; chest feels all gone. Constant desire to take deep, long breath. Asthma in children, as a constitutional remedy. Delayed resolution in pneumonia. Springs up in bed the cough hurts so; holds painful side (Bry). Pain through lower left chest. Every fresh cold brings on attack of asthma."
+  ],
+  "gi_symptoms": [
+    "Vomits sour. Brown, bitter coating on tongue. Yellow complexion. Thirst for something cold. Bilious vomiting, acid dyspepsia, with heartburn and flatulence."
+  ],
+  "urinary_symptoms": [
+    "Condylomata; soft, fleshy excrescences; greenish discharges. Gonorrhśa; discharge thick, greenish; little pain."
+  ],
+  "musculoskeletal_symptoms": [
+    "Swelling of axillary glands. Inflammation around root of nails. Burning in soles; śdema of feet; itching between toes. Gout. Pain in limbs, compels frequent change in position. Run-arounds. Pain in hip-joints, worse left, worse, stooping. Stiffness of knees, cracking of joints. Rheumatism, worse in damp cold weather."
+  ],
+  "skin_symptoms": [
+    "Itching while undressing. Jaundiced, watery blisters. Sycotic excrescences; wart-like red lumps all over body."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Natrum succinate (5 gr every 3 hours"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/n/nat-s.htm",
+    "title": "NATRIUM SULPHURICUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:05:58.492Z"
+  },
+  "confidence_score": 0.8
+}

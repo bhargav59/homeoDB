@@ -1,0 +1,55 @@
+{
+  "name": "ARGEMONE MEXICANA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Prickly Poppy"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Feels sick, like vomiting. Griping in pit of stomach. No appetite. Belching and passing gas.",
+    "Throbbing headache in eyes and temples. Head hot. Throat very dry, pain on swallowing.",
+    "Left knee stiff and painful. Feet swollen."
+  ],
+  "guiding_symptoms": [
+    "Feels sick, like vomiting. Griping in pit of stomach. No appetite. Belching and passing gas.",
+    "Throbbing headache in eyes and temples. Head hot. Throat very dry, pain on swallowing.",
+    "Left knee stiff and painful. Feet swollen."
+  ],
+  "modalities": {
+    "worse": [
+      "at noon (weakness)"
+    ],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Throbbing headache in eyes and temples. Head hot. Throat very dry, pain on swallowing."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "Feels sick, like vomiting. Griping in pit of stomach. No appetite. Belching and passing gas."
+  ],
+  "urinary_symptoms": [
+    "Passes less urine. Changing color."
+  ],
+  "musculoskeletal_symptoms": [
+    "Left knee stiff and painful. Feet swollen."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/a/arge.htm",
+    "title": "ARGEMONE MEXICANA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-02T06:33:22.640Z"
+  },
+  "confidence_score": 0.62
+}

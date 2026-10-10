@@ -1,0 +1,62 @@
+{
+  "name": "SINAPIS NIGRA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Black Mustard"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Offensive breath, smelling like onions (Asaf; Armorac). Burning in stomach, extending up śsophagus, throat, and mouth, which is full of canker sores. Hot sour eructations. Colic; pains come on while bent forward; better, sitting up straight. Sweat better when nausea comes on.",
+    "Scalp hot and itches. Sweat on upper lip and forehead. Tongue feels blistered.",
+    "Cough is relieved by lying down.",
+    "Rheumatic pain in intercostal and lumbar muscles; sleeplessness from pain in back and hips."
+  ],
+  "guiding_symptoms": [
+    "Offensive breath, smelling like onions (Asaf; Armorac). Burning in stomach, extending up śsophagus, throat, and mouth, which is full of canker sores. Hot sour eructations. Colic; pains come on while bent forward; better, sitting up straight. Sweat better when nausea comes on.",
+    "Scalp hot and itches. Sweat on upper lip and forehead. Tongue feels blistered.",
+    "Cough is relieved by lying down."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Scalp hot and itches. Sweat on upper lip and forehead. Tongue feels blistered."
+  ],
+  "respiratory_symptoms": [
+    "Cough is relieved by lying down."
+  ],
+  "gi_symptoms": [
+    "Offensive breath, smelling like onions (Asaf; Armorac). Burning in stomach, extending up śsophagus, throat, and mouth, which is full of canker sores. Hot sour eructations. Colic; pains come on while bent forward; better, sitting up straight. Sweat better when nausea comes on."
+  ],
+  "urinary_symptoms": [
+    "Pain in bladder, frequent copious flow day and night."
+  ],
+  "musculoskeletal_symptoms": [
+    "Rheumatic pain in intercostal and lumbar muscles; sleeplessness from pain in back and hips."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Sulph",
+    "Capsic",
+    "Colocy",
+    "especially pressure and burning",
+    "with obstruction in śsophagus"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/s/sin-n.htm",
+    "title": "SINAPIS NIGRA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:07:06.074Z"
+  },
+  "confidence_score": 0.74
+}

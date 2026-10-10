@@ -1,0 +1,55 @@
+{
+  "name": "CARBOLICUM ACIDUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Phenol-Carbolic Acid"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Appetite lost. Desire for stimulants and tobacco. Constant belching, nausea, vomiting, dark olive green. Heat rises up œsophagus. Flatulent distention of stomach and abdomen. Painful flatulence often marked in one part of the bowel (Sulpho-Carbolate of Soda). Fermentative dyspepsia with bad taste and breath.",
+    "Disinclined to mental work. Tight feeling, as if compressed by a rubber band (Gels; Mahonia). Orbital neuralgia over right eye. Headache, better, by green tea; while smoking.",
+    "Cramps in fore part of leg, close to tibia during walking. Gnawing pains in shin bones. Arthritis."
+  ],
+  "guiding_symptoms": [
+    "Appetite lost. Desire for stimulants and tobacco. Constant belching, nausea, vomiting, dark olive green. Heat rises up œsophagus. Flatulent distention of stomach and abdomen. Painful flatulence often marked in one part of the bowel (Sulpho-Carbolate of Soda). Fermentative dyspepsia with bad taste and breath.",
+    "Disinclined to mental work. Tight feeling, as if compressed by a rubber band (Gels; Mahonia). Orbital neuralgia over right eye. Headache, better, by green tea; while smoking.",
+    "Cramps in fore part of leg, close to tibia during walking. Gnawing pains in shin bones. Arthritis."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Disinclined to mental work. Tight feeling, as if compressed by a rubber band (Gels; Mahonia). Orbital neuralgia over right eye. Headache, better, by green tea; while smoking."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "Appetite lost. Desire for stimulants and tobacco. Constant belching, nausea, vomiting, dark olive green. Heat rises up œsophagus. Flatulent distention of stomach and abdomen. Painful flatulence often marked in one part of the bowel (Sulpho-Carbolate of Soda). Fermentative dyspepsia with bad taste and breath."
+  ],
+  "urinary_symptoms": [
+    "Discharges always offensive (Nitr ac; Nux; Sep). Pustules about vulva containing bloody pus. Agonizing backache across loins, with dragging-down thighs. Pain in left ovary; worse walking in open air. Erosions of cervix; fetid, acrid discharge. Leucorrhœa in children (Cann s; Merc; Puls; Sep). Puerperal fever, with offensive discharge. Irritating leucorrhœa, causing itching and burning (Kreos)."
+  ],
+  "musculoskeletal_symptoms": [
+    "Cramps in fore part of leg, close to tibia during walking. Gnawing pains in shin bones. Arthritis."
+  ],
+  "skin_symptoms": [
+    "Itching vesicles, with burning pain. Burns tend to ulcerate."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/c/carb-ac.htm",
+    "title": "CARBOLICUM ACIDUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:13:28.058Z"
+  },
+  "confidence_score": 0.8
+}

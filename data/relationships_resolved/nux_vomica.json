@@ -1,0 +1,79 @@
+{
+  "remedy_name": "NUX VOMICA",
+  "source_file": "raw_1772503641578.json",
+  "relationships": {
+    "complementary": [
+      {
+        "original": "ary",
+        "resolved_name": "BARYTA ACETICA",
+        "confidence": 0.8,
+        "method": "substring"
+      }
+    ],
+    "antidoted_by": [
+      {
+        "original": "Coff",
+        "resolved_name": "COFFEA CRUDA",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      }
+    ],
+    "follows_well": [],
+    "inimical": [
+      {
+        "original": "Zinc",
+        "resolved_name": "ZINCUM METALLICUM",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      }
+    ],
+    "compare": [
+      {
+        "original": "Strychnia",
+        "resolved_name": "STRYCHNOS GAULTHERIANA",
+        "confidence": 0.7,
+        "method": "levenshtein_2"
+      },
+      {
+        "original": "Kali carb",
+        "resolved_name": "KALI CARBONICUM",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      },
+      {
+        "original": "Hydr",
+        "resolved_name": "ARSENICUM HYDROGENISATUM",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Bry",
+        "resolved_name": "BRYONIA",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      },
+      {
+        "original": "Lyc",
+        "resolved_name": "LYCOPODIUM CLAVATUM",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      },
+      {
+        "original": "Graph",
+        "resolved_name": "GRAPHITES",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": [
+      {
+        "original": "Coff",
+        "resolved_name": "COFFEA CRUDA",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      }
+    ]
+  },
+  "resolved_at": "2026-03-11T01:50:10.483Z"
+}

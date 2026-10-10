@@ -1,0 +1,54 @@
+{
+  "name": "CALCAREA ACETICA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Acetate of Lime"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Vertigo in open air. Senses obscure while reading. Megrim, with great coldness in head and sour taste.",
+    "Rattling expiration. Cough loose, with expectoration of large pieces like casts of bronchial tubes. Breathing difficult; better bending shoulders backward. Constrictive anxious sensation in chest."
+  ],
+  "guiding_symptoms": [
+    "Vertigo in open air. Senses obscure while reading. Megrim, with great coldness in head and sour taste.",
+    "Rattling expiration. Cough loose, with expectoration of large pieces like casts of bronchial tubes. Breathing difficult; better bending shoulders backward. Constrictive anxious sensation in chest."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Vertigo in open air. Senses obscure while reading. Megrim, with great coldness in head and sour taste."
+  ],
+  "respiratory_symptoms": [
+    "Rattling expiration. Cough loose, with expectoration of large pieces like casts of bronchial tubes. Breathing difficult; better bending shoulders backward. Constrictive anxious sensation in chest."
+  ],
+  "gi_symptoms": [],
+  "urinary_symptoms": [
+    "Membranous dysmenorrhśa (Borax)."
+  ],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Brom",
+    "Borax",
+    "also Calc oxal",
+    "in excruciating pains of open cancer"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/c/calc-act.htm",
+    "title": "CALCAREA ACETICA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:10:30.164Z"
+  },
+  "confidence_score": 0.5
+}

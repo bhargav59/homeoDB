@@ -1,0 +1,51 @@
+{
+  "name": "EUPIONUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Wood-tar distillation"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Vertigo; everything turns round on sitting up in bed. Heat at vertex; stitches from vertex down limbs into abdomen and genitals. Sore painful spots on head. Painful pulsation in forehead.",
+    "Cramps in the calves; worse at night.",
+    "Sacrum pains, as if broken. Severe backache; must lean against something for support. Pains extended into pelvis."
+  ],
+  "guiding_symptoms": [
+    "Vertigo; everything turns round on sitting up in bed. Heat at vertex; stitches from vertex down limbs into abdomen and genitals. Sore painful spots on head. Painful pulsation in forehead.",
+    "Cramps in the calves; worse at night.",
+    "Sacrum pains, as if broken. Severe backache; must lean against something for support. Pains extended into pelvis."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Vertigo; everything turns round on sitting up in bed. Heat at vertex; stitches from vertex down limbs into abdomen and genitals. Sore painful spots on head. Painful pulsation in forehead."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [],
+  "urinary_symptoms": [
+    "Burning in right ovary. Gushing leucorrhśa. Chronic tubal disease. Uterine flexions. Menses too early and copious. During menses, irritable and disinclined to talk; burning and stitches in chest and heart. After menses, yellow leucorrhśa, with severe backache. When pain in back ceases, the discharge gushes out. Sore pain between labia during urination. Pruritus pudendi; labia swollen."
+  ],
+  "musculoskeletal_symptoms": [
+    "Cramps in the calves; worse at night."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/e/eupi.htm",
+    "title": "EUPIONUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:33:33.987Z"
+  },
+  "confidence_score": 0.56
+}

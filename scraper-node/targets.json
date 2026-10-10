@@ -1,0 +1,17 @@
+[
+    {
+        "id": "kent_lectures",
+        "indexUrl": "https://www.homeoint.org/books/kentlect/index.htm",
+        "linkMatch": "kentlect/.*\\.htm$"
+    },
+    {
+        "id": "clarke_dictionary",
+        "indexUrl": "https://www.homeoint.org/clarke/index.php",
+        "linkMatch": "clarke/.*\\.htm$"
+    },
+    {
+        "id": "allens_keynotes",
+        "indexUrl": "https://www.homeoint.org/books/allkey/index.htm",
+        "linkMatch": "allkey/.*\\.htm$"
+    }
+]

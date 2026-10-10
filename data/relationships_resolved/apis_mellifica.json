@@ -1,0 +1,65 @@
+{
+  "remedy_name": "APIS MELLIFICA",
+  "source_file": "raw_1772433060832.json",
+  "relationships": {
+    "complementary": [
+      {
+        "original": "Nat mur",
+        "resolved_name": "NATRIUM ARSENICOSUM",
+        "confidence": 0.55,
+        "method": "levenshtein_3"
+      }
+    ],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [
+      {
+        "original": "Rhus",
+        "resolved_name": "RHUS GLABRA",
+        "confidence": 1,
+        "method": "exact"
+      }
+    ],
+    "compare": [
+      {
+        "original": "Apium virus (auto-toxćmia",
+        "resolved_name": "APIUM GRAVEOLENS",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "with pus products)",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "Zinc",
+        "resolved_name": "ZINCUM METALLICUM",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      },
+      {
+        "original": "Canth",
+        "resolved_name": "CANTHARIS VESICATORIA",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Vespa",
+        "resolved_name": "VESPA CRABRO",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Lachesis",
+        "resolved_name": "LACHESIS MUTUS",
+        "confidence": 1,
+        "method": "exact"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:08.519Z"
+}

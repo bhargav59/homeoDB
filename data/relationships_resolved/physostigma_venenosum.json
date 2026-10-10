@@ -1,0 +1,77 @@
+{
+  "remedy_name": "PHYSOSTIGMA VENENOSUM",
+  "source_file": "raw_1772504126405.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      {
+        "original": "Atropia",
+        "resolved_name": "JATROPHA CURCAS",
+        "confidence": 0.7,
+        "method": "levenshtein_2"
+      }
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "blepharo-spasms",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "pupils contracted",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "also: Muscarin",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "Conium",
+        "resolved_name": "CONIUM MACULATUM",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Curare",
+        "resolved_name": "CURARE",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Gels",
+        "resolved_name": "GELSEMIUM",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      },
+      {
+        "original": "Thebainum",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "Piperazinum--(Uric acid conditions",
+        "resolved_name": "PIPER METHYSTICUM",
+        "confidence": 0.8,
+        "method": "substring"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": [
+      {
+        "original": "Atropia",
+        "resolved_name": "JATROPHA CURCAS",
+        "confidence": 0.7,
+        "method": "levenshtein_2"
+      }
+    ]
+  },
+  "resolved_at": "2026-03-11T01:50:10.739Z"
+}

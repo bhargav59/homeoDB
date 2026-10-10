@@ -1,0 +1,69 @@
+{
+  "name": "CHELIDONIUM MAJUS",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Celandine"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Tongue yellow, with imprint of teeth; large and flabby (Merc; Hyd). Taste bitter, pasty. Bad odor from mouth. Prefers hot food and drink. Nausea, vomiting; better, very hot water. Pain through stomach to back and right shoulder-blade. Gastralgia. Eating relieves temporarily, especially when accompanied with hepatic symptoms.",
+    "Icy coldness of occiput from the nape of neck; feels heavy as lead. Heavy, lethargic; drowsiness very marked, with general numbness; vertigo, associated with hepatic disturbance. Inclination to fall forward. Right-sided headache down behind ears and shoulder-blade. Neuralgia over right eye, right cheek-bone and right ear, with excessive lachrymation, preceded by pain in liver.",
+    "Very quick and short inspirations; pain on deep inspiration. Dyspnśa. Short, exhausting cough; sensation of dust not relieved by cough. Whooping-cough; spasmodic cough; loose, rattling; expectoration difficult. Pain in right side of chest and shoulder, with embarrassed respiration. Small lumps of mucus fly from mouth when coughing. Hoarse in afternoon. Constriction of chest.",
+    "Pain in arms, shoulders, hands, tips of fingers. Icy coldness of tips of fingers; wrists sore, tearing in metacarpal bones. Whole flesh sore to touch. Rheumatic pain in hips and thighs; intolerable pains in heels, as if pinched by too narrow a shoe; worse, right. Feels paralyzed. Paresis of the lower limbs with rigidity of muscles.",
+    "Pain in nape. Stiff neck, head drawn to left. Fixed pain under inner and lower angle of right scapula. Pain at lower angle of left scapula."
+  ],
+  "guiding_symptoms": [
+    "Tongue yellow, with imprint of teeth; large and flabby (Merc; Hyd). Taste bitter, pasty. Bad odor from mouth. Prefers hot food and drink. Nausea, vomiting; better, very hot water. Pain through stomach to back and right shoulder-blade. Gastralgia. Eating relieves temporarily, especially when accompanied with hepatic symptoms.",
+    "Icy coldness of occiput from the nape of neck; feels heavy as lead. Heavy, lethargic; drowsiness very marked, with general numbness; vertigo, associated with hepatic disturbance. Inclination to fall forward. Right-sided headache down behind ears and shoulder-blade. Neuralgia over right eye, right cheek-bone and right ear, with excessive lachrymation, preceded by pain in liver.",
+    "Very quick and short inspirations; pain on deep inspiration. Dyspnśa. Short, exhausting cough; sensation of dust not relieved by cough. Whooping-cough; spasmodic cough; loose, rattling; expectoration difficult. Pain in right side of chest and shoulder, with embarrassed respiration. Small lumps of mucus fly from mouth when coughing. Hoarse in afternoon. Constriction of chest."
+  ],
+  "modalities": {
+    "worse": [
+      "right side, motion, touch, change of weather, very early in morning"
+    ],
+    "better": [
+      "after dinner, from pressure"
+    ]
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Icy coldness of occiput from the nape of neck; feels heavy as lead. Heavy, lethargic; drowsiness very marked, with general numbness; vertigo, associated with hepatic disturbance. Inclination to fall forward. Right-sided headache down behind ears and shoulder-blade. Neuralgia over right eye, right cheek-bone and right ear, with excessive lachrymation, preceded by pain in liver."
+  ],
+  "respiratory_symptoms": [
+    "Very quick and short inspirations; pain on deep inspiration. Dyspnśa. Short, exhausting cough; sensation of dust not relieved by cough. Whooping-cough; spasmodic cough; loose, rattling; expectoration difficult. Pain in right side of chest and shoulder, with embarrassed respiration. Small lumps of mucus fly from mouth when coughing. Hoarse in afternoon. Constriction of chest."
+  ],
+  "gi_symptoms": [
+    "Tongue yellow, with imprint of teeth; large and flabby (Merc; Hyd). Taste bitter, pasty. Bad odor from mouth. Prefers hot food and drink. Nausea, vomiting; better, very hot water. Pain through stomach to back and right shoulder-blade. Gastralgia. Eating relieves temporarily, especially when accompanied with hepatic symptoms."
+  ],
+  "urinary_symptoms": [
+    "Menses too late and too profuse."
+  ],
+  "musculoskeletal_symptoms": [
+    "Pain in arms, shoulders, hands, tips of fingers. Icy coldness of tips of fingers; wrists sore, tearing in metacarpal bones. Whole flesh sore to touch. Rheumatic pain in hips and thighs; intolerable pains in heels, as if pinched by too narrow a shoe; worse, right. Feels paralyzed. Paresis of the lower limbs with rigidity of muscles."
+  ],
+  "skin_symptoms": [
+    "Dry heat of skin; itches, yellow. Painful red pimples and pustules. Old, spreading, offensive ulcers. Wilted skin. Sallow, cold, clammy."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Nux",
+    "Sulph",
+    "Bry",
+    "Lyc",
+    "Opium"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/c/chel.htm",
+    "title": "CHELIDONIUM MAJUS - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:17:42.148Z"
+  },
+  "confidence_score": 0.8
+}

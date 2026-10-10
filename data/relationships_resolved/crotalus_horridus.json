@@ -1,0 +1,53 @@
+{
+  "remedy_name": "CROTALUS HORRIDUS",
+  "source_file": "raw_1772501148830.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      {
+        "original": "Lach",
+        "resolved_name": "LACHESIS",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      }
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Bothrops",
+        "resolved_name": "BOTHROPS LANCEOLATUS",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Naja",
+        "resolved_name": "NAJA TRIPUDIANS",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Lachesis",
+        "resolved_name": "LACHESIS MUTUS",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Elaps",
+        "resolved_name": "ELAPS CORALLINUS",
+        "confidence": 1,
+        "method": "exact"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": [
+      {
+        "original": "Lach",
+        "resolved_name": "LACHESIS",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      }
+    ]
+  },
+  "resolved_at": "2026-03-11T01:50:09.157Z"
+}

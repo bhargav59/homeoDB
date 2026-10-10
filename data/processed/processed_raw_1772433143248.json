@@ -1,0 +1,65 @@
+{
+  "name": "ARANEA DIADEMA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Papal-Cross Spider"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Cramps after eating a little; epigastrium painful to pressure.",
+    "Pain in intercostal nerve from nerve endings to spine. Bright red hćmorrhage from lungs (Millefol; Ferr phos).",
+    "Pain in right trifacial nerve from periphery inwards. Confusion; better by smoking in open air. Heat and flickering in eyes; worse in damp weather. Sudden violent pain in teeth at night immediately after lying down.",
+    "Bone-pains in extremities. Pain in os calcis. Sensation of swelling, and of parts going to sleep."
+  ],
+  "guiding_symptoms": [
+    "Cramps after eating a little; epigastrium painful to pressure.",
+    "Pain in intercostal nerve from nerve endings to spine. Bright red hćmorrhage from lungs (Millefol; Ferr phos).",
+    "Pain in right trifacial nerve from periphery inwards. Confusion; better by smoking in open air. Heat and flickering in eyes; worse in damp weather. Sudden violent pain in teeth at night immediately after lying down."
+  ],
+  "modalities": {
+    "worse": [
+      "damp weather",
+      "late in afternoon, and at midnight"
+    ],
+    "better": [
+      "smoking tobacco"
+    ]
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Pain in right trifacial nerve from periphery inwards. Confusion; better by smoking in open air. Heat and flickering in eyes; worse in damp weather. Sudden violent pain in teeth at night immediately after lying down."
+  ],
+  "respiratory_symptoms": [
+    "Pain in intercostal nerve from nerve endings to spine. Bright red hćmorrhage from lungs (Millefol; Ferr phos)."
+  ],
+  "gi_symptoms": [
+    "Cramps after eating a little; epigastrium painful to pressure."
+  ],
+  "urinary_symptoms": [
+    "Menses too early, too copious. Distention of abdomen. Lumbo-abdominal neuralgia."
+  ],
+  "musculoskeletal_symptoms": [
+    "Bone-pains in extremities. Pain in os calcis. Sensation of swelling, and of parts going to sleep."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [
+    "Restless and waking, as if hands and forearms were swollen and heavy."
+  ],
+  "fever_symptoms": [
+    "Coldness, with pain in long bones, and feeling of stone in abdomen at the same hour daily. Chilly day and night; always worse during rain."
+  ],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/a/aran.htm",
+    "title": "ARANEA DIADEMA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-02T06:32:23.248Z"
+  },
+  "confidence_score": 0.8
+}

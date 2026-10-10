@@ -1,0 +1,51 @@
+{
+  "name": "GAULTHERIA PROCUMBENS",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Wintergreen"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Acute gastritis, severe pain in epigastrium; prolonged vomiting. Uncontrollable appetite, notwithstanding irritable stomach. Gastralgia from nervous depression (Give five drops of 1x of Oil).",
+    "Neuralgia of head and face."
+  ],
+  "guiding_symptoms": [
+    "Acute gastritis, severe pain in epigastrium; prolonged vomiting. Uncontrollable appetite, notwithstanding irritable stomach. Gastralgia from nervous depression (Give five drops of 1x of Oil).",
+    "Neuralgia of head and face."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Neuralgia of head and face."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "Acute gastritis, severe pain in epigastrium; prolonged vomiting. Uncontrollable appetite, notwithstanding irritable stomach. Gastralgia from nervous depression (Give five drops of 1x of Oil)."
+  ],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [
+    "Smarting and burning. Intense erythema, worse, cold bathing; better, olive oil and cool air blowing on part."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Spirćea"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/g/gaul.htm",
+    "title": "GAULTHERIA PROCUMBENS - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:37:50.176Z"
+  },
+  "confidence_score": 0.5
+}

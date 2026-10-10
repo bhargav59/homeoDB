@@ -1,0 +1,69 @@
+{
+  "name": "ASA FOETIDA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Gum of the Stinkasand"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Great difficulty in bringing up wind. Flatulence and regurgitation of liquid. Hysterical flatulence. Great distention. Sensation of emptiness and weakness, with distention and beating in stomach and abdomen. Forcible eructation of gas. Pulsation in pit of stomach. Violent gastralgia; cutting and burning in stomach and region of diaphragm. Gurgling and rolling of wind, which escapes afterwards with loud and difficult eructation.",
+    "Spasmodic tightness, as if lungs could not be fully expanded. Palpitation more like a tremor.",
+    "Bones.--Darting pain and caries in bones. Periosteum painful, swollen, enlarged. Ulcers affecting bones; thin, ichorous pus.",
+    "Irritable; complains of her troubles; sensitive. Boring above eyebrows. Pressive pain from within outward."
+  ],
+  "guiding_symptoms": [
+    "Great difficulty in bringing up wind. Flatulence and regurgitation of liquid. Hysterical flatulence. Great distention. Sensation of emptiness and weakness, with distention and beating in stomach and abdomen. Forcible eructation of gas. Pulsation in pit of stomach. Violent gastralgia; cutting and burning in stomach and region of diaphragm. Gurgling and rolling of wind, which escapes afterwards with loud and difficult eructation.",
+    "Spasmodic tightness, as if lungs could not be fully expanded. Palpitation more like a tremor.",
+    "Bones.--Darting pain and caries in bones. Periosteum painful, swollen, enlarged. Ulcers affecting bones; thin, ichorous pus."
+  ],
+  "modalities": {
+    "worse": [
+      "at night",
+      "from tough",
+      "left side, during rest, warm applications"
+    ],
+    "better": [
+      "open air",
+      "from motion, pressure"
+    ]
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Irritable; complains of her troubles; sensitive. Boring above eyebrows. Pressive pain from within outward."
+  ],
+  "respiratory_symptoms": [
+    "Spasmodic tightness, as if lungs could not be fully expanded. Palpitation more like a tremor.",
+    "Bones.--Darting pain and caries in bones. Periosteum painful, swollen, enlarged. Ulcers affecting bones; thin, ichorous pus."
+  ],
+  "gi_symptoms": [
+    "Great difficulty in bringing up wind. Flatulence and regurgitation of liquid. Hysterical flatulence. Great distention. Sensation of emptiness and weakness, with distention and beating in stomach and abdomen. Forcible eructation of gas. Pulsation in pit of stomach. Violent gastralgia; cutting and burning in stomach and region of diaphragm. Gurgling and rolling of wind, which escapes afterwards with loud and difficult eructation."
+  ],
+  "urinary_symptoms": [
+    "Mammć turgid with milk in the unimpregnated. Deficient milk, with oversensitiveness."
+  ],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [
+    "Itching, better scratching; ulcers painful on edges. Suppressed skin symptoms produce nervous disorders."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Moschus",
+    "China",
+    "Mercur",
+    "Aurum"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/a/asaf.htm",
+    "title": "ASA FOETIDA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-02T06:35:46.412Z"
+  },
+  "confidence_score": 0.8
+}

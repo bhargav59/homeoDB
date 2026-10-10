@@ -1,0 +1,21 @@
+{
+  "remedy_name": "CANTHARIS VESICATORIA",
+  "source_file": "raw_1772500388097.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/c/canth.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      "Acon"
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Cantharidin--"
+    ],
+    "incompatible": [],
+    "antidotes": [
+      "Acon"
+    ]
+  },
+  "parsed_at": "2026-03-03T15:23:37.409Z"
+}

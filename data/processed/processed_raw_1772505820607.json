@@ -1,0 +1,62 @@
+{
+  "name": "VISCUM ALBUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Mistletoe"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Feeling as if whole vault of skull were lifted up. Blue ring around eyes. Double vision. Buzzing and stopped-up feeling in ear. Deafness from cold. Facial muscles in constant agitation. Persistent vertigo.",
+    "Dyspnœa; feeling of suffocation when lying on left side. Spasmodic cough. Asthma, if connected with gout or rheumatism. Stertorous breathing.",
+    "Hypertrophy with valvular insufficiency; pulse small and weak; unable to rest in a reclining position. Palpitation during coitus. Low tension. Failing compensation, dyspnœa worse lying on left side. Weight and oppression of heart; as if a hand were squeezing it; tickling sensation about heart.",
+    "Pains alternate in the knee and ankle with shoulder and elbow. Sciatica. Tearing, shooting pains in both thighs and upper extremities. A glow rises from the feet to the head; seems to be on fire. Periodic pains from sacrum into pelvis, worse in bed, with pains into thighs and upper extremities. General tremor, as if all muscles were in state of fibrillary contraction. Dropsy of extremities. Sensation of a spider crawling over back of hand and foot. Itching all over. Compressing pain in feet."
+  ],
+  "guiding_symptoms": [
+    "Feeling as if whole vault of skull were lifted up. Blue ring around eyes. Double vision. Buzzing and stopped-up feeling in ear. Deafness from cold. Facial muscles in constant agitation. Persistent vertigo.",
+    "Dyspnœa; feeling of suffocation when lying on left side. Spasmodic cough. Asthma, if connected with gout or rheumatism. Stertorous breathing.",
+    "Hypertrophy with valvular insufficiency; pulse small and weak; unable to rest in a reclining position. Palpitation during coitus. Low tension. Failing compensation, dyspnœa worse lying on left side. Weight and oppression of heart; as if a hand were squeezing it; tickling sensation about heart."
+  ],
+  "modalities": {
+    "worse": [
+      "winter, cold, stormy weather",
+      "in bed"
+    ],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Feeling as if whole vault of skull were lifted up. Blue ring around eyes. Double vision. Buzzing and stopped-up feeling in ear. Deafness from cold. Facial muscles in constant agitation. Persistent vertigo."
+  ],
+  "respiratory_symptoms": [
+    "Dyspnœa; feeling of suffocation when lying on left side. Spasmodic cough. Asthma, if connected with gout or rheumatism. Stertorous breathing."
+  ],
+  "gi_symptoms": [],
+  "urinary_symptoms": [
+    "Hæmorrhage, with pain; blood partly clots and bright red. Climacteric complaints (Lach; Sulph). Pain from sacrum into pelvis, with tearing, shooting pains from above downwards. Retained placenta (Secale). Chronic endometritis. Metrorrhagia. Ovaralgia, especially left."
+  ],
+  "musculoskeletal_symptoms": [
+    "Pains alternate in the knee and ankle with shoulder and elbow. Sciatica. Tearing, shooting pains in both thighs and upper extremities. A glow rises from the feet to the head; seems to be on fire. Periodic pains from sacrum into pelvis, worse in bed, with pains into thighs and upper extremities. General tremor, as if all muscles were in state of fibrillary contraction. Dropsy of extremities. Sensation of a spider crawling over back of hand and foot. Itching all over. Compressing pain in feet."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Secale: Convallar",
+    "Bry",
+    "Puls",
+    "Rhodod"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/v/visc.htm",
+    "title": "VISCUM ALBUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:43:40.607Z"
+  },
+  "confidence_score": 0.6799999999999999
+}

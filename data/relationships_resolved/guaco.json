@@ -1,0 +1,33 @@
+{
+  "remedy_name": "GUACO",
+  "source_file": "raw_1772502018624.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Oxal ac",
+        "resolved_name": "X",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Lathyr",
+        "resolved_name": "EUPHORBIA LATHYRIS",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Caust",
+        "resolved_name": "CAUSTICUM",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:09.786Z"
+}

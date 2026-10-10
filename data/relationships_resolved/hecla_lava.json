@@ -1,0 +1,39 @@
+{
+  "remedy_name": "HECLA LAVA",
+  "source_file": "raw_1772502089099.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Silica",
+        "resolved_name": "Silica Marina.",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Mercur",
+        "resolved_name": "MERCURIUS SOLUBILIS",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      },
+      {
+        "original": "Phos",
+        "resolved_name": "PHOSPHORUS",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      },
+      {
+        "original": "parts extremely sensitive to touch)",
+        "resolved_name": "MEL CUM SALE",
+        "confidence": 0.8,
+        "method": "substring"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:09.796Z"
+}

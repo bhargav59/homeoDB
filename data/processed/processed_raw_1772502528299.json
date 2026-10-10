@@ -1,0 +1,49 @@
+{
+  "name": "JUSTICIA ADHATODA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "An Indian Shrub, Singhee"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Irritable, sensitive to external impressions; hot, full and heavy head; lachrymation, with coryza, profuse, fluent, with constant sneezing; loss of smell and taste; coryza with cough.",
+    "Dry cough from sternal region all over chest. Hoarseness, larynx painful. Paroxysmal cough, with suffocative obstruction of respiration. Cough with sneezing. Severe dyspnśa with cough. Tightness across chest. Asthmatic attacks, cannot endure a close, warm room. Whooping-cough."
+  ],
+  "guiding_symptoms": [
+    "Irritable, sensitive to external impressions; hot, full and heavy head; lachrymation, with coryza, profuse, fluent, with constant sneezing; loss of smell and taste; coryza with cough.",
+    "Dry cough from sternal region all over chest. Hoarseness, larynx painful. Paroxysmal cough, with suffocative obstruction of respiration. Cough with sneezing. Severe dyspnśa with cough. Tightness across chest. Asthmatic attacks, cannot endure a close, warm room. Whooping-cough."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Irritable, sensitive to external impressions; hot, full and heavy head; lachrymation, with coryza, profuse, fluent, with constant sneezing; loss of smell and taste; coryza with cough."
+  ],
+  "respiratory_symptoms": [
+    "Dry cough from sternal region all over chest. Hoarseness, larynx painful. Paroxysmal cough, with suffocative obstruction of respiration. Cough with sneezing. Severe dyspnśa with cough. Tightness across chest. Asthmatic attacks, cannot endure a close, warm room. Whooping-cough."
+  ],
+  "gi_symptoms": [],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "."
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/j/just.htm",
+    "title": "JUSTICIA ADHATODA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:48:48.299Z"
+  },
+  "confidence_score": 0.5
+}

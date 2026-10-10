@@ -1,0 +1,58 @@
+{
+  "name": "SOLIDAGO VIRGAUREA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Golden-rod"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Bitter taste, especially at night; coated tongue with very scanty brown and sour urine.",
+    "Bronchitis, cough with much purulent expectoration, blood-streaked; oppressed breathing. Continuous dyspnśa. Asthma, with nightly dysuria.",
+    "Backache of congested kidneys (Senec aur)."
+  ],
+  "guiding_symptoms": [
+    "Bitter taste, especially at night; coated tongue with very scanty brown and sour urine.",
+    "Bronchitis, cough with much purulent expectoration, blood-streaked; oppressed breathing. Continuous dyspnśa. Asthma, with nightly dysuria.",
+    "Backache of congested kidneys (Senec aur)."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Injected, watery, burning, stinging."
+  ],
+  "respiratory_symptoms": [
+    "Bronchitis, cough with much purulent expectoration, blood-streaked; oppressed breathing. Continuous dyspnśa. Asthma, with nightly dysuria."
+  ],
+  "gi_symptoms": [
+    "Bitter taste, especially at night; coated tongue with very scanty brown and sour urine."
+  ],
+  "urinary_symptoms": [
+    "Uterine enlargement, organ pressed down upon the bladder. Fibroid tumors.",
+    "Urine.--Scanty, reddish brown, thick sediment, dysuria, gravel. Difficult and scanty. Albumen, blood, and slime in urine. Pain in kidneys extend forward to abdomen and bladder (Berb). Clear and offensive urine. Sometimes makes the use of the catheter unnecessary."
+  ],
+  "musculoskeletal_symptoms": [
+    "Backache of congested kidneys (Senec aur)."
+  ],
+  "skin_symptoms": [
+    "Blotches, especially on lower extremities; itch. Exanthema of lower extremities, with urinary disturbances, dropsy and threatened gangrene."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/s/solid.htm",
+    "title": "SOLIDAGO VIRGAUREA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:29:19.010Z"
+  },
+  "confidence_score": 0.74
+}

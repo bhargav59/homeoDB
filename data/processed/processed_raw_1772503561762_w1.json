@@ -1,0 +1,55 @@
+{
+  "name": "NATRIUM SALICYLICUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Salicylate of Sodium"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Dyspnœa; breathing noisy, shallow, panting; pulse irregular. Complete loss of voice.",
+    "Perfectly rational periods, alternate with manifestations of insanity of a somber character. Vertigo; worse, raising head. All objects seem to move to the right. Dull headache and confusion. Fibrositis of the scalp."
+  ],
+  "guiding_symptoms": [
+    "Dyspnœa; breathing noisy, shallow, panting; pulse irregular. Complete loss of voice.",
+    "Perfectly rational periods, alternate with manifestations of insanity of a somber character. Vertigo; worse, raising head. All objects seem to move to the right. Dull headache and confusion. Fibrositis of the scalp."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Perfectly rational periods, alternate with manifestations of insanity of a somber character. Vertigo; worse, raising head. All objects seem to move to the right. Dull headache and confusion. Fibrositis of the scalp."
+  ],
+  "respiratory_symptoms": [
+    "Dyspnœa; breathing noisy, shallow, panting; pulse irregular. Complete loss of voice."
+  ],
+  "gi_symptoms": [],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [
+    "Œdema, urticaria, red in circumscribed patches. Tingling and itching. Pemphigoid eruption."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Lobelia purpurascens (drowsiness",
+    "dizzy headache between eyebrows",
+    "cannot keep eyes open",
+    "deadly chill",
+    "without shivering"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/n/nat-sal.htm",
+    "title": "NATRIUM SALICYLICUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:06:01.762Z"
+  },
+  "confidence_score": 0.62
+}

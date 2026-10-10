@@ -1,0 +1,52 @@
+{
+  "name": "EQUISETUM HYEMALE",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Scouring-rush"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [],
+  "guiding_symptoms": [],
+  "modalities": {
+    "worse": [
+      "right side",
+      "movement, pressure, touch, sitting down"
+    ],
+    "better": [
+      "in afternoon from lying down"
+    ]
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [],
+  "urinary_symptoms": [
+    "Severe, dull pain and feeling of fullness in bladder, not relieved by urinating. Frequent urging with severe pain at the close of urination. Urine flows only drop by drop. Sharp, burning, cutting pain in urethra while urinating.",
+    "Incontinence in children, with dreams or night-mares when passing urine. Incontinence in old women, also with involuntary stools. Retention and dysuria during pregnancy and after delivery. Much mucus in urine. Albuminuria. Involuntary urination.",
+    "Kidney.--Deep pain in region of right kidney, extending to lower abdomen, with urgent desire to micturate. Right lumbar region painful."
+  ],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Hydrangea",
+    "Ferr phos",
+    "Apis",
+    "Canth",
+    "Linaria"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/e/equis-h.htm",
+    "title": "EQUISETUM HYEMALE - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:30:54.928Z"
+  },
+  "confidence_score": 0.44
+}

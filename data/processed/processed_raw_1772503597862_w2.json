@@ -1,0 +1,63 @@
+{
+  "name": "PULEX IRRITANS",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Common Flea"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Breath and taste foul. Intense nausea, with vomiting, purging, and faintness. Stool very offensive. Abdomen bloated.",
+    "Urine.--Scanty with frequent urging, with pressure on bladder and burning in urethra. Flow stops suddenly followed by pain. Urine foul. Cannot retain urine; must attend to the call without delay. Irritable bladder before menses.",
+    "Very impatient, cross, and irritable. Frontal headache, with enlarged feeling of eyes. Face wrinkled and old-looking.",
+    "Aches, weak; drawing of muscles below scapulć."
+  ],
+  "guiding_symptoms": [
+    "Breath and taste foul. Intense nausea, with vomiting, purging, and faintness. Stool very offensive. Abdomen bloated.",
+    "Urine.--Scanty with frequent urging, with pressure on bladder and burning in urethra. Flow stops suddenly followed by pain. Urine foul. Cannot retain urine; must attend to the call without delay. Irritable bladder before menses.",
+    "Very impatient, cross, and irritable. Frontal headache, with enlarged feeling of eyes. Face wrinkled and old-looking."
+  ],
+  "modalities": {
+    "worse": [
+      "left side, moving about"
+    ],
+    "better": [
+      "sitting or lying down"
+    ]
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Very impatient, cross, and irritable. Frontal headache, with enlarged feeling of eyes. Face wrinkled and old-looking."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "Breath and taste foul. Intense nausea, with vomiting, purging, and faintness. Stool very offensive. Abdomen bloated.",
+    "Urine.--Scanty with frequent urging, with pressure on bladder and burning in urethra. Flow stops suddenly followed by pain. Urine foul. Cannot retain urine; must attend to the call without delay. Irritable bladder before menses."
+  ],
+  "urinary_symptoms": [
+    "Menses delayed. Increased flow of saliva during. Intense burning in vagina. Leucorrhśa, profuse, foul, staining a greenish yellow; stains of menses and leucorrhśa very hard to wash out. Backache (Oxal ac)."
+  ],
+  "musculoskeletal_symptoms": [
+    "Aches, weak; drawing of muscles below scapulć."
+  ],
+  "skin_symptoms": [
+    "Prickly itching. Sore spots all over. Skin emits foul odor."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [
+    "Feels a glow all over, like being over steam; chilly, while sitting beside the fire."
+  ],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/p/pulx.htm",
+    "title": "PULEX IRRITANS - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:06:37.862Z"
+  },
+  "confidence_score": 0.74
+}

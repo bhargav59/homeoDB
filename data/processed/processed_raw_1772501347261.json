@@ -1,0 +1,49 @@
+{
+  "name": "DOLICHOS PRURIENS",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Cowhage"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [],
+  "guiding_symptoms": [],
+  "modalities": {
+    "worse": [
+      "at night, scratching, right side"
+    ],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "Colic from getting feet wet. Constipation, with intense itching; bloated abdomen. White stools. Swelling of liver. Hćmorrhoids, with burning sensation."
+  ],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [
+    "Intense itching, with no swelling or rash; worse across shoulders, also about elbows and knees and hairy parts. Jaundice. Yellow in spots; itching excessively at night. Herpes zoster (Ars)."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Rhus",
+    "Bell",
+    "Hep",
+    "Nit ac",
+    "Fagopyr"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/d/dol.htm",
+    "title": "DOLICHOS PRURIENS - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:29:07.261Z"
+  },
+  "confidence_score": 0.56
+}

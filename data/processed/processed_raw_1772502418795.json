@@ -1,0 +1,50 @@
+{
+  "name": "IRIDIUM METALLICUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "The Metal"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Difficult concentration of thought. Sensation as if mind were void. Though confused. \"Woodeny\" feeling in right side of head. Right side of scalp sensitive. Profuse, watery coryza, better indoors. Ozćna.",
+    "Hoarse cough, worse talking; posterior nares feel raw, inflamed, profuse, thick, yellowish discharge. Chronic laryngeal catarrh.",
+    "Back and extremities.--Weakness in the kidney region. Spinal paresis, especially for the aged and after disease. Pressing in groin and left thigh. Tension in both thighs, especially left. Dislocated feeling in left hip-joint and dull pain toward left gluteal region."
+  ],
+  "guiding_symptoms": [
+    "Difficult concentration of thought. Sensation as if mind were void. Though confused. \"Woodeny\" feeling in right side of head. Right side of scalp sensitive. Profuse, watery coryza, better indoors. Ozćna.",
+    "Hoarse cough, worse talking; posterior nares feel raw, inflamed, profuse, thick, yellowish discharge. Chronic laryngeal catarrh.",
+    "Back and extremities.--Weakness in the kidney region. Spinal paresis, especially for the aged and after disease. Pressing in groin and left thigh. Tension in both thighs, especially left. Dislocated feeling in left hip-joint and dull pain toward left gluteal region."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Difficult concentration of thought. Sensation as if mind were void. Though confused. \"Woodeny\" feeling in right side of head. Right side of scalp sensitive. Profuse, watery coryza, better indoors. Ozćna."
+  ],
+  "respiratory_symptoms": [
+    "Hoarse cough, worse talking; posterior nares feel raw, inflamed, profuse, thick, yellowish discharge. Chronic laryngeal catarrh.",
+    "Back and extremities.--Weakness in the kidney region. Spinal paresis, especially for the aged and after disease. Pressing in groin and left thigh. Tension in both thighs, especially left. Dislocated feeling in left hip-joint and dull pain toward left gluteal region."
+  ],
+  "gi_symptoms": [],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/i/irid-met.htm",
+    "title": "IRIDIUM METALLICUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:46:58.795Z"
+  },
+  "confidence_score": 0.44
+}

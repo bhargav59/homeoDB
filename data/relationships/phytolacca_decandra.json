@@ -1,0 +1,29 @@
+{
+  "remedy_name": "PHYTOLACCA DECANDRA",
+  "source_file": "raw_1772504147209.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/p/phyt.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      "Milk and salt"
+    ],
+    "follows_well": [],
+    "inimical": [
+      "Mercur"
+    ],
+    "compare": [
+      "Tincture of Phytolacca Berry",
+      "Bry",
+      "Rhus",
+      "Kali hyd",
+      "Merc",
+      "Sang",
+      "Arum triph"
+    ],
+    "incompatible": [],
+    "antidotes": [
+      "Milk and salt"
+    ]
+  },
+  "parsed_at": "2026-03-03T15:23:37.696Z"
+}

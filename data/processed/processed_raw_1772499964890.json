@@ -1,0 +1,69 @@
+{
+  "name": "BENZOICUM ACIDUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Benzoic Acid"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Sweat while eating; pressure in stomach, sensation of a lump.",
+    "Vertigo inclination to fall sideways. Throbbing in temporal arteries, causes puffing around ears. Noises when swallowing. Ulceration of tongue. Swelling behind ears (Caps). Cold sweat on forehead. Pricking, puckered constriction of mouth, bluish and bleeding gums. Wens.",
+    "Hoarse in morning. Asthmatic cough; worse at night; lying on right side. Chest very tender. Pain in region of heart. Expectoration, green mucus.",
+    "Joints crack on motion. Tearing with stitches. Pain in tendo Achillis. Rheumatic gout; nodes very painful. Gouty deposits. Ganglion; swelling of the wrist. Pain and swelling in knees. Bunion of great toe. Tearing pain in great toe.",
+    "Pressure on spinal column. Coldness in sacrum. Dull pain in region of kidneys; worse, wine."
+  ],
+  "guiding_symptoms": [
+    "Sweat while eating; pressure in stomach, sensation of a lump.",
+    "Vertigo inclination to fall sideways. Throbbing in temporal arteries, causes puffing around ears. Noises when swallowing. Ulceration of tongue. Swelling behind ears (Caps). Cold sweat on forehead. Pricking, puckered constriction of mouth, bluish and bleeding gums. Wens.",
+    "Hoarse in morning. Asthmatic cough; worse at night; lying on right side. Chest very tender. Pain in region of heart. Expectoration, green mucus."
+  ],
+  "modalities": {
+    "worse": [
+      "in open air",
+      "by uncovering"
+    ],
+    "better": []
+  },
+  "mind_symptoms": [
+    "Prone to dwell on unpleasant things in the past. Omits words in writing. Depression."
+  ],
+  "head_symptoms": [
+    "Vertigo inclination to fall sideways. Throbbing in temporal arteries, causes puffing around ears. Noises when swallowing. Ulceration of tongue. Swelling behind ears (Caps). Cold sweat on forehead. Pricking, puckered constriction of mouth, bluish and bleeding gums. Wens."
+  ],
+  "respiratory_symptoms": [
+    "Hoarse in morning. Asthmatic cough; worse at night; lying on right side. Chest very tender. Pain in region of heart. Expectoration, green mucus."
+  ],
+  "gi_symptoms": [
+    "Sweat while eating; pressure in stomach, sensation of a lump."
+  ],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [
+    "Joints crack on motion. Tearing with stitches. Pain in tendo Achillis. Rheumatic gout; nodes very painful. Gouty deposits. Ganglion; swelling of the wrist. Pain and swelling in knees. Bunion of great toe. Tearing pain in great toe."
+  ],
+  "skin_symptoms": [
+    "Red spots. Itching in spots."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [
+    "Cold hands, feet, back, knees. Chilliness; cold sweat. Internal heat on awakening."
+  ],
+  "complementary_remedies": [
+    "Nitric acid",
+    "Ammon benz",
+    "Sabina",
+    "Tropoeolum"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/b/benz-ac.htm",
+    "title": "BENZOICUM ACIDUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:06:04.890Z"
+  },
+  "confidence_score": 0.8
+}

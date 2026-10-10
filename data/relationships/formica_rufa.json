@@ -1,0 +1,17 @@
+{
+  "remedy_name": "FORMICA RUFA",
+  "source_file": "raw_1772501738989.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/f/form.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Formic acid (Chronic myalgia"
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "parsed_at": "2026-03-03T15:23:37.472Z"
+}

@@ -1,0 +1,71 @@
+{
+  "name": "ACONITUM NAPELLUS",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Monkshood"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Vomiting, with fear, heat, profuse sweat and increased urination. Thirst for cold water. Bitter taste of everything except water. Intense thirst. Drinks, vomits, and declares he will die. Vomiting, bilious mucous and bloody, greenish. Pressure in stomach with dyspnśa. Hćmatemesis. Burning from stomach to śsophagus.",
+    "Fullness; heavy, pulsating, hot, bursting, burning undulating sensation. Intercranial pressure (Hedera Helix). Burning headache, as if brain were moved by boiling water (Indigo). Vertigo; worse on rising (Nux. Opium) and shaking head. Sensation on vertex as if hair were pulled or stood on end. Nocturnal furious delirium.",
+    "Constant pressure in left chest; oppressed breathing on least motion. Hoarse, dry, croupy cough; loud, labored breathing. Child grasps at throat every time he coughs. Very sensitive to inspired air. Shortness of breath. Larynx sensitive. Stitches through chest. Cough, dry, short, hacking; worse at night and after midnight. Hot feeling in lungs. Blood comes up with hawking. Tingling in chest after cough.",
+    "Tachycardia. Affections of the heart with pain in left shoulder. Stitching pain in chest. Palpitation, with anxiety, fainting, and tingling in fingers. Pulse full, hard; tense and bounding; sometimes intermits. Temporal and carotid arteries felt when sitting.",
+    "Numbness and tingling; shooting pains; icy coldness and insensibility of hands and feet. Arms feel lame, bruised, heavy, numb. Pain down left arm (Cact, Crotal, Kalmia, Tabac). Hot hands and cold feet. Rheumatic inflammation of joints; worse at night; red shining swelling, very sensitive. Hip-joint and thigh feel lame, especially after lying down. Knees unsteady; disposition of foot to turn (Aescul). Weak and lax ligaments of all joints. Painless cracking of all joints. Bright red hypothenar eminences on both hands. Sensation as if drops of water trickled down the thigh.",
+    "Numb, stiff, painful. Crawling and tingling, as if bruised. Stiffness in nape of neck. Bruised pain between scapulć."
+  ],
+  "guiding_symptoms": [
+    "Vomiting, with fear, heat, profuse sweat and increased urination. Thirst for cold water. Bitter taste of everything except water. Intense thirst. Drinks, vomits, and declares he will die. Vomiting, bilious mucous and bloody, greenish. Pressure in stomach with dyspnśa. Hćmatemesis. Burning from stomach to śsophagus.",
+    "Fullness; heavy, pulsating, hot, bursting, burning undulating sensation. Intercranial pressure (Hedera Helix). Burning headache, as if brain were moved by boiling water (Indigo). Vertigo; worse on rising (Nux. Opium) and shaking head. Sensation on vertex as if hair were pulled or stood on end. Nocturnal furious delirium.",
+    "Constant pressure in left chest; oppressed breathing on least motion. Hoarse, dry, croupy cough; loud, labored breathing. Child grasps at throat every time he coughs. Very sensitive to inspired air. Shortness of breath. Larynx sensitive. Stitches through chest. Cough, dry, short, hacking; worse at night and after midnight. Hot feeling in lungs. Blood comes up with hawking. Tingling in chest after cough."
+  ],
+  "modalities": {
+    "worse": [
+      "in warm room, in evening and night",
+      "worse lying on affected side, from music, from tobacco-smoke, dry, cold winds"
+    ],
+    "better": [
+      "in open air"
+    ]
+  },
+  "mind_symptoms": [
+    "Great fear, anxiety, and worry accompany every ailment, however trivial. Delirium is characterized by unhappiness worry, fear, raving, rarely unconsciousness. Forebodings and fears. Fears death but believes that he will soon die; predicts the day. Fears the future, a crowd, crossing the street. Restlessness, tossing about. Tendency to start. Imagination acute, clairvoyance. Pains are intolerable; they drive him crazy. Music is unbearable; makes her sad (Ambra). Thinks his thoughts come from the stomach--that parts of his body are abnormally thick. Feels as if what had just been done was a dream."
+  ],
+  "head_symptoms": [
+    "Fullness; heavy, pulsating, hot, bursting, burning undulating sensation. Intercranial pressure (Hedera Helix). Burning headache, as if brain were moved by boiling water (Indigo). Vertigo; worse on rising (Nux. Opium) and shaking head. Sensation on vertex as if hair were pulled or stood on end. Nocturnal furious delirium."
+  ],
+  "respiratory_symptoms": [
+    "Constant pressure in left chest; oppressed breathing on least motion. Hoarse, dry, croupy cough; loud, labored breathing. Child grasps at throat every time he coughs. Very sensitive to inspired air. Shortness of breath. Larynx sensitive. Stitches through chest. Cough, dry, short, hacking; worse at night and after midnight. Hot feeling in lungs. Blood comes up with hawking. Tingling in chest after cough."
+  ],
+  "gi_symptoms": [
+    "Vomiting, with fear, heat, profuse sweat and increased urination. Thirst for cold water. Bitter taste of everything except water. Intense thirst. Drinks, vomits, and declares he will die. Vomiting, bilious mucous and bloody, greenish. Pressure in stomach with dyspnśa. Hćmatemesis. Burning from stomach to śsophagus."
+  ],
+  "urinary_symptoms": [
+    "Crawling and stinging in glans. Bruised pain in testicles, swollen, hard. Frequent erections and emissions. Painful erections."
+  ],
+  "musculoskeletal_symptoms": [
+    "Numbness and tingling; shooting pains; icy coldness and insensibility of hands and feet. Arms feel lame, bruised, heavy, numb. Pain down left arm (Cact, Crotal, Kalmia, Tabac). Hot hands and cold feet. Rheumatic inflammation of joints; worse at night; red shining swelling, very sensitive. Hip-joint and thigh feel lame, especially after lying down. Knees unsteady; disposition of foot to turn (Aescul). Weak and lax ligaments of all joints. Painless cracking of all joints. Bright red hypothenar eminences on both hands. Sensation as if drops of water trickled down the thigh."
+  ],
+  "skin_symptoms": [
+    "Red, hot, swollen, dry, burning. Purpura miliaris. Rash like measles. Gooseflesh. Formication and numbness. Chilliness and formication down back. Pruritus relieved by stimulants."
+  ],
+  "sleep_symptoms": [
+    "Nightmare. Nightly ravings. Anxious dreams. Sleeplessness, with restless and tossing about (Use thirtieth potency). Starts up in sleep. Long dreams, with anxiety in chest. Insomnia of the aged."
+  ],
+  "fever_symptoms": [
+    "Cold stage most marked. Cold sweat and icy coldness of face. Coldness and heat alternate. Evening chilliness soon after going to bed. Cold waves pass through him. Thirst and restlessness always present. Chilly if uncovered or touched. Dry heat, red face. Most valuable febrifuge with mental anguish, restlessness, etc. Sweat drenching, on parts lain on; relieving all symptoms."
+  ],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/a/acon.htm",
+    "title": "ACONITUM NAPELLUS - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-01T13:26:09.993Z"
+  },
+  "confidence_score": 0.8
+}

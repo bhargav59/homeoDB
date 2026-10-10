@@ -1,0 +1,46 @@
+{
+  "name": "USNEA BARBATA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Tree-moss"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Bursting feeling, as if temples would burst, or the eyes burst out of the sockets. Throbbing carotids."
+  ],
+  "guiding_symptoms": [
+    "Bursting feeling, as if temples would burst, or the eyes burst out of the sockets. Throbbing carotids."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Bursting feeling, as if temples would burst, or the eyes burst out of the sockets. Throbbing carotids."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Glonoine",
+    "Bellad"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/u/usn.htm",
+    "title": "USNEA BARBATA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:07:42.141Z"
+  },
+  "confidence_score": 0.38
+}

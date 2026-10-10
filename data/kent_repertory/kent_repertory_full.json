@@ -1,0 +1,2841 @@
+{
+  "total_rubrics": 386,
+  "chapters_scraped": 44,
+  "scraped_at": "2026-03-03T15:23:45.868Z",
+  "rubrics": [
+    {
+      "rubric": "KENT",
+      "remedies": [
+        "CONTENTS"
+      ],
+      "chapter": "kentcont"
+    },
+    {
+      "rubric": "KENT",
+      "remedies": [
+        "PREFACE"
+      ],
+      "chapter": "kentpref"
+    },
+    {
+      "rubric": "KENT",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Abies",
+      "remedies": [
+        "c.---------- Abies Canadensis"
+      ],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Abies",
+      "remedies": [
+        "n.---------- Abies Nigra"
+      ],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Acet",
+      "remedies": [
+        "ac.---------- Acetic Acid."
+      ],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Acon",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Acon",
+      "remedies": [
+        "f.---------- Aconitum Ferox"
+      ],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Acon",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Act",
+      "remedies": [
+        "sp.---------- Actæa Spicata"
+      ],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Agar",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Agar",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "All",
+      "remedies": [
+        "c.---------- Allium Cepa"
+      ],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "All",
+      "remedies": [
+        "s.---------- Allium Sativum"
+      ],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Alum",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Alum",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Am",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Am",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Am",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Am",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Am",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Aml",
+      "remedies": [
+        "n.---------- Amyl Nitrite"
+      ],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Anac",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Ant",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Ant",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Ant",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Ant",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Ant",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Ant",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Ap",
+      "remedies": [
+        "g.---------- Apium Graveolens"
+      ],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Apoc",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Aran",
+      "remedies": [
+        "s.---------- Aranea Scinencia"
+      ],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Arg",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Arg",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Arg",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Arg",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Ars",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Ars",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Ars",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Ars",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Ars-s",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Ars-s",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Art",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Arum",
+      "remedies": [
+        "d.---------- Arum Dracontium"
+      ],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Arum",
+      "remedies": [
+        "i.---------- Arum Italicum"
+      ],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Arum",
+      "remedies": [
+        "m.---------- Arum Maculatum"
+      ],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Arum",
+      "remedies": [
+        "t.---------- Arum Triphyllum"
+      ],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Arund",
+      "remedies": [
+        "d.---------- Arundo Donax"
+      ],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Asc",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Asc",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Atro",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Aur",
+      "remedies": [
+        "a.---------- Aurum Arsenicum"
+      ],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Aur",
+      "remedies": [
+        "i.---------- Aurum Iodatum"
+      ],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Aur-m",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Aur",
+      "remedies": [
+        "m.---------- Aurum Muriaticum"
+      ],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Aur",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Bar",
+      "remedies": [
+        "ac.---------- Baryta Acetica"
+      ],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Bar",
+      "remedies": [
+        "c.---------- Baryta Carbonica"
+      ],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Bar",
+      "remedies": [
+        "i.---------- Baryta Iodata"
+      ],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Bar",
+      "remedies": [
+        "m.---------- Baryta Muriatica"
+      ],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Bell",
+      "remedies": [
+        "p.---------- Bellis Perennis"
+      ],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Benz",
+      "remedies": [
+        "ac.---------- Benzoic Acid."
+      ],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Benz",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Bism",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Bor",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Bufo",
+      "remedies": [
+        "s.---------- Bufo Sahytiensis"
+      ],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Calc",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Calc",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Calc",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Calc",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Calc",
+      "remedies": [
+        "i.---------- Calcarea Iodata"
+      ],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Calc",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Calc",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Calc",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Cann",
+      "remedies": [
+        "i.---------- Cannabis Indica"
+      ],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Cann",
+      "remedies": [
+        "s.---------- Cannabis Sativa"
+      ],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Carb",
+      "remedies": [
+        "ac.---------- Carbolic Acid."
+      ],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Carb",
+      "remedies": [
+        "an.---------- Carbo Animalis"
+      ],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Carb",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Carb",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Carb",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Carb",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Card",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Card",
+      "remedies": [
+        "m.---------- Carduus Marianus"
+      ],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Cast",
+      "remedies": [
+        "eq.---------- Castor Equi"
+      ],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Cast",
+      "remedies": [
+        "v.---------- Castanea Vesca"
+      ],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Cer",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Cere",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Chen",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Chen",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Chim",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Chin",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Chin",
+      "remedies": [
+        "b.---------- Chininum Brom."
+      ],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Chin",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Chr",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Chr",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Cinch",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Cit",
+      "remedies": [
+        "ac.---------- Citricum Acidum"
+      ],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Cit",
+      "remedies": [
+        "l.---------- Citrus Limonum"
+      ],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Cit",
+      "remedies": [
+        "v.---------- Citrus Vulgaris"
+      ],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Coc",
+      "remedies": [
+        "c.---------- Coccus Cacti"
+      ],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Cocain",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Cocc",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Coff",
+      "remedies": [
+        "t.---------- Coffea Tosta"
+      ],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Conv",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Cor",
+      "remedies": [
+        "r.---------- Corallium Rubrum"
+      ],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Cori",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Corn",
+      "remedies": [
+        "f.---------- Cornus Florida"
+      ],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Corn",
+      "remedies": [
+        "s.---------- Cornus Seriea"
+      ],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Crot",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Crot",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Crot",
+      "remedies": [
+        "t.---------- Croton Tiglium"
+      ],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Cupr",
+      "remedies": [
+        "ac.---------- Cuprum Aceticum"
+      ],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Cupr",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Cupr",
+      "remedies": [
+        "n.---------- Cuprum Nitricum"
+      ],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Cupr",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Ery",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Eup",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Eup",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Ferr",
+      "remedies": [
+        "ac.---------- Ferrum Aceticum"
+      ],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Ferr",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Ferr",
+      "remedies": [
+        "i.---------- Ferrum Iodatum"
+      ],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Ferr",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Ferr",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Ferr",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Ferr",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Ferr",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Fl",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Frag",
+      "remedies": [
+        "v.---------- Fragaria Vesca"
+      ],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Gall",
+      "remedies": [
+        "ac.---------- Gallicum Acidum"
+      ],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Gent",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Gent",
+      "remedies": [
+        "l.---------- Gentiana Lutea"
+      ],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Hydr",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Ir",
+      "remedies": [
+        "fl.---------- Iris Florentina"
+      ],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Ir",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Ir",
+      "remedies": [
+        "g.---------- Iris Germanica"
+      ],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Iridium ---------",
+      "remedies": [
+        "Iridium"
+      ],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Jac",
+      "remedies": [
+        "c.---------- Jacaranda Caroba"
+      ],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Jug",
+      "remedies": [
+        "c.---------- Juglans Cinerea"
+      ],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Jug",
+      "remedies": [
+        "r.---------- Juglans Regia"
+      ],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Kali",
+      "remedies": [
+        "a.---------- Kali Aceticum"
+      ],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Kali",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Kali",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Kali",
+      "remedies": [
+        "br.---------- Kali Bromatum"
+      ],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Kali",
+      "remedies": [
+        "c.---------- Kali Carbonicum"
+      ],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Kali",
+      "remedies": [
+        "chl.---------- Kali Chloricum"
+      ],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Kali",
+      "remedies": [
+        "cy.---------- Kali Cyanatum"
+      ],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Kali",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Kali",
+      "remedies": [
+        "i.---------- Kali Iodatum"
+      ],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Kali",
+      "remedies": [
+        "m.---------- Kali Muriaticum"
+      ],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Kali",
+      "remedies": [
+        "ma.---------- Kali Manganicum"
+      ],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Kali",
+      "remedies": [
+        "n.---------- Kali Nitricum"
+      ],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Kali",
+      "remedies": [
+        "ox.---------- Kali Oxalicum"
+      ],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Kali",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Kali",
+      "remedies": [
+        "s.---------- Kali Sulphuricum"
+      ],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Lac",
+      "remedies": [
+        "c.---------- Lac Caninum"
+      ],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Lac",
+      "remedies": [
+        "d.---------- Lac Defloratum"
+      ],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Lac",
+      "remedies": [
+        "f.---------- Lac Felinum"
+      ],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Lact",
+      "remedies": [
+        "ac.---------- Lactic Acid."
+      ],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Lap",
+      "remedies": [
+        "a.---------- Lapis Albus"
+      ],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Lappa",
+      "remedies": [
+        "a.---------- Lappa Arctium"
+      ],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Lappa",
+      "remedies": [
+        "m.---------- Lappa Major"
+      ],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Lat",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Lem",
+      "remedies": [
+        "m.---------- Lemna Minor"
+      ],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Lil",
+      "remedies": [
+        "t.---------- Lilium Tigrinum"
+      ],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Linu",
+      "remedies": [
+        "c.---------- Linum Cathar"
+      ],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Lith",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Lob",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Lob",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Mag",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Mag",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Mag",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Mag",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Mag-p",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Mag",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Mag",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Mang",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Merc",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Merc",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Merc",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Merc",
+      "remedies": [
+        "d.---------- Mercurius Dulcis"
+      ],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Merc-i",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Merc-i",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Merc",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Merc-p",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Merc",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Mur",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Nat",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Nat",
+      "remedies": [
+        "ac.---------- Natrum Aceticum"
+      ],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Nat",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Nat",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Nat",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Nat",
+      "remedies": [
+        "n.---------- Natrum Nitricum"
+      ],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Nat",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Nat",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Nicc",
+      "remedies": [
+        "s.---------- Niccolum Sulph."
+      ],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Nit",
+      "remedies": [
+        "ac.---------- Nitricum Acidum"
+      ],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Nit-m",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Nit-s",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Nitro",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Nux",
+      "remedies": [
+        "j.---------- Nux Juglans"
+      ],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Nux",
+      "remedies": [
+        "m.---------- Nux Moschata"
+      ],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Nux",
+      "remedies": [
+        "v.---------- Nux Vomica"
+      ],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Ol",
+      "remedies": [
+        "an.---------- Oleum Animale"
+      ],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Ol",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Ox",
+      "remedies": [
+        "ac.---------- Oxalicum Acidum"
+      ],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Ph",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Pic",
+      "remedies": [
+        "ac.---------- Picricum Acidum"
+      ],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Pin",
+      "remedies": [
+        "s.---------- Pinus Sylvestris"
+      ],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Pip",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Pip",
+      "remedies": [
+        "n.---------- Piper Nigrum"
+      ],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Plat",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Polyg",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Pop",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Prun",
+      "remedies": [
+        "p.---------- Prunus Padus"
+      ],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Prun",
+      "remedies": [
+        "s.---------- Prunus Spinosa"
+      ],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Puls",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Ran",
+      "remedies": [
+        "a.---------- Ranunculus Acris"
+      ],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Ran",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Ran",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Rhus",
+      "remedies": [
+        "a.---------- Rhus aromatica"
+      ],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Rhus",
+      "remedies": [
+        "g.---------- Rhus Glabra"
+      ],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Rhus",
+      "remedies": [
+        "r.---------- Rhus Radicans"
+      ],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Rhus",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Rhus",
+      "remedies": [
+        "v.---------- Rhus Venenata"
+      ],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Sac",
+      "remedies": [
+        "l.---------- Saccharum Lactis"
+      ],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Sal",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Sal",
+      "remedies": [
+        "n.---------- Salix Niger"
+      ],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Sang",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Sin",
+      "remedies": [
+        "a.---------- Sinapis Alba"
+      ],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Sin",
+      "remedies": [
+        "n.---------- Sinapis Nigra"
+      ],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Sol",
+      "remedies": [
+        "m.---------- Solanum Mammosum"
+      ],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Sol",
+      "remedies": [
+        "n.---------- Solanum Nigrum"
+      ],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Sol",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Sol-t",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Sol",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Spig",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Sul",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Sul",
+      "remedies": [
+        "i.---------- Sulphur Iodatum"
+      ],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Sym",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Tarent",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Tart",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Trif",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Tus",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Tus",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Urt",
+      "remedies": [
+        "u.---------- Urtica Urens"
+      ],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Verat",
+      "remedies": [
+        "v.---------- Veratrum Viride"
+      ],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Viol",
+      "remedies": [
+        "o.---------- Viola Odorata"
+      ],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Viol",
+      "remedies": [
+        "t.---------- Viola Tricolor"
+      ],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Zinc",
+      "remedies": [
+        "ac.---------- Zincum Aceticum"
+      ],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Zinc",
+      "remedies": [
+        "c.---------- Zincum Cyanatum"
+      ],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Zinc",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Zinc",
+      "remedies": [
+        "ox.---------- Zincum Oxydatum"
+      ],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "Zinc",
+      "remedies": [],
+      "chapter": "kentreme"
+    },
+    {
+      "rubric": "KENT",
+      "remedies": [
+        "VERTIGO (p. 96-106)"
+      ],
+      "chapter": "kentvert"
+    },
+    {
+      "rubric": "KENT",
+      "remedies": [
+        "MIND (p. 1-95)"
+      ],
+      "chapter": "kentmind"
+    },
+    {
+      "rubric": "KENT",
+      "remedies": [
+        "HEAD (p. 107-234)"
+      ],
+      "chapter": "kenthead"
+    },
+    {
+      "rubric": "KENT",
+      "remedies": [
+        "EYE (p. 235-270)"
+      ],
+      "chapter": "kenteye"
+    },
+    {
+      "rubric": "KENT",
+      "remedies": [
+        "USE OF THE REPERTORY"
+      ],
+      "chapter": "kentuserep"
+    },
+    {
+      "rubric": "First",
+      "remedies": [
+        "or desires and aversions."
+      ],
+      "chapter": "kentuserep"
+    },
+    {
+      "rubric": "Next - are those belonging to the rational mind, so",
+      "remedies": [
+        "called intellectual mind."
+      ],
+      "chapter": "kentuserep"
+    },
+    {
+      "rubric": "Thirdly",
+      "remedies": [],
+      "chapter": "kentuserep"
+    },
+    {
+      "rubric": "The symptoms that are next most important are those related to the entire man and his entire body, or his blood and fluids",
+      "remedies": [
+        "as sensitiveness to heat",
+        "to cold",
+        "to storm",
+        "to rest",
+        "to night",
+        "to day"
+      ],
+      "chapter": "kentuserep"
+    },
+    {
+      "rubric": "These include some keynotes which may guide safely to a remedy or to the shaping of results, provided that the mental and the physical generals do not stand contrary, as to their modalities, and therefore oppose the keynote",
+      "remedies": [
+        "symptoms."
+      ],
+      "chapter": "kentuserep"
+    },
+    {
+      "rubric": "It is so easy to wink at the sins that we ourselves are guilty of that is seems impossible to find judge or jury before whom to arraign the first law",
+      "remedies": [
+        "breaker."
+      ],
+      "chapter": "kentuserep"
+    },
+    {
+      "rubric": "Cramp in fingers while writing",
+      "remedies": [
+        "Brach.",
+        "Cocc.",
+        "Cycl.",
+        "Trill.",
+        "Mag-ph.",
+        "Stann."
+      ],
+      "chapter": "kentuserep"
+    },
+    {
+      "rubric": "Cramp in hand while writing",
+      "remedies": [
+        "Anac.",
+        "Euph.",
+        "Mag-p.",
+        "Nat-p.",
+        "Sil."
+      ],
+      "chapter": "kentuserep"
+    },
+    {
+      "rubric": "Numbness in fingers while writing",
+      "remedies": [
+        "Carl."
+      ],
+      "chapter": "kentuserep"
+    },
+    {
+      "rubric": "Numbness in hand while writing",
+      "remedies": [
+        "Agar.",
+        "Zinc."
+      ],
+      "chapter": "kentuserep"
+    },
+    {
+      "rubric": "Paralytic feeling in hand while writing",
+      "remedies": [
+        "Acon.",
+        "Agar.",
+        "Chel.",
+        "Cocc."
+      ],
+      "chapter": "kentuserep"
+    },
+    {
+      "rubric": "Cramp in wrist while writing : Amyl",
+      "remedies": [
+        "n.",
+        "Brach."
+      ],
+      "chapter": "kentuserep"
+    },
+    {
+      "rubric": "Cramp in the fingers, hand and wrist or such parts as are affected",
+      "remedies": [
+        "972 & 973 of my Repertory."
+      ],
+      "chapter": "kentuserep"
+    },
+    {
+      "rubric": "Numbness of fingers and hand",
+      "remedies": [
+        "pages 1038 and 1039",
+        "using also the general group."
+      ],
+      "chapter": "kentuserep"
+    },
+    {
+      "rubric": "Sensation of paralysis of hands and fingers",
+      "remedies": [
+        "use the general groups",
+        "pages 1176 and 1179."
+      ],
+      "chapter": "kentuserep"
+    },
+    {
+      "rubric": "KENT",
+      "remedies": [
+        "HEARING (p. 321-323)"
+      ],
+      "chapter": "kenthear"
+    },
+    {
+      "rubric": "KENT",
+      "remedies": [
+        "VISION (p. 271-285)"
+      ],
+      "chapter": "kentvisi"
+    },
+    {
+      "rubric": "KENT",
+      "remedies": [
+        "REPERTORISING"
+      ],
+      "chapter": "kentrepert.htm#hotcold"
+    },
+    {
+      "rubric": "To begin with, symptoms are of two orders",
+      "remedies": [
+        "and (b) those particular",
+        "not to the patient as a whole"
+      ],
+      "chapter": "kentrepert.htm#hotcold"
+    },
+    {
+      "rubric": "But for the mental symptoms particularly, it is well to go constantly through the Repertory (Mind",
+      "remedies": [
+        "section)",
+        "and to make cross references",
+        "for instance",
+        "worse in the dark",
+        "etc."
+      ],
+      "chapter": "kentrepert.htm#hotcold"
+    },
+    {
+      "rubric": "Second in grade, after the mental symptoms, and his reactions to mental environment, come, if well marked, such general symtoms of the patient as his reactions, as a whole, to bodily environment :",
+      "remedies": [
+        "to times and seasons",
+        "to heat and cold",
+        "to damp and dry",
+        "to storm and tempest",
+        "to position",
+        "pressure",
+        "motion",
+        "jar",
+        "touch",
+        "to take this rank",
+        "or to be safely used",
+        "some of them",
+        "and then only",
+        "of course",
+        "if strongly marked)."
+      ],
+      "chapter": "kentrepert.htm#hotcold"
+    },
+    {
+      "rubric": "The third",
+      "remedies": [
+        "anyhow !"
+      ],
+      "chapter": "kentrepert.htm#hotcold"
+    },
+    {
+      "rubric": "In corresponding types everywhere and all through",
+      "remedies": [
+        "for instance",
+        "Ars. and Rhus.",
+        "will",
+        "of course"
+      ],
+      "chapter": "kentrepert.htm#hotcold"
+    },
+    {
+      "rubric": "And now, at last, you come to the PARTICULARS",
+      "remedies": [
+        "listening to his story",
+        "for instance",
+        "of the force",
+        "put your patient",
+        "as a whole",
+        "in order",
+        "with peculation there",
+        "with incompetence",
+        "and disorder",
+        "and slackness",
+        "put that right",
+        "per se",
+        "and \"cure\" it",
+        "prescribe for that",
+        "he will even undo the rest",
+        "step by step backwards"
+      ],
+      "chapter": "kentrepert.htm#hotcold"
+    },
+    {
+      "rubric": "Among the PARTICULARS, your first",
+      "remedies": [
+        "or unusual",
+        "or unexpected",
+        "as a whole",
+        "reacts to environment",
+        "but how his head",
+        "his stomach",
+        "his lungs",
+        "damp weather and dry",
+        "and would swear",
+        "or against the floor."
+      ],
+      "chapter": "kentrepert.htm#hotcold"
+    },
+    {
+      "rubric": "But the Generals and the Particulars may not only be quite different, but they may be flatly contradictory in the same patient",
+      "remedies": [
+        "but \"My\"",
+        "\"I cannot stand heat\"",
+        "(meaning his stomach). Again"
+      ],
+      "chapter": "kentrepert.htm#hotcold"
+    },
+    {
+      "rubric": "If you are to be a good prescriber, by the way, your drugs have got to be people for you, with whims, fancies and terrrors ; with tempers and idiosyncrasies and characteristics : you have got to see them stalking about the world, speaking and moving and halting, with the bodies-minds",
+      "remedies": [
+        "or loose and jolly and open",
+        "fidgety",
+        "restless",
+        "fearful",
+        "dull and inert",
+        "standing for preference",
+        "stoop shouldered and drooping",
+        "or erect and full of \"go\"",
+        "depressed and querulous",
+        "restless and anxious",
+        "smooth and smug",
+        "and learn them"
+      ],
+      "chapter": "kentrepert.htm#hotcold"
+    },
+    {
+      "rubric": "Now take the same case and start, instead, on the marked symptoms complained of by the patient",
+      "remedies": [
+        "the Particulars",
+        "in all the types",
+        "one by one",
+        "and write",
+        "and write",
+        "and write."
+      ],
+      "chapter": "kentrepert.htm#hotcold"
+    },
+    {
+      "rubric": "It may be easily such a list, of which this is but the merest beginning :",
+      "remedies": [
+        "at this moment",
+        "some if immense length",
+        "as Stools offensive",
+        "Burning urine",
+        "Stools pasty",
+        "Yellow stools. Why",
+        "and Common symptoms"
+      ],
+      "chapter": "kentrepert.htm#hotcold"
+    },
+    {
+      "rubric": "Aesc",
+      "remedies": [
+        "h.",
+        "All-c.",
+        "Aloe",
+        "Ambra.",
+        "APIS",
+        "ARG-NIT.",
+        "Asaf.",
+        "Aur-iod.",
+        "Aur-m.",
+        "Bar-iod.",
+        "Bry.",
+        "Calad.",
+        "Calc-iod.",
+        "Calc-sul.",
+        "Cocc-cacti.",
+        "Comoc.",
+        "Crocus.",
+        "Dros.",
+        "Fer-iod.",
+        "FLUOR-AC.",
+        "Grat.",
+        "Ham.",
+        "IOD.",
+        "KALI-IOD.",
+        "KALI-SUL.",
+        "Lach.",
+        "Led.",
+        "Lil-t.",
+        "Lyc.",
+        "NAT-MUR.",
+        "NAT-SUL.",
+        "Niccol.",
+        "Op.",
+        "Picric-ac.",
+        "PLAT.",
+        "Ptelia",
+        "PULS.",
+        "SABINA",
+        "SECALE",
+        "Spong.",
+        "Sul.",
+        "Sul-iod.",
+        "Thuj.",
+        "Tuberc.",
+        "(Rabe)",
+        "Ustil.",
+        "Vespa.",
+        "Viburn."
+      ],
+      "chapter": "kentrepert.htm#hotcold"
+    },
+    {
+      "rubric": "Ant",
+      "remedies": [
+        "cr."
+      ],
+      "chapter": "kentrepert.htm#hotcold"
+    },
+    {
+      "rubric": "Desires",
+      "remedies": [
+        "Salt",
+        "sweets."
+      ],
+      "chapter": "kentrepert.htm#hotcold"
+    },
+    {
+      "rubric": "Averse",
+      "remedies": [
+        "Fats",
+        "acids."
+      ],
+      "chapter": "kentrepert.htm#hotcold"
+    },
+    {
+      "rubric": "She was very thin ; excitable person",
+      "remedies": [
+        "a bundle of nerves."
+      ],
+      "chapter": "kentrepert.htm#hotcold"
+    },
+    {
+      "rubric": "CHILLY PATIENT - Used as Eliminating Symptom",
+      "remedies": [],
+      "chapter": "kentrepert.htm#hotcold"
+    },
+    {
+      "rubric": "Fears : Something will happen (Kent's Repertory",
+      "remedies": [
+        "p. 45). - Alum.",
+        "Ars.",
+        "Calc.",
+        "Carb-v.",
+        "CAUST.",
+        "Graph.",
+        "Kali-ars.",
+        "Kali-p.",
+        "Mag-c.",
+        "Mang.",
+        "Nat-a.",
+        "PHOS."
+      ],
+      "chapter": "kentrepert.htm#hotcold"
+    },
+    {
+      "rubric": "Fears",
+      "remedies": [
+        "Phos.",
+        "Stram.."
+      ],
+      "chapter": "kentrepert.htm#hotcold"
+    },
+    {
+      "rubric": "Fears",
+      "remedies": [
+        "crowd (p. 43) - Aloe",
+        "Ars.",
+        "Bar-c.",
+        "Calc.",
+        "Carb-an.",
+        "Caust.",
+        "Con.",
+        "Ferr.",
+        "Graph.",
+        "Hep.",
+        "Kali-ar.",
+        "K-bi.",
+        "Kali-c.",
+        "Kali-p.",
+        "Nat-a.",
+        "Nat-c.",
+        "Nux-v.",
+        "Phos.",
+        "Plb.",
+        "Rhus-t.",
+        "Stann."
+      ],
+      "chapter": "kentrepert.htm#hotcold"
+    },
+    {
+      "rubric": "Ars",
+      "remedies": [],
+      "chapter": "kentrepert.htm#hotcold"
+    },
+    {
+      "rubric": "This case shows the importance of Generals in their order",
+      "remedies": [
+        "mental",
+        "climatic",
+        "desires and aversions in food"
+      ],
+      "chapter": "kentrepert.htm#hotcold"
+    },
+    {
+      "rubric": "Stomach",
+      "remedies": [
+        "Appetite fair",
+        "averse fish",
+        "desires fats."
+      ],
+      "chapter": "kentrepert.htm#hotcold"
+    },
+    {
+      "rubric": "Mental - Fears",
+      "remedies": [
+        "dark"
+      ],
+      "chapter": "kentrepert.htm#hotcold"
+    },
+    {
+      "rubric": "WARM PATIENT",
+      "remedies": [],
+      "chapter": "kentrepert.htm#hotcold"
+    },
+    {
+      "rubric": "Stomach",
+      "remedies": [
+        "Appetite good. Averse fats",
+        "milk. Craves ices"
+      ],
+      "chapter": "kentrepert.htm#hotcold"
+    },
+    {
+      "rubric": "Mental : Very excitable to music",
+      "remedies": [
+        "irritable",
+        "impatient",
+        "being hemmed in",
+        "fire"
+      ],
+      "chapter": "kentrepert.htm#hotcold"
+    },
+    {
+      "rubric": "Chilly",
+      "remedies": [
+        "Hates the cold",
+        "< thunderstorms."
+      ],
+      "chapter": "kentrepert.htm#hotcold"
+    },
+    {
+      "rubric": "Mental",
+      "remedies": [],
+      "chapter": "kentrepert.htm#hotcold"
+    },
+    {
+      "rubric": "Averse",
+      "remedies": [
+        "Fats",
+        "milk."
+      ],
+      "chapter": "kentrepert.htm#hotcold"
+    },
+    {
+      "rubric": "Nat",
+      "remedies": [
+        "mur. 30",
+        "4 doses",
+        "6-hourly."
+      ],
+      "chapter": "kentrepert.htm#hotcold"
+    },
+    {
+      "rubric": "Worse from damp, and worse from dry weather are deep-seated, and very important",
+      "remedies": [
+        "all my joints are quite loose",
+        "Ars.",
+        "ASAR.",
+        "Bell.",
+        "Bov. BRY.",
+        "Carb-an.",
+        "Carb-v.",
+        "CAUST.",
+        "Cham.",
+        "Fl-ac.",
+        "HEP.",
+        "Ip.",
+        "Laur.",
+        "Mang.",
+        "Med.",
+        "Mez.",
+        "Mur-ac.",
+        "Nit-ac.",
+        "NUX.",
+        "Plat.",
+        "Rhod.",
+        "Saba.",
+        "Sep.",
+        "Sil.",
+        "Spig.",
+        "Spong.",
+        "Staph.",
+        "Sulph.",
+        "means practically",
+        "Caust.",
+        "Hep.",
+        "its absence becomes peculiar",
+        "exclude Dulc.",
+        "Nux-mos.",
+        "Phos.",
+        "Ran-b.",
+        "Rhodo.",
+        "Rhus.",
+        "Sil.",
+        "Merc.",
+        "Nat-c.",
+        "Nat-s.",
+        "Ruta."
+      ],
+      "chapter": "kentrepert.htm#hotcold"
+    },
+    {
+      "rubric": "KENT",
+      "remedies": [
+        "EAR (p. 285-320)"
+      ],
+      "chapter": "kentear"
+    },
+    {
+      "rubric": "KENT",
+      "remedies": [
+        "REPERTORISING"
+      ],
+      "chapter": "kentrepert"
+    },
+    {
+      "rubric": "To begin with, symptoms are of two orders",
+      "remedies": [
+        "and (b) those particular",
+        "not to the patient as a whole"
+      ],
+      "chapter": "kentrepert"
+    },
+    {
+      "rubric": "But for the mental symptoms particularly, it is well to go constantly through the Repertory (Mind",
+      "remedies": [
+        "section)",
+        "and to make cross references",
+        "for instance",
+        "worse in the dark",
+        "etc."
+      ],
+      "chapter": "kentrepert"
+    },
+    {
+      "rubric": "Second in grade, after the mental symptoms, and his reactions to mental environment, come, if well marked, such general symtoms of the patient as his reactions, as a whole, to bodily environment :",
+      "remedies": [
+        "to times and seasons",
+        "to heat and cold",
+        "to damp and dry",
+        "to storm and tempest",
+        "to position",
+        "pressure",
+        "motion",
+        "jar",
+        "touch",
+        "to take this rank",
+        "or to be safely used",
+        "some of them",
+        "and then only",
+        "of course",
+        "if strongly marked)."
+      ],
+      "chapter": "kentrepert"
+    },
+    {
+      "rubric": "The third",
+      "remedies": [
+        "anyhow !"
+      ],
+      "chapter": "kentrepert"
+    },
+    {
+      "rubric": "In corresponding types everywhere and all through",
+      "remedies": [
+        "for instance",
+        "Ars. and Rhus.",
+        "will",
+        "of course"
+      ],
+      "chapter": "kentrepert"
+    },
+    {
+      "rubric": "And now, at last, you come to the PARTICULARS",
+      "remedies": [
+        "listening to his story",
+        "for instance",
+        "of the force",
+        "put your patient",
+        "as a whole",
+        "in order",
+        "with peculation there",
+        "with incompetence",
+        "and disorder",
+        "and slackness",
+        "put that right",
+        "per se",
+        "and \"cure\" it",
+        "prescribe for that",
+        "he will even undo the rest",
+        "step by step backwards"
+      ],
+      "chapter": "kentrepert"
+    },
+    {
+      "rubric": "Among the PARTICULARS, your first",
+      "remedies": [
+        "or unusual",
+        "or unexpected",
+        "as a whole",
+        "reacts to environment",
+        "but how his head",
+        "his stomach",
+        "his lungs",
+        "damp weather and dry",
+        "and would swear",
+        "or against the floor."
+      ],
+      "chapter": "kentrepert"
+    },
+    {
+      "rubric": "But the Generals and the Particulars may not only be quite different, but they may be flatly contradictory in the same patient",
+      "remedies": [
+        "but \"My\"",
+        "\"I cannot stand heat\"",
+        "(meaning his stomach). Again"
+      ],
+      "chapter": "kentrepert"
+    },
+    {
+      "rubric": "If you are to be a good prescriber, by the way, your drugs have got to be people for you, with whims, fancies and terrrors ; with tempers and idiosyncrasies and characteristics : you have got to see them stalking about the world, speaking and moving and halting, with the bodies-minds",
+      "remedies": [
+        "or loose and jolly and open",
+        "fidgety",
+        "restless",
+        "fearful",
+        "dull and inert",
+        "standing for preference",
+        "stoop shouldered and drooping",
+        "or erect and full of \"go\"",
+        "depressed and querulous",
+        "restless and anxious",
+        "smooth and smug",
+        "and learn them"
+      ],
+      "chapter": "kentrepert"
+    },
+    {
+      "rubric": "Now take the same case and start, instead, on the marked symptoms complained of by the patient",
+      "remedies": [
+        "the Particulars",
+        "in all the types",
+        "one by one",
+        "and write",
+        "and write",
+        "and write."
+      ],
+      "chapter": "kentrepert"
+    },
+    {
+      "rubric": "It may be easily such a list, of which this is but the merest beginning :",
+      "remedies": [
+        "at this moment",
+        "some if immense length",
+        "as Stools offensive",
+        "Burning urine",
+        "Stools pasty",
+        "Yellow stools. Why",
+        "and Common symptoms"
+      ],
+      "chapter": "kentrepert"
+    },
+    {
+      "rubric": "Aesc",
+      "remedies": [
+        "h.",
+        "All-c.",
+        "Aloe",
+        "Ambra.",
+        "APIS",
+        "ARG-NIT.",
+        "Asaf.",
+        "Aur-iod.",
+        "Aur-m.",
+        "Bar-iod.",
+        "Bry.",
+        "Calad.",
+        "Calc-iod.",
+        "Calc-sul.",
+        "Cocc-cacti.",
+        "Comoc.",
+        "Crocus.",
+        "Dros.",
+        "Fer-iod.",
+        "FLUOR-AC.",
+        "Grat.",
+        "Ham.",
+        "IOD.",
+        "KALI-IOD.",
+        "KALI-SUL.",
+        "Lach.",
+        "Led.",
+        "Lil-t.",
+        "Lyc.",
+        "NAT-MUR.",
+        "NAT-SUL.",
+        "Niccol.",
+        "Op.",
+        "Picric-ac.",
+        "PLAT.",
+        "Ptelia",
+        "PULS.",
+        "SABINA",
+        "SECALE",
+        "Spong.",
+        "Sul.",
+        "Sul-iod.",
+        "Thuj.",
+        "Tuberc.",
+        "(Rabe)",
+        "Ustil.",
+        "Vespa.",
+        "Viburn."
+      ],
+      "chapter": "kentrepert"
+    },
+    {
+      "rubric": "Ant",
+      "remedies": [
+        "cr."
+      ],
+      "chapter": "kentrepert"
+    },
+    {
+      "rubric": "Desires",
+      "remedies": [
+        "Salt",
+        "sweets."
+      ],
+      "chapter": "kentrepert"
+    },
+    {
+      "rubric": "Averse",
+      "remedies": [
+        "Fats",
+        "acids."
+      ],
+      "chapter": "kentrepert"
+    },
+    {
+      "rubric": "She was very thin ; excitable person",
+      "remedies": [
+        "a bundle of nerves."
+      ],
+      "chapter": "kentrepert"
+    },
+    {
+      "rubric": "CHILLY PATIENT - Used as Eliminating Symptom",
+      "remedies": [],
+      "chapter": "kentrepert"
+    },
+    {
+      "rubric": "Fears : Something will happen (Kent's Repertory",
+      "remedies": [
+        "p. 45). - Alum.",
+        "Ars.",
+        "Calc.",
+        "Carb-v.",
+        "CAUST.",
+        "Graph.",
+        "Kali-ars.",
+        "Kali-p.",
+        "Mag-c.",
+        "Mang.",
+        "Nat-a.",
+        "PHOS."
+      ],
+      "chapter": "kentrepert"
+    },
+    {
+      "rubric": "Fears",
+      "remedies": [
+        "Phos.",
+        "Stram.."
+      ],
+      "chapter": "kentrepert"
+    },
+    {
+      "rubric": "Fears",
+      "remedies": [
+        "crowd (p. 43) - Aloe",
+        "Ars.",
+        "Bar-c.",
+        "Calc.",
+        "Carb-an.",
+        "Caust.",
+        "Con.",
+        "Ferr.",
+        "Graph.",
+        "Hep.",
+        "Kali-ar.",
+        "K-bi.",
+        "Kali-c.",
+        "Kali-p.",
+        "Nat-a.",
+        "Nat-c.",
+        "Nux-v.",
+        "Phos.",
+        "Plb.",
+        "Rhus-t.",
+        "Stann."
+      ],
+      "chapter": "kentrepert"
+    },
+    {
+      "rubric": "Ars",
+      "remedies": [],
+      "chapter": "kentrepert"
+    },
+    {
+      "rubric": "This case shows the importance of Generals in their order",
+      "remedies": [
+        "mental",
+        "climatic",
+        "desires and aversions in food"
+      ],
+      "chapter": "kentrepert"
+    },
+    {
+      "rubric": "Stomach",
+      "remedies": [
+        "Appetite fair",
+        "averse fish",
+        "desires fats."
+      ],
+      "chapter": "kentrepert"
+    },
+    {
+      "rubric": "Mental - Fears",
+      "remedies": [
+        "dark"
+      ],
+      "chapter": "kentrepert"
+    },
+    {
+      "rubric": "WARM PATIENT",
+      "remedies": [],
+      "chapter": "kentrepert"
+    },
+    {
+      "rubric": "Stomach",
+      "remedies": [
+        "Appetite good. Averse fats",
+        "milk. Craves ices"
+      ],
+      "chapter": "kentrepert"
+    },
+    {
+      "rubric": "Mental : Very excitable to music",
+      "remedies": [
+        "irritable",
+        "impatient",
+        "being hemmed in",
+        "fire"
+      ],
+      "chapter": "kentrepert"
+    },
+    {
+      "rubric": "Chilly",
+      "remedies": [
+        "Hates the cold",
+        "< thunderstorms."
+      ],
+      "chapter": "kentrepert"
+    },
+    {
+      "rubric": "Mental",
+      "remedies": [],
+      "chapter": "kentrepert"
+    },
+    {
+      "rubric": "Averse",
+      "remedies": [
+        "Fats",
+        "milk."
+      ],
+      "chapter": "kentrepert"
+    },
+    {
+      "rubric": "Nat",
+      "remedies": [
+        "mur. 30",
+        "4 doses",
+        "6-hourly."
+      ],
+      "chapter": "kentrepert"
+    },
+    {
+      "rubric": "Worse from damp, and worse from dry weather are deep-seated, and very important",
+      "remedies": [
+        "all my joints are quite loose",
+        "Ars.",
+        "ASAR.",
+        "Bell.",
+        "Bov. BRY.",
+        "Carb-an.",
+        "Carb-v.",
+        "CAUST.",
+        "Cham.",
+        "Fl-ac.",
+        "HEP.",
+        "Ip.",
+        "Laur.",
+        "Mang.",
+        "Med.",
+        "Mez.",
+        "Mur-ac.",
+        "Nit-ac.",
+        "NUX.",
+        "Plat.",
+        "Rhod.",
+        "Saba.",
+        "Sep.",
+        "Sil.",
+        "Spig.",
+        "Spong.",
+        "Staph.",
+        "Sulph.",
+        "means practically",
+        "Caust.",
+        "Hep.",
+        "its absence becomes peculiar",
+        "exclude Dulc.",
+        "Nux-mos.",
+        "Phos.",
+        "Ran-b.",
+        "Rhodo.",
+        "Rhus.",
+        "Sil.",
+        "Merc.",
+        "Nat-c.",
+        "Nat-s.",
+        "Ruta."
+      ],
+      "chapter": "kentrepert"
+    },
+    {
+      "rubric": "KENT",
+      "remedies": [
+        "FACE (p. 355-396)"
+      ],
+      "chapter": "kentface"
+    },
+    {
+      "rubric": "KENT",
+      "remedies": [
+        "MOUTH (p. 397-430)"
+      ],
+      "chapter": "kentmout"
+    },
+    {
+      "rubric": "KENT",
+      "remedies": [
+        "TEETH (p. 430-447)"
+      ],
+      "chapter": "kentteet"
+    },
+    {
+      "rubric": "KENT",
+      "remedies": [
+        "NOSE (p. 324-354)"
+      ],
+      "chapter": "kentnose"
+    },
+    {
+      "rubric": "Nose, discharge, crusts, painful, large must discharge through post",
+      "remedies": [
+        "nares (p. 331)"
+      ],
+      "chapter": "kentnose"
+    },
+    {
+      "rubric": "KENT",
+      "remedies": [
+        "THROAT (p. 448-470)"
+      ],
+      "chapter": "kentthro"
+    },
+    {
+      "rubric": "KENT",
+      "remedies": [
+        "EXTERNAL THROAT (p. 471-475)"
+      ],
+      "chapter": "kentexth"
+    },
+    {
+      "rubric": "External throat, pain, stitching, throat",
+      "remedies": [
+        "pit (p. 474)"
+      ],
+      "chapter": "kentexth"
+    },
+    {
+      "rubric": "KENT",
+      "remedies": [
+        "STOMACH (p. 476-540)"
+      ],
+      "chapter": "kentstom"
+    },
+    {
+      "rubric": "KENT",
+      "remedies": [
+        "ABDOMEN (p. 541-605)"
+      ],
+      "chapter": "kentabdo"
+    },
+    {
+      "rubric": "Abdomen, distension, ilio",
+      "remedies": [
+        "cæcal region (p. 546)"
+      ],
+      "chapter": "kentabdo"
+    },
+    {
+      "rubric": "Abdomen, pain, burning, ilio",
+      "remedies": [
+        "cæcal region (p. 573)"
+      ],
+      "chapter": "kentabdo"
+    },
+    {
+      "rubric": "KENT",
+      "remedies": [
+        "URINARY ORGANS (p. 645-680)"
+      ],
+      "chapter": "kenturor"
+    },
+    {
+      "rubric": "KENT",
+      "remedies": [
+        "RECTUM (p. 606-635)"
+      ],
+      "chapter": "kentrect"
+    },
+    {
+      "rubric": "KENT",
+      "remedies": [
+        "KIDNEYS (p. 662-667)"
+      ],
+      "chapter": "kentkidn"
+    },
+    {
+      "rubric": "KENT",
+      "remedies": [
+        "BLADDER (p. 645-662)"
+      ],
+      "chapter": "kentblad"
+    },
+    {
+      "rubric": "KENT",
+      "remedies": [
+        "PROSTATE GLAND (p. 667-668)"
+      ],
+      "chapter": "kentpros"
+    },
+    {
+      "rubric": "KENT",
+      "remedies": [
+        "STOOL (p. 635-644)"
+      ],
+      "chapter": "kentstoo"
+    },
+    {
+      "rubric": "Stool, mucous, jelly",
+      "remedies": [
+        "like (p. 640)"
+      ],
+      "chapter": "kentstoo"
+    },
+    {
+      "rubric": "KENT",
+      "remedies": [
+        "GENITALIA FEMALE (p. 714-745)"
+      ],
+      "chapter": "kentgenf"
+    },
+    {
+      "rubric": "Genitalia female, menses, black, pitch",
+      "remedies": [
+        "like (p. 725)"
+      ],
+      "chapter": "kentgenf"
+    },
+    {
+      "rubric": "Genitalia female, menses, pitch",
+      "remedies": [
+        "like (p. 728)"
+      ],
+      "chapter": "kentgenf"
+    },
+    {
+      "rubric": "KENT",
+      "remedies": [
+        "URETHRA (p. 669-680)"
+      ],
+      "chapter": "kenturet"
+    },
+    {
+      "rubric": "KENT",
+      "remedies": [
+        "URINE (p. 681-692)"
+      ],
+      "chapter": "kenturin"
+    },
+    {
+      "rubric": "Urine, milky, curdled",
+      "remedies": [
+        "like (p. 687)"
+      ],
+      "chapter": "kenturin"
+    },
+    {
+      "rubric": "KENT",
+      "remedies": [
+        "GENITALIA MALE (p. 693-714)"
+      ],
+      "chapter": "kentgenm"
+    },
+    {
+      "rubric": "KENT",
+      "remedies": [],
+      "chapter": "kentlary"
+    },
+    {
+      "rubric": "Larynx and trachea, swollen, throat",
+      "remedies": [
+        "pit (p. 757)"
+      ],
+      "chapter": "kentlary"
+    },
+    {
+      "rubric": "KENT",
+      "remedies": [
+        "RESPIRATION (p. 763-777)"
+      ],
+      "chapter": "kentresp"
+    },
+    {
+      "rubric": "Respiration, difficult, throat",
+      "remedies": [
+        "pit",
+        "constriction at (p. 772)"
+      ],
+      "chapter": "kentresp"
+    },
+    {
+      "rubric": "KENT",
+      "remedies": [
+        "COUGH (p. 778-811)"
+      ],
+      "chapter": "kentcoug"
+    },
+    {
+      "rubric": "KENT",
+      "remedies": [
+        "EXPECTORATION (p. 812-821)"
+      ],
+      "chapter": "kentexpe"
+    },
+    {
+      "rubric": "KENT",
+      "remedies": [
+        "CHEST (p. 822-883)"
+      ],
+      "chapter": "kentches"
+    },
+    {
+      "rubric": "KENT",
+      "remedies": [
+        "BACK (p. 884-951)"
+      ],
+      "chapter": "kentback"
+    },
+    {
+      "rubric": "KENT",
+      "remedies": [
+        "FEVER (p. 1278-1292)"
+      ],
+      "chapter": "kentfeve"
+    },
+    {
+      "rubric": "KENT",
+      "remedies": [
+        "CHILL (p. 1259-1277)"
+      ],
+      "chapter": "kentchil"
+    },
+    {
+      "rubric": "KENT",
+      "remedies": [
+        "SLEEP (p. 1234-1258)"
+      ],
+      "chapter": "kentslee"
+    },
+    {
+      "rubric": "KENT",
+      "remedies": [
+        "PERSPIRATION (p. 1293-1302)"
+      ],
+      "chapter": "kentpers"
+    },
+    {
+      "rubric": "Perspiration, long",
+      "remedies": [
+        "lasting (p. 1298)"
+      ],
+      "chapter": "kentpers"
+    },
+    {
+      "rubric": "KENT",
+      "remedies": [
+        "SKIN (p. 1303-1340)"
+      ],
+      "chapter": "kentskin"
+    },
+    {
+      "rubric": "KENT",
+      "remedies": [
+        "EXTREMITIES (p. 952-1233)"
+      ],
+      "chapter": "kentextr"
+    },
+    {
+      "rubric": "KENT",
+      "remedies": [
+        "GENERALITIES (p. 1341-1423)"
+      ],
+      "chapter": "kentgene"
+    },
+    {
+      "rubric": "Generalities, shocks, electric",
+      "remedies": [
+        "like",
+        "sleep",
+        "during (p. 1400)"
+      ],
+      "chapter": "kentgene"
+    }
+  ]
+}

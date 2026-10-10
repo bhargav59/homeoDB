@@ -1,0 +1,45 @@
+{
+  "remedy_name": "ERYNGIUM AQUATICUM",
+  "source_file": "raw_1772501494208.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Conium",
+        "resolved_name": "CONIUM MACULATUM",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Cannab",
+        "resolved_name": "APOCYNUM CANNABINUM",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Dios",
+        "resolved_name": "DIOSCOREA VILLOSA",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Ocim",
+        "resolved_name": "OCIMUM CANUM",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Clemat",
+        "resolved_name": "CLEMATIS ERECTA",
+        "confidence": 0.8,
+        "method": "substring"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:09.581Z"
+}

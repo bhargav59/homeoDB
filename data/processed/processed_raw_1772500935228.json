@@ -1,0 +1,68 @@
+{
+  "name": "COCA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "COCA-ERYTHROXYLON COCA"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Peppery sensation in mouth. Longing for alcoholic liquors and tobacco. Great satiety for a long time. Incarcerated flatus; rises with noise and violence, as if it would split the śsophagus. Tympanitic distention of abdomen. No appetite but for sweets.",
+    "Fainting fit from climbing mountains. Shocks coming from occiput with vertigo. Noises in ear. Headache with vertigo, preceded by flashes of light. Like a band across forehead. Diplopia. Tongue furred. Headaches of high altitudes. Tinnitus.",
+    "Hawking of small, transparent pieces of mucus. Weak vocal cords. Hoarseness; worse after talking. Want of breath, short breath, especially in aged athletes, and alcoholic users. Hćmoptysis. Asthma, spasmodic variety.",
+    "Palpitation, with weak heart and dyspnśa."
+  ],
+  "guiding_symptoms": [
+    "Peppery sensation in mouth. Longing for alcoholic liquors and tobacco. Great satiety for a long time. Incarcerated flatus; rises with noise and violence, as if it would split the śsophagus. Tympanitic distention of abdomen. No appetite but for sweets.",
+    "Fainting fit from climbing mountains. Shocks coming from occiput with vertigo. Noises in ear. Headache with vertigo, preceded by flashes of light. Like a band across forehead. Diplopia. Tongue furred. Headaches of high altitudes. Tinnitus.",
+    "Hawking of small, transparent pieces of mucus. Weak vocal cords. Hoarseness; worse after talking. Want of breath, short breath, especially in aged athletes, and alcoholic users. Hćmoptysis. Asthma, spasmodic variety."
+  ],
+  "modalities": {
+    "worse": [
+      "ascending, high altitudes"
+    ],
+    "better": [
+      "from wine",
+      "riding, quick motion in open air"
+    ]
+  },
+  "mind_symptoms": [
+    "Melancholy; bashful, ill at ease in society, irritable, delights in solitude and obscurity. Sense of right and wrong abolished."
+  ],
+  "head_symptoms": [
+    "Fainting fit from climbing mountains. Shocks coming from occiput with vertigo. Noises in ear. Headache with vertigo, preceded by flashes of light. Like a band across forehead. Diplopia. Tongue furred. Headaches of high altitudes. Tinnitus."
+  ],
+  "respiratory_symptoms": [
+    "Hawking of small, transparent pieces of mucus. Weak vocal cords. Hoarseness; worse after talking. Want of breath, short breath, especially in aged athletes, and alcoholic users. Hćmoptysis. Asthma, spasmodic variety."
+  ],
+  "gi_symptoms": [
+    "Peppery sensation in mouth. Longing for alcoholic liquors and tobacco. Great satiety for a long time. Incarcerated flatus; rises with noise and violence, as if it would split the śsophagus. Tympanitic distention of abdomen. No appetite but for sweets."
+  ],
+  "urinary_symptoms": [
+    "Diabetes, with impotency (Phos ac)."
+  ],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [],
+  "sleep_symptoms": [
+    "Can find no rest anywhere, but sleepy. Nervousness and nightly restlessness during teething."
+  ],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Ars",
+    "Paulin",
+    "Cyp",
+    "Chamom"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/c/coca.htm",
+    "title": "COCA-ERYTHROXYLON COCA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:22:15.228Z"
+  },
+  "confidence_score": 0.8
+}

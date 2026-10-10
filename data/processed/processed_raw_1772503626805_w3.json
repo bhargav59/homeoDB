@@ -1,0 +1,62 @@
+{
+  "name": "SPIGELIA ANTHELMIA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Pinkroot"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Pain beneath frontal eminence and temples, extending to eyes (Onos). Semi-lateral, involving left eye; pain violent, throbbing; worse, making a false step. Pain as if a band around head (Carbol ac; Cact; Gels). Vertigo, hearing exalted.",
+    "Violent palpitation. Præcordial pain and great aggravation from movement. Frequent attacks of palpitation, especially with foul odor from mouth. Pulse weak and irregular. Pericarditis, with sticking pains, palpitation, dyspnœa. Neuralgia extending to arm or both arms. Angina pectoris. Craving for hot water which relieves. Rheumatic carditis, trembling pulse; whole left side sore. Dyspnœa; must lie on right side with head high."
+  ],
+  "guiding_symptoms": [
+    "Pain beneath frontal eminence and temples, extending to eyes (Onos). Semi-lateral, involving left eye; pain violent, throbbing; worse, making a false step. Pain as if a band around head (Carbol ac; Cact; Gels). Vertigo, hearing exalted.",
+    "Violent palpitation. Præcordial pain and great aggravation from movement. Frequent attacks of palpitation, especially with foul odor from mouth. Pulse weak and irregular. Pericarditis, with sticking pains, palpitation, dyspnœa. Neuralgia extending to arm or both arms. Angina pectoris. Craving for hot water which relieves. Rheumatic carditis, trembling pulse; whole left side sore. Dyspnœa; must lie on right side with head high."
+  ],
+  "modalities": {
+    "worse": [
+      "from touch, motion, noise, turning, washing, concussion"
+    ],
+    "better": [
+      "lying on right side with head high",
+      "inspiring"
+    ]
+  },
+  "mind_symptoms": [
+    "Afraid of sharp, pointed things, pins, needles, etc."
+  ],
+  "head_symptoms": [
+    "Pain beneath frontal eminence and temples, extending to eyes (Onos). Semi-lateral, involving left eye; pain violent, throbbing; worse, making a false step. Pain as if a band around head (Carbol ac; Cact; Gels). Vertigo, hearing exalted."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "Itching and crawling. Frequent ineffectual urging to stool. Ascarides."
+  ],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [
+    "Chilliness on the slightest motion."
+  ],
+  "complementary_remedies": [
+    "paroxysmal laughing and crying",
+    "loud",
+    "disconnected talking",
+    "vertigo",
+    "dilated pupils"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/s/spig.htm",
+    "title": "SPIGELIA ANTHELMIA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:07:06.805Z"
+  },
+  "confidence_score": 0.8
+}

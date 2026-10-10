@@ -1,0 +1,41 @@
+{
+  "name": "KALIUM ARSENICOSUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Fowler's Solution"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [],
+  "guiding_symptoms": [],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [],
+  "urinary_symptoms": [
+    "Cauliflower excrescences of os uteri, with flying pains, foul smelling discharge, and pressure below pubis."
+  ],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [
+    "Intolerable itching, worse undressing. Dry, scaly, wilted. Acne; pustules worse during menses. Chronic eczema; itching worse from warmth, walking, undressing. Psoriasis, lichen. Phagedćnic ulcers. Fissures in bends of arms and knees. Gouty nodosities; worse, change of weather. Skin cancer, where suddenly an alarming malignancy without any external signs sets in. Numerous small nodules under skin."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/k/kali-ar.htm",
+    "title": "KALIUM ARSENICOSUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:48:58.459Z"
+  },
+  "confidence_score": 0.44
+}

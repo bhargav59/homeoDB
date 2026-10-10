@@ -1,0 +1,20 @@
+{
+  "remedy_name": "ACALYPHA INDICA",
+  "source_file": "raw_1772371534390.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/a/acal.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Millefol",
+      "Phosphor",
+      "Acetic acid",
+      "Kali nit"
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "parsed_at": "2026-03-03T15:23:37.312Z"
+}

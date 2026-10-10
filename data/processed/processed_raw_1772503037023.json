@@ -1,0 +1,55 @@
+{
+  "name": "LYCOPUS VIRGINICUS",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Bugle-weed"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Frontal headache; worse, frontal eminences; often succeeded by labored heart. Nosebleed.",
+    "Wheezing. Cough, with hæmoptysis, bleeding small but frequent.",
+    "Urine.--Profuse flow of limpid, watery urine, especially when the heart is most irritable; also scanty urine. Bladder feels distended when empty. Diabetes. Pain in testicles.",
+    "Rapid heart action of smokers. Præcordial pain; constriction, tenderness, pulse, weak, irregular, intermittent, tremulous, rapid. Cyanosis. Heart's action tumultuous and forcible. Palpitation from nervous irritation, with oppression around heart. Rheumatoid, flying pains, associated with heart disease. Cardiac asthma (Sumbul)."
+  ],
+  "guiding_symptoms": [
+    "Frontal headache; worse, frontal eminences; often succeeded by labored heart. Nosebleed.",
+    "Wheezing. Cough, with hæmoptysis, bleeding small but frequent.",
+    "Urine.--Profuse flow of limpid, watery urine, especially when the heart is most irritable; also scanty urine. Bladder feels distended when empty. Diabetes. Pain in testicles."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Frontal headache; worse, frontal eminences; often succeeded by labored heart. Nosebleed."
+  ],
+  "respiratory_symptoms": [
+    "Wheezing. Cough, with hæmoptysis, bleeding small but frequent.",
+    "Urine.--Profuse flow of limpid, watery urine, especially when the heart is most irritable; also scanty urine. Bladder feels distended when empty. Diabetes. Pain in testicles."
+  ],
+  "gi_symptoms": [
+    "Bleeding from rectum. Hæmorrhoids."
+  ],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [],
+  "sleep_symptoms": [
+    "Wakefulness and morbid vigilance with inordinately active, but weak circulation."
+  ],
+  "fever_symptoms": [],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/l/lycps-v.htm",
+    "title": "LYCOPUS VIRGINICUS - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:57:17.023Z"
+  },
+  "confidence_score": 0.74
+}

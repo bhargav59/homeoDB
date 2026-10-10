@@ -1,0 +1,33 @@
+{
+  "remedy_name": "STRYCHNINUM PURUM",
+  "source_file": "raw_1772505118839.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Eucalyptus",
+        "resolved_name": "EUCALYPTUS GLOBULUS",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Cicuta",
+        "resolved_name": "CICUTA VIROSA",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Arnica",
+        "resolved_name": "ARNICA MONTANA",
+        "confidence": 1,
+        "method": "exact"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:11.332Z"
+}

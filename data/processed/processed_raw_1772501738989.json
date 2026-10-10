@@ -1,0 +1,68 @@
+{
+  "name": "FORMICA RUFA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Crushed Live Ants"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Constant pressure at the cardiac end of the stomach, and a burning pain there. Nausea, with headache, and vomiting of yellowish bitter mucus. Pain shift from stomach to vertex. Gas cannot be passed.",
+    "Abdomen and Stool.--In the morning, difficult passages of small quantities of flatus; afterwards diarrhœa-like urging in the rectum. Pain in bowels before stool, with shuddering chilliness. Constriction in the anus. Drawing pain around navel before stool.",
+    "Urine.--Bloody, albuminous, with much urging; quantities of urates.",
+    "Vertigo. Headache with cracking in left ear. Brain feels too heavy and large. Sensation as if a bubble burst in forehead. Forgetful in the evening. Exhilarated. Coryza and stopped-up feeling in nose. Rheumatic iritis. Nasal polypi.",
+    "Hoarseness, with dry, sore throat; cough worse at night, with aching in forehead and constrictive pain in chest; pleuritic pains.",
+    "Sexual.--Seminal emissions; weakness. \"Slothful to venery\".",
+    "Rheumatic pains; stiff and contracted joints. Muscles feel strained and torn from their attachment. Weakness of lower extremities. Paraplegia. Pain in hips. Rheumatism comes on with suddenness and restlessness. Sweat does not relieve. Relief after midnight and from rubbing."
+  ],
+  "guiding_symptoms": [
+    "Constant pressure at the cardiac end of the stomach, and a burning pain there. Nausea, with headache, and vomiting of yellowish bitter mucus. Pain shift from stomach to vertex. Gas cannot be passed.",
+    "Abdomen and Stool.--In the morning, difficult passages of small quantities of flatus; afterwards diarrhœa-like urging in the rectum. Pain in bowels before stool, with shuddering chilliness. Constriction in the anus. Drawing pain around navel before stool.",
+    "Urine.--Bloody, albuminous, with much urging; quantities of urates."
+  ],
+  "modalities": {
+    "worse": [
+      "cold and cold washing, dampness, before a snowstorm"
+    ],
+    "better": [
+      "warmth, pressure, rubbing"
+    ]
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Vertigo. Headache with cracking in left ear. Brain feels too heavy and large. Sensation as if a bubble burst in forehead. Forgetful in the evening. Exhilarated. Coryza and stopped-up feeling in nose. Rheumatic iritis. Nasal polypi."
+  ],
+  "respiratory_symptoms": [
+    "Hoarseness, with dry, sore throat; cough worse at night, with aching in forehead and constrictive pain in chest; pleuritic pains.",
+    "Sexual.--Seminal emissions; weakness. \"Slothful to venery\"."
+  ],
+  "gi_symptoms": [
+    "Constant pressure at the cardiac end of the stomach, and a burning pain there. Nausea, with headache, and vomiting of yellowish bitter mucus. Pain shift from stomach to vertex. Gas cannot be passed.",
+    "Abdomen and Stool.--In the morning, difficult passages of small quantities of flatus; afterwards diarrhœa-like urging in the rectum. Pain in bowels before stool, with shuddering chilliness. Constriction in the anus. Drawing pain around navel before stool.",
+    "Urine.--Bloody, albuminous, with much urging; quantities of urates."
+  ],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [
+    "Rheumatic pains; stiff and contracted joints. Muscles feel strained and torn from their attachment. Weakness of lower extremities. Paraplegia. Pain in hips. Rheumatism comes on with suddenness and restlessness. Sweat does not relieve. Relief after midnight and from rubbing."
+  ],
+  "skin_symptoms": [
+    "Red, itching and burning. Nettle-rash. Nodes around joints (Ammon phos). Profuse sweat without relief."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Formic acid (Chronic myalgia"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/f/form.htm",
+    "title": "FORMICA RUFA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:35:38.989Z"
+  },
+  "confidence_score": 0.74
+}

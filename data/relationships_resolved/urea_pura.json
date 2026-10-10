@@ -1,0 +1,87 @@
+{
+  "remedy_name": "UREA PURA",
+  "source_file": "raw_1772505613899.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Uric acid (gout",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "gouty",
+        "resolved_name": "RUTA GRAVEOLENS",
+        "confidence": 0.55,
+        "method": "levenshtein_3"
+      },
+      {
+        "original": "eczema",
+        "resolved_name": "Dr. Reckeweg R23, Buy Homeopathic Medicine For Eczema, Homeopathic Medicine For Pimples in India",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "rheumatism",
+        "resolved_name": "RHEUM PALMATUM",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "lipoma)",
+        "resolved_name": "Lippia Mexicana.",
+        "confidence": 0.7,
+        "method": "levenshtein_2"
+      },
+      {
+        "original": "Urinum (acne",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "boils",
+        "resolved_name": "ABIES CANADENSIS",
+        "confidence": 0.55,
+        "method": "levenshtein_3"
+      },
+      {
+        "original": "scurvy",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "dropsy)",
+        "resolved_name": "DROSERA",
+        "confidence": 0.7,
+        "method": "levenshtein_2"
+      },
+      {
+        "original": "Urtica",
+        "resolved_name": "URTICA URENS",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Tubercul",
+        "resolved_name": "TUBERCULINUM",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Thyroid",
+        "resolved_name": "THYROIDINUM",
+        "confidence": 0.8,
+        "method": "substring"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:11.653Z"
+}

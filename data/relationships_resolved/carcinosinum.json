@@ -1,0 +1,39 @@
+{
+  "remedy_name": "CARCINOSINUM",
+  "source_file": "raw_1772500468385.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Bufo",
+        "resolved_name": "BUFO RANA",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Conium",
+        "resolved_name": "CONIUM MACULATUM",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Phytolacca",
+        "resolved_name": "PHYTOLACCA DECANDRA",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Asterias",
+        "resolved_name": "ASTERIAS RUBENS",
+        "confidence": 1,
+        "method": "exact"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:08.872Z"
+}

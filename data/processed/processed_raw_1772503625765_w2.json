@@ -1,0 +1,54 @@
+{
+  "name": "SKATOLUM",
+  "abbreviation": "Unknown",
+  "common_names": [],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Frontal headache, worse over left eye, in the evening, better by short sleep.",
+    "Gastric.--Tongue coated, foul taste. Salty taste to all cereals. Belching. Appetite increased. Light, yellow, narrow, very offensive stool. Intestinal dyspepsia."
+  ],
+  "guiding_symptoms": [
+    "Frontal headache, worse over left eye, in the evening, better by short sleep.",
+    "Gastric.--Tongue coated, foul taste. Salty taste to all cereals. Belching. Appetite increased. Light, yellow, narrow, very offensive stool. Intestinal dyspepsia."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [
+    "Lack of concentration; impossible to study; despondent; desire to be with people. Irritable. Felt mean towards everyone."
+  ],
+  "head_symptoms": [
+    "Frontal headache, worse over left eye, in the evening, better by short sleep.",
+    "Gastric.--Tongue coated, foul taste. Salty taste to all cereals. Belching. Appetite increased. Light, yellow, narrow, very offensive stool. Intestinal dyspepsia."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [],
+  "urinary_symptoms": [
+    "Frequent, scanty, burning, difficult."
+  ],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [],
+  "sleep_symptoms": [
+    "Increased desire to sleep; wakes unrefreshed, half doped feeling."
+  ],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Indol",
+    "Baptis",
+    "Sulph"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/s/skat.htm",
+    "title": "SKATOLUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:07:05.765Z"
+  },
+  "confidence_score": 0.56
+}

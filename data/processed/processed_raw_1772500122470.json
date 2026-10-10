@@ -1,0 +1,67 @@
+{
+  "name": "BROMIUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Bromine"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Megrim of left side; worse stooping, especially after drinking milk. Headache; worse heat of sun and by rapid motion. Sharp pain through eyes. Dizzy when crossing stream of water.",
+    "Whooping cough (Use persistently for about ten days). Dry cough, with hoarseness and burning pain behind sternum. Spasmodic cough, with rattling of mucus in the larynx; suffocative. Hoarseness. Croup after febrile symptoms have subsided. Difficult and painful breathing. Violent cramping of chest. Chest pains run upward. Cold sensation when inspiring. Every inspiration provokes cough. Laryngeal diphtheria, membrane begins in larynx and spreads upward. Spasmodic constriction. Asthma; difficulty in getting air into lung (Chlorum, in expelling). Better at sea, of seafaring men when they come on land. Hypertrophy of heart from gymnastics (Rhus). Fibrinous bronchitis, great dyspnśa. Bronchial tubes feel filled with smoke."
+  ],
+  "guiding_symptoms": [
+    "Megrim of left side; worse stooping, especially after drinking milk. Headache; worse heat of sun and by rapid motion. Sharp pain through eyes. Dizzy when crossing stream of water.",
+    "Whooping cough (Use persistently for about ten days). Dry cough, with hoarseness and burning pain behind sternum. Spasmodic cough, with rattling of mucus in the larynx; suffocative. Hoarseness. Croup after febrile symptoms have subsided. Difficult and painful breathing. Violent cramping of chest. Chest pains run upward. Cold sensation when inspiring. Every inspiration provokes cough. Laryngeal diphtheria, membrane begins in larynx and spreads upward. Spasmodic constriction. Asthma; difficulty in getting air into lung (Chlorum, in expelling). Better at sea, of seafaring men when they come on land. Hypertrophy of heart from gymnastics (Rhus). Fibrinous bronchitis, great dyspnśa. Bronchial tubes feel filled with smoke."
+  ],
+  "modalities": {
+    "worse": [
+      "from evening, until midnight, and when sitting in warm room",
+      "warm damp weather when at rest and lying left side"
+    ],
+    "better": [
+      "from any motion",
+      "exercise, at sea"
+    ]
+  },
+  "mind_symptoms": [
+    "Delusion that strange persons are looking over patient's shoulder and that she would see some one on turning. Quarrelsome."
+  ],
+  "head_symptoms": [
+    "Megrim of left side; worse stooping, especially after drinking milk. Headache; worse heat of sun and by rapid motion. Sharp pain through eyes. Dizzy when crossing stream of water."
+  ],
+  "respiratory_symptoms": [
+    "Whooping cough (Use persistently for about ten days). Dry cough, with hoarseness and burning pain behind sternum. Spasmodic cough, with rattling of mucus in the larynx; suffocative. Hoarseness. Croup after febrile symptoms have subsided. Difficult and painful breathing. Violent cramping of chest. Chest pains run upward. Cold sensation when inspiring. Every inspiration provokes cough. Laryngeal diphtheria, membrane begins in larynx and spreads upward. Spasmodic constriction. Asthma; difficulty in getting air into lung (Chlorum, in expelling). Better at sea, of seafaring men when they come on land. Hypertrophy of heart from gymnastics (Rhus). Fibrinous bronchitis, great dyspnśa. Bronchial tubes feel filled with smoke."
+  ],
+  "gi_symptoms": [],
+  "urinary_symptoms": [
+    "Swelling of testicles. Indurated, with pains worse slight jar."
+  ],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [
+    "Acne, pimples and pustules. Boils on arms and face. Glands stony, hard, especially on lower jaw and throat. Hard goitre (Spong). Gangrene."
+  ],
+  "sleep_symptoms": [
+    "Full of dreams and anguish; jerking and starting during sleep, full of fantasy and illusions; difficult to go to sleep at night, cannot sleep enough in morning; trembling and weak on awaking."
+  ],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Conium",
+    "Spongia",
+    "Iod",
+    "Aster",
+    "Arg nit"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/b/brom.htm",
+    "title": "BROMIUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:08:42.470Z"
+  },
+  "confidence_score": 0.8
+}

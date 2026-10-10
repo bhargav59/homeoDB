@@ -1,0 +1,15 @@
+{
+  "remedy_name": "Dr. Reckeweg R49, German Homeopathy Medicine for Sinusitis, Homeopathic Treatment & Remedies for Sinus Infections",
+  "source_file": "raw_1772509353976_reckeweg_dilutions_w3.json",
+  "source_url": "https://www.reckeweg-india.com/product-details/r49-48.html",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "parsed_at": "2026-03-03T15:23:38.517Z"
+}

@@ -1,0 +1,39 @@
+{
+  "remedy_name": "RHODODENDRON FERRUGINEUM",
+  "source_file": "raw_1772504504389.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Ampelopsis",
+        "resolved_name": "AMPELOPSIS QUINQUEFOLIA",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Dulc",
+        "resolved_name": "DULCAMARA",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      },
+      {
+        "original": "Rhus",
+        "resolved_name": "RHUS GLABRA",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Nat sulph",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:10.993Z"
+}

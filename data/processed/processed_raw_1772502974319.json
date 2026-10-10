@@ -1,0 +1,53 @@
+{
+  "name": "LOBELIA PURPURASCENS",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Purple Lobelia"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Superficial respiration; heart and lungs feel paralyzed; respiration slow. Heart beats sound to him like boom of a drum.",
+    "Confused and depressed. Headache with nausea, vertigo; especially between eyebrows. Cannot keep eyes open; spasmodic closure of lids."
+  ],
+  "guiding_symptoms": [
+    "Superficial respiration; heart and lungs feel paralyzed; respiration slow. Heart beats sound to him like boom of a drum.",
+    "Confused and depressed. Headache with nausea, vertigo; especially between eyebrows. Cannot keep eyes open; spasmodic closure of lids."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Confused and depressed. Headache with nausea, vertigo; especially between eyebrows. Cannot keep eyes open; spasmodic closure of lids."
+  ],
+  "respiratory_symptoms": [
+    "Superficial respiration; heart and lungs feel paralyzed; respiration slow. Heart beats sound to him like boom of a drum."
+  ],
+  "gi_symptoms": [],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Baptisa",
+    "Lobelia cardinalis (debility",
+    "especially of lower extremities",
+    "oppressed breathing",
+    "pleurisy"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/l/lob-p.htm",
+    "title": "LOBELIA PURPURASCENS - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:56:14.319Z"
+  },
+  "confidence_score": 0.5
+}

@@ -1,0 +1,66 @@
+{
+  "name": "ABSINTHIUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Common Wormwood"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Nausea; retching; eructation. Bloated around waist and abdomen. Wind colic.",
+    "Urine.--Constant desire. Very strong odor; deep yellow color (Kali phos).",
+    "Sexual.--Darting pain in right ovary. Spermatorrhśa, with relaxed, enfeebled parts. Premature menopause.",
+    "Sensation of weight on chest. Irregular, tumultuous action of heart can be heard in back.",
+    "Vertigo, with tendency to fall backward. General confusion. Wants head low. Pupils dilated unequally. Face blue. Spasmodic facial twitching. Dull occipital headache (Gelsem, Picric ac).",
+    "Pain in limbs. Paralytic symptoms."
+  ],
+  "guiding_symptoms": [
+    "Nausea; retching; eructation. Bloated around waist and abdomen. Wind colic.",
+    "Urine.--Constant desire. Very strong odor; deep yellow color (Kali phos).",
+    "Sexual.--Darting pain in right ovary. Spermatorrhśa, with relaxed, enfeebled parts. Premature menopause."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [
+    "Hallucinations. Frightful visions. Kleptomania. Loss of memory. Forgets what has recently happened. Wants nothing to do with anybody. Brutal."
+  ],
+  "head_symptoms": [
+    "Vertigo, with tendency to fall backward. General confusion. Wants head low. Pupils dilated unequally. Face blue. Spasmodic facial twitching. Dull occipital headache (Gelsem, Picric ac)."
+  ],
+  "respiratory_symptoms": [
+    "Sensation of weight on chest. Irregular, tumultuous action of heart can be heard in back."
+  ],
+  "gi_symptoms": [
+    "Nausea; retching; eructation. Bloated around waist and abdomen. Wind colic.",
+    "Urine.--Constant desire. Very strong odor; deep yellow color (Kali phos).",
+    "Sexual.--Darting pain in right ovary. Spermatorrhśa, with relaxed, enfeebled parts. Premature menopause."
+  ],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [
+    "Pain in limbs. Paralytic symptoms."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Alcohol",
+    "Artemisia",
+    "Hydrocy acid",
+    "Cina",
+    "Cicuta"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/a/absin.htm",
+    "title": "ABSINTHIUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-01T12:46:50.295Z"
+  },
+  "confidence_score": 0.74
+}

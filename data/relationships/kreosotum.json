@@ -1,0 +1,23 @@
+{
+  "remedy_name": "KREOSOTUM",
+  "source_file": "raw_1772502714430.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/k/kreos.htm",
+  "relationships": {
+    "complementary": [
+      "in malignant diseases: Ars"
+    ],
+    "antidoted_by": [
+      "Nux"
+    ],
+    "follows_well": [],
+    "inimical": [
+      "Carbo"
+    ],
+    "compare": [],
+    "incompatible": [],
+    "antidotes": [
+      "Nux"
+    ]
+  },
+  "parsed_at": "2026-03-03T15:23:37.515Z"
+}

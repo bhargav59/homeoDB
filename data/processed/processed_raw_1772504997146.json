@@ -1,0 +1,72 @@
+{
+  "name": "SPONGIA TOSTA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Roasted Sponge"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Excessive thirst, great hunger. Cannot bear tight clothing around trunk. Hiccough.",
+    "Rush of blood; bursting headache; worse, forehead.",
+    "Great dryness of all air-passages. Hoarseness; larynx dry, burns, constricted. Cough, dry, barking, croupy; larynx sensitive to touch. Croup; worse, during inspiration and before midnight. Respiration short, panting, difficult; feeling of a plug in larynx. Cough abates after eating or drinking, especially warm drinks. The dry, chronic sympathetic cough or organic heart disease is relieved by Spongia (Naja). Irrepressible cough from a spot deep in chest, as if raw and sore. Chest weak; can scarcely talk. Laryngeal phthisis. Goitre, with suffocative spells. Bronchial catarrh, with wheezing, asthmatic cough, worse cold air, with profuse expectoration and suffocation; worse, lying with head low and in hot room. Oppression and heat of chest, with sudden weakness.",
+    "Rapid and violent palpitation, with dyspnśa; cannot lie down; also feels best resting in horizontal position. Awakened suddenly after midnight with pain and suffocation; is flushed, hot, and frightened to death (Acon). Valvular insufficiency. Angina pectoris; faintness, and anxious sweat. Ebullition of blood, veins distended. Surging of heart into chest, as if it would force out upward. Hypertrophy of heart, especially right, with asthmatic symptoms."
+  ],
+  "guiding_symptoms": [
+    "Excessive thirst, great hunger. Cannot bear tight clothing around trunk. Hiccough.",
+    "Rush of blood; bursting headache; worse, forehead.",
+    "Great dryness of all air-passages. Hoarseness; larynx dry, burns, constricted. Cough, dry, barking, croupy; larynx sensitive to touch. Croup; worse, during inspiration and before midnight. Respiration short, panting, difficult; feeling of a plug in larynx. Cough abates after eating or drinking, especially warm drinks. The dry, chronic sympathetic cough or organic heart disease is relieved by Spongia (Naja). Irrepressible cough from a spot deep in chest, as if raw and sore. Chest weak; can scarcely talk. Laryngeal phthisis. Goitre, with suffocative spells. Bronchial catarrh, with wheezing, asthmatic cough, worse cold air, with profuse expectoration and suffocation; worse, lying with head low and in hot room. Oppression and heat of chest, with sudden weakness."
+  ],
+  "modalities": {
+    "worse": [
+      "ascending, wind, before midnight"
+    ],
+    "better": [
+      "descending, lying with head low"
+    ]
+  },
+  "mind_symptoms": [
+    "Anxiety and fear. Every excitement increases the cough."
+  ],
+  "head_symptoms": [
+    "Rush of blood; bursting headache; worse, forehead."
+  ],
+  "respiratory_symptoms": [
+    "Great dryness of all air-passages. Hoarseness; larynx dry, burns, constricted. Cough, dry, barking, croupy; larynx sensitive to touch. Croup; worse, during inspiration and before midnight. Respiration short, panting, difficult; feeling of a plug in larynx. Cough abates after eating or drinking, especially warm drinks. The dry, chronic sympathetic cough or organic heart disease is relieved by Spongia (Naja). Irrepressible cough from a spot deep in chest, as if raw and sore. Chest weak; can scarcely talk. Laryngeal phthisis. Goitre, with suffocative spells. Bronchial catarrh, with wheezing, asthmatic cough, worse cold air, with profuse expectoration and suffocation; worse, lying with head low and in hot room. Oppression and heat of chest, with sudden weakness."
+  ],
+  "gi_symptoms": [
+    "Excessive thirst, great hunger. Cannot bear tight clothing around trunk. Hiccough."
+  ],
+  "urinary_symptoms": [
+    "Swelling of spermatic cord and testicles, with pain and tenderness. Orchitis. Epididymitis. Heat in parts."
+  ],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [
+    "Swelling and induration of glands; also exophthalmic; cervical glands swollen with tensive pain on turning head, painful on pressure; Goitre. Itching; measles"
+  ],
+  "sleep_symptoms": [
+    "Awakes in a fright, and feels as if suffocating. Generally worse after sleep, or sleeps into and aggravation (Lach)."
+  ],
+  "fever_symptoms": [
+    "Attacks of heat with anxiety; heat and redness of face and perspiration."
+  ],
+  "complementary_remedies": [
+    "Acon",
+    "Hep",
+    "Brom",
+    "Lach",
+    "Merc prot"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/s/spong.htm",
+    "title": "SPONGIA TOSTA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:29:57.146Z"
+  },
+  "confidence_score": 0.8
+}

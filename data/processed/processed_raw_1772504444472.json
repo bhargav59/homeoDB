@@ -1,0 +1,51 @@
+{
+  "name": "RANUNCULUS BULBOSUS",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Buttercup"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Various kinds of pains and soreness, as if bruised in sternum, ribs, intercostal spaces, and both hypochondria. Inter-costal rheumatism. Chilliness in chest when walking in open air. Stitches in chest, between shoulder-blades; worse, inspiring, moving. Rheumatic pain in chest, as from subcutaneous ulceration. Tenderness of abdomen to pressure. Muscular pain along lower margin of the shoulder-blade; burning in small spots from sedentary employment.",
+    "Irritable, pains in forehead and eyeballs. Creeping sensation in scalp. Pressing pain in forehead from within outward."
+  ],
+  "guiding_symptoms": [
+    "Various kinds of pains and soreness, as if bruised in sternum, ribs, intercostal spaces, and both hypochondria. Inter-costal rheumatism. Chilliness in chest when walking in open air. Stitches in chest, between shoulder-blades; worse, inspiring, moving. Rheumatic pain in chest, as from subcutaneous ulceration. Tenderness of abdomen to pressure. Muscular pain along lower margin of the shoulder-blade; burning in small spots from sedentary employment.",
+    "Irritable, pains in forehead and eyeballs. Creeping sensation in scalp. Pressing pain in forehead from within outward."
+  ],
+  "modalities": {
+    "worse": [
+      "open air, motion, contact, atmospheric changes, wet, stormy weather, evening"
+    ],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Irritable, pains in forehead and eyeballs. Creeping sensation in scalp. Pressing pain in forehead from within outward."
+  ],
+  "respiratory_symptoms": [
+    "Various kinds of pains and soreness, as if bruised in sternum, ribs, intercostal spaces, and both hypochondria. Inter-costal rheumatism. Chilliness in chest when walking in open air. Stitches in chest, between shoulder-blades; worse, inspiring, moving. Rheumatic pain in chest, as from subcutaneous ulceration. Tenderness of abdomen to pressure. Muscular pain along lower margin of the shoulder-blade; burning in small spots from sedentary employment."
+  ],
+  "gi_symptoms": [],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [
+    "Burning and intense itching; worse, contact. Hard excrescences. Herptic eruptions, with great itching. Shingles, bluish vesicles. Itching in palms. Blister-like eruption in palms. Corns sensitive. Horny skin. Finger-tips and palms chapped. Vesicular and pustular eruptions."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/r/ran-b.htm",
+    "title": "RANUNCULUS BULBOSUS - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:20:44.472Z"
+  },
+  "confidence_score": 0.62
+}

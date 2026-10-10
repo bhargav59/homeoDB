@@ -1,0 +1,81 @@
+{
+  "remedy_name": "SILPHIUM LACINATUM",
+  "source_file": "raw_1772504910815.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Aral",
+        "resolved_name": "ARALIA RACEMOSA",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Copaiv",
+        "resolved_name": "COPAIVA OFFICINALIS",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Tereb",
+        "resolved_name": "TEREBINTHINIAE OLEUM",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Cubeb",
+        "resolved_name": "CUBEBA OFFICINALIS",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Samb",
+        "resolved_name": "SAMBUCUS NIGRA",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Silphion cyrenaicum (phthisis pulmonum",
+        "resolved_name": "SILICEA",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      },
+      {
+        "original": "with incessant cough",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "profuse night-sweats",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "emaciation",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "etc)",
+        "resolved_name": "BETA VULGARIS",
+        "confidence": 0.7,
+        "method": "levenshtein_2"
+      },
+      {
+        "original": "when given in material",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:11.233Z"
+}

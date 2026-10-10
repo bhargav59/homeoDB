@@ -1,0 +1,71 @@
+{
+  "name": "MAGNESIUM PHOSPHORICUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Phosphate of Magnesia"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Hiccough, with retching day and night. Thirst for very cold drinks.",
+    "Vertigo on moving, falls forward on closing eyes, better walking in open air. Aches after mental labor, with chilliness; always better warmth (Sil). Sensation as if contents were liquid, as if parts of brain were changing places, as of a cap on head.",
+    "Asthmatic oppression of chest. Dry, tickling cough. Spasmodic cough, with difficulty in lying down. Whooping-cough (Corall). Voice hoarse, larynx sore and raw. Intercostal neuralgia.",
+    "Angina pectoris. Nervous spasmodic palpitation. Constricting pains around heart.",
+    "Involuntary shaking of hands. Paralysis agitans. Cramps in calves. Sciatica; feet very tender. Darting pains. Twitchings. Chorea. Writers' and players' cramp. Tetanic spasms. Weakness in arms and hands, finger-tips stiff and numb. General muscular weakness."
+  ],
+  "guiding_symptoms": [
+    "Hiccough, with retching day and night. Thirst for very cold drinks.",
+    "Vertigo on moving, falls forward on closing eyes, better walking in open air. Aches after mental labor, with chilliness; always better warmth (Sil). Sensation as if contents were liquid, as if parts of brain were changing places, as of a cap on head.",
+    "Asthmatic oppression of chest. Dry, tickling cough. Spasmodic cough, with difficulty in lying down. Whooping-cough (Corall). Voice hoarse, larynx sore and raw. Intercostal neuralgia."
+  ],
+  "modalities": {
+    "worse": [
+      "right side, cold, touch, night"
+    ],
+    "better": [
+      "warmth, bending double, pressure, friction"
+    ]
+  },
+  "mind_symptoms": [
+    "Laments all the time about the pain. Inability to think clearly. Sleepless on account of indigestion."
+  ],
+  "head_symptoms": [
+    "Vertigo on moving, falls forward on closing eyes, better walking in open air. Aches after mental labor, with chilliness; always better warmth (Sil). Sensation as if contents were liquid, as if parts of brain were changing places, as of a cap on head."
+  ],
+  "respiratory_symptoms": [
+    "Asthmatic oppression of chest. Dry, tickling cough. Spasmodic cough, with difficulty in lying down. Whooping-cough (Corall). Voice hoarse, larynx sore and raw. Intercostal neuralgia."
+  ],
+  "gi_symptoms": [
+    "Hiccough, with retching day and night. Thirst for very cold drinks."
+  ],
+  "urinary_symptoms": [
+    "Menstrual colic. Membranous dysmenorrhśa. Menses too early, dark, stringy. Swelling of external parts. Ovarian neuralgia. Vaginismus."
+  ],
+  "musculoskeletal_symptoms": [
+    "Involuntary shaking of hands. Paralysis agitans. Cramps in calves. Sciatica; feet very tender. Darting pains. Twitchings. Chorea. Writers' and players' cramp. Tetanic spasms. Weakness in arms and hands, finger-tips stiff and numb. General muscular weakness."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [
+    "Chilliness after dinner, in evening. Chills run up and down the back, with shivering, followed by a suffocating sensation."
+  ],
+  "complementary_remedies": [
+    "Kali phos",
+    "Colocy",
+    "Silica",
+    "Zinc",
+    "Diosc"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/m/mag-p.htm",
+    "title": "MAGNESIUM PHOSPHORICUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:57:58.450Z"
+  },
+  "confidence_score": 0.8
+}

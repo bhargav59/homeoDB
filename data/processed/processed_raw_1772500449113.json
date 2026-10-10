@@ -1,0 +1,47 @@
+{
+  "name": "CARBONEUM OXYGENISATUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Carbonous Oxide"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Cerebral congestion; hallucination of vision, hearing and touch. Inclination to turn in a circle. Jaws firmly clenched. Trismus. Heaviness of head. Sticking pain in temples. Roaring ears."
+  ],
+  "guiding_symptoms": [
+    "Cerebral congestion; hallucination of vision, hearing and touch. Inclination to turn in a circle. Jaws firmly clenched. Trismus. Heaviness of head. Sticking pain in temples. Roaring ears."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Cerebral congestion; hallucination of vision, hearing and touch. Inclination to turn in a circle. Jaws firmly clenched. Trismus. Heaviness of head. Sticking pain in temples. Roaring ears."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [
+    "Anæsthesia; vesication along course of nerves; herpes zoster; pemphigus, with large and small vesicles. Hand icy cold."
+  ],
+  "sleep_symptoms": [
+    "Deep. Prolonged; sleepiness for several days."
+  ],
+  "fever_symptoms": [],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/c/carbn-o.htm",
+    "title": "CARBONEUM OXYGENISATUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:14:09.113Z"
+  },
+  "confidence_score": 0.5
+}

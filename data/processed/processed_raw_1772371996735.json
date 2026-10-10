@@ -1,0 +1,70 @@
+{
+  "name": "ANACARDIUM ORIENTALE",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Marking Nut"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Weak digestion, with fullness and distention. Empty feeling in stomach. Eructation, nausea, vomiting. Eating relieves the Anacardium dyspepsia. Apt to choke when eating or drinking. Swallows food and drinks hastily.",
+    "Vertigo. Pressing pain, as from a plug; worse after mental exertion-in forehead; occiput, temples, vertex; better during a meal. Itching and little boils on scalp.",
+    "Pressure in chest, as from a dull plug. Oppression of chest, with internal heat and anxiety, driving him into open air. Cough excited by talking, in children, after fit of temper. Cough after eating with vomiting of food and pain in occiput.",
+    "Palpitation, with weak memory, with coryza in the aged; stitches in heart region. Rheumatic pericarditis with double stitches.",
+    "Neuralgia in thumb. Paralytic weakness. Knees feel paralyzed or bandaged. Cramps in calves. Pressure as from a plug in the glutei. Warts on palms of hands. Fingers swollen with vesicular eruption.",
+    "Dull pressure in the shoulders, as from a weight. Stiffness at nape of neck."
+  ],
+  "guiding_symptoms": [
+    "Weak digestion, with fullness and distention. Empty feeling in stomach. Eructation, nausea, vomiting. Eating relieves the Anacardium dyspepsia. Apt to choke when eating or drinking. Swallows food and drinks hastily.",
+    "Vertigo. Pressing pain, as from a plug; worse after mental exertion-in forehead; occiput, temples, vertex; better during a meal. Itching and little boils on scalp.",
+    "Pressure in chest, as from a dull plug. Oppression of chest, with internal heat and anxiety, driving him into open air. Cough excited by talking, in children, after fit of temper. Cough after eating with vomiting of food and pain in occiput."
+  ],
+  "modalities": {
+    "worse": [
+      "on application of hot water"
+    ],
+    "better": [
+      "from eating"
+    ]
+  },
+  "mind_symptoms": [
+    "Fixed ideas. Hallucinations; thinks he is possessed of two persons or wills. Anxiety when walking, as if pursued. Profound melancholy and hypochondriasis, with tendency to use violent language. Brain-fag. Impaired memory. Absent mindedness. Very easily offended. Malicious; seems bent on wickedness. Lack of confidence in himself or others. Suspicious (Hyos). Clairaudient, hears voices far away or of the dead. Senile dementia. Absence of all moral restraint."
+  ],
+  "head_symptoms": [
+    "Vertigo. Pressing pain, as from a plug; worse after mental exertion-in forehead; occiput, temples, vertex; better during a meal. Itching and little boils on scalp."
+  ],
+  "respiratory_symptoms": [
+    "Pressure in chest, as from a dull plug. Oppression of chest, with internal heat and anxiety, driving him into open air. Cough excited by talking, in children, after fit of temper. Cough after eating with vomiting of food and pain in occiput."
+  ],
+  "gi_symptoms": [
+    "Weak digestion, with fullness and distention. Empty feeling in stomach. Eructation, nausea, vomiting. Eating relieves the Anacardium dyspepsia. Apt to choke when eating or drinking. Swallows food and drinks hastily."
+  ],
+  "urinary_symptoms": [
+    "Voluptuous itching; increased desire; seminal emissions without dreams. Prostatic discharge during stool."
+  ],
+  "musculoskeletal_symptoms": [
+    "Neuralgia in thumb. Paralytic weakness. Knees feel paralyzed or bandaged. Cramps in calves. Pressure as from a plug in the glutei. Warts on palms of hands. Fingers swollen with vesicular eruption."
+  ],
+  "skin_symptoms": [
+    "Intense itching, eczema, with mental irritability; vesicular eruption; swelling, urticaria; eruption like that of Poison-Oak (Xerophyl; Grindel; Croton). Lichen planus; neurotic eczema. Warts on hands. Ulcer formation on forearm."
+  ],
+  "sleep_symptoms": [
+    "Spells of sleeplessness lasting for several nights. Anxious dreams."
+  ],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Anacard occidentale (cashew nut"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/a/anac.htm",
+    "title": "ANACARDIUM ORIENTALE - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-01T13:33:16.735Z"
+  },
+  "confidence_score": 0.8
+}

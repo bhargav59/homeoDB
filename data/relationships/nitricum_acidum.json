@@ -1,0 +1,25 @@
+{
+  "remedy_name": "NITRICUM ACIDUM",
+  "source_file": "raw_1772503595927.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/n/nit-ac.htm",
+  "relationships": {
+    "complementary": [
+      "Ars"
+    ],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [
+      "Lach"
+    ],
+    "compare": [
+      "Merc",
+      "Kali",
+      "Thuja",
+      "Hepar",
+      "Calc"
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "parsed_at": "2026-03-03T15:23:37.596Z"
+}

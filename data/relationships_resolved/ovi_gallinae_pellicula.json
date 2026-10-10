@@ -1,0 +1,27 @@
+{
+  "remedy_name": "OVI GALLINAE PELLICULA",
+  "source_file": "raw_1772503914147.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Calc",
+        "resolved_name": "CALCAREA CARBONICA",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      },
+      {
+        "original": "Naja",
+        "resolved_name": "NAJA TRIPUDIANS",
+        "confidence": 1,
+        "method": "exact"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:10.569Z"
+}

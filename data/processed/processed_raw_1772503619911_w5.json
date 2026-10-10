@@ -1,0 +1,58 @@
+{
+  "name": "SCUTELLARIA LATERIFOLIA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Skullcap"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Nausea; sour eructations; hiccough; pain and distress.",
+    "Dull, frontal headache. Eyes feel pressed outwards. Flushed face. Restless sleep and frightful dreams. Must move about. Night terrors. Migraine; worse, over right eye; aching in eyeballs. Explosive headaches of school teachers with frequent urination; headaches in front and base of brain. Nervous sick headaches, worse noise, odor light, better night; rest, 5 drops of tincture.",
+    "Twitchings of muscles; must be moving. Chorea. Tremors. Sharp stinging pains in upper extremities. Nightly restlessness. Weakness and aching."
+  ],
+  "guiding_symptoms": [
+    "Nausea; sour eructations; hiccough; pain and distress.",
+    "Dull, frontal headache. Eyes feel pressed outwards. Flushed face. Restless sleep and frightful dreams. Must move about. Night terrors. Migraine; worse, over right eye; aching in eyeballs. Explosive headaches of school teachers with frequent urination; headaches in front and base of brain. Nervous sick headaches, worse noise, odor light, better night; rest, 5 drops of tincture.",
+    "Twitchings of muscles; must be moving. Chorea. Tremors. Sharp stinging pains in upper extremities. Nightly restlessness. Weakness and aching."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Dull, frontal headache. Eyes feel pressed outwards. Flushed face. Restless sleep and frightful dreams. Must move about. Night terrors. Migraine; worse, over right eye; aching in eyeballs. Explosive headaches of school teachers with frequent urination; headaches in front and base of brain. Nervous sick headaches, worse noise, odor light, better night; rest, 5 drops of tincture."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "Nausea; sour eructations; hiccough; pain and distress."
+  ],
+  "urinary_symptoms": [
+    "Seminal emissions and impotency, with fear of never being better."
+  ],
+  "musculoskeletal_symptoms": [
+    "Twitchings of muscles; must be moving. Chorea. Tremors. Sharp stinging pains in upper extremities. Nightly restlessness. Weakness and aching."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [
+    "Night-terrors; sleeplessness; sudden wakefulness; frightful dreams."
+  ],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Cyprip",
+    "Lycopus"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/s/scut.htm",
+    "title": "SCUTELLARIA LATERIFOLIA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:06:59.911Z"
+  },
+  "confidence_score": 0.6799999999999999
+}

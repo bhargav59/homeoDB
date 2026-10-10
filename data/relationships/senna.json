@@ -1,0 +1,22 @@
+{
+  "remedy_name": "SENNA",
+  "source_file": "raw_1772504870941.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/s/senn.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      "Nux"
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Kali carb",
+      "Jalapa"
+    ],
+    "incompatible": [],
+    "antidotes": [
+      "Nux"
+    ]
+  },
+  "parsed_at": "2026-03-03T15:23:37.730Z"
+}

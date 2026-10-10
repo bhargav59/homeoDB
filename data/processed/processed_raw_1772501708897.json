@@ -1,0 +1,56 @@
+{
+  "name": "FICUS RELIGIOSA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Ashwathya"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Nausea, vomiting of bright red blood; pain and sick feeling in stomach.",
+    "Melancholic-quiet; burning at vertex; vertigo and slight headache.",
+    "Difficult breathing; cough with vomiting of blood; pulse very weak."
+  ],
+  "guiding_symptoms": [
+    "Nausea, vomiting of bright red blood; pain and sick feeling in stomach.",
+    "Melancholic-quiet; burning at vertex; vertigo and slight headache.",
+    "Difficult breathing; cough with vomiting of blood; pulse very weak."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Melancholic-quiet; burning at vertex; vertigo and slight headache."
+  ],
+  "respiratory_symptoms": [
+    "Difficult breathing; cough with vomiting of blood; pulse very weak."
+  ],
+  "gi_symptoms": [
+    "Nausea, vomiting of bright red blood; pain and sick feeling in stomach."
+  ],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Acalypha",
+    "Millefol",
+    "Thlaspi",
+    "Ipecac"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/f/fic-r.htm",
+    "title": "FICUS RELIGIOSA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:35:08.897Z"
+  },
+  "confidence_score": 0.5
+}

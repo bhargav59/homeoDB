@@ -1,0 +1,69 @@
+{
+  "name": "MURIATICUM ACIDUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Muriatic Acid"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Cannot bear sight or thought of meat. At times, ravenous appetite and constant desire to drink. Achlorhydria and fermentation of food.",
+    "Vertigo; worse lying on right side; occiput heavy as if filled with lead. Sound of voice is intolerable. Pain as if brain were crushed.",
+    "Pulse rapid, feeble, and small. Intermits every third beat.",
+    "Urine.--Cannot urinate without having bowels move at same time.",
+    "Heavy, painful, and weak. Tottering gait. Pain in tendo-Achilles."
+  ],
+  "guiding_symptoms": [
+    "Cannot bear sight or thought of meat. At times, ravenous appetite and constant desire to drink. Achlorhydria and fermentation of food.",
+    "Vertigo; worse lying on right side; occiput heavy as if filled with lead. Sound of voice is intolerable. Pain as if brain were crushed.",
+    "Pulse rapid, feeble, and small. Intermits every third beat."
+  ],
+  "modalities": {
+    "worse": [
+      "in damp weather, before midnight"
+    ],
+    "better": [
+      "lying on left side"
+    ]
+  },
+  "mind_symptoms": [
+    "Irritable and peevish; fretful Loud moaning. Great restlessness. Sad, taciturn; suffers in silence."
+  ],
+  "head_symptoms": [
+    "Vertigo; worse lying on right side; occiput heavy as if filled with lead. Sound of voice is intolerable. Pain as if brain were crushed."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "Cannot bear sight or thought of meat. At times, ravenous appetite and constant desire to drink. Achlorhydria and fermentation of food."
+  ],
+  "urinary_symptoms": [
+    "Menses appear too soon. Leucorrhśa. During menses, soreness of anus. Ulcer in genitals."
+  ],
+  "musculoskeletal_symptoms": [
+    "Heavy, painful, and weak. Tottering gait. Pain in tendo-Achilles."
+  ],
+  "skin_symptoms": [
+    "Papular and vesicular eruptions, with great itching (Rhus). Carbuncles; foul-smelling ulcers on lower extremities. Scarlet fever, livid, with petechić; scanty eruption. Eczema on back of hands."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [
+    "Cold extremities. Heat without thirst. Typhoid types, stupid. Hćmorrhages. Restlessness. Involuntary discharges. Bed-sores. Pulse rapid and feeble. Excessive prostration."
+  ],
+  "complementary_remedies": [
+    "Phos ac",
+    "Ars",
+    "Bapt"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/m/mur-ac.htm",
+    "title": "MURIATICUM ACIDUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:03:17.244Z"
+  },
+  "confidence_score": 0.8
+}

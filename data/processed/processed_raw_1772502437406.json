@@ -1,0 +1,61 @@
+{
+  "name": "JABORANDI",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Jaborandi"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Nausea on looking at objects moving; vomiting; pressure and pain in stomach.",
+    "Bronchial mucous membrane inflamed. Much inclination to cough and difficult breathing. Œdema of lungs. Foamy sputa. Profuse, thin, serous expectoration. Slow, sighing respiration.",
+    "Pulse irregular, dicrotic. Oppression of chest. Cyanosis; collapse. Nervous cardiac affections."
+  ],
+  "guiding_symptoms": [
+    "Nausea on looking at objects moving; vomiting; pressure and pain in stomach.",
+    "Bronchial mucous membrane inflamed. Much inclination to cough and difficult breathing. Œdema of lungs. Foamy sputa. Profuse, thin, serous expectoration. Slow, sighing respiration.",
+    "Pulse irregular, dicrotic. Oppression of chest. Cyanosis; collapse. Nervous cardiac affections."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Eye strain from whatever cause. Irritability of the ciliary muscle. Eyes easily tire from slightest use. Heat and burning in eyes on use. Headache; smarting and pain in globe on use. Everything at a distance appears hazy; vision becomes indistinct every few moments. Retinal images retained long after using eyes. Irritation from electric or other artificial light. Pupils contracted; do not react to light. Staring eyes. Near-sighted. Vertigo and nausea after using eyes. White spots before eyes. Smarting pain in eyes. Lids twitch. Atrophic choroiditis. Spasm of the accommodation while reading."
+  ],
+  "respiratory_symptoms": [
+    "Bronchial mucous membrane inflamed. Much inclination to cough and difficult breathing. Œdema of lungs. Foamy sputa. Profuse, thin, serous expectoration. Slow, sighing respiration."
+  ],
+  "gi_symptoms": [
+    "Nausea on looking at objects moving; vomiting; pressure and pain in stomach."
+  ],
+  "urinary_symptoms": [
+    "Scanty; pain over pubes with much urging."
+  ],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [
+    "Excessive perspiration from all parts of the body. Persistent dryness of skin. Dry eczema. Semi-lateral sweats. Chilliness with sweat."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Amyl nit",
+    "Atrop",
+    "Physos",
+    "Lycop",
+    "Ruta"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/j/jab.htm",
+    "title": "JABORANDI - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:47:17.406Z"
+  },
+  "confidence_score": 0.8
+}

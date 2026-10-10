@@ -1,0 +1,21 @@
+{
+  "remedy_name": "STRAMONIUM",
+  "source_file": "raw_1772505087309.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/s/stram.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      "Bellad"
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "especially: Hyoscy and Bellad"
+    ],
+    "incompatible": [],
+    "antidotes": [
+      "Bellad"
+    ]
+  },
+  "parsed_at": "2026-03-03T15:23:37.740Z"
+}

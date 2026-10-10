@@ -1,0 +1,43 @@
+{
+  "name": "CHLOROFORMIUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Chloroform"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Delirium where excitement and violence predominate. Head drawn down upon the shoulders, eyes opened and closed rapidly, pupils contracted; rapid convulsive movements of face, of muscles, of extremities."
+  ],
+  "guiding_symptoms": [
+    "Delirium where excitement and violence predominate. Head drawn down upon the shoulders, eyes opened and closed rapidly, pupils contracted; rapid convulsive movements of face, of muscles, of extremities."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Delirium where excitement and violence predominate. Head drawn down upon the shoulders, eyes opened and closed rapidly, pupils contracted; rapid convulsive movements of face, of muscles, of extremities."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/c/chlf.htm",
+    "title": "CHLOROFORMIUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:19:02.577Z"
+  },
+  "confidence_score": 0.38
+}

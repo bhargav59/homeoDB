@@ -1,0 +1,39 @@
+{
+  "name": "POLYPORUS PINICOLA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Pine Agaric"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [],
+  "guiding_symptoms": [],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [
+    "Great lassitude, congestion of head, with vertigo, face hot and flushed, prickling sensation all over; restless at night from pain in wrists and knee; rheumatic pains; profuse perspiration. Headache about 10 am, with pain in back, ankles and legs increasing until 3 pm, then gradually better."
+  ],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/p/polyp-p.htm",
+    "title": "POLYPORUS PINICOLA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:06:32.718Z"
+  },
+  "confidence_score": 0.26
+}

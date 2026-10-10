@@ -1,0 +1,78 @@
+{
+  "name": "PHOSPHORUS",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Phosphorus"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Hunger soon after eating. Sour taste and sour eructations after every meal. Belching large quantities of wind, after eating. Throws up ingesta by the mouthfuls. Vomiting; water is thrown up as soon as it gets warm in the stomach. Post-operative vomiting. Cardiac opening seems contracted, too narrow; the food scarcely swallowed, comes up again (Bry; Alum). Pain in stomach; relieved by cold food, ices. Region of stomach painful to touch, or on walking. Inflammation of stomach, with burning extending to throat and bowels. Bad effects of eating too much salt.",
+    "Vertigo of the aged, after rising (Bry). Heat comes from spine. Neuralgia; parts must be kept warm. Burning pains. Chronic congestion of head. Brain-fag, with coldness of occiput. Vertigo, with faintness. Skin of forehead feels too tight. Itching of scalp, dandruff, falling out of hair in large bunches.",
+    "Hoarseness; worse evenings. Larynx very painful. Clergyman's sore throat; violent tickling in larynx while speaking. Aphonia, worse evenings, with rawness. Cannot talk on account of pain in larynx. Cough from tickling in throat; worse, cold air, reading, laughing, talking, from going from warm room into cold air. Sweetish taste while coughing. Hard, dry, tight, racking cough. Congestion of lungs. Burning pains, heat and oppression of chest. Tightness across chest; great weight on chest. Sharp stitches in chest; respiration quickened, oppressed. Much heat in chest. Pneumonia, with oppression; worse, lying on left side. Whole body trembles, with cough. Sputa rusty, blood-colored, or purulent. Tuberculosis in tall, rapidly-growing young people. Do not give it too low or too frequently here, it may but hasten the destructive degeneration of tubercular masses. Repeated hæmoptysis (Acal). Pain in throat on coughing. Nervous coughs provoked by strong odors, entrance of a stranger; worse in the presence of strangers; worse lying upon left side; in cold room.",
+    "Violent palpitation with anxiety, while lying on left side. Pulse rapid, small, and soft. Heart dilated, especially right. Feeling of warmth in heart.",
+    "Ascending sensory and motor paralysis from ends of fingers and toes. Stitches in elbow and shoulder joints. Burning of feet. Weakness and trembling, from every exertion. Can scarcely hold anything with his hands. Tibia inflamed and becomes necrosed. Arms and hands become numb. Can lie only on right side. Post-diphtheritic paralysis, with formication of hands and feet. Joints suddenly give way.",
+    "Burning in back; pain as if broken. Heat between the shoulder-blades. Weak spine."
+  ],
+  "guiding_symptoms": [
+    "Hunger soon after eating. Sour taste and sour eructations after every meal. Belching large quantities of wind, after eating. Throws up ingesta by the mouthfuls. Vomiting; water is thrown up as soon as it gets warm in the stomach. Post-operative vomiting. Cardiac opening seems contracted, too narrow; the food scarcely swallowed, comes up again (Bry; Alum). Pain in stomach; relieved by cold food, ices. Region of stomach painful to touch, or on walking. Inflammation of stomach, with burning extending to throat and bowels. Bad effects of eating too much salt.",
+    "Vertigo of the aged, after rising (Bry). Heat comes from spine. Neuralgia; parts must be kept warm. Burning pains. Chronic congestion of head. Brain-fag, with coldness of occiput. Vertigo, with faintness. Skin of forehead feels too tight. Itching of scalp, dandruff, falling out of hair in large bunches.",
+    "Hoarseness; worse evenings. Larynx very painful. Clergyman's sore throat; violent tickling in larynx while speaking. Aphonia, worse evenings, with rawness. Cannot talk on account of pain in larynx. Cough from tickling in throat; worse, cold air, reading, laughing, talking, from going from warm room into cold air. Sweetish taste while coughing. Hard, dry, tight, racking cough. Congestion of lungs. Burning pains, heat and oppression of chest. Tightness across chest; great weight on chest. Sharp stitches in chest; respiration quickened, oppressed. Much heat in chest. Pneumonia, with oppression; worse, lying on left side. Whole body trembles, with cough. Sputa rusty, blood-colored, or purulent. Tuberculosis in tall, rapidly-growing young people. Do not give it too low or too frequently here, it may but hasten the destructive degeneration of tubercular masses. Repeated hæmoptysis (Acal). Pain in throat on coughing. Nervous coughs provoked by strong odors, entrance of a stranger; worse in the presence of strangers; worse lying upon left side; in cold room."
+  ],
+  "modalities": {
+    "worse": [
+      "touch",
+      "physical or mental exertion",
+      "twilight",
+      "warm food or drink",
+      "change of weather, from getting wet in hot weather"
+    ],
+    "better": [
+      "in dark, lying on right side, cold food",
+      "cold",
+      "open air",
+      "washing with col water",
+      "sleep"
+    ]
+  },
+  "mind_symptoms": [
+    "Great lowness of spirits. Easily vexed. Fearfulness, as if something were creeping out of every corner. Clairvoyant state. Great tendency to start. Over-sensitive to external impressions. Loss of memory. Memory. Paralysis of the insane. Ecstasy. Dread of death when alone. Brain feels tired. Insanity, with an exaggerated idea of one's own importance. Excitable, produces heat all over. Restless, fidgety. Hypo-sensitive, indifferent."
+  ],
+  "head_symptoms": [
+    "Vertigo of the aged, after rising (Bry). Heat comes from spine. Neuralgia; parts must be kept warm. Burning pains. Chronic congestion of head. Brain-fag, with coldness of occiput. Vertigo, with faintness. Skin of forehead feels too tight. Itching of scalp, dandruff, falling out of hair in large bunches."
+  ],
+  "respiratory_symptoms": [
+    "Hoarseness; worse evenings. Larynx very painful. Clergyman's sore throat; violent tickling in larynx while speaking. Aphonia, worse evenings, with rawness. Cannot talk on account of pain in larynx. Cough from tickling in throat; worse, cold air, reading, laughing, talking, from going from warm room into cold air. Sweetish taste while coughing. Hard, dry, tight, racking cough. Congestion of lungs. Burning pains, heat and oppression of chest. Tightness across chest; great weight on chest. Sharp stitches in chest; respiration quickened, oppressed. Much heat in chest. Pneumonia, with oppression; worse, lying on left side. Whole body trembles, with cough. Sputa rusty, blood-colored, or purulent. Tuberculosis in tall, rapidly-growing young people. Do not give it too low or too frequently here, it may but hasten the destructive degeneration of tubercular masses. Repeated hæmoptysis (Acal). Pain in throat on coughing. Nervous coughs provoked by strong odors, entrance of a stranger; worse in the presence of strangers; worse lying upon left side; in cold room."
+  ],
+  "gi_symptoms": [
+    "Hunger soon after eating. Sour taste and sour eructations after every meal. Belching large quantities of wind, after eating. Throws up ingesta by the mouthfuls. Vomiting; water is thrown up as soon as it gets warm in the stomach. Post-operative vomiting. Cardiac opening seems contracted, too narrow; the food scarcely swallowed, comes up again (Bry; Alum). Pain in stomach; relieved by cold food, ices. Region of stomach painful to touch, or on walking. Inflammation of stomach, with burning extending to throat and bowels. Bad effects of eating too much salt."
+  ],
+  "urinary_symptoms": [
+    "Lack of power. Irresistible desire; involuntary emissions, with lascivious dreams."
+  ],
+  "musculoskeletal_symptoms": [
+    "Ascending sensory and motor paralysis from ends of fingers and toes. Stitches in elbow and shoulder joints. Burning of feet. Weakness and trembling, from every exertion. Can scarcely hold anything with his hands. Tibia inflamed and becomes necrosed. Arms and hands become numb. Can lie only on right side. Post-diphtheritic paralysis, with formication of hands and feet. Joints suddenly give way."
+  ],
+  "skin_symptoms": [
+    "Wounds bleed very much, even if small; they heal and break out again. Jaundice. Little ulcer outside of large ones. Petechiæ. Ecchymosis. Purpura hæmorrhagia. Scurvy. Fungous hematodes and excrescences."
+  ],
+  "sleep_symptoms": [
+    "Great drowsiness, especially after meals. Coma vigil. Sleeplessness in old people. Vivid dreams of fire; of hæmorrhage. Lascivious dreams. Goes to sleep late and awakens weak. Short naps and frequent wakings."
+  ],
+  "fever_symptoms": [
+    "Chilly every evening. Cold knees at night. Adynamic with lack of thirst, but unnatural hunger. Hectic, with small, quick pulse; viscid night-sweats. Stupid delirium. Profuse perspiration."
+  ],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/p/phos.htm",
+    "title": "PHOSPHORUS - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:06:23.710Z"
+  },
+  "confidence_score": 0.8
+}

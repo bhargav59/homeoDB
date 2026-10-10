@@ -1,0 +1,76 @@
+{
+  "name": "ZINCUM METALLICUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Zinc"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Hiccough, nausea, vomiting of bitter mucus. Burning in stomach, heartburn from sweet things. Cannot stand smallest quantity of wine. Ravenous hunger about 11 am (Sulph). Great greediness when eating; cannot eat fast enough. Atonic dyspepsia, feeling as if stomach were collapsed.",
+    "Feels as if he would fall to left side. Headache from the smallest quantity of wine. Hydrocephalus. Rolls head from side to side. Bores head into pillow. Occipital pain, with weight on vertex. Automatic motion of head and hands. Brain-fag; headaches of overtaxed school children. Forehead cool; base of brain hot. Roaring in head. Starting in fright.",
+    "Burning pressure beneath sternum. Constriction and cutting in chest. Hoarseness. Debilitating, spasmodic cough; worse, eating sweet things. Child grasps genitals during cough. Asthmatic bronchitis, with constriction, of chest. Dyspnśa better as soon as expectoration appears.",
+    "Lameness, weakness, trembling and twitching of various muscles. Chilblains (Agar). Feet in continued motion; cannot keep still. Large varicose veins on legs. Sweaty. Convulsions, with pale face. Transverse pains, especially in upper extremity. Soles of feet sensitive. Steps with entire sole of foot on floor.",
+    "Pain in small of back. Cannot bear back touched (Sul; Therid; Cinch). Tension and stinging between shoulders. Spinal irritation. Dull aching about the last dorsal or first lumbar vertebrć; worse sitting. Burning along spine. Nape of neck weary from writing or any exertion. Tearing in shoulder-blades."
+  ],
+  "guiding_symptoms": [
+    "Hiccough, nausea, vomiting of bitter mucus. Burning in stomach, heartburn from sweet things. Cannot stand smallest quantity of wine. Ravenous hunger about 11 am (Sulph). Great greediness when eating; cannot eat fast enough. Atonic dyspepsia, feeling as if stomach were collapsed.",
+    "Feels as if he would fall to left side. Headache from the smallest quantity of wine. Hydrocephalus. Rolls head from side to side. Bores head into pillow. Occipital pain, with weight on vertex. Automatic motion of head and hands. Brain-fag; headaches of overtaxed school children. Forehead cool; base of brain hot. Roaring in head. Starting in fright.",
+    "Burning pressure beneath sternum. Constriction and cutting in chest. Hoarseness. Debilitating, spasmodic cough; worse, eating sweet things. Child grasps genitals during cough. Asthmatic bronchitis, with constriction, of chest. Dyspnśa better as soon as expectoration appears."
+  ],
+  "modalities": {
+    "worse": [
+      "at menstrual period, from touch, between 5 to 7 pm",
+      "after dinner, from wine"
+    ],
+    "better": [
+      "while eating, discharges, and appearance of eruptions"
+    ]
+  },
+  "mind_symptoms": [
+    "Weak memory. Very sensitive to noise. Averse to work, to talk. Child repeats everything said to it. Fears arrest on account of a supposed crime. Melancholia. Lethargic, stupid. Paresis."
+  ],
+  "head_symptoms": [
+    "Feels as if he would fall to left side. Headache from the smallest quantity of wine. Hydrocephalus. Rolls head from side to side. Bores head into pillow. Occipital pain, with weight on vertex. Automatic motion of head and hands. Brain-fag; headaches of overtaxed school children. Forehead cool; base of brain hot. Roaring in head. Starting in fright."
+  ],
+  "respiratory_symptoms": [
+    "Burning pressure beneath sternum. Constriction and cutting in chest. Hoarseness. Debilitating, spasmodic cough; worse, eating sweet things. Child grasps genitals during cough. Asthmatic bronchitis, with constriction, of chest. Dyspnśa better as soon as expectoration appears."
+  ],
+  "gi_symptoms": [
+    "Hiccough, nausea, vomiting of bitter mucus. Burning in stomach, heartburn from sweet things. Cannot stand smallest quantity of wine. Ravenous hunger about 11 am (Sulph). Great greediness when eating; cannot eat fast enough. Atonic dyspepsia, feeling as if stomach were collapsed."
+  ],
+  "urinary_symptoms": [
+    "Testicles swelled, drawn up. Erections violent. Emissions with hypochondriasis. Falling off of hair (pubic). Drawing in testicles up to spermatic cord."
+  ],
+  "musculoskeletal_symptoms": [
+    "Lameness, weakness, trembling and twitching of various muscles. Chilblains (Agar). Feet in continued motion; cannot keep still. Large varicose veins on legs. Sweaty. Convulsions, with pale face. Transverse pains, especially in upper extremity. Soles of feet sensitive. Steps with entire sole of foot on floor."
+  ],
+  "skin_symptoms": [
+    "Varicose veins, especially of lower extremities (Puls). Formication of feet and legs as from bugs crawling over the skin, preventing sleep. Eczema, especially in the anćmic and neurotic. Itching of thighs and hollow of knees. Retrocession of eruptions."
+  ],
+  "sleep_symptoms": [
+    "Cries out during sleep; body jerks; wakes frightened, stared. Nervous motion of feet when asleep. Loud screaming out at night in sleep without being aware of it. Somnambulism (Kali phos)."
+  ],
+  "fever_symptoms": [
+    "Frequent, febrile shiverings down back. Cold extremities. Night-sweat. Profuse sweat on feet."
+  ],
+  "complementary_remedies": [
+    "Agaric",
+    "Ign",
+    "Plumb",
+    "Argent",
+    "Puls"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/z/zinc.htm",
+    "title": "ZINCUM METALLICUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:44:55.842Z"
+  },
+  "confidence_score": 0.8
+}

@@ -1,0 +1,39 @@
+{
+  "remedy_name": "OSMIUM",
+  "source_file": "raw_1772503877057.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Argent",
+        "resolved_name": "ARGENTUM METALLICUM",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Iridium",
+        "resolved_name": "IRIDIUM METALLICUM",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Selen",
+        "resolved_name": "SELENIUM METALLICUM",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Mangan",
+        "resolved_name": "KALIUM PERMANGANATUM",
+        "confidence": 0.8,
+        "method": "substring"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:10.567Z"
+}

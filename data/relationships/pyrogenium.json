@@ -1,0 +1,20 @@
+{
+  "remedy_name": "PYROGENIUM",
+  "source_file": "raw_1772504384761.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/p/pyrog.htm",
+  "relationships": {
+    "complementary": [
+      "Bryon"
+    ],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Streptoccin (anti-febrile action",
+      "septic symptoms in infectious diseases)"
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "parsed_at": "2026-03-03T15:23:37.708Z"
+}

@@ -1,0 +1,60 @@
+{
+  "name": "EUONYMUS ATROPURPUREA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Wahoo, Burning Bush"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Mouth dry, pasty taste; thirsty, stomach full and uncomfortable.",
+    "Heavy frontal headache. Sore, tired feeling; bruised feeling of scalp. Pain over right eye extending back through the head. Bilious headache; coated tongue, bad taste, constipation. Vertigo, obscure vision and gastric derangement, associated with albuminuria. Headache over eyebrows.",
+    "Aching in all joints, especially ankles. Feet feel swollen and tired.",
+    "Dull pain between shoulders and about renal and splenic region; pain in lumbar region better lying down."
+  ],
+  "guiding_symptoms": [
+    "Mouth dry, pasty taste; thirsty, stomach full and uncomfortable.",
+    "Heavy frontal headache. Sore, tired feeling; bruised feeling of scalp. Pain over right eye extending back through the head. Bilious headache; coated tongue, bad taste, constipation. Vertigo, obscure vision and gastric derangement, associated with albuminuria. Headache over eyebrows.",
+    "Aching in all joints, especially ankles. Feet feel swollen and tired."
+  ],
+  "modalities": {
+    "worse": [
+      "evening"
+    ],
+    "better": [
+      "cool draught, pressure"
+    ]
+  },
+  "mind_symptoms": [
+    "Mental confusion, despondent, irritable; loss of memory, unable to recall familiar names."
+  ],
+  "head_symptoms": [
+    "Heavy frontal headache. Sore, tired feeling; bruised feeling of scalp. Pain over right eye extending back through the head. Bilious headache; coated tongue, bad taste, constipation. Vertigo, obscure vision and gastric derangement, associated with albuminuria. Headache over eyebrows."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "Mouth dry, pasty taste; thirsty, stomach full and uncomfortable."
+  ],
+  "urinary_symptoms": [
+    "Urine scanty, high-colored; acidity increased, poured out rapidly."
+  ],
+  "musculoskeletal_symptoms": [
+    "Aching in all joints, especially ankles. Feet feel swollen and tired."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/e/euon-a.htm",
+    "title": "EUONYMUS ATROPURPUREA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:32:13.325Z"
+  },
+  "confidence_score": 0.8
+}

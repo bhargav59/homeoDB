@@ -1,0 +1,24 @@
+{
+  "remedy_name": "PERTUSSINUM",
+  "source_file": "raw_1772504059069.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/p/pert.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Drosera",
+      "Corallium",
+      "Cuprum",
+      "Naphthal",
+      "Mephitis",
+      "Passiflor",
+      "Coccus Cacti",
+      "Magnes phos"
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "parsed_at": "2026-03-03T15:23:37.692Z"
+}

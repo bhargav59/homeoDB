@@ -1,0 +1,68 @@
+{
+  "name": "ELAPS CORALLINUS",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Coral-snake"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Feels cold. Sensation as if food turned like a corkscrew on swallowing; desire for sweetened buttermilk. Acidity after every mouthful.",
+    "Coldness in chest after drinking. Hćmorrhage from lungs black as ink and watery; stitches in apex of right lung. Fainting caused by stooping. Oppression in going upstairs. Peeling off of skin from palms and fingers. Cough, with terrible pain through lungs. Worse right and expectoration of black blood. Sensation of a sponge in śsophagus.",
+    "Violent headache, extending from forehead to occiput; first one eye, then the other. Pain in ears. Vertigo with tendency to fall forward. Weight and pain in forehead. Fullness in head.",
+    "Icy cold feet. Vesicular eruptions on feet. Arms and hands swollen bluish. Knee-joints feel sprained. Pricking under the nails."
+  ],
+  "guiding_symptoms": [
+    "Feels cold. Sensation as if food turned like a corkscrew on swallowing; desire for sweetened buttermilk. Acidity after every mouthful.",
+    "Coldness in chest after drinking. Hćmorrhage from lungs black as ink and watery; stitches in apex of right lung. Fainting caused by stooping. Oppression in going upstairs. Peeling off of skin from palms and fingers. Cough, with terrible pain through lungs. Worse right and expectoration of black blood. Sensation of a sponge in śsophagus.",
+    "Violent headache, extending from forehead to occiput; first one eye, then the other. Pain in ears. Vertigo with tendency to fall forward. Weight and pain in forehead. Fullness in head."
+  ],
+  "modalities": {
+    "worse": [
+      "eating fruit",
+      "cold drinks",
+      "wet weather"
+    ],
+    "better": []
+  },
+  "mind_symptoms": [
+    "Depressed; imagines he hears someone talking; dreads to be left alone. Fear of rain. Can speak, but cannot understand speech. Fears apoplexy."
+  ],
+  "head_symptoms": [
+    "Violent headache, extending from forehead to occiput; first one eye, then the other. Pain in ears. Vertigo with tendency to fall forward. Weight and pain in forehead. Fullness in head."
+  ],
+  "respiratory_symptoms": [
+    "Coldness in chest after drinking. Hćmorrhage from lungs black as ink and watery; stitches in apex of right lung. Fainting caused by stooping. Oppression in going upstairs. Peeling off of skin from palms and fingers. Cough, with terrible pain through lungs. Worse right and expectoration of black blood. Sensation of a sponge in śsophagus."
+  ],
+  "gi_symptoms": [
+    "Feels cold. Sensation as if food turned like a corkscrew on swallowing; desire for sweetened buttermilk. Acidity after every mouthful."
+  ],
+  "urinary_symptoms": [
+    "Dysmenorrhśa, with black blood. Discharge of black blood between menses. Itching of vulva and vagina."
+  ],
+  "musculoskeletal_symptoms": [
+    "Icy cold feet. Vesicular eruptions on feet. Arms and hands swollen bluish. Knee-joints feel sprained. Pricking under the nails."
+  ],
+  "skin_symptoms": [
+    "Glands and skin of axillć affected; itching with tetter. Tips of fingers peel off. Itching eruption in axillć."
+  ],
+  "sleep_symptoms": [
+    "Dreams about dead persons."
+  ],
+  "fever_symptoms": [
+    "Cold perspiration all over. Typhoid when ulcers have eaten into tissues, and black blood is discharged."
+  ],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/e/elaps.htm",
+    "title": "ELAPS CORALLINUS - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:30:06.095Z"
+  },
+  "confidence_score": 0.8
+}

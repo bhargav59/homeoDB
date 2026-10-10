@@ -1,0 +1,51 @@
+{
+  "remedy_name": "BELLIS PERENNIS",
+  "source_file": "raw_1772499953386.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Arnica",
+        "resolved_name": "ARNICA MONTANA",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Arsenic",
+        "resolved_name": "ARSENICUM ALBUM",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      },
+      {
+        "original": "Staphis",
+        "resolved_name": "STAPHYSAGRIA",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      },
+      {
+        "original": "Hamamelis",
+        "resolved_name": "HAMAMELIS VIRGINIANA",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Bryonia",
+        "resolved_name": "BRYONIA ALBA",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Vanadium",
+        "resolved_name": "VANADIUM METALLICUM",
+        "confidence": 1,
+        "method": "exact"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:08.651Z"
+}

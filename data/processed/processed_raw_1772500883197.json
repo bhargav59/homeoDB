@@ -1,0 +1,70 @@
+{
+  "name": "CISTUS CANADENSIS",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Rock Rose"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Cool feeling in stomach before and after eating. Cool feeling in whole abdomen. Desire for cheese.",
+    "Coldness in chest. The neck is studded with tumors. Induration of mammæ. Hæmorrhage from lungs.",
+    "Asthmatic after lying down (trachea feels narrow), preceded by formication.",
+    "Sprained pain in wrist. Tips of fingers sensitive to cold. Tetter on hands. Cold feet. Syphilitic ulcers on lower limbs, with hard swelling around. White swelling."
+  ],
+  "guiding_symptoms": [
+    "Cool feeling in stomach before and after eating. Cool feeling in whole abdomen. Desire for cheese.",
+    "Coldness in chest. The neck is studded with tumors. Induration of mammæ. Hæmorrhage from lungs.",
+    "Asthmatic after lying down (trachea feels narrow), preceded by formication."
+  ],
+  "modalities": {
+    "worse": [
+      "slightest exposure to cold air",
+      "mental exertion, excitement"
+    ],
+    "better": [
+      "after eating"
+    ]
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Watery discharge; also fetid pus. Tetter on and around ears, extending to external meatus."
+  ],
+  "respiratory_symptoms": [
+    "Asthmatic after lying down (trachea feels narrow), preceded by formication."
+  ],
+  "gi_symptoms": [
+    "Cool feeling in stomach before and after eating. Cool feeling in whole abdomen. Desire for cheese."
+  ],
+  "urinary_symptoms": [
+    "Induration and inflammation of mammæ. Sensitive to cold air. Bad smelling leucorrhœa."
+  ],
+  "musculoskeletal_symptoms": [
+    "Sprained pain in wrist. Tips of fingers sensitive to cold. Tetter on hands. Cold feet. Syphilitic ulcers on lower limbs, with hard swelling around. White swelling."
+  ],
+  "skin_symptoms": [
+    "Itching all over. Small, painful pimples; lupus. Glands inflamed and indurated. Mercurio-syphilitic ulcers. Skin of hands hard, thick, dry, fissured; deep cracks. Itching of swollen hands and arms; general itching which presents sleep. Hemicrania."
+  ],
+  "sleep_symptoms": [
+    "Cannot sleep from coldness in throat."
+  ],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Conium",
+    "Carbo",
+    "Calc",
+    "Arg n"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/c/cist.htm",
+    "title": "CISTUS CANADENSIS - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:21:23.197Z"
+  },
+  "confidence_score": 0.8
+}

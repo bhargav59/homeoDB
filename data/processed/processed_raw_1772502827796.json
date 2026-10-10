@@ -1,0 +1,56 @@
+{
+  "name": "LATHYRUS SATIVUS",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Chick-pea"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Tips of fingers numb. Tremulous, tottering gait. Excessive rigidity of legs; spastic gait. Knees knock against each other when walking. Cramps in legs worse cold, and cold feet. Cannot extend or cross legs when sitting. Myelitis, with marked spastic symptoms. Rheumatic paralysis. Gluteal muscles and lower limbs emaciated. Legs blue; swollen, if hanging down. Stiffness and lameness of ankles and knees, toe do not leave the floor, heels do not touch floor, Muscles of calves very tense. Patient sits bent forward, straightens with difficulty.",
+    "Urine.--Increased bladder reflex. Frequent, must hurry, else voided involuntarily."
+  ],
+  "guiding_symptoms": [
+    "Tips of fingers numb. Tremulous, tottering gait. Excessive rigidity of legs; spastic gait. Knees knock against each other when walking. Cramps in legs worse cold, and cold feet. Cannot extend or cross legs when sitting. Myelitis, with marked spastic symptoms. Rheumatic paralysis. Gluteal muscles and lower limbs emaciated. Legs blue; swollen, if hanging down. Stiffness and lameness of ankles and knees, toe do not leave the floor, heels do not touch floor, Muscles of calves very tense. Patient sits bent forward, straightens with difficulty.",
+    "Urine.--Increased bladder reflex. Frequent, must hurry, else voided involuntarily."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [
+    "Depressed; hypochondriacal. Vertigo when standing with eyes closed."
+  ],
+  "head_symptoms": [
+    "Burning pain in tip of tongue; with tingling and numbness of tongue and lips, as if scalded."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [
+    "Tips of fingers numb. Tremulous, tottering gait. Excessive rigidity of legs; spastic gait. Knees knock against each other when walking. Cramps in legs worse cold, and cold feet. Cannot extend or cross legs when sitting. Myelitis, with marked spastic symptoms. Rheumatic paralysis. Gluteal muscles and lower limbs emaciated. Legs blue; swollen, if hanging down. Stiffness and lameness of ankles and knees, toe do not leave the floor, heels do not touch floor, Muscles of calves very tense. Patient sits bent forward, straightens with difficulty.",
+    "Urine.--Increased bladder reflex. Frequent, must hurry, else voided involuntarily."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Oxytrop",
+    "Secale",
+    "Petiveria",
+    "a South American plant (Paralysis",
+    "paraplegia with numbness"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/l/lath.htm",
+    "title": "LATHYRUS SATIVUS - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:53:47.796Z"
+  },
+  "confidence_score": 0.5
+}

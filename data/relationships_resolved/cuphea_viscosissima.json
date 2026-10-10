@@ -1,0 +1,39 @@
+{
+  "remedy_name": "CUPHEA VISCOSISSIMA",
+  "source_file": "raw_1772501210132.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Aethusa",
+        "resolved_name": "AETHUSA CYNAPIUM",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "chronic",
+        "resolved_name": "CHROMICUM ACIDUM",
+        "confidence": 0.55,
+        "method": "levenshtein_3"
+      },
+      {
+        "original": "copious",
+        "resolved_name": "COCCUS CACTI",
+        "confidence": 0.55,
+        "method": "levenshtein_3"
+      },
+      {
+        "original": "exhausting diarrhœa and dysentery",
+        "resolved_name": "X",
+        "confidence": 0.8,
+        "method": "substring"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:09.199Z"
+}

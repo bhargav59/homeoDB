@@ -1,0 +1,27 @@
+{
+  "remedy_name": "RHEUM PALMATUM",
+  "source_file": "raw_1772504493344.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/r/rheum.htm",
+  "relationships": {
+    "complementary": [
+      "Mag carb"
+    ],
+    "antidoted_by": [
+      "Camph"
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Mag phos",
+      "Hep",
+      "Pod",
+      "Cham",
+      "Ipec"
+    ],
+    "incompatible": [],
+    "antidotes": [
+      "Camph"
+    ]
+  },
+  "parsed_at": "2026-03-03T15:23:37.713Z"
+}

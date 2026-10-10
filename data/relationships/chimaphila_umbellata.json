@@ -1,0 +1,21 @@
+{
+  "remedy_name": "CHIMAPHILA UMBELLATA",
+  "source_file": "raw_1772500691332.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/c/chim.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "burning fever",
+      "sensation of swelling in arm pits)",
+      "Uva",
+      "Ledum",
+      "Epigoea"
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "parsed_at": "2026-03-03T15:23:37.424Z"
+}

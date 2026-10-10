@@ -1,0 +1,57 @@
+{
+  "name": "MAGNESIUM SULPHURICUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Epsom Salt"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Frequent eructations, tasting like bad eggs. Rising of water in mouth.",
+    "Apprehensive; vertigo; head heavy during menses. Eyes burn, noises in ears.",
+    "The left arm and foot fall asleep in bed, in the morning after waking."
+  ],
+  "guiding_symptoms": [
+    "Frequent eructations, tasting like bad eggs. Rising of water in mouth.",
+    "Apprehensive; vertigo; head heavy during menses. Eyes burn, noises in ears.",
+    "The left arm and foot fall asleep in bed, in the morning after waking."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Apprehensive; vertigo; head heavy during menses. Eyes burn, noises in ears."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "Frequent eructations, tasting like bad eggs. Rising of water in mouth."
+  ],
+  "urinary_symptoms": [
+    "Stitches and burning in the orifice of the urethra after urinating. Stream intermits and dribbles. The urine passed in the morning copious, bright yellow, soon becomes turbid, and deposits a copious red sediment. The urine is greenish as passed; is of a clear color, and in a large quantity. Diabetes (Phos ac; Lact ac; Ars brom)."
+  ],
+  "musculoskeletal_symptoms": [
+    "The left arm and foot fall asleep in bed, in the morning after waking."
+  ],
+  "skin_symptoms": [
+    "Small pimples over the whole body, that itch violently. Suppressed itch (Sulph). Crawling in the tips of the fingers of the left hand; better on rubbing. Warts. Erysipelas (applied locally as a saturated solution). Dropsy (physiological doses)."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [
+    "Chill from 9 to 10 am. Shuddering in back; heat in one part and chill in another."
+  ],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/m/mag-s.htm",
+    "title": "MAGNESIUM SULPHURICUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:58:08.063Z"
+  },
+  "confidence_score": 0.74
+}

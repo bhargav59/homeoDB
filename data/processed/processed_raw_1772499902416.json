@@ -1,0 +1,74 @@
+{
+  "name": "BARYTA CARBONICA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Carbonate of Baryta"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Waterbrash, hiccough, and eructation, which relieves pressure as of a stone. Hungry, but refuses food. Pain and weight immediately after a meal, with epigastric tenderness (Kali carb). Worse after warm food. Gastric weakness in the aged with possible malignancy present.",
+    "Vertigo; stitches, when standing in the sun, extending through head. Brain feels as if loose. Hair falls out. Confusion. Wens.",
+    "Dry, suffocative cough, especially in old people, full of mucus but lacking strength to expectorate, worse every change of weather (Senega). Larynx feels as if smoke were inhaled. Chronic aphonia. Stitches in chest; worse inspiration. Lungs feel full smoke.",
+    "Palpitation and distress in region of heart. Aneurism (Lycop). Accelerates the heart's action at first, blood pressure much increased, contraction of blood vessels. Palpitation when lying on left side, when thinking of it especially; pulse full and hard. Cardiac symptoms after suppressed foot-sweat.",
+    "Pain in axillary glands. Cold, clammy feet (Calc). Fetid foot-sweats. Numbness of limbs. Numb feeling from knees to scrotum; disappears when sitting down. Toes and soles sore; soles painful when walking. Pain in joints; burning pains in lower limbs.",
+    "Swollen glands in nape of occiput. Fatty tumors about neck. Bruised pain between scapulć. Stiffness in sacrum. Weakness of spine."
+  ],
+  "guiding_symptoms": [
+    "Waterbrash, hiccough, and eructation, which relieves pressure as of a stone. Hungry, but refuses food. Pain and weight immediately after a meal, with epigastric tenderness (Kali carb). Worse after warm food. Gastric weakness in the aged with possible malignancy present.",
+    "Vertigo; stitches, when standing in the sun, extending through head. Brain feels as if loose. Hair falls out. Confusion. Wens.",
+    "Dry, suffocative cough, especially in old people, full of mucus but lacking strength to expectorate, worse every change of weather (Senega). Larynx feels as if smoke were inhaled. Chronic aphonia. Stitches in chest; worse inspiration. Lungs feel full smoke."
+  ],
+  "modalities": {
+    "worse": [
+      "while thinking of symptoms",
+      "from washing",
+      "lying on painful side"
+    ],
+    "better": [
+      "walking in open air"
+    ]
+  },
+  "mind_symptoms": [
+    "Loss of memory, mental weakness. Irresolute. Lost confidence in himself. Senile dementia. Confusion. Bashful. Aversion to strangers. Childish; grief over trifles."
+  ],
+  "head_symptoms": [
+    "Vertigo; stitches, when standing in the sun, extending through head. Brain feels as if loose. Hair falls out. Confusion. Wens."
+  ],
+  "respiratory_symptoms": [
+    "Dry, suffocative cough, especially in old people, full of mucus but lacking strength to expectorate, worse every change of weather (Senega). Larynx feels as if smoke were inhaled. Chronic aphonia. Stitches in chest; worse inspiration. Lungs feel full smoke."
+  ],
+  "gi_symptoms": [
+    "Waterbrash, hiccough, and eructation, which relieves pressure as of a stone. Hungry, but refuses food. Pain and weight immediately after a meal, with epigastric tenderness (Kali carb). Worse after warm food. Gastric weakness in the aged with possible malignancy present."
+  ],
+  "urinary_symptoms": [
+    "Every time patient urinates, his piles come down. Urging to urinate. Burning in urethra on urinating."
+  ],
+  "musculoskeletal_symptoms": [
+    "Pain in axillary glands. Cold, clammy feet (Calc). Fetid foot-sweats. Numbness of limbs. Numb feeling from knees to scrotum; disappears when sitting down. Toes and soles sore; soles painful when walking. Pain in joints; burning pains in lower limbs."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [
+    "Talking in sleep; awakens frequently; feels too hot. Twitching during sleep."
+  ],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Digitalis",
+    "Radium",
+    "Aragallus",
+    "Oxytrop",
+    "Astrag"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/b/bar-c.htm",
+    "title": "BARYTA CARBONICA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:05:02.416Z"
+  },
+  "confidence_score": 0.8
+}

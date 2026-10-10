@@ -1,0 +1,63 @@
+{
+  "name": "BUFO RANA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Poison of the Toad"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Sensation as if hot vapor rose to top of head. Numbness of brain. Face bathed in sweat. Epistaxis with flushed face and pain in forehead, better, nosebleed.",
+    "Feels too large. Palpitation. Constriction about heart. Sensation of heart swimming in water.",
+    "Pains in loins, numbness of limbs, cramps, staggering gait, feeling as if a peg were driven in joints; swelling of bones."
+  ],
+  "guiding_symptoms": [
+    "Sensation as if hot vapor rose to top of head. Numbness of brain. Face bathed in sweat. Epistaxis with flushed face and pain in forehead, better, nosebleed.",
+    "Feels too large. Palpitation. Constriction about heart. Sensation of heart swimming in water.",
+    "Pains in loins, numbness of limbs, cramps, staggering gait, feeling as if a peg were driven in joints; swelling of bones."
+  ],
+  "modalities": {
+    "worse": [
+      "in warm room, on awakening"
+    ],
+    "better": [
+      "from bathing or cold air",
+      "from putting feet in hot water"
+    ]
+  },
+  "mind_symptoms": [
+    "Anxious about health. Sad, restless. Propensity to bite. Howling; impatient; nervous; imbecile. Desire for solitude. Feeble-minded."
+  ],
+  "head_symptoms": [
+    "Sensation as if hot vapor rose to top of head. Numbness of brain. Face bathed in sweat. Epistaxis with flushed face and pain in forehead, better, nosebleed."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [],
+  "urinary_symptoms": [
+    "Involuntary emissions; impotence, discharge too quick, spasms during coition. Buboes. Disposition to handle organs (Hyos; Zinc). Effects of onanism."
+  ],
+  "musculoskeletal_symptoms": [
+    "Pains in loins, numbness of limbs, cramps, staggering gait, feeling as if a peg were driven in joints; swelling of bones."
+  ],
+  "skin_symptoms": [
+    "Panaritium; pain runs up arm. Patches of skin lose sensation. Pustules, suppuration from every slight injury. Pemphigus. Bullæ which open and leave a raw surface, exuding and ichorous fluid. Blisters on palms and soles. Itching and burning. Carbuncle."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Baryt carb",
+    "Asterias"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/b/bufo.htm",
+    "title": "BUFO RANA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:09:04.872Z"
+  },
+  "confidence_score": 0.8
+}

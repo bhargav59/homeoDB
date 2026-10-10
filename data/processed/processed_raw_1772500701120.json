@@ -1,0 +1,73 @@
+{
+  "name": "CHINA OFFICINALIS",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Peruvian Bark-China"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Tender, cold. Vomiting of undigested food. Slow digestion. Weight after eating. Ill effects of tea. Hungry without appetite. Flat taste. Darting pain crosswise in hypogastric region. Milk disagrees. Hungry longing for food, which lies undigested. Flatulence; belching of bitter fluid or regurgitation of food gives no relief; worse eating fruit. Hiccough. Bloatedness better by movement.",
+    "As if skull would burst. Sensation as if brain were balancing to and fro, and striking against skull, receiving great pain (Sulph; Sulph ac). Intense throbbing of head and carotids. Spasmodic headache in vertex, with subsequent pain, as if bruised in sides of head. Face flushed after hæmorrhages, or sexual excesses, or loss of vital fluids. Relieved from pressure and warm room. Scalp sensitive; worse combing hair. Aches worse in open air, from temple to temple. Worse by contact, current of air, stepping. Dizzy when walking.",
+    "Influenza, with debility. Cannot breathe with head low. Labored, slow respiration; constant choking. Suffocative catarrh; rattling in chest; violent, hacking cough after every meal. Hæmorrhage from lungs. Dyspnœa, sharp pain in left lung. Asthma; worse damp weather.",
+    "Irregular with weak rapid beats followed by strong, hard beats. Suffocative attacks, syncope; anæmia and dropsy.",
+    "Pains in limbs and joints, as if sprained; worse, slight touch; hard pressure relieves. Sensation as of a string around limb. Joints swollen; very sensitive, with dread or open air. Great debility, trembling, with numb sensation. Averse to exercise; sensitive to touch. Weariness of joints; worse, mornings and when sitting.",
+    "Sharp pains across kidneys, worse movement and at night. Knife-like pains around back (D. MacFarlan)."
+  ],
+  "guiding_symptoms": [
+    "Tender, cold. Vomiting of undigested food. Slow digestion. Weight after eating. Ill effects of tea. Hungry without appetite. Flat taste. Darting pain crosswise in hypogastric region. Milk disagrees. Hungry longing for food, which lies undigested. Flatulence; belching of bitter fluid or regurgitation of food gives no relief; worse eating fruit. Hiccough. Bloatedness better by movement.",
+    "As if skull would burst. Sensation as if brain were balancing to and fro, and striking against skull, receiving great pain (Sulph; Sulph ac). Intense throbbing of head and carotids. Spasmodic headache in vertex, with subsequent pain, as if bruised in sides of head. Face flushed after hæmorrhages, or sexual excesses, or loss of vital fluids. Relieved from pressure and warm room. Scalp sensitive; worse combing hair. Aches worse in open air, from temple to temple. Worse by contact, current of air, stepping. Dizzy when walking.",
+    "Influenza, with debility. Cannot breathe with head low. Labored, slow respiration; constant choking. Suffocative catarrh; rattling in chest; violent, hacking cough after every meal. Hæmorrhage from lungs. Dyspnœa, sharp pain in left lung. Asthma; worse damp weather."
+  ],
+  "modalities": {
+    "worse": [
+      "slightest touch"
+    ],
+    "better": [
+      "bending double",
+      "hard pressure",
+      "open air",
+      "warmth"
+    ]
+  },
+  "mind_symptoms": [
+    "Apathetic, indifferent, disobedient, taciturn, despondent. Ideas crowd in mind; prevent sleep. Disposition to hurt other people's feelings. Sudden crying and tossing about."
+  ],
+  "head_symptoms": [
+    "As if skull would burst. Sensation as if brain were balancing to and fro, and striking against skull, receiving great pain (Sulph; Sulph ac). Intense throbbing of head and carotids. Spasmodic headache in vertex, with subsequent pain, as if bruised in sides of head. Face flushed after hæmorrhages, or sexual excesses, or loss of vital fluids. Relieved from pressure and warm room. Scalp sensitive; worse combing hair. Aches worse in open air, from temple to temple. Worse by contact, current of air, stepping. Dizzy when walking."
+  ],
+  "respiratory_symptoms": [
+    "Influenza, with debility. Cannot breathe with head low. Labored, slow respiration; constant choking. Suffocative catarrh; rattling in chest; violent, hacking cough after every meal. Hæmorrhage from lungs. Dyspnœa, sharp pain in left lung. Asthma; worse damp weather."
+  ],
+  "gi_symptoms": [
+    "Tender, cold. Vomiting of undigested food. Slow digestion. Weight after eating. Ill effects of tea. Hungry without appetite. Flat taste. Darting pain crosswise in hypogastric region. Milk disagrees. Hungry longing for food, which lies undigested. Flatulence; belching of bitter fluid or regurgitation of food gives no relief; worse eating fruit. Hiccough. Bloatedness better by movement."
+  ],
+  "urinary_symptoms": [
+    "Excited lascivious fancy. Frequent emissions, followed by great weakness. Orchitis."
+  ],
+  "musculoskeletal_symptoms": [
+    "Pains in limbs and joints, as if sprained; worse, slight touch; hard pressure relieves. Sensation as of a string around limb. Joints swollen; very sensitive, with dread or open air. Great debility, trembling, with numb sensation. Averse to exercise; sensitive to touch. Weariness of joints; worse, mornings and when sitting."
+  ],
+  "skin_symptoms": [
+    "Extreme sensitiveness to touch, but hard pressure relieves. Coldness; much sweat. One hand ice cold, the other warm. Anasarca (Ars; Apis). Dermatitis; erysipelas. Indurated glands; scrofulous ulcers and caries."
+  ],
+  "sleep_symptoms": [
+    "Drowsiness. Unrefreshing or constant stupor. Wakens early. Protracted sleeplessness. Anxious, frightful dreams with confused consciousness on waking, so that the dream cannot be rid of and fear of dream remains. Snoring, especially with children."
+  ],
+  "fever_symptoms": [
+    "Intermittent, paroxysms anticipate; return every week. All stages well marked. Chill generally in forenoon, commencing in breast; thirst before chill, and little and often. Debilitating night-sweats. Free perspiration caused by every little exertion, especially on single parts. Hay fever, watery coryza, pain in temples."
+  ],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/c/chin.htm",
+    "title": "CHINA OFFICINALIS - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:18:21.120Z"
+  },
+  "confidence_score": 0.8
+}

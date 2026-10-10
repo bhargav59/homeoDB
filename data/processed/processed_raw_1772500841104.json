@@ -1,0 +1,66 @@
+{
+  "name": "CINA MARITIMA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Worm-seed"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Gets hungry soon after a meal. Hungry, digging, gnawing sensation. Epigastric pain; worse, first waking in morning and before meals. Vomiting and diarrhśa immediately after eating or drinking. Vomiting with a clean tongue. Desires many and different things. Craving for sweets.",
+    "Headache, alternating with pain in abdomen. Relieved by stooping (Mezer). Pain in head when using eyes.",
+    "Gagging cough in the morning. Whooping-cough. Violent recurring paroxysms, as of down in throat. Cough ends in a spasm. Cough so violent as to bring tears and sternal pains; feels as if something had been torn off. Periodic; returning spring and fall. Swallows after coughing. Gurgling from throat to stomach after coughing. Child is afraid to speak or move for fear of bringing on paroxysm of coughing. After coughing, moaning, anxious, gasps for air and turns pale.",
+    "Twitching and jerking distortion of limbs, trembling. Paralyzed shocks; patient will jump suddenly, as though in pain. Child throws arms from side to side. Nocturnal convulsions. Sudden inward jerking of fingers of right hand. Child stretches out feet spasmodically. Left foot in constant spasmodic motion."
+  ],
+  "guiding_symptoms": [
+    "Gets hungry soon after a meal. Hungry, digging, gnawing sensation. Epigastric pain; worse, first waking in morning and before meals. Vomiting and diarrhśa immediately after eating or drinking. Vomiting with a clean tongue. Desires many and different things. Craving for sweets.",
+    "Headache, alternating with pain in abdomen. Relieved by stooping (Mezer). Pain in head when using eyes.",
+    "Gagging cough in the morning. Whooping-cough. Violent recurring paroxysms, as of down in throat. Cough ends in a spasm. Cough so violent as to bring tears and sternal pains; feels as if something had been torn off. Periodic; returning spring and fall. Swallows after coughing. Gurgling from throat to stomach after coughing. Child is afraid to speak or move for fear of bringing on paroxysm of coughing. After coughing, moaning, anxious, gasps for air and turns pale."
+  ],
+  "modalities": {
+    "worse": [
+      "looking fixedly at an object, from worms, at night, in sun, in summer"
+    ],
+    "better": []
+  },
+  "mind_symptoms": [
+    "Ill-humor. Child very cross; does not want to be touched, or crossed, or carried. Desires many things, but rejects everything offered. Abnormal consciousness, as if having committed some evil deed."
+  ],
+  "head_symptoms": [
+    "Headache, alternating with pain in abdomen. Relieved by stooping (Mezer). Pain in head when using eyes."
+  ],
+  "respiratory_symptoms": [
+    "Gagging cough in the morning. Whooping-cough. Violent recurring paroxysms, as of down in throat. Cough ends in a spasm. Cough so violent as to bring tears and sternal pains; feels as if something had been torn off. Periodic; returning spring and fall. Swallows after coughing. Gurgling from throat to stomach after coughing. Child is afraid to speak or move for fear of bringing on paroxysm of coughing. After coughing, moaning, anxious, gasps for air and turns pale."
+  ],
+  "gi_symptoms": [
+    "Gets hungry soon after a meal. Hungry, digging, gnawing sensation. Epigastric pain; worse, first waking in morning and before meals. Vomiting and diarrhśa immediately after eating or drinking. Vomiting with a clean tongue. Desires many and different things. Craving for sweets."
+  ],
+  "urinary_symptoms": [
+    "Uterine hćmorrhage before puberty."
+  ],
+  "musculoskeletal_symptoms": [
+    "Twitching and jerking distortion of limbs, trembling. Paralyzed shocks; patient will jump suddenly, as though in pain. Child throws arms from side to side. Nocturnal convulsions. Sudden inward jerking of fingers of right hand. Child stretches out feet spasmodically. Left foot in constant spasmodic motion."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [
+    "Child gets on hands and knees in sleep; on abdomen. Night terrors of children; cries out, screams, wakes frightened. Troubles while yawning. Screams and talks in sleep. Grits teeth."
+  ],
+  "fever_symptoms": [
+    "Light chill. Much fever, associated with clean tongue. Much hunger; colicky pains; chilliness, with thirst. Cold sweat on forehead, nose, and hands. In Cina fever, face is cold and hands warm."
+  ],
+  "complementary_remedies": [
+    "same symptoms as Cina"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/c/cina.htm",
+    "title": "CINA MARITIMA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:20:41.104Z"
+  },
+  "confidence_score": 0.8
+}

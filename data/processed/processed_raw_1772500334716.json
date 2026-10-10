@@ -1,0 +1,71 @@
+{
+  "name": "CAMPHORA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Camphor"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Pressive pain in pit of stomach. Coldness, followed by burning.",
+    "Vertigo, tendency to unconsciousness, feeling as if he would die. Influenza; headache, with catarrhal symptoms, sneezing, etc. Beating pain in cerebellum. Cold sweat. Nose cold and pinched. Tongue cold, flabby, trembling. Fleeting stitches in temporal region and orbits. Head sore. Occipital throbbing, synchronous with the pulse.",
+    "Præcordial distress. Suffocative dyspnœa. Asthma. Violent, dry, hacking cough. Palpitation. Breath cold. Suspended respiration.",
+    "Rheumatic pain between shoulders. Difficult motion. Numbness, tingling and coldness. Cracking in joints. Cramps in calves. Icy cold feet, ache as if sprained."
+  ],
+  "guiding_symptoms": [
+    "Pressive pain in pit of stomach. Coldness, followed by burning.",
+    "Vertigo, tendency to unconsciousness, feeling as if he would die. Influenza; headache, with catarrhal symptoms, sneezing, etc. Beating pain in cerebellum. Cold sweat. Nose cold and pinched. Tongue cold, flabby, trembling. Fleeting stitches in temporal region and orbits. Head sore. Occipital throbbing, synchronous with the pulse.",
+    "Præcordial distress. Suffocative dyspnœa. Asthma. Violent, dry, hacking cough. Palpitation. Breath cold. Suspended respiration."
+  ],
+  "modalities": {
+    "worse": [
+      "motion, night, contact, cold air"
+    ],
+    "better": [
+      "warmth"
+    ]
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Vertigo, tendency to unconsciousness, feeling as if he would die. Influenza; headache, with catarrhal symptoms, sneezing, etc. Beating pain in cerebellum. Cold sweat. Nose cold and pinched. Tongue cold, flabby, trembling. Fleeting stitches in temporal region and orbits. Head sore. Occipital throbbing, synchronous with the pulse."
+  ],
+  "respiratory_symptoms": [
+    "Præcordial distress. Suffocative dyspnœa. Asthma. Violent, dry, hacking cough. Palpitation. Breath cold. Suspended respiration."
+  ],
+  "gi_symptoms": [
+    "Pressive pain in pit of stomach. Coldness, followed by burning."
+  ],
+  "urinary_symptoms": [
+    "Besire increased. Chordee. Priapism. Nightly emissions."
+  ],
+  "musculoskeletal_symptoms": [
+    "Rheumatic pain between shoulders. Difficult motion. Numbness, tingling and coldness. Cracking in joints. Cramps in calves. Icy cold feet, ache as if sprained."
+  ],
+  "skin_symptoms": [
+    "Cold, pale, blue, livid. Cannot bear to be covered (Secale)."
+  ],
+  "sleep_symptoms": [
+    "Insomnia, with cold limbs. Subsultus and extreme restlessness."
+  ],
+  "fever_symptoms": [
+    "Pulse small, weak, slow. Icy coldness of the whole body. Cold perspiration. Congestive chill. Tongue cold, flabby, trembling."
+  ],
+  "complementary_remedies": [
+    "Carbo",
+    "Cuprum",
+    "Arsenic",
+    "Veratr"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/c/camph.htm",
+    "title": "CAMPHORA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:12:14.716Z"
+  },
+  "confidence_score": 0.8
+}

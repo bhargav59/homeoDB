@@ -1,0 +1,21 @@
+{
+  "remedy_name": "LOBELIA PURPURASCENS",
+  "source_file": "raw_1772502974319.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/l/lob-p.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Baptisa",
+      "Lobelia cardinalis (debility",
+      "especially of lower extremities",
+      "oppressed breathing",
+      "pleurisy"
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "parsed_at": "2026-03-03T15:23:37.528Z"
+}

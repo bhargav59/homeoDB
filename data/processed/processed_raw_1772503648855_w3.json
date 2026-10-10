@@ -1,0 +1,58 @@
+{
+  "name": "THEA CHINENSIS",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Tea"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Sinking sensation at epigastrium. Faint, gone feeling (Sep; Hyd; Oleand). Craves acids. Sudden production of wind in large quantities.",
+    "Temporary mental exaltation. Ill-humored. Sick headache radiating from one point. Sleepless and restless. Hallucinations of hearing. Cold damp feeling at back of head.",
+    "Anxious oppression. Prćcordial distress. Palpitation; unable to lie on left side. Fluttering. Pulse rapid, irregular, intermittent."
+  ],
+  "guiding_symptoms": [
+    "Sinking sensation at epigastrium. Faint, gone feeling (Sep; Hyd; Oleand). Craves acids. Sudden production of wind in large quantities.",
+    "Temporary mental exaltation. Ill-humored. Sick headache radiating from one point. Sleepless and restless. Hallucinations of hearing. Cold damp feeling at back of head.",
+    "Anxious oppression. Prćcordial distress. Palpitation; unable to lie on left side. Fluttering. Pulse rapid, irregular, intermittent."
+  ],
+  "modalities": {
+    "worse": [
+      "night, on walking in open air, after meals"
+    ],
+    "better": [
+      "warmth",
+      "warm bath"
+    ]
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Temporary mental exaltation. Ill-humored. Sick headache radiating from one point. Sleepless and restless. Hallucinations of hearing. Cold damp feeling at back of head."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "Sinking sensation at epigastrium. Faint, gone feeling (Sep; Hyd; Oleand). Craves acids. Sudden production of wind in large quantities."
+  ],
+  "urinary_symptoms": [
+    "Soreness and tenderness in ovaries."
+  ],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [],
+  "sleep_symptoms": [
+    "Sleepy in daytime; sleepiness at night, with vascular excitement and restlessness, and dry skin. Horrible dreams cause no horror."
+  ],
+  "fever_symptoms": [],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/t/thea.htm",
+    "title": "THEA CHINENSIS - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:07:28.855Z"
+  },
+  "confidence_score": 0.74
+}

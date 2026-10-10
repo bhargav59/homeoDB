@@ -1,0 +1,51 @@
+{
+  "remedy_name": "PIX LIQUIDA",
+  "source_file": "raw_1772504206679.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "its constituents: Kreosol",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "Petrol",
+        "resolved_name": "PETROLEUM",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Pinus",
+        "resolved_name": "PINUS SILVESTRIS",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Eupion",
+        "resolved_name": "EUPIONUM",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Terebinth",
+        "resolved_name": "TEREBINTHINIAE OLEUM",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Carbolic acid",
+        "resolved_name": "CARBO VEGETABILIS",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:10.794Z"
+}

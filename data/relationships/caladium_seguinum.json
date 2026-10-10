@@ -1,0 +1,25 @@
+{
+  "remedy_name": "CALADIUM SEGUINUM",
+  "source_file": "raw_1772500207005.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/c/calad.htm",
+  "relationships": {
+    "complementary": [
+      "Nitr ac"
+    ],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Capsic",
+      "Phosph",
+      "Caust",
+      "Selen",
+      "Lyc"
+    ],
+    "incompatible": [
+      "Arum triph"
+    ],
+    "antidotes": []
+  },
+  "parsed_at": "2026-03-03T15:23:37.398Z"
+}

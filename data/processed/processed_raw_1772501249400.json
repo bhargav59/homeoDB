@@ -1,0 +1,63 @@
+{
+  "name": "CURARE",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Arrow-poison"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Lancinating pains all over head. Head drawn backward. Falling out of hair. Brain feels full of fluid.",
+    "Threatened paralysis of respiration on falling asleep. Short breath. Short dry cough; provokes vomiting, followed by fainting. Chest sore to pressure. Very distressing dyspnśa.",
+    "Tired pain up and down spine. Arms weak, heavy. Cannot lift the fingers. Weakness of hands and fingers in pianists. Legs tremble; give way in walking. Debility; paralysis. Catalepsy. Favors development of corns. Reflexes lessened or abolished."
+  ],
+  "guiding_symptoms": [
+    "Lancinating pains all over head. Head drawn backward. Falling out of hair. Brain feels full of fluid.",
+    "Threatened paralysis of respiration on falling asleep. Short breath. Short dry cough; provokes vomiting, followed by fainting. Chest sore to pressure. Very distressing dyspnśa.",
+    "Tired pain up and down spine. Arms weak, heavy. Cannot lift the fingers. Weakness of hands and fingers in pianists. Legs tremble; give way in walking. Debility; paralysis. Catalepsy. Favors development of corns. Reflexes lessened or abolished."
+  ],
+  "modalities": {
+    "worse": [
+      "dampness, cold weather, cold wind",
+      "2 am",
+      "right side"
+    ],
+    "better": []
+  },
+  "mind_symptoms": [
+    "Indecision; no longer wishes to think, or act for herself."
+  ],
+  "head_symptoms": [
+    "Lancinating pains all over head. Head drawn backward. Falling out of hair. Brain feels full of fluid."
+  ],
+  "respiratory_symptoms": [
+    "Threatened paralysis of respiration on falling asleep. Short breath. Short dry cough; provokes vomiting, followed by fainting. Chest sore to pressure. Very distressing dyspnśa."
+  ],
+  "gi_symptoms": [],
+  "urinary_symptoms": [
+    "Dysmenorrhśa. Menses too early, during menses, colic, headache, kidney pain. Leucorrhśa, thick, purulent, offensive."
+  ],
+  "musculoskeletal_symptoms": [
+    "Tired pain up and down spine. Arms weak, heavy. Cannot lift the fingers. Weakness of hands and fingers in pianists. Legs tremble; give way in walking. Debility; paralysis. Catalepsy. Favors development of corns. Reflexes lessened or abolished."
+  ],
+  "skin_symptoms": [
+    "Leprosy. Dirty-looking skin. Boils. Tubercles on nose. Liver spots. Blood oozes through. Itching."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Cystisin (motor paralysis"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/c/cur.htm",
+    "title": "CURARE - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:27:29.400Z"
+  },
+  "confidence_score": 0.8
+}

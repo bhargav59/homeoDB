@@ -1,0 +1,29 @@
+{
+  "remedy_name": "AGARICUS MUSCARIUS",
+  "source_file": "raw_1772371649895.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/a/agar.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      "Absinth"
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Muscarine",
+      "increasing lachrymal",
+      "salivary",
+      "hepatic",
+      "etc",
+      "but diminishing renal",
+      "probably neurotic in origin",
+      "hence salivation",
+      "lachrymation and excessive perspiration"
+    ],
+    "incompatible": [],
+    "antidotes": [
+      "Absinth"
+    ]
+  },
+  "parsed_at": "2026-03-03T15:23:37.322Z"
+}

@@ -1,0 +1,45 @@
+{
+  "remedy_name": "HEDEOMA PULEGIOIDES",
+  "source_file": "raw_1772502099348.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Mentha",
+        "resolved_name": "MENTHA PIPERITA",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Sepia",
+        "resolved_name": "SEPIA OFFICINALIS",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Lilium",
+        "resolved_name": "LILIUM TIGRINUM",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Ocimum (uric acid diathesis",
+        "resolved_name": "OCIMUM CANUM",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "pain in ureters)",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:09.803Z"
+}

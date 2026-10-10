@@ -1,0 +1,70 @@
+{
+  "name": "AURUM METALLICUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Metallic Gold"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Appetite and thirst increased, with qualmishness. Swelling of epigastrium. Burning at stomach and hot eructations.",
+    "Violent pain in head; worse at night, outward pressure. Roaring in head. Vertigo. Tearing through brain to forehead. Pain in bones extending to face. Congestion to head. Boils on scalp.",
+    "Dyspnœa at night. Frequent, deep breathing; stitches in sternum.",
+    "Bones.--Destruction of bones, like secondary syphilis. Pain in bones of head, lumps under scalp, exostosis with nightly pains in bones. Caries of nasal, palatine and mastoid bones. Soreness of affected bones, better in open air, worse at night.",
+    "Sensation as if the heart stopped beating for two or three seconds, immediately followed by a tumultuous rebound, with sinking at the epigastrium. Palpitation. Pulse rapid, feeble, irregular. Hypertrophy. High Blood Pressure-Valvular lesions of arterio-sclerotic nature (Aurum 30)",
+    "All the blood seems to rush from head to lower limbs. Dropsy of lower limbs. Orgasm, as if blood were boiling in all veins. Paralytic, tearing pains in joints. Knees weak."
+  ],
+  "guiding_symptoms": [
+    "Appetite and thirst increased, with qualmishness. Swelling of epigastrium. Burning at stomach and hot eructations.",
+    "Violent pain in head; worse at night, outward pressure. Roaring in head. Vertigo. Tearing through brain to forehead. Pain in bones extending to face. Congestion to head. Boils on scalp.",
+    "Dyspnœa at night. Frequent, deep breathing; stitches in sternum."
+  ],
+  "modalities": {
+    "worse": [
+      "in cold weather when getting cold"
+    ],
+    "better": []
+  },
+  "mind_symptoms": [
+    "Feeling of self-condemnation and utter worthlessness. Profound despondency, with increased blood pressure, with thorough disgust of life, and thoughts of suicide. Talks of committing suicide. Great fear of death. Peevish and vehement at least contradiction. Anthropophobia. Mental derangements. Constant rapid questioning without waiting for reply. Cannot do things fast enough. Oversensitiveness; (Staph) to noise, excitement, confusion."
+  ],
+  "head_symptoms": [
+    "Violent pain in head; worse at night, outward pressure. Roaring in head. Vertigo. Tearing through brain to forehead. Pain in bones extending to face. Congestion to head. Boils on scalp."
+  ],
+  "respiratory_symptoms": [
+    "Dyspnœa at night. Frequent, deep breathing; stitches in sternum.",
+    "Bones.--Destruction of bones, like secondary syphilis. Pain in bones of head, lumps under scalp, exostosis with nightly pains in bones. Caries of nasal, palatine and mastoid bones. Soreness of affected bones, better in open air, worse at night."
+  ],
+  "gi_symptoms": [
+    "Appetite and thirst increased, with qualmishness. Swelling of epigastrium. Burning at stomach and hot eructations."
+  ],
+  "urinary_symptoms": [
+    "Pain and swelling of testicles. Chronic induration of testicles. Violent erections. Atrophy of testicles in boys. Hydrocele."
+  ],
+  "musculoskeletal_symptoms": [
+    "All the blood seems to rush from head to lower limbs. Dropsy of lower limbs. Orgasm, as if blood were boiling in all veins. Paralytic, tearing pains in joints. Knees weak."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [
+    "Sleepless. Sobs aloud in sleep. Frightful dreams."
+  ],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Aur ars (chronic aortitis",
+    "lupus",
+    "phthisis in syphilitic headaches",
+    "also in anæmia and chlorosis"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/a/aur.htm",
+    "title": "AURUM METALLICUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-02T06:37:29.704Z"
+  },
+  "confidence_score": 0.8
+}

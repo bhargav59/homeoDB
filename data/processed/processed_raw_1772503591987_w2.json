@@ -1,0 +1,59 @@
+{
+  "name": "PODOPHYLLINUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "May-apple"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Hot, sour belching; nausea and vomiting. Thirst for large quantities of cold water (Bry). Vomiting of hot, frothy mucus. Heartburn; gagging or empty retching. Vomiting of milk.",
+    "Vertigo, with tendency to fall forward. Headache, dull pressure, worse morning, with heated face and bitter taste; alternating with diarrhśa. Rolling of head from side to side, moaning and vomiting and eyelids half closed. Child perspires on head during sleep.",
+    "Pain between shoulders, under right scapula, in loins and lumbar region. Pain in right inguinal region; shoots down inner thigh to knees. Paralytic weakness on left side."
+  ],
+  "guiding_symptoms": [
+    "Hot, sour belching; nausea and vomiting. Thirst for large quantities of cold water (Bry). Vomiting of hot, frothy mucus. Heartburn; gagging or empty retching. Vomiting of milk.",
+    "Vertigo, with tendency to fall forward. Headache, dull pressure, worse morning, with heated face and bitter taste; alternating with diarrhśa. Rolling of head from side to side, moaning and vomiting and eyelids half closed. Child perspires on head during sleep.",
+    "Pain between shoulders, under right scapula, in loins and lumbar region. Pain in right inguinal region; shoots down inner thigh to knees. Paralytic weakness on left side."
+  ],
+  "modalities": {
+    "worse": [
+      "in early morning, in hot weather, during dentition"
+    ],
+    "better": []
+  },
+  "mind_symptoms": [
+    "Loquacity and delirium from eating acid fruits. Depression of spirits."
+  ],
+  "head_symptoms": [
+    "Vertigo, with tendency to fall forward. Headache, dull pressure, worse morning, with heated face and bitter taste; alternating with diarrhśa. Rolling of head from side to side, moaning and vomiting and eyelids half closed. Child perspires on head during sleep."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "Hot, sour belching; nausea and vomiting. Thirst for large quantities of cold water (Bry). Vomiting of hot, frothy mucus. Heartburn; gagging or empty retching. Vomiting of milk."
+  ],
+  "urinary_symptoms": [
+    "Pain in uterus and right ovary, with shifting noises along ascending colon. Suppressed menses, with pelvic tenesmus. Prolapsed uteri, especially after parturition. Hćmorrhoids, with prolapsus ani during pregnancy."
+  ],
+  "musculoskeletal_symptoms": [
+    "Pain between shoulders, under right scapula, in loins and lumbar region. Pain in right inguinal region; shoots down inner thigh to knees. Paralytic weakness on left side."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [
+    "Chill at 7 am, with pain in hypochondria, and knees, ankles, wrists, Great loquacity during fever. Profuse sweat."
+  ],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/p/podo.htm",
+    "title": "PODOPHYLLINUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:06:31.987Z"
+  },
+  "confidence_score": 0.8
+}

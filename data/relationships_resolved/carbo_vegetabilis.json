@@ -1,0 +1,42 @@
+{
+  "remedy_name": "CARBO VEGETABILIS",
+  "source_file": "raw_1772500428157.json",
+  "relationships": {
+    "complementary": [
+      {
+        "original": "Kali carb",
+        "resolved_name": "KALI CARBONICUM",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      }
+    ],
+    "antidoted_by": [
+      {
+        "original": "Spirits Nitre",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      }
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "down trachea and extremities",
+        "resolved_name": "X",
+        "confidence": 0.8,
+        "method": "substring"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": [
+      {
+        "original": "Spirits Nitre",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      }
+    ]
+  },
+  "resolved_at": "2026-03-11T01:50:08.859Z"
+}

@@ -1,0 +1,61 @@
+{
+  "name": "APOCYNUM CANNABINUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Indian Hemp"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Nausea, with drowsiness. Thirst on walking. Excessive vomiting. Food or water is immediately ejected. Dull, heavy, sick feeling. Oppression in epigastrium and chest, impeding breathing (Lobelia infl). Sensation of sinking in stomach. Abdomen bloated. Ascites.",
+    "Short, dry cough. Respiratory short and unsatisfactory. Sighing. Oppression about epigastrium and chest.",
+    "Tricuspid regurgitation; rapid and feeble, irregular cardiac action, low arterial tension, pulsating jugulars, general cyanosis and general dropsy."
+  ],
+  "guiding_symptoms": [
+    "Nausea, with drowsiness. Thirst on walking. Excessive vomiting. Food or water is immediately ejected. Dull, heavy, sick feeling. Oppression in epigastrium and chest, impeding breathing (Lobelia infl). Sensation of sinking in stomach. Abdomen bloated. Ascites.",
+    "Short, dry cough. Respiratory short and unsatisfactory. Sighing. Oppression about epigastrium and chest.",
+    "Tricuspid regurgitation; rapid and feeble, irregular cardiac action, low arterial tension, pulsating jugulars, general cyanosis and general dropsy."
+  ],
+  "modalities": {
+    "worse": [
+      "cold weather",
+      "cold drinks",
+      "uncovering"
+    ],
+    "better": []
+  },
+  "mind_symptoms": [
+    "Bewildered. Low spirited."
+  ],
+  "head_symptoms": [
+    "Long-continued sneezing. Snuffles of children (Sambucus). Chronic nasal catarrh with tendency to acute stuffiness with dull, sluggish memory. Dull headache. Takes cold easily, nostrils become congested and blocked up easily."
+  ],
+  "respiratory_symptoms": [
+    "Short, dry cough. Respiratory short and unsatisfactory. Sighing. Oppression about epigastrium and chest."
+  ],
+  "gi_symptoms": [
+    "Nausea, with drowsiness. Thirst on walking. Excessive vomiting. Food or water is immediately ejected. Dull, heavy, sick feeling. Oppression in epigastrium and chest, impeding breathing (Lobelia infl). Sensation of sinking in stomach. Abdomen bloated. Ascites."
+  ],
+  "urinary_symptoms": [
+    "Amenorrhśa, with bloating; metrorrhagia with nausea; fainting, vital depression. Hćmorrhages at change of life. Blood expelled in large clots."
+  ],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [],
+  "sleep_symptoms": [
+    "Great restlessness and little sleep."
+  ],
+  "fever_symptoms": [],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/a/apoc.htm",
+    "title": "APOCYNUM CANNABINUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-02T06:31:13.460Z"
+  },
+  "confidence_score": 0.8
+}

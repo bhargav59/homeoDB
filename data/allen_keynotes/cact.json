@@ -1,0 +1,20 @@
+{
+  "name": "Cact",
+  "anchor": "Cact",
+  "common_name": "",
+  "family": "",
+  "key_symptoms": [],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "relationships": {
+    "compare": [],
+    "complementary": [],
+    "follows_well": [],
+    "inimical": [],
+    "antidotes": []
+  },
+  "source": "Allen's Keynotes",
+  "full_text": ""
+}

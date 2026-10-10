@@ -1,0 +1,64 @@
+{
+  "name": "ICHTHYOLUM",
+  "abbreviation": "Unknown",
+  "common_names": [],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Disagreeable taste, burning sensation, very thirsty. Nausea. Increased appetite.",
+    "Dull, aching; better cold, pressure. Dull frontal and supra-orbital headache; worse moving eyes, cold air; better, warmth.",
+    "Coryza; dry, teasing cough. Bronchiectasis and phthisis. Bronchitis, especially of the aged.",
+    "Lameness in right shoulder and right lower extremity."
+  ],
+  "guiding_symptoms": [
+    "Disagreeable taste, burning sensation, very thirsty. Nausea. Increased appetite.",
+    "Dull, aching; better cold, pressure. Dull frontal and supra-orbital headache; worse moving eyes, cold air; better, warmth.",
+    "Coryza; dry, teasing cough. Bronchiectasis and phthisis. Bronchitis, especially of the aged."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [
+    "Irritable and depressed. Forgetful, lack of concentration."
+  ],
+  "head_symptoms": [
+    "Dull, aching; better cold, pressure. Dull frontal and supra-orbital headache; worse moving eyes, cold air; better, warmth."
+  ],
+  "respiratory_symptoms": [
+    "Coryza; dry, teasing cough. Bronchiectasis and phthisis. Bronchitis, especially of the aged."
+  ],
+  "gi_symptoms": [
+    "Disagreeable taste, burning sensation, very thirsty. Nausea. Increased appetite."
+  ],
+  "urinary_symptoms": [
+    "Fullness in lower abdomen. Nausea at time of menses."
+  ],
+  "musculoskeletal_symptoms": [
+    "Lameness in right shoulder and right lower extremity."
+  ],
+  "skin_symptoms": [
+    "Heat and irritation; itching. Scaly and itching eczema. Crops of boils. Pruritus of pregnancy. Psorisis, Acne, rosacea, erysipelas."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Hepar",
+    "Calc",
+    "Silica",
+    "Sulph",
+    "Ars"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/i/ichth.htm",
+    "title": "ICHTHYOLUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:44:59.280Z"
+  },
+  "confidence_score": 0.8
+}

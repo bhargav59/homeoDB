@@ -1,0 +1,24 @@
+{
+  "remedy_name": "HYOSCYAMUS NIGER",
+  "source_file": "raw_1772502271435.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/h/hyos.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      "Bell"
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Bellad",
+      "Stram",
+      "Agaric",
+      "Gels"
+    ],
+    "incompatible": [],
+    "antidotes": [
+      "Bell"
+    ]
+  },
+  "parsed_at": "2026-03-03T15:23:37.494Z"
+}

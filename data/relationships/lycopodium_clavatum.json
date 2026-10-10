@@ -1,0 +1,25 @@
+{
+  "remedy_name": "LYCOPODIUM CLAVATUM",
+  "source_file": "raw_1772503015953.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/l/lyc.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      "Camph"
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Carbo-Nitrogenoid Constitution: Sulphur",
+      "Rhus",
+      "Urtica",
+      "Mercur",
+      "Hepar"
+    ],
+    "incompatible": [],
+    "antidotes": [
+      "Camph"
+    ]
+  },
+  "parsed_at": "2026-03-03T15:23:37.530Z"
+}

@@ -1,0 +1,23 @@
+{
+  "remedy_name": "RHUS VENENATA",
+  "source_file": "raw_1772504557668.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/r/rhus-v.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      "Clematis",
+      "Radium and follows it well"
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Anacard"
+    ],
+    "incompatible": [],
+    "antidotes": [
+      "Clematis",
+      "Radium and follows it well"
+    ]
+  },
+  "parsed_at": "2026-03-03T15:23:37.716Z"
+}

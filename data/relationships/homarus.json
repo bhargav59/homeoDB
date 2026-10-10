@@ -1,0 +1,20 @@
+{
+  "remedy_name": "HOMARUS",
+  "source_file": "raw_1772502210459.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/h/hom.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Sepia",
+      "Asterias",
+      "Astacus",
+      "Aethusa"
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "parsed_at": "2026-03-03T15:23:37.491Z"
+}

@@ -1,0 +1,15 @@
+{
+  "remedy_name": "Arsenicum Bromatum.",
+  "source_file": "raw_1772507561442_clarke_dictionary_w1.json",
+  "source_url": "https://www.homeoint.org/clarke/a/ars_bro.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "parsed_at": "2026-03-03T15:23:37.833Z"
+}

@@ -1,0 +1,53 @@
+{
+  "name": "PARTHENIUM HYSTEROPHORUS",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Bitter-broom"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Aches, extending to nose; feels swelled; pain in frontal eminence. Eyes heavy; eyeballs ache. Ringing in ears. Pain at root of nose; feels swollen. Aching in teeth. Teeth feel on edge; too long. Disordered vision. Tinnitus and pain in ears."
+  ],
+  "guiding_symptoms": [
+    "Aches, extending to nose; feels swelled; pain in frontal eminence. Eyes heavy; eyeballs ache. Ringing in ears. Pain at root of nose; feels swollen. Aching in teeth. Teeth feel on edge; too long. Disordered vision. Tinnitus and pain in ears."
+  ],
+  "modalities": {
+    "worse": [
+      "after sleep, sudden motion"
+    ],
+    "better": [
+      "after rising, and walking about"
+    ]
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Aches, extending to nose; feels swelled; pain in frontal eminence. Eyes heavy; eyeballs ache. Ringing in ears. Pain at root of nose; feels swollen. Aching in teeth. Teeth feel on edge; too long. Disordered vision. Tinnitus and pain in ears."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "Pain in left hypochondrium. Spleen affections."
+  ],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "China",
+    "Ceanoth",
+    "Helianth"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/p/parth.htm",
+    "title": "PARTHENIUM HYSTEROPHORUS - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:06:19.342Z"
+  },
+  "confidence_score": 0.44
+}

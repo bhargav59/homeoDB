@@ -1,0 +1,39 @@
+{
+  "remedy_name": "AMYGDALUS PERSICA",
+  "source_file": "raw_1772371949536.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "throat dark",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "difficult swallowing",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "vomiting",
+        "resolved_name": "Dr. Reckeweg R52, Homeopathic Medicine For Nausea &amp; Vomiting During Traveling",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "cough with sore chest)",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:08.462Z"
+}

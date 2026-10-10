@@ -1,0 +1,51 @@
+{
+  "remedy_name": "EQUISETUM HYEMALE",
+  "source_file": "raw_1772501454928.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Hydrangea",
+        "resolved_name": "HYDRANGEA ARBORESCENS",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Ferr phos",
+        "resolved_name": "FERRUM METALLICUM",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      },
+      {
+        "original": "Apis",
+        "resolved_name": "APIS MELLIFICA",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Canth",
+        "resolved_name": "CANTHARIS VESICATORIA",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Linaria",
+        "resolved_name": "LINARIA VULGARIS",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Chimaph",
+        "resolved_name": "CHIMAPHILA UMBELLATA",
+        "confidence": 0.8,
+        "method": "substring"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:09.578Z"
+}

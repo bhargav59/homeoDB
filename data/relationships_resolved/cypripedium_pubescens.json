@@ -1,0 +1,45 @@
+{
+  "remedy_name": "CYPRIPEDIUM PUBESCENS",
+  "source_file": "raw_1772501268656.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Ambra",
+        "resolved_name": "AMBRA GRISEA",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Kali brom",
+        "resolved_name": "KALI CARBONICUM",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      },
+      {
+        "original": "Scutellar",
+        "resolved_name": "SCUTELLARIA LATERIFOLIA",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Valerian",
+        "resolved_name": "AMMONIUM VALERIANICUM",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Ignat",
+        "resolved_name": "IGNATIA AMARA",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:09.259Z"
+}

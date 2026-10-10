@@ -1,0 +1,45 @@
+{
+  "remedy_name": "CAJUPUTUM",
+  "source_file": "raw_1772500198003.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Bovist",
+        "resolved_name": "BOVISTA LYCOPERDON",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Nux mosch",
+        "resolved_name": "NUX MOSCHATA",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Asaf",
+        "resolved_name": "ASA FOETIDA",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Ign",
+        "resolved_name": "IGNATIA AMARA",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      },
+      {
+        "original": "Bapt",
+        "resolved_name": "BAPTISIA TINCTORIA",
+        "confidence": 0.8,
+        "method": "substring"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:08.753Z"
+}

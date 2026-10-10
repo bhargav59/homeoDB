@@ -1,0 +1,64 @@
+{
+  "name": "STAPHYSAGRIA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Stavesacre"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Flabby and weak. Desire for stimulants. Stomach feels relaxed. Craving for tobacco. Canine hunger, even when stomach is full. Nausea after abdominal operations.",
+    "Stupefying headache; passes off with yawning. Brain feels squeezed. Sensation of a ball of lead in forehead. Itching eruption above and behind ears (Oleand).",
+    "Muscles, especially of calves, feel bruised. Backache; worse in morning before rising. Extremities feel beaten and painful. Joints stiff. Crural neuralgia. Dull aching of nates extending to hip-joint and small of back."
+  ],
+  "guiding_symptoms": [
+    "Flabby and weak. Desire for stimulants. Stomach feels relaxed. Craving for tobacco. Canine hunger, even when stomach is full. Nausea after abdominal operations.",
+    "Stupefying headache; passes off with yawning. Brain feels squeezed. Sensation of a ball of lead in forehead. Itching eruption above and behind ears (Oleand).",
+    "Muscles, especially of calves, feel bruised. Backache; worse in morning before rising. Extremities feel beaten and painful. Joints stiff. Crural neuralgia. Dull aching of nates extending to hip-joint and small of back."
+  ],
+  "modalities": {
+    "worse": [
+      "anger, indignation, grief, mortification, loss of fluids, onanism, sexual excesses, tobacco",
+      "least touch on affected parts"
+    ],
+    "better": [
+      "after breakfast, warmth, rest at night"
+    ]
+  },
+  "mind_symptoms": [
+    "Impetuous, violent outbursts of passion, hypochondriacal, sad. Very sensitive as to what others say about her. Dwells on sexual matters; prefers solitude. Peevish. Child cries for many things, and refuses them when offered."
+  ],
+  "head_symptoms": [
+    "Stupefying headache; passes off with yawning. Brain feels squeezed. Sensation of a ball of lead in forehead. Itching eruption above and behind ears (Oleand)."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "Flabby and weak. Desire for stimulants. Stomach feels relaxed. Craving for tobacco. Canine hunger, even when stomach is full. Nausea after abdominal operations."
+  ],
+  "urinary_symptoms": [
+    "Cystocele (locally and internally). Cystitis in lying-in patients. Ineffectual urging to urinate in newly married women. Pressure upon bladder; feels as if it did not empty. Sensation as if a drop of urine were rolling continuously along the channel. Burning in urethra during micturition. Prostatic troubles; frequent urination, burning in urethra when not urinating (Thuja; Sabal; Ferr pic). Urging and pain after urinating. Pain after lithotomy."
+  ],
+  "musculoskeletal_symptoms": [
+    "Muscles, especially of calves, feel bruised. Backache; worse in morning before rising. Extremities feel beaten and painful. Joints stiff. Crural neuralgia. Dull aching of nates extending to hip-joint and small of back."
+  ],
+  "skin_symptoms": [
+    "Eczema of head, ears, face, and body; thick scabs, dry, and itch violently; scratching changes location of itching. Fig-warts pedunculated (Thuja). Arthritic nodes. Inflammation of phalanges. Night-sweats."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Ferrum pyrophos (tarsal cysts"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/s/staph.htm",
+    "title": "STAPHYSAGRIA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:30:35.797Z"
+  },
+  "confidence_score": 0.8
+}

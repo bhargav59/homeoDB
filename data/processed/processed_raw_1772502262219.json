@@ -1,0 +1,49 @@
+{
+  "name": "HYDROCOTYLE ASIATICA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Indian Pennywort"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [],
+  "guiding_symptoms": [],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Pain in left cheek-bones and about orbits."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [],
+  "urinary_symptoms": [
+    "Pruritus of vagina. Inflammation of neck of bladder. Heat within vagina. Granular ulceration of womb. Profuse leucorrhœa. Dull pain in ovarian region. Cervical redness."
+  ],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [
+    "Dry eruptions. Great thickening of epidermoid layer and exfoliation of scales. Psoriasis gyrate, on trunk and extremities, palms and soles. Pustules on chest. Circular spots, with scaly edges. Intolerable itching, especially of soles. Profuse sweat. Syphilitic affections. Acne. Leprosy. Elephantiasis (Ars). Lupus non-exedens."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Elæis-South American Palm--(scleroderma",
+    "elephantiasis",
+    "leprosy",
+    "skin thickened",
+    "itching and hardened"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/h/hydrc.htm",
+    "title": "HYDROCOTYLE ASIATICA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:44:22.219Z"
+  },
+  "confidence_score": 0.5
+}

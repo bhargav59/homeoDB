@@ -1,0 +1,21 @@
+{
+  "remedy_name": "MERCURIUS SULPHURICUS, DRARG, OXYD, SUB",
+  "source_file": "raw_1772503296533.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Mercur acet",
+        "resolved_name": "MERCURIUS SOLUBILIS",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:10.335Z"
+}

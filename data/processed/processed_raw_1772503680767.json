@@ -1,0 +1,65 @@
+{
+  "name": "OLEUM ANIMALE AETHEREUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Dippel's Animal Oil"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Sensation as if water were in stomach; of coldness, of constriction, and of burning; better, eructations.",
+    "Tearing pain, with sadness and irritability; worse after dinner; relieved by rubbing. Itching, burning vesicles; better, friction. Malar bones feel pulled forcibly upward. Migraine with polyuria.",
+    "Chest feels constricted. Asthma from suppressed foot-sweat. Oppression. Stitches in breast from behind forward.",
+    "Sprained feeling in small of back. Cracking of vertebrć on raising head (Aloe, Nat c, Thuj). Restlessness. Rheumatic pain in shoulders. Fish-brine odor of sweat of heels."
+  ],
+  "guiding_symptoms": [
+    "Sensation as if water were in stomach; of coldness, of constriction, and of burning; better, eructations.",
+    "Tearing pain, with sadness and irritability; worse after dinner; relieved by rubbing. Itching, burning vesicles; better, friction. Malar bones feel pulled forcibly upward. Migraine with polyuria.",
+    "Chest feels constricted. Asthma from suppressed foot-sweat. Oppression. Stitches in breast from behind forward."
+  ],
+  "modalities": {
+    "worse": [
+      "after eating, from 2 to 9 pm"
+    ],
+    "better": [
+      "by rubbing, eructation, open air"
+    ]
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Tearing pain, with sadness and irritability; worse after dinner; relieved by rubbing. Itching, burning vesicles; better, friction. Malar bones feel pulled forcibly upward. Migraine with polyuria."
+  ],
+  "respiratory_symptoms": [
+    "Chest feels constricted. Asthma from suppressed foot-sweat. Oppression. Stitches in breast from behind forward."
+  ],
+  "gi_symptoms": [
+    "Sensation as if water were in stomach; of coldness, of constriction, and of burning; better, eructations."
+  ],
+  "urinary_symptoms": [
+    "Desire increased; ejaculation too soon. Pain along spermatic cord to testicles. Testicles feel seized and pulled forcibly upward; worse, right. Pressure in the perineum. Prostatic hypertrophy."
+  ],
+  "musculoskeletal_symptoms": [
+    "Sprained feeling in small of back. Cracking of vertebrć on raising head (Aloe, Nat c, Thuj). Restlessness. Rheumatic pain in shoulders. Fish-brine odor of sweat of heels."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Puls",
+    "Ars",
+    "Silic",
+    "Sepia"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/o/ol-an.htm",
+    "title": "OLEUM ANIMALE AETHEREUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:08:00.766Z"
+  },
+  "confidence_score": 0.8
+}

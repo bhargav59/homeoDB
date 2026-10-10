@@ -1,0 +1,56 @@
+{
+  "name": "NICCOLUM METALLICUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Metallic Nickel"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Cracking in cervical vertebræ when moving the head. Pain on top as from a nail. Pressure on vertex, in morning; worse till noon and in warm room. Stitches. Objects appear too large. Migraine; first on left side. Twitching of upper lip.",
+    "Hoarseness. Dry, hacking cough, with stitches in chest. Obliged to set up and hold head. Must put arms on thighs, when coughing."
+  ],
+  "guiding_symptoms": [
+    "Cracking in cervical vertebræ when moving the head. Pain on top as from a nail. Pressure on vertex, in morning; worse till noon and in warm room. Stitches. Objects appear too large. Migraine; first on left side. Twitching of upper lip.",
+    "Hoarseness. Dry, hacking cough, with stitches in chest. Obliged to set up and hold head. Must put arms on thighs, when coughing."
+  ],
+  "modalities": {
+    "worse": [
+      "periodically, every two weeks",
+      "yearly, forenoon"
+    ],
+    "better": [
+      "in evening"
+    ]
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Cracking in cervical vertebræ when moving the head. Pain on top as from a nail. Pressure on vertex, in morning; worse till noon and in warm room. Stitches. Objects appear too large. Migraine; first on left side. Twitching of upper lip."
+  ],
+  "respiratory_symptoms": [
+    "Hoarseness. Dry, hacking cough, with stitches in chest. Obliged to set up and hold head. Must put arms on thighs, when coughing."
+  ],
+  "gi_symptoms": [],
+  "urinary_symptoms": [
+    "Menses late, scanty, with great debility and burning in eyes. Profuse leucorrhœa; worse, after urinating (Mag mur, Plat); also worse after menses."
+  ],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [
+    "Itching all over, worse on neck, not relieved by scratching."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/n/nicc-met.htm",
+    "title": "NICCOLUM METALLICUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:06:01.979Z"
+  },
+  "confidence_score": 0.6799999999999999
+}

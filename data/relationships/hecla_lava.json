@@ -1,0 +1,20 @@
+{
+  "remedy_name": "HECLA LAVA",
+  "source_file": "raw_1772502089099.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/h/hecla.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Silica",
+      "Mercur",
+      "Phos",
+      "parts extremely sensitive to touch)"
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "parsed_at": "2026-03-03T15:23:37.487Z"
+}

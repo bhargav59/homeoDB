@@ -1,0 +1,62 @@
+{
+  "name": "WYETHIA HELENOIDES",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Poison-weed"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Sense of weight. Belching of wind alternating with hiccough. Nausea and vomiting.",
+    "Nervous, uneasy, depressed. Dizzy. Rush of blood to head. Sharp pain in forehead.",
+    "Dry, hacking cough, caused by tickling of the epiglottis. Burning sensation in the bronchial tubes. Tendency to get hoarse talking or singing; throat hot, dry. Dry asthma.",
+    "Pain in back; extends to end of spine. Pain right arm, stiffness of wrist and hand. Aching pains all over."
+  ],
+  "guiding_symptoms": [
+    "Sense of weight. Belching of wind alternating with hiccough. Nausea and vomiting.",
+    "Nervous, uneasy, depressed. Dizzy. Rush of blood to head. Sharp pain in forehead.",
+    "Dry, hacking cough, caused by tickling of the epiglottis. Burning sensation in the bronchial tubes. Tendency to get hoarse talking or singing; throat hot, dry. Dry asthma."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Nervous, uneasy, depressed. Dizzy. Rush of blood to head. Sharp pain in forehead."
+  ],
+  "respiratory_symptoms": [
+    "Dry, hacking cough, caused by tickling of the epiglottis. Burning sensation in the bronchial tubes. Tendency to get hoarse talking or singing; throat hot, dry. Dry asthma."
+  ],
+  "gi_symptoms": [
+    "Sense of weight. Belching of wind alternating with hiccough. Nausea and vomiting."
+  ],
+  "urinary_symptoms": [
+    "Pain in left ovary, shooting down to knee. Pain in uterus; could outline its contour."
+  ],
+  "musculoskeletal_symptoms": [
+    "Pain in back; extends to end of spine. Pain right arm, stiffness of wrist and hand. Aching pains all over."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [
+    "Chill at 11 am. Thirst for ice-water during chill. No thirst with heat. Profuse sweat all night. Terrific headache during sweat."
+  ],
+  "complementary_remedies": [
+    "Arum",
+    "Sang",
+    "Lach"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/w/wye.htm",
+    "title": "WYETHIA HELENOIDES - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:43:51.269Z"
+  },
+  "confidence_score": 0.8
+}

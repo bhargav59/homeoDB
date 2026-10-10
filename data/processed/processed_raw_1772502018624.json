@@ -1,0 +1,54 @@
+{
+  "name": "GUACO",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Mikania, Climbing Hemp Weed"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Pain in deltoid, shoulders, elbows, arms, and fingers. Pain about hip-joint. Legs heavy. Pain in ankle-joints and soles. Paralysis of lower extremities.",
+    "Pain between scapulæ, extending to forearm. Burning in nape of shoulders. Pain along spine; worse, bending. Weariness through hips and lumbar region."
+  ],
+  "guiding_symptoms": [
+    "Pain in deltoid, shoulders, elbows, arms, and fingers. Pain about hip-joint. Legs heavy. Pain in ankle-joints and soles. Paralysis of lower extremities.",
+    "Pain between scapulæ, extending to forearm. Burning in nape of shoulders. Pain along spine; worse, bending. Weariness through hips and lumbar region."
+  ],
+  "modalities": {
+    "worse": [
+      "from motion"
+    ],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [],
+  "urinary_symptoms": [
+    "Leucorrhœa copious, corroding, putrid, debilitating. Itching and smarting at night, as if fire were running out of parts.",
+    "Urine.--Increased, cloudy, phosphatic. Pain over region of bladder."
+  ],
+  "musculoskeletal_symptoms": [
+    "Pain in deltoid, shoulders, elbows, arms, and fingers. Pain about hip-joint. Legs heavy. Pain in ankle-joints and soles. Paralysis of lower extremities."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Oxal ac",
+    "Lathyr",
+    "Caust"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/g/gua.htm",
+    "title": "GUACO - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:40:18.624Z"
+  },
+  "confidence_score": 0.62
+}

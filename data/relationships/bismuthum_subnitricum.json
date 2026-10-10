@@ -1,0 +1,24 @@
+{
+  "remedy_name": "BISMUTHUM SUBNITRICUM",
+  "source_file": "raw_1772500019144.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/b/bism-sn.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      "Nux"
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Antimon",
+      "Ars",
+      "Bellad",
+      "Kreosot"
+    ],
+    "incompatible": [],
+    "antidotes": [
+      "Nux"
+    ]
+  },
+  "parsed_at": "2026-03-03T15:23:37.387Z"
+}

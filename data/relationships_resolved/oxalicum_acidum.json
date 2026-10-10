@@ -1,0 +1,77 @@
+{
+  "remedy_name": "OXALICUM ACIDUM",
+  "source_file": "raw_1772503925734.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      {
+        "original": "to poisoning of Oxal acid",
+        "resolved_name": "X",
+        "confidence": 0.8,
+        "method": "substring"
+      }
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Ars",
+        "resolved_name": "ARSENICUM ALBUM",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      },
+      {
+        "original": "Colch",
+        "resolved_name": "COLCHICUM",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      },
+      {
+        "original": "Arg",
+        "resolved_name": "ARGENTUM NITRICUM",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      },
+      {
+        "original": "Pic ac",
+        "resolved_name": "Pichi.",
+        "confidence": 0.55,
+        "method": "levenshtein_3"
+      },
+      {
+        "original": "Cicer arietinum-Chick-pea--(Lithiasis",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "jaundice",
+        "resolved_name": "Dr. Reckeweg R7, Homeopathic Medicines For Liver Disease, Homeopathic Medicines For Jaundice, Homeopathic Medicines For Gallbladder",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "liver affections",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "diuretic)",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": [
+      {
+        "original": "poisoning of Oxal acid",
+        "resolved_name": "X",
+        "confidence": 0.8,
+        "method": "substring"
+      }
+    ]
+  },
+  "resolved_at": "2026-03-11T01:50:10.592Z"
+}

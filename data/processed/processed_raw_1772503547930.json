@@ -1,0 +1,62 @@
+{
+  "name": "NATRIUM PHOSPHORICUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Phosphate of Sodium"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Sour eructations, sour vomiting, greenish diarrhśa. Spits mouthful of food.",
+    "Feels dull in the morning, full feeling and throbbing.",
+    "Rheumatism of the knee-joint.",
+    "Weariness; aching in wrists and finger-joints. Hamstrings sore. Synovial crepitation. Rheumatic arthritis."
+  ],
+  "guiding_symptoms": [
+    "Sour eructations, sour vomiting, greenish diarrhśa. Spits mouthful of food.",
+    "Feels dull in the morning, full feeling and throbbing.",
+    "Rheumatism of the knee-joint."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [
+    "Imagines, on waking at night, that pieces of furniture are persons; that the hears footsteps in next room. Fear."
+  ],
+  "head_symptoms": [
+    "Feels dull in the morning, full feeling and throbbing."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "Sour eructations, sour vomiting, greenish diarrhśa. Spits mouthful of food."
+  ],
+  "urinary_symptoms": [
+    "Emissions without dreams, with weakness in back and trembling in limbs. Desire without erection. Gonorrhśa."
+  ],
+  "musculoskeletal_symptoms": [
+    "Rheumatism of the knee-joint."
+  ],
+  "skin_symptoms": [
+    "Yellow. Itching in various parts, especially of ankles. Hives. Smooth, red, shining. Erysipelas. Feet icy cold in daytime, burn at night. Swelling of lymphatic glands."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Natrum lactic (rheumatism and gout",
+    "gouty concretions",
+    "rheumatism with diabetes"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/n/nat-p.htm",
+    "title": "NATRIUM PHOSPHORICUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:05:47.930Z"
+  },
+  "confidence_score": 0.8
+}

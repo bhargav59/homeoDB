@@ -1,0 +1,22 @@
+{
+  "remedy_name": "GINSENG QUINQUEFOLIUM",
+  "source_file": "raw_1772501923416.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/g/gins.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      "Gunpowder"
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Aral",
+      "Coca"
+    ],
+    "incompatible": [],
+    "antidotes": [
+      "d by Gunpowder"
+    ]
+  },
+  "parsed_at": "2026-03-03T15:23:37.479Z"
+}

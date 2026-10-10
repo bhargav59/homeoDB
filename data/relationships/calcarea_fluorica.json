@@ -1,0 +1,22 @@
+{
+  "remedy_name": "CALCAREA FLUORICA",
+  "source_file": "raw_1772500254044.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/c/calc-f.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Con",
+      "Lapis",
+      "Baryt mur",
+      "Hecla",
+      "Rhus",
+      "Cacodylate of Soda"
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "parsed_at": "2026-03-03T15:23:37.401Z"
+}

@@ -1,0 +1,39 @@
+{
+  "remedy_name": "CEREUS BONPLANDII",
+  "source_file": "raw_1772500631538.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Cactus",
+        "resolved_name": "CACTUS GRANDIFLORUS",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Spigel",
+        "resolved_name": "SPIGELIA",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      },
+      {
+        "original": "Kalmia",
+        "resolved_name": "KALMIA LATIFOLIA",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "wild anger and low morals",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:08.913Z"
+}

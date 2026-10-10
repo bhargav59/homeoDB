@@ -1,0 +1,59 @@
+{
+  "name": "CHININUM ARSENICOSUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Arsenite of Quinine"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Alternation of hyperacidity and decrease of acid. Hyperchlorhydria (Robinia; Arg nit; Orexine tannate). Thirst for water, yet it disturbs. Anorexia. Eggs produce diarrhśa.",
+    "Tired feeling. Head feels too full. Throbbing. Great anxiety. Great irritability. Vertigo; worse looking up. Dull, heavy headache, frontal and occipital. Darting pains running up into head.",
+    "Palpitation. Sensation as if heart stopped. Suffocative attacks, occurring in periodical paroxysms. Must have open air. Short of breath on ascending; cardiac dyspnśa; circulatory weakness after acute infections; early myocardial degeneration.",
+    "Weak limbs. Coldness of hands and feet, knees and limbs. Tearing pains."
+  ],
+  "guiding_symptoms": [
+    "Alternation of hyperacidity and decrease of acid. Hyperchlorhydria (Robinia; Arg nit; Orexine tannate). Thirst for water, yet it disturbs. Anorexia. Eggs produce diarrhśa.",
+    "Tired feeling. Head feels too full. Throbbing. Great anxiety. Great irritability. Vertigo; worse looking up. Dull, heavy headache, frontal and occipital. Darting pains running up into head.",
+    "Palpitation. Sensation as if heart stopped. Suffocative attacks, occurring in periodical paroxysms. Must have open air. Short of breath on ascending; cardiac dyspnśa; circulatory weakness after acute infections; early myocardial degeneration."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Tired feeling. Head feels too full. Throbbing. Great anxiety. Great irritability. Vertigo; worse looking up. Dull, heavy headache, frontal and occipital. Darting pains running up into head."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "Alternation of hyperacidity and decrease of acid. Hyperchlorhydria (Robinia; Arg nit; Orexine tannate). Thirst for water, yet it disturbs. Anorexia. Eggs produce diarrhśa."
+  ],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [
+    "Weak limbs. Coldness of hands and feet, knees and limbs. Tearing pains."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [
+    "Sleeplessness due to nervous causes (Single dose of 5th or 6th potency)."
+  ],
+  "fever_symptoms": [
+    "Continuous, with weakness. System depleted."
+  ],
+  "complementary_remedies": [
+    "Chininum",
+    "acid dyspepsia in chlorosis"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/c/chinin-a.htm",
+    "title": "CHININUM ARSENICOSUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:18:30.907Z"
+  },
+  "confidence_score": 0.8
+}

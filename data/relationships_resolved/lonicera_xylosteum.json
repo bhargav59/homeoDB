@@ -1,0 +1,21 @@
+{
+  "remedy_name": "LONICERA XYLOSTEUM",
+  "source_file": "raw_1772502996369.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "with violent outburst )",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:10.207Z"
+}

@@ -1,0 +1,68 @@
+{
+  "name": "FERRUM PHOSPHORICUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Phosphate of Iron"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Aversion to meat and milk. Desire for stimulants. Vomiting of undigested food. Vomiting of bright red blood. Sour eructations.",
+    "Soreness to touch, cold, noise jar. Rush of blood to head. Ill effects of sun-heat. Throbbing sensation. Vertigo. Headache better cold applications.",
+    "First stage of all inflammatory affections. Congestions of lungs. Hæmoptysis. Short, painful tickling cough. Croup. Hard, dry cough, with sore chest. Hoarseness. Expectoration of pure blood in pneumonia (Millefol). Cough better at night.",
+    "Palpitation; pulse rapid. First stage of cardiac diseases. Short, quick, soft pulse.",
+    "Stiff neck. Articular rheumatism. Crick in back. Rheumatic pain in shoulder; pains extend to chest and wrist. Whitlow. Palms hot. Hands swollen and painful."
+  ],
+  "guiding_symptoms": [
+    "Aversion to meat and milk. Desire for stimulants. Vomiting of undigested food. Vomiting of bright red blood. Sour eructations.",
+    "Soreness to touch, cold, noise jar. Rush of blood to head. Ill effects of sun-heat. Throbbing sensation. Vertigo. Headache better cold applications.",
+    "First stage of all inflammatory affections. Congestions of lungs. Hæmoptysis. Short, painful tickling cough. Croup. Hard, dry cough, with sore chest. Hoarseness. Expectoration of pure blood in pneumonia (Millefol). Cough better at night."
+  ],
+  "modalities": {
+    "worse": [
+      "at night and 4 to 6 pm",
+      "touch, jar, motion, right side"
+    ],
+    "better": [
+      "cold applications"
+    ]
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Soreness to touch, cold, noise jar. Rush of blood to head. Ill effects of sun-heat. Throbbing sensation. Vertigo. Headache better cold applications."
+  ],
+  "respiratory_symptoms": [
+    "First stage of all inflammatory affections. Congestions of lungs. Hæmoptysis. Short, painful tickling cough. Croup. Hard, dry cough, with sore chest. Hoarseness. Expectoration of pure blood in pneumonia (Millefol). Cough better at night."
+  ],
+  "gi_symptoms": [
+    "Aversion to meat and milk. Desire for stimulants. Vomiting of undigested food. Vomiting of bright red blood. Sour eructations."
+  ],
+  "urinary_symptoms": [
+    "Urine spurts with every cough. Incontinence. Irritation at neck of bladder. Polyuria. Diurnal enuresis."
+  ],
+  "musculoskeletal_symptoms": [
+    "Stiff neck. Articular rheumatism. Crick in back. Rheumatic pain in shoulder; pains extend to chest and wrist. Whitlow. Palms hot. Hands swollen and painful."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [
+    "Restless and sleepless. Anxious dreams. Night sweats of anæmia."
+  ],
+  "fever_symptoms": [
+    "Chill daily at 1 pm. All catarrhal and inflammatory fevers; first stage."
+  ],
+  "complementary_remedies": [
+    "(Oxygenoid Constitution"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/f/ferr-p.htm",
+    "title": "FERRUM PHOSPHORICUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:34:46.179Z"
+  },
+  "confidence_score": 0.8
+}

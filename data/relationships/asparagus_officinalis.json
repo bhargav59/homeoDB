@@ -1,0 +1,23 @@
+{
+  "remedy_name": "ASPARAGUS OFFICINALIS",
+  "source_file": "raw_1772433402756.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/a/aspar.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      "Acon"
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Althae-Marshmallow--(contains asparagin",
+      "irritable bladder",
+      "throat and bronchi)"
+    ],
+    "incompatible": [],
+    "antidotes": [
+      "Acon"
+    ]
+  },
+  "parsed_at": "2026-03-03T15:23:37.372Z"
+}

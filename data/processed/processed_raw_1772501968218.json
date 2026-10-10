@@ -1,0 +1,49 @@
+{
+  "name": "GOSSYPIUM HERBACEUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Cotton-plant"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Nausea, with inclination to vomit before breakfast. Anorexia, with uneasy feeling at scrobiculum at time of menses.",
+    "Pain in cervical region with tendency for head to draw backward with nervousness."
+  ],
+  "guiding_symptoms": [
+    "Nausea, with inclination to vomit before breakfast. Anorexia, with uneasy feeling at scrobiculum at time of menses.",
+    "Pain in cervical region with tendency for head to draw backward with nervousness."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Pain in cervical region with tendency for head to draw backward with nervousness."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "Nausea, with inclination to vomit before breakfast. Anorexia, with uneasy feeling at scrobiculum at time of menses."
+  ],
+  "urinary_symptoms": [
+    "Labia swollen and itching. Intermittent pain in ovaries. Retained placenta. Tumor of the breast with swelling of axillary glands. Morning sickness, with sensitive uterine region. Suppressed menstruation. Menses too watery. Backache, weight and dragging in pelvis. Uterine sub-involution and fibroids, with gastric pain and debility."
+  ],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/g/goss.htm",
+    "title": "GOSSYPIUM HERBACEUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:39:28.218Z"
+  },
+  "confidence_score": 0.5
+}

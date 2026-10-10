@@ -1,0 +1,47 @@
+{
+  "name": "LAC VACCINUM DEFLORATUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Skimmed Milk"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Despondent. Pain begins in forehead to occiput, in morning on rising. Intense throbbing, with nausea, vomiting, blindness, and obstinate constipation; worse, noise, light, motion, during menses, with great prostration, and better by pressure and bandaging head tightly."
+  ],
+  "guiding_symptoms": [
+    "Despondent. Pain begins in forehead to occiput, in morning on rising. Intense throbbing, with nausea, vomiting, blindness, and obstinate constipation; worse, noise, light, motion, during menses, with great prostration, and better by pressure and bandaging head tightly."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Despondent. Pain begins in forehead to occiput, in morning on rising. Intense throbbing, with nausea, vomiting, blindness, and obstinate constipation; worse, noise, light, motion, during menses, with great prostration, and better by pressure and bandaging head tightly."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "Constipation. Stools hard, large, with great straining; painful, lacerating anus."
+  ],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Colostrum (Diarrhśa in infants"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/l/lac-d.htm",
+    "title": "LAC VACCINUM DEFLORATUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:52:23.205Z"
+  },
+  "confidence_score": 0.44
+}

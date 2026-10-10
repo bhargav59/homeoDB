@@ -1,0 +1,47 @@
+{
+  "remedy_name": "EUPHORBIUM OFFICINARUM",
+  "source_file": "raw_1772501574705.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      {
+        "original": "Camph",
+        "resolved_name": "CAMPHORA",
+        "confidence": 0.8,
+        "method": "substring"
+      }
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "illusion of smell",
+        "resolved_name": "MEL CUM SALE",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "odor of mice",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "ulcers",
+        "resolved_name": "Ulmus Fulva.",
+        "confidence": 0.55,
+        "method": "levenshtein_3"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": [
+      {
+        "original": "Camph",
+        "resolved_name": "CAMPHORA",
+        "confidence": 0.8,
+        "method": "substring"
+      }
+    ]
+  },
+  "resolved_at": "2026-03-11T01:50:09.607Z"
+}

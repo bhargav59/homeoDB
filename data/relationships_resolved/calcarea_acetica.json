@@ -1,0 +1,39 @@
+{
+  "remedy_name": "CALCAREA ACETICA",
+  "source_file": "raw_1772500230164.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Brom",
+        "resolved_name": "AMMONIUM BROMATUM",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Borax",
+        "resolved_name": "BORAX VENETA",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "also Calc oxal",
+        "resolved_name": "X",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "in excruciating pains of open cancer",
+        "resolved_name": "X",
+        "confidence": 0.8,
+        "method": "substring"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:08.758Z"
+}

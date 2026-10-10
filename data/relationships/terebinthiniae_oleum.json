@@ -1,0 +1,24 @@
+{
+  "remedy_name": "TEREBINTHINIAE OLEUM",
+  "source_file": "raw_1772505351110.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/t/ter.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      "Phos"
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Alumen",
+      "Secale",
+      "Canth",
+      "Nit ac"
+    ],
+    "incompatible": [],
+    "antidotes": [
+      "Phos"
+    ]
+  },
+  "parsed_at": "2026-03-03T15:23:37.754Z"
+}

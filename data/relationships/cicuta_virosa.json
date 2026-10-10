@@ -1,0 +1,23 @@
+{
+  "remedy_name": "CICUTA VIROSA",
+  "source_file": "raw_1772500808617.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/c/cic.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      "Opium"
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "the most prominent symptoms being",
+      "Falls unconscious",
+      "tetanic or clonic convulsions"
+    ],
+    "incompatible": [],
+    "antidotes": [
+      "Opium"
+    ]
+  },
+  "parsed_at": "2026-03-03T15:23:37.429Z"
+}

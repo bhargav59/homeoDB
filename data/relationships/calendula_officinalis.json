@@ -1,0 +1,31 @@
+{
+  "remedy_name": "CALENDULA OFFICINALIS",
+  "source_file": "raw_1772500304471.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/c/calen.htm",
+  "relationships": {
+    "complementary": [
+      "Hepar"
+    ],
+    "antidoted_by": [
+      "Chelidon"
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Hamamel",
+      "Hyperic",
+      "Symph",
+      "Arn",
+      "in deafness: Ferr pic",
+      "Kal iod",
+      "Calc",
+      "Mag c",
+      "Graph"
+    ],
+    "incompatible": [],
+    "antidotes": [
+      "Chelidon"
+    ]
+  },
+  "parsed_at": "2026-03-03T15:23:37.404Z"
+}

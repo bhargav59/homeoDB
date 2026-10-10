@@ -1,0 +1,21 @@
+{
+  "remedy_name": "Apocynum Cannabinum.",
+  "source_file": "raw_1772507545732_clarke_dictionary_w3.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Apoc",
+        "resolved_name": "APOCYNUM CANNABINUM",
+        "confidence": 0.8,
+        "method": "substring"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:08.521Z"
+}

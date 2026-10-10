@@ -1,0 +1,19 @@
+{
+  "remedy_number": "R6",
+  "remedy_name": "Influenza Drops",
+  "ingredients": [
+    "Aconitum D4",
+    "Baptisia D4",
+    "Bryonia D4",
+    "Camphora D3",
+    "Causticum D6",
+    "Dulcamara D4",
+    "Eupatorium perfoliatum D3",
+    "Ferrum phosphoricum D6",
+    "Gelsemium D4",
+    "Sabadilla D6",
+    "Tussilago farfara D4"
+  ],
+  "source": "Compiled from reckeweg-india.com, 1mg.com, medikosh.com references",
+  "parsed_at": "2026-03-03T15:30:15.254Z"
+}

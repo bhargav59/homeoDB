@@ -1,0 +1,18 @@
+{
+  "remedy_number": "R1",
+  "remedy_name": "Inflammation Drops",
+  "ingredients": [
+    "Apis mellifica D4",
+    "Barium chloratum D6",
+    "Belladonna D4",
+    "Calcium jodatum D4",
+    "Hepar sulfuris D12",
+    "Kalium bichromicum D4",
+    "Lachesis D12",
+    "Marum verum D6",
+    "Mercurius sublimatus corrosivus D6",
+    "Phytolacca D4"
+  ],
+  "source": "Compiled from reckeweg-india.com, 1mg.com, medikosh.com references",
+  "parsed_at": "2026-03-03T15:30:15.410Z"
+}

@@ -1,0 +1,26 @@
+{
+  "remedy_name": "CADMIUM SULPHURATUM",
+  "source_file": "raw_1772500175842.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/c/cadm-s.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Cadmium oxide",
+      "Cad brom (pain and burning in stomach",
+      "and vomiting)",
+      "constipation frequent desire",
+      "tenesmus",
+      "abdomen bloated)",
+      "Zinc",
+      "Ars",
+      "Carbo",
+      "Verat"
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "parsed_at": "2026-03-03T15:23:37.397Z"
+}

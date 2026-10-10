@@ -1,0 +1,69 @@
+{
+  "name": "XEROPHYLLUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Tamalpais Lily, Basket Grass Flower"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Feels full and heavy. Eructations sour; offensive, an hour after luncheon and dinner. Vomiting at 2 pm.",
+    "Feels full, stuffed up, pain across forehead and above eyes. Great pressure at root of nose. Bewildered. Loss of consciousness. Pulsating headache.",
+    "Posterior nares raw; discharge thick, yellow mucus. Sneezing. Trachea sore; lumps feel constricted.",
+    "Muscular lameness, trembling. Pain in knees. Limbs feel stiff (Rhus).",
+    "Feels hot from sacrum to scapulć. Backache, extending down legs. Pain over kidneys. Heat deep in spine."
+  ],
+  "guiding_symptoms": [
+    "Feels full and heavy. Eructations sour; offensive, an hour after luncheon and dinner. Vomiting at 2 pm.",
+    "Feels full, stuffed up, pain across forehead and above eyes. Great pressure at root of nose. Bewildered. Loss of consciousness. Pulsating headache.",
+    "Posterior nares raw; discharge thick, yellow mucus. Sneezing. Trachea sore; lumps feel constricted."
+  ],
+  "modalities": {
+    "worse": [
+      "application of cold water, in afternoon and evening"
+    ],
+    "better": [
+      "application of hot water, in morning, moving affected part"
+    ]
+  },
+  "mind_symptoms": [
+    "Dull, cannot concentrate mind for study; forgets names; writes last letters of words first; misspells common words."
+  ],
+  "head_symptoms": [
+    "Feels full, stuffed up, pain across forehead and above eyes. Great pressure at root of nose. Bewildered. Loss of consciousness. Pulsating headache."
+  ],
+  "respiratory_symptoms": [
+    "Posterior nares raw; discharge thick, yellow mucus. Sneezing. Trachea sore; lumps feel constricted."
+  ],
+  "gi_symptoms": [
+    "Feels full and heavy. Eructations sour; offensive, an hour after luncheon and dinner. Vomiting at 2 pm."
+  ],
+  "urinary_symptoms": [
+    "Bearing-down sensation. Vulva inflamed, with furious itching. Increased sexual desire, with ovarian and uterine pains and leucorrhśa."
+  ],
+  "musculoskeletal_symptoms": [
+    "Muscular lameness, trembling. Pain in knees. Limbs feel stiff (Rhus)."
+  ],
+  "skin_symptoms": [
+    "Erythema, with vesication and intense itching, stinging, and burning. Blisters, little lumps. Skin rough and cracked; feels like leather. Dermatitis, especially around knees. Inflammation resembling poison-oak. Inguinal glands and behind knee swollen."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Rhus",
+    "Anacard",
+    "Grindelia"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/x/xero.htm",
+    "title": "XEROPHYLLUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:07:53.003Z"
+  },
+  "confidence_score": 0.8
+}

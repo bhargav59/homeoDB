@@ -1,0 +1,27 @@
+{
+  "remedy_name": "ONISCUS ASELLUS",
+  "source_file": "raw_1772503569296_w6.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Pothos foet",
+        "resolved_name": "Dr. Reckeweg Pothos Foet. Dilutions, Buy Dr. Reckeweg Pothos Foet. Online",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Canth",
+        "resolved_name": "CANTHARIS VESICATORIA",
+        "confidence": 0.8,
+        "method": "substring"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:10.503Z"
+}

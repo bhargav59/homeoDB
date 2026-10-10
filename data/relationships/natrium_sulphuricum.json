@@ -1,0 +1,19 @@
+{
+  "remedy_name": "NATRIUM SULPHURICUM",
+  "source_file": "raw_1772503558492.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/n/nat-s.htm",
+  "relationships": {
+    "complementary": [
+      "ary"
+    ],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Natrum succinate (5 gr every 3 hours"
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "parsed_at": "2026-03-03T15:23:37.559Z"
+}

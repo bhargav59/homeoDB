@@ -1,0 +1,65 @@
+{
+  "name": "ARGENTUM METALLICUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Silver"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Dull paroxysmal neuralgia over left side, gradually increasing and ceasing suddenly. Scalp very tender to touch. Vertigo, with intoxicated feeling, on looking at running water. Head feels empty, hollow. Eyelids red and thick. Exhausting coryza, with sneezing. Pain in facial bones. Pain between left eye and frontal eminence.",
+    "Hoarseness Aphonia. Raw, sore feeling when coughing. Total loss of voice of professional singers. Larynx feels sore and raw. Easy expectoration, looking like boiled starch. Feeling of raw spot near supra sternal fossa. Worse from use of voice. Cough from laughing. Hectic fever at noon. On reading aloud, must hem and hawk. Great weakness of chest; worse left side. Alteration in timbre of voice. Pain in left lower ribs.",
+    "Rheumatic affections of joints, especially elbow and knee. Legs weak and trembling, worse descending stairs. Involuntary contractions of fingers, partial paralysis of forearm; writer's cramp. Swelling of ankles.",
+    "Severe backache; must walk bent, with oppression of chest.",
+    "Urine.--Diuresis. Urine profuse, turbid, sweet odor. Frequent urination. Polyuria."
+  ],
+  "guiding_symptoms": [
+    "Dull paroxysmal neuralgia over left side, gradually increasing and ceasing suddenly. Scalp very tender to touch. Vertigo, with intoxicated feeling, on looking at running water. Head feels empty, hollow. Eyelids red and thick. Exhausting coryza, with sneezing. Pain in facial bones. Pain between left eye and frontal eminence.",
+    "Hoarseness Aphonia. Raw, sore feeling when coughing. Total loss of voice of professional singers. Larynx feels sore and raw. Easy expectoration, looking like boiled starch. Feeling of raw spot near supra sternal fossa. Worse from use of voice. Cough from laughing. Hectic fever at noon. On reading aloud, must hem and hawk. Great weakness of chest; worse left side. Alteration in timbre of voice. Pain in left lower ribs.",
+    "Rheumatic affections of joints, especially elbow and knee. Legs weak and trembling, worse descending stairs. Involuntary contractions of fingers, partial paralysis of forearm; writer's cramp. Swelling of ankles."
+  ],
+  "modalities": {
+    "worse": [
+      "from touch, toward noon"
+    ],
+    "better": [
+      "in open air",
+      "cough at night when lying down (opposite Hyoscy)"
+    ]
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Dull paroxysmal neuralgia over left side, gradually increasing and ceasing suddenly. Scalp very tender to touch. Vertigo, with intoxicated feeling, on looking at running water. Head feels empty, hollow. Eyelids red and thick. Exhausting coryza, with sneezing. Pain in facial bones. Pain between left eye and frontal eminence."
+  ],
+  "respiratory_symptoms": [
+    "Hoarseness Aphonia. Raw, sore feeling when coughing. Total loss of voice of professional singers. Larynx feels sore and raw. Easy expectoration, looking like boiled starch. Feeling of raw spot near supra sternal fossa. Worse from use of voice. Cough from laughing. Hectic fever at noon. On reading aloud, must hem and hawk. Great weakness of chest; worse left side. Alteration in timbre of voice. Pain in left lower ribs."
+  ],
+  "gi_symptoms": [],
+  "urinary_symptoms": [
+    "Crushed pain in testicles. Seminal emissions, without sexual excitement. Frequent micturation with burning."
+  ],
+  "musculoskeletal_symptoms": [
+    "Rheumatic affections of joints, especially elbow and knee. Legs weak and trembling, worse descending stairs. Involuntary contractions of fingers, partial paralysis of forearm; writer's cramp. Swelling of ankles."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Selen",
+    "Alum",
+    "Platina",
+    "Stannum"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/a/arg-met.htm",
+    "title": "ARGENTUM METALLICUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-02T06:32:59.512Z"
+  },
+  "confidence_score": 0.8
+}

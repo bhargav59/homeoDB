@@ -1,0 +1,26 @@
+{
+  "remedy_name": "IRIS VERSICOLOR",
+  "source_file": "raw_1772502428280.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/i/iris.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      "Nux"
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Iris florentina-Orris-root--(delirium",
+      "convulsions",
+      "and paralysis)",
+      "Iris factissima",
+      "Iris germanica-Blue Garden Iris--",
+      "Iris tenax-I"
+    ],
+    "incompatible": [],
+    "antidotes": [
+      "Nux"
+    ]
+  },
+  "parsed_at": "2026-03-03T15:23:37.501Z"
+}

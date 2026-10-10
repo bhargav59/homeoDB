@@ -1,0 +1,45 @@
+{
+  "remedy_name": "POPULUS TREMULOIDES",
+  "source_file": "raw_1772504283608.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Nux",
+        "resolved_name": "NUX MOSCHATA",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "China",
+        "resolved_name": "CHINA OFFICINALIS",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Cornus flor",
+        "resolved_name": "CORNUS CIRCINATA",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Cannabis",
+        "resolved_name": "CANNABIS INDICA",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Cantharis",
+        "resolved_name": "CANTHARIS VESICATORIA",
+        "confidence": 1,
+        "method": "exact"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:10.838Z"
+}

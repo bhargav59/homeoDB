@@ -1,0 +1,75 @@
+{
+  "name": "BELLADONNA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Deadly Nightshade"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Loss of appetite. Averse to meat and milk. Spasmodic pain in epigastrium. Constriction; pain runs to spine. Nausea and vomiting. Great thirst for cold water. Spasms of stomach. Empty retching. Abhorrence of liquids. Spasmodic hiccough. Dread of drinking. Uncontrollable vomiting.",
+    "Vertigo, with falling to left side or backwards. Sensitive to least contact. Much throbbing and heat. Palpitation reverberating in head with labored breathing. Pain; fullness, especially in forehead, also occiput, and temples. Headache from suppressed catarrhal flow. Sudden outcries. Pain worse light, noise, jar, lying down and in afternoon; better by pressure and semi-erect posture. Boring of head into pillow; drawn backward and rolls from side to side. Constant moaning. Hair splits; is dry and comes out. Headache worse on right side and when lying down; ill effects, colds, etc; from having hair cut.",
+    "Drying in nose, fauces, larynx, and trachea. Tickling, short, dry cough; worse at night. Larynx feels sore. Respiration oppressed, quick, unequal. Cheyne-Stokes respiration (Cocaine; Opium). Hoarse; loss of voice. Painless hoarseness. Cough with pain in left hip. Barking cough, whooping cough, with pain in stomach before attack, with expectoration of blood. Stitches in chest when coughing. Larynx very painful; feels as if a foreign body were in it, with cough. High, piping voice. Moaning at every breath.",
+    "Violent palpitation, reverberating in head, with labored breathing. Palpitation from least exertion. Throbbing all through body. Dichrotism. Heart seemed too large. Rapid but weakened pulse.",
+    "Shooting pains along limbs. Joints swollen, red, shining, with red streaks radiating. Tottering gait. Shifting rheumatic pains. Phlegmasia alba dolens. Jerking limbs. Spasms. Involuntary limping. Cold extremities.",
+    "Stiff neck. Swelling of glands of neck. Pain in nape, as if it would break. Pressure on dorsal region most painful. Lumbago, with pain in hips and thighs."
+  ],
+  "guiding_symptoms": [
+    "Loss of appetite. Averse to meat and milk. Spasmodic pain in epigastrium. Constriction; pain runs to spine. Nausea and vomiting. Great thirst for cold water. Spasms of stomach. Empty retching. Abhorrence of liquids. Spasmodic hiccough. Dread of drinking. Uncontrollable vomiting.",
+    "Vertigo, with falling to left side or backwards. Sensitive to least contact. Much throbbing and heat. Palpitation reverberating in head with labored breathing. Pain; fullness, especially in forehead, also occiput, and temples. Headache from suppressed catarrhal flow. Sudden outcries. Pain worse light, noise, jar, lying down and in afternoon; better by pressure and semi-erect posture. Boring of head into pillow; drawn backward and rolls from side to side. Constant moaning. Hair splits; is dry and comes out. Headache worse on right side and when lying down; ill effects, colds, etc; from having hair cut.",
+    "Drying in nose, fauces, larynx, and trachea. Tickling, short, dry cough; worse at night. Larynx feels sore. Respiration oppressed, quick, unequal. Cheyne-Stokes respiration (Cocaine; Opium). Hoarse; loss of voice. Painless hoarseness. Cough with pain in left hip. Barking cough, whooping cough, with pain in stomach before attack, with expectoration of blood. Stitches in chest when coughing. Larynx very painful; feels as if a foreign body were in it, with cough. High, piping voice. Moaning at every breath."
+  ],
+  "modalities": {
+    "worse": [
+      "touch, jar, noise, draught, after noon, lying down"
+    ],
+    "better": [
+      "semi-erect"
+    ]
+  },
+  "mind_symptoms": [
+    "Patient lives in a world of his own, engrossed by specters and visions and oblivious to surrounding realities. While the retina is insensible to actual objects, a host of visual hallucinations throng about him and come to him from within. He is acutely alive and crazed by a flood of subjective visual impressions and fantastic illusions. Hallucinations; sees monsters, hideous faces. Delirium; frightful images; furious; rages, bites, strikes; desire to escape. Loss of consciousness. Disinclined to talk. Perversity, with tears. Acuteness of all senses. Changeableness."
+  ],
+  "head_symptoms": [
+    "Vertigo, with falling to left side or backwards. Sensitive to least contact. Much throbbing and heat. Palpitation reverberating in head with labored breathing. Pain; fullness, especially in forehead, also occiput, and temples. Headache from suppressed catarrhal flow. Sudden outcries. Pain worse light, noise, jar, lying down and in afternoon; better by pressure and semi-erect posture. Boring of head into pillow; drawn backward and rolls from side to side. Constant moaning. Hair splits; is dry and comes out. Headache worse on right side and when lying down; ill effects, colds, etc; from having hair cut."
+  ],
+  "respiratory_symptoms": [
+    "Drying in nose, fauces, larynx, and trachea. Tickling, short, dry cough; worse at night. Larynx feels sore. Respiration oppressed, quick, unequal. Cheyne-Stokes respiration (Cocaine; Opium). Hoarse; loss of voice. Painless hoarseness. Cough with pain in left hip. Barking cough, whooping cough, with pain in stomach before attack, with expectoration of blood. Stitches in chest when coughing. Larynx very painful; feels as if a foreign body were in it, with cough. High, piping voice. Moaning at every breath."
+  ],
+  "gi_symptoms": [
+    "Loss of appetite. Averse to meat and milk. Spasmodic pain in epigastrium. Constriction; pain runs to spine. Nausea and vomiting. Great thirst for cold water. Spasms of stomach. Empty retching. Abhorrence of liquids. Spasmodic hiccough. Dread of drinking. Uncontrollable vomiting."
+  ],
+  "urinary_symptoms": [
+    "Testicles hard, drawn up, inflamed. Nocturnal sweat of genitals. Flow of prostatic fluid. Desire diminished."
+  ],
+  "musculoskeletal_symptoms": [
+    "Shooting pains along limbs. Joints swollen, red, shining, with red streaks radiating. Tottering gait. Shifting rheumatic pains. Phlegmasia alba dolens. Jerking limbs. Spasms. Involuntary limping. Cold extremities."
+  ],
+  "skin_symptoms": [
+    "Dry and hot; swollen, sensitive; burns scarlet, smooth. Eruption like scarlatina, suddenly spreading. Erythema; pustules on face. Glands swollen, tender, red. Boils. Acne rosacea. Suppurative wounds. Alternate redness and paleness of the skin. Indurations after inflammations. Erysipelas."
+  ],
+  "sleep_symptoms": [
+    "Restless, crying out, gritting of teeth. Kept awake by pulsation of blood-vessels. Screams out in sleep. Sleeplessness, with drowsiness. Starting when closing the eyes or during sleep. Sleeps with hands under head (Ars; Plat)."
+  ],
+  "fever_symptoms": [
+    "A high feverish state with comparative absence of toxæmia. Burning, pungent, steaming, heat. Feet icy cold. Superficial blood-vessels, distended. Perspiration dry only on head. No thirst with fever."
+  ],
+  "complementary_remedies": [
+    "Sanguisorba officinals 2x-6x",
+    "a member of the Rosaceæ family",
+    "(Profuse",
+    "long-lasting menses"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/b/bell.htm",
+    "title": "BELLADONNA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:05:43.539Z"
+  },
+  "confidence_score": 0.8
+}

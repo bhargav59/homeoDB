@@ -1,0 +1,53 @@
+{
+  "name": "SUMBULUS MOSCHATUS",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Musk-root"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Emotional and fidgety. Dull in morning, clear in evening. Mistakes in writing and adding. Comedones. Tenacious, yellow, mucus in nose.",
+    "Nervous palpitation. Neuralgia around left breast and left hypochondriac region. Cardiac asthma. Aching in left arm, heavy, numb an weary. Loses breath on any exertion. Pulse irregular."
+  ],
+  "guiding_symptoms": [
+    "Emotional and fidgety. Dull in morning, clear in evening. Mistakes in writing and adding. Comedones. Tenacious, yellow, mucus in nose.",
+    "Nervous palpitation. Neuralgia around left breast and left hypochondriac region. Cardiac asthma. Aching in left arm, heavy, numb an weary. Loses breath on any exertion. Pulse irregular."
+  ],
+  "modalities": {
+    "worse": [
+      "active exercise",
+      "left side"
+    ],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Emotional and fidgety. Dull in morning, clear in evening. Mistakes in writing and adding. Comedones. Tenacious, yellow, mucus in nose."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [],
+  "urinary_symptoms": [
+    "Oily pellicle on surface of urine."
+  ],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Asaf",
+    "Mosch"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/s/sumb.htm",
+    "title": "SUMBULUS MOSCHATUS - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:07:19.395Z"
+  },
+  "confidence_score": 0.6799999999999999
+}

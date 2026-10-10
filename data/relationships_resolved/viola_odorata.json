@@ -1,0 +1,135 @@
+{
+  "remedy_name": "VIOLA ODORATA",
+  "source_file": "raw_1772505788601.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Ulmus (formication in feet",
+        "resolved_name": "FORMICA RUFA",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "numb",
+        "resolved_name": "NUX MOSCHATA",
+        "confidence": 0.7,
+        "method": "levenshtein_2"
+      },
+      {
+        "original": "creeping pain in legs and feet",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "rheumatic pains above wrists",
+        "resolved_name": "RHEUM PALMATUM",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "numbness",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "tingling",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "Chenopodium (ears",
+        "resolved_name": "CHENOPODIUM ANTHELMINTICUM",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "chronic otitis media",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "progressive deafness to the voice",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "buzzing",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "absent or deficient bone conduction",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "a consciousness of the ear",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "hearing better for shrill",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "high-pitched sounds than for low ones)",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "Aur",
+        "resolved_name": "AURUM METALLICUM",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      },
+      {
+        "original": "Puls",
+        "resolved_name": "PULSATILLA",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      },
+      {
+        "original": "Sep",
+        "resolved_name": "SEPIA",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      },
+      {
+        "original": "Ign",
+        "resolved_name": "IGNATIA AMARA",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      },
+      {
+        "original": "Cina",
+        "resolved_name": "CINA MARITIMA",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Cauloph",
+        "resolved_name": "CAULOPHYLLUM THALICTROIDES",
+        "confidence": 0.8,
+        "method": "substring"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:11.745Z"
+}

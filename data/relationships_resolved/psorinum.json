@@ -1,0 +1,28 @@
+{
+  "remedy_name": "PSORINUM",
+  "source_file": "raw_1772504344509.json",
+  "relationships": {
+    "complementary": [
+      {
+        "original": "Sulphur",
+        "resolved_name": "SULPHUR",
+        "confidence": 1,
+        "method": "exact"
+      }
+    ],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Calcarea and Natrum ars",
+        "resolved_name": "CALCAREA CARBONICA",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:10.889Z"
+}

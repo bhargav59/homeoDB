@@ -1,0 +1,19 @@
+{
+  "remedy_name": "SARRACENIA PURPUREA",
+  "source_file": "raw_1772504769931.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/s/sarr.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Tartar em",
+      "Variol",
+      "Maland"
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "parsed_at": "2026-03-03T15:23:37.725Z"
+}

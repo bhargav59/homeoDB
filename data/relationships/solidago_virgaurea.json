@@ -1,0 +1,19 @@
+{
+  "remedy_name": "SOLIDAGO VIRGAUREA",
+  "source_file": "raw_1772504959010.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/s/solid.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      "poison of Golden-rod"
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [],
+    "incompatible": [],
+    "antidotes": [
+      "poison of Golden-rod"
+    ]
+  },
+  "parsed_at": "2026-03-03T15:23:37.734Z"
+}

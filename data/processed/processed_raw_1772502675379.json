@@ -1,0 +1,63 @@
+{
+  "name": "KALMIA LATIFOLIA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Mountain Laurel"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Warm, glowing sensation in epigastrium. Nausea; vomiting. Pain in pit of stomach; worse by bending forward; relieved by sitting erect. Bilious attacks, with nausea, vertigo, and headache. Sensation of something being pressed under the epigastrium.",
+    "Vertigo; worse stooping. Confusion of brain. Pain in front and temporal region from head to nape and to teeth; from cardiac origin.",
+    "Weak, slow pulse (Dig; Apoc can). Fluttering of heart, with anxiety. Palpitation; worse leaning forward. Gouty and rheumatic metastasis of heart. Tachycardia, with pain (Thyroid). Tobacco heart. Dyspnśa and pressure from epigastrium toward the heart. Sharp pains take away the breath. Shooting through chest above heart into shoulder-blades. Frequent pulse. Heart's action tumultuous, rapid and visible. Paroxysms of anguish around heart.",
+    "Deltoid rheumatism especially right. Pains from hips to knees and feet. Pains affect a large part of a limb, or several joints, and pass through quickly. Weakness, numbness, pricking, and sense of coldness in limbs. Pains along ulnar nerve, index finger. Joints red, hot, swollen. Tingling and numbness of left arm.",
+    "Pain from neck down arm; in upper three dorsal vertebrć extending to shoulder-blade. Pain down back, as if it would break; in localized regions of spine; through shoulders. Lumbar pains, of nervous origin."
+  ],
+  "guiding_symptoms": [
+    "Warm, glowing sensation in epigastrium. Nausea; vomiting. Pain in pit of stomach; worse by bending forward; relieved by sitting erect. Bilious attacks, with nausea, vertigo, and headache. Sensation of something being pressed under the epigastrium.",
+    "Vertigo; worse stooping. Confusion of brain. Pain in front and temporal region from head to nape and to teeth; from cardiac origin.",
+    "Weak, slow pulse (Dig; Apoc can). Fluttering of heart, with anxiety. Palpitation; worse leaning forward. Gouty and rheumatic metastasis of heart. Tachycardia, with pain (Thyroid). Tobacco heart. Dyspnśa and pressure from epigastrium toward the heart. Sharp pains take away the breath. Shooting through chest above heart into shoulder-blades. Frequent pulse. Heart's action tumultuous, rapid and visible. Paroxysms of anguish around heart."
+  ],
+  "modalities": {
+    "worse": [
+      "leaning forward (opposite, Kali carb)",
+      "looking down",
+      "motion, open air"
+    ],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Vertigo; worse stooping. Confusion of brain. Pain in front and temporal region from head to nape and to teeth; from cardiac origin."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "Warm, glowing sensation in epigastrium. Nausea; vomiting. Pain in pit of stomach; worse by bending forward; relieved by sitting erect. Bilious attacks, with nausea, vertigo, and headache. Sensation of something being pressed under the epigastrium."
+  ],
+  "urinary_symptoms": [
+    "Frequent, with sharp pains in lumbar region. Post-scarlatinal nephritis."
+  ],
+  "musculoskeletal_symptoms": [
+    "Deltoid rheumatism especially right. Pains from hips to knees and feet. Pains affect a large part of a limb, or several joints, and pass through quickly. Weakness, numbness, pricking, and sense of coldness in limbs. Pains along ulnar nerve, index finger. Joints red, hot, swollen. Tingling and numbness of left arm."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [
+    "Sleepless, wakes very early in morning."
+  ],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Kalmia contains Arbutin g v"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/k/kalm.htm",
+    "title": "KALMIA LATIFOLIA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:51:15.379Z"
+  },
+  "confidence_score": 0.8
+}

@@ -1,0 +1,19 @@
+{
+  "remedy_name": "BERBERIS VULGARIS",
+  "source_file": "raw_1772499986243.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/b/berb.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      "Camphor"
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [],
+    "incompatible": [],
+    "antidotes": [
+      "Camphor"
+    ]
+  },
+  "parsed_at": "2026-03-03T15:23:37.384Z"
+}

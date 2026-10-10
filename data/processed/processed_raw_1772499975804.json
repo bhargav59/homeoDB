@@ -1,0 +1,58 @@
+{
+  "name": "BENZOLUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Benzol, C6, H6"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Sense of falling through bed and floor. Pains from below upward. Tired and nervous.",
+    "Frontal headache to root of nose. Dizzy. Pressing feeling in head. Right sided headache.",
+    "Heavy limbs, cold legs, exaggerated knee-jerk. Pains from below upward."
+  ],
+  "guiding_symptoms": [
+    "Sense of falling through bed and floor. Pains from below upward. Tired and nervous.",
+    "Frontal headache to root of nose. Dizzy. Pressing feeling in head. Right sided headache.",
+    "Heavy limbs, cold legs, exaggerated knee-jerk. Pains from below upward."
+  ],
+  "modalities": {
+    "worse": [
+      "at night"
+    ],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Sense of falling through bed and floor. Pains from below upward. Tired and nervous.",
+    "Frontal headache to root of nose. Dizzy. Pressing feeling in head. Right sided headache."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [],
+  "urinary_symptoms": [
+    "Swelling of right testicle. Severe pain in testicles. Itching of scrotum. Profuse urination."
+  ],
+  "musculoskeletal_symptoms": [
+    "Heavy limbs, cold legs, exaggerated knee-jerk. Pains from below upward."
+  ],
+  "skin_symptoms": [
+    "Eruption like measles. Perspiration on side not lain upon. Itching all over back."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Benzin"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/b/benzol.htm",
+    "title": "BENZOLUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:06:15.804Z"
+  },
+  "confidence_score": 0.74
+}

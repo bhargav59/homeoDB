@@ -1,0 +1,69 @@
+{
+  "name": "KALIUM IODATUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Iodide of Potassium"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Saliva increased. Faintness at epigastrium. Cold food and drink, especially milk, aggravate. Much thirst. Throbbing, painful burning. Flatulence.",
+    "Pain through sides of head. Violent headache. Cranium swells up in hard lump. Pain intense over eyes and root of nose. Brain feels enlarged. Hard nodes, with severe pain. Facial neuralgia. Lancinating pain in upper jaw.",
+    "Violent cough; worse in morning. Pulmonary śdema. Larynx feels raw. Laryngeal śdema. Awakes choking. Expectoration like soap-suds, greenish. Pneumonia, when hepatization commences. Pneumococcic meningitis. Stitching pains through lungs to back. Asthma. Dyspnśa on ascending, with pain in heart. Hydrothorax (Merc sulph). Pleuritic effusion. Cold travels downward to chest.",
+    "Severe bone-pains. Periosteum thickened, especially tibia; sensitive to touch (Kali b; Asaf). Rheumatism; pains at night and in damp weather. Contraction of joints. Rheumatism of knees with effusion. Pain in small of back and coccyx. Pain in hip, forcing limping. Sciatica; cannot stay in bed; worse at night and lying on affected side. Formication of lower extremities when sitting, better lying down."
+  ],
+  "guiding_symptoms": [
+    "Saliva increased. Faintness at epigastrium. Cold food and drink, especially milk, aggravate. Much thirst. Throbbing, painful burning. Flatulence.",
+    "Pain through sides of head. Violent headache. Cranium swells up in hard lump. Pain intense over eyes and root of nose. Brain feels enlarged. Hard nodes, with severe pain. Facial neuralgia. Lancinating pain in upper jaw.",
+    "Violent cough; worse in morning. Pulmonary śdema. Larynx feels raw. Laryngeal śdema. Awakes choking. Expectoration like soap-suds, greenish. Pneumonia, when hepatization commences. Pneumococcic meningitis. Stitching pains through lungs to back. Asthma. Dyspnśa on ascending, with pain in heart. Hydrothorax (Merc sulph). Pleuritic effusion. Cold travels downward to chest."
+  ],
+  "modalities": {
+    "worse": [
+      "warm clothing, warm room, at night, damp weather"
+    ],
+    "better": [
+      "motion, open air"
+    ]
+  },
+  "mind_symptoms": [
+    "Sad, anxious; harsh temper. Irritable; congestion to head, heat and throbbing."
+  ],
+  "head_symptoms": [
+    "Pain through sides of head. Violent headache. Cranium swells up in hard lump. Pain intense over eyes and root of nose. Brain feels enlarged. Hard nodes, with severe pain. Facial neuralgia. Lancinating pain in upper jaw."
+  ],
+  "respiratory_symptoms": [
+    "Violent cough; worse in morning. Pulmonary śdema. Larynx feels raw. Laryngeal śdema. Awakes choking. Expectoration like soap-suds, greenish. Pneumonia, when hepatization commences. Pneumococcic meningitis. Stitching pains through lungs to back. Asthma. Dyspnśa on ascending, with pain in heart. Hydrothorax (Merc sulph). Pleuritic effusion. Cold travels downward to chest."
+  ],
+  "gi_symptoms": [
+    "Saliva increased. Faintness at epigastrium. Cold food and drink, especially milk, aggravate. Much thirst. Throbbing, painful burning. Flatulence."
+  ],
+  "urinary_symptoms": [
+    "Menses late, profuse. During menses uterus feels as if squeezed. Corrosive leucorrhśa, with subacute inflammatory conditions of the womb in young married women. Fibroid tumors, metritis, sub-involution, hypertrophy, 1x or 1 gr crude, 3 times a day."
+  ],
+  "musculoskeletal_symptoms": [
+    "Severe bone-pains. Periosteum thickened, especially tibia; sensitive to touch (Kali b; Asaf). Rheumatism; pains at night and in damp weather. Contraction of joints. Rheumatism of knees with effusion. Pain in small of back and coccyx. Pain in hip, forcing limping. Sciatica; cannot stay in bed; worse at night and lying on affected side. Formication of lower extremities when sitting, better lying down."
+  ],
+  "skin_symptoms": [
+    "Purple spots; worse on legs. Acne, hydroa. Small boils. Glands enlarged, indurated. Hives. Rough nodules all over, worse any covering; heat of body intense. Fissured anus of infants. Tendency to śdematous swellings, eyelids, mouth, uvula, etc. Acne rosacea."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Iod",
+    "Mercur",
+    "Sulph",
+    "Mezer"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/k/kali-i.htm",
+    "title": "KALIUM IODATUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:50:00.496Z"
+  },
+  "confidence_score": 0.8
+}

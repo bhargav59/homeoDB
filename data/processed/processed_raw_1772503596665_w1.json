@@ -1,0 +1,69 @@
+{
+  "name": "PSORINUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Scabies Vesicle"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Eructations like bad eggs. Very hungry always; must have something to eat in the middle of the night. Nausea; vomiting of pregnancy. Pain in abdomen after eating.",
+    "Awakens at night with pain as from blow on head. Chronic headaches; hungry during attacks; with vertigo. Hammering pain; brain feels too large; worse, change of weather. Dull, pressive pain in occiput. Humid eruption on scalp; hair matted. Hair dry.",
+    "Asthma, with dyspnśa; worse, sitting up; better, lying down and keeping arms spread wide apart. Dry, hard cough, with great weakness in chest. Feeling of ulceration under sternum. Pain in chest; better, lying down. Cough returns every winter, from suppressed eruption. Hay-fever returning irregularly every year.",
+    "Weakness of joints, as if they would not hold together. Eruption around finger-nails. Fetid foot-sweats."
+  ],
+  "guiding_symptoms": [
+    "Eructations like bad eggs. Very hungry always; must have something to eat in the middle of the night. Nausea; vomiting of pregnancy. Pain in abdomen after eating.",
+    "Awakens at night with pain as from blow on head. Chronic headaches; hungry during attacks; with vertigo. Hammering pain; brain feels too large; worse, change of weather. Dull, pressive pain in occiput. Humid eruption on scalp; hair matted. Hair dry.",
+    "Asthma, with dyspnśa; worse, sitting up; better, lying down and keeping arms spread wide apart. Dry, hard cough, with great weakness in chest. Feeling of ulceration under sternum. Pain in chest; better, lying down. Cough returns every winter, from suppressed eruption. Hay-fever returning irregularly every year."
+  ],
+  "modalities": {
+    "worse": [
+      "coffee",
+      "Psorinum patient does not improve while using coffee"
+    ],
+    "better": [
+      "heat, warm clothing, even in summer"
+    ]
+  },
+  "mind_symptoms": [
+    "Hopeless; despairs of recovery. Melancholy, deep and persistent; religious. Suicidal tendency."
+  ],
+  "head_symptoms": [
+    "Awakens at night with pain as from blow on head. Chronic headaches; hungry during attacks; with vertigo. Hammering pain; brain feels too large; worse, change of weather. Dull, pressive pain in occiput. Humid eruption on scalp; hair matted. Hair dry."
+  ],
+  "respiratory_symptoms": [
+    "Asthma, with dyspnśa; worse, sitting up; better, lying down and keeping arms spread wide apart. Dry, hard cough, with great weakness in chest. Feeling of ulceration under sternum. Pain in chest; better, lying down. Cough returns every winter, from suppressed eruption. Hay-fever returning irregularly every year."
+  ],
+  "gi_symptoms": [
+    "Eructations like bad eggs. Very hungry always; must have something to eat in the middle of the night. Nausea; vomiting of pregnancy. Pain in abdomen after eating."
+  ],
+  "urinary_symptoms": [
+    "Leucorrhśa fetid, lumpy, with much backache and debility. Mammć swollen and painful. Pimples oozing an acrid fluid that burns and excoriates the glands."
+  ],
+  "musculoskeletal_symptoms": [
+    "Weakness of joints, as if they would not hold together. Eruption around finger-nails. Fetid foot-sweats."
+  ],
+  "skin_symptoms": [
+    "Dirty, dingy look. Dry, lusterless, rough hair. Intolerable itching. Herpetic eruptions, especially on scalp and bends of joints with itching; worse, from warmth of bed. Enlarged glands. Sebaceous glands secrete excessively; oily skin. Indolent ulcers, slow to heal. Eczema behind ears. Crusty eruptions all over. Urticaria after every exertion. Pustules near finger-nails."
+  ],
+  "sleep_symptoms": [
+    "Sleepless from intolerable itching. Easily startled."
+  ],
+  "fever_symptoms": [
+    "Profuse, offensive perspiration; night-sweats."
+  ],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/p/psor.htm",
+    "title": "PSORINUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:06:36.665Z"
+  },
+  "confidence_score": 0.8
+}

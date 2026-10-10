@@ -1,0 +1,61 @@
+{
+  "name": "HYDROCYANICUM ACIDUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Prussic Acid"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Tongue cold. Drink rumbles through throat and stomach. Gastralgia; worse when stomach is empty. Great sinking at pit of stomach. Pulsative pain in prćcordial region.",
+    "Violent stupefying headache. Brain feels on fire. Pupils motionless or dilated. Supra-orbital neuralgia, with flushing on same side of face.",
+    "Noisy and agitated breathing. Dry, spasmodic, suffocative cough. Asthma, with contraction of throat. Whooping-cough. Paralysis of lungs (Aspidos). Marked cyanosis; venously congested lung.",
+    "Violent palpitation. Pulse, weak irregular. Cold extremities. Torturing pain in chest. Angina pectoris (Spigel; Oxal ac)."
+  ],
+  "guiding_symptoms": [
+    "Tongue cold. Drink rumbles through throat and stomach. Gastralgia; worse when stomach is empty. Great sinking at pit of stomach. Pulsative pain in prćcordial region.",
+    "Violent stupefying headache. Brain feels on fire. Pupils motionless or dilated. Supra-orbital neuralgia, with flushing on same side of face.",
+    "Noisy and agitated breathing. Dry, spasmodic, suffocative cough. Asthma, with contraction of throat. Whooping-cough. Paralysis of lungs (Aspidos). Marked cyanosis; venously congested lung."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [
+    "Unconscious. Wild delirium. Fear of imaginary troubles. Fears everything-horses, wagons, houses falling, etc."
+  ],
+  "head_symptoms": [
+    "Violent stupefying headache. Brain feels on fire. Pupils motionless or dilated. Supra-orbital neuralgia, with flushing on same side of face."
+  ],
+  "respiratory_symptoms": [
+    "Noisy and agitated breathing. Dry, spasmodic, suffocative cough. Asthma, with contraction of throat. Whooping-cough. Paralysis of lungs (Aspidos). Marked cyanosis; venously congested lung."
+  ],
+  "gi_symptoms": [
+    "Tongue cold. Drink rumbles through throat and stomach. Gastralgia; worse when stomach is empty. Great sinking at pit of stomach. Pulsative pain in prćcordial region."
+  ],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [],
+  "sleep_symptoms": [
+    "Yawning with shivering. Irresistible drowsiness. Vivid, incoherent dreams."
+  ],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Cicuta",
+    "Oenanthe",
+    "Camph",
+    "Lauroc"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/h/hydr-ac.htm",
+    "title": "HYDROCYANICUM ACIDUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:44:01.170Z"
+  },
+  "confidence_score": 0.74
+}

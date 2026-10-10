@@ -1,0 +1,15 @@
+{
+  "remedy_number": "R5",
+  "remedy_name": "Stomach Drops",
+  "ingredients": [
+    "Bismuthum subnitricum D4",
+    "Carbo vegetabilis D6",
+    "Cina D4",
+    "Lycopodium D4",
+    "Magnesium phosphoricum D6",
+    "Nux moschata D4",
+    "Nux vomica D4"
+  ],
+  "source": "Compiled from reckeweg-india.com, 1mg.com, medikosh.com references",
+  "parsed_at": "2026-03-03T15:30:15.240Z"
+}

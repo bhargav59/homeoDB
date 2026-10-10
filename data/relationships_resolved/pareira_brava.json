@@ -1,0 +1,99 @@
+{
+  "remedy_name": "PAREIRA BRAVA",
+  "source_file": "raw_1772504016838.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Parietaria (renal calculi",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "nightmare",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "patient dreaming of being buried alive)",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "acute prostatitis",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "Fabiana",
+        "resolved_name": "FABIANA IMBRICATA",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "see Pichi (dysuria",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "post-gonorrhœal complications",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "gravel",
+        "resolved_name": "AGAVE AMERICANA",
+        "confidence": 0.55,
+        "method": "levenshtein_3"
+      },
+      {
+        "original": "vesical catarrh)",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "Uva",
+        "resolved_name": "Uva",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Hydrang",
+        "resolved_name": "HYDRANGEA ARBORESCENS",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Berber",
+        "resolved_name": "BERBERIS VULGARIS",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Ocim",
+        "resolved_name": "OCIMUM CANUM",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Hedeom",
+        "resolved_name": "HEDEOMA PULEGIOIDES",
+        "confidence": 0.8,
+        "method": "substring"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:10.639Z"
+}

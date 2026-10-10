@@ -1,0 +1,66 @@
+{
+  "name": "TEREBINTHINIAE OLEUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Turpentine"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Nausea and vomiting; heat in epigastric region.",
+    "Dull pain like from a band around the head (Carb ac). Vertigo, with vanishing of vision. Disturbed sense of equilibrium. Tired and difficult concentration of thoughts. Cold in head with sore nostrils with disposition to bleed.",
+    "Difficult breathing; lungs feel distended; hćmoptysis. Bloody expectoration.",
+    "Pulse rapid, small, thready, intermittent.",
+    "Burning pain in region of kidneys. Drawing in right kidney extending to hip."
+  ],
+  "guiding_symptoms": [
+    "Nausea and vomiting; heat in epigastric region.",
+    "Dull pain like from a band around the head (Carb ac). Vertigo, with vanishing of vision. Disturbed sense of equilibrium. Tired and difficult concentration of thoughts. Cold in head with sore nostrils with disposition to bleed.",
+    "Difficult breathing; lungs feel distended; hćmoptysis. Bloody expectoration."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Dull pain like from a band around the head (Carb ac). Vertigo, with vanishing of vision. Disturbed sense of equilibrium. Tired and difficult concentration of thoughts. Cold in head with sore nostrils with disposition to bleed."
+  ],
+  "respiratory_symptoms": [
+    "Difficult breathing; lungs feel distended; hćmoptysis. Bloody expectoration."
+  ],
+  "gi_symptoms": [
+    "Nausea and vomiting; heat in epigastric region."
+  ],
+  "urinary_symptoms": [
+    "Strangury, with bloody urine. Scanty, suppressed, odor of violets. Urethritis, with painful erections (Canthar). Inflamed kidneys following any acute disease. Constant tenesmus."
+  ],
+  "musculoskeletal_symptoms": [
+    "Burning pain in region of kidneys. Drawing in right kidney extending to hip."
+  ],
+  "skin_symptoms": [
+    "Acne. Erythema; itching pustular, vesicular eruption; urticaria. Purpura, ecchymosis, dropsies. Scarlatina. Chilblains; with excessive itching and pulsative pains. Aching soreness of the muscles."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [
+    "Heat, with violent thirst, dry tongue, profuse cold, clammy sweat. Typhoid with tympanites, hćmorrhages, stupor, delirium. Prostration."
+  ],
+  "complementary_remedies": [
+    "Alumen",
+    "Secale",
+    "Canth",
+    "Nit ac"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/t/ter.htm",
+    "title": "TEREBINTHINIAE OLEUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:35:51.110Z"
+  },
+  "confidence_score": 0.8
+}

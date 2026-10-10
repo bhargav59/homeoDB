@@ -1,0 +1,27 @@
+{
+  "remedy_name": "COLLINSONIA CANADENSIS",
+  "source_file": "raw_1772501017581.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/c/coll.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      "Nux"
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Aescul",
+      "Aloes",
+      "Hamam",
+      "Lycopus",
+      "Negundo",
+      "Sulph",
+      "Nux"
+    ],
+    "incompatible": [],
+    "antidotes": [
+      "Nux"
+    ]
+  },
+  "parsed_at": "2026-03-03T15:23:37.438Z"
+}

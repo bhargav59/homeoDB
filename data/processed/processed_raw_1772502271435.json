@@ -1,0 +1,70 @@
+{
+  "name": "HYOSCYAMUS NIGER",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Henbane"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Hiccough, eructations empty, bitter. Nausea, with vertigo. Vomiting, with convulsions; hæmatemesis; violent cramps, relieved by vomiting; burning in stomach; epigastrium tender. After irritating food.",
+    "Suffocating fits. Spasm, forcing bending forward. Dry, spasmodic cough at night (worse lying down; better sitting up), from itching in the throat, as if uvula were too long. Hæmoptysis.",
+    "Feels light and confused. Vertigo as if intoxicated. Brain feels loose, fluctuating. Inflammation of brain, with unconsciousness; head is shaken to and fro.",
+    "Picking at bed-clothes; plays with hands; reaches out for things. Epileptic attacks ending in deep sleep. Spasms and convulsions. Cramps in calves and toes. Child sobs and cries without waking."
+  ],
+  "guiding_symptoms": [
+    "Hiccough, eructations empty, bitter. Nausea, with vertigo. Vomiting, with convulsions; hæmatemesis; violent cramps, relieved by vomiting; burning in stomach; epigastrium tender. After irritating food.",
+    "Suffocating fits. Spasm, forcing bending forward. Dry, spasmodic cough at night (worse lying down; better sitting up), from itching in the throat, as if uvula were too long. Hæmoptysis.",
+    "Feels light and confused. Vertigo as if intoxicated. Brain feels loose, fluctuating. Inflammation of brain, with unconsciousness; head is shaken to and fro."
+  ],
+  "modalities": {
+    "worse": [
+      "at night, during menses, after eating, when lying down"
+    ],
+    "better": [
+      "stooping"
+    ]
+  },
+  "mind_symptoms": [
+    "Very suspicious. Talkative, obscene, lascivious mania, uncovers body; jealous, foolish. Great hilarity; inclined to laugh at everything. Delirium, with attempt to run away. Low, muttering speech; constant carphologia, deep stupor."
+  ],
+  "head_symptoms": [
+    "Feels light and confused. Vertigo as if intoxicated. Brain feels loose, fluctuating. Inflammation of brain, with unconsciousness; head is shaken to and fro."
+  ],
+  "respiratory_symptoms": [
+    "Suffocating fits. Spasm, forcing bending forward. Dry, spasmodic cough at night (worse lying down; better sitting up), from itching in the throat, as if uvula were too long. Hæmoptysis."
+  ],
+  "gi_symptoms": [
+    "Hiccough, eructations empty, bitter. Nausea, with vertigo. Vomiting, with convulsions; hæmatemesis; violent cramps, relieved by vomiting; burning in stomach; epigastrium tender. After irritating food."
+  ],
+  "urinary_symptoms": [
+    "Impotence. Lascivious; exposes his person; plays with genitals during fever."
+  ],
+  "musculoskeletal_symptoms": [
+    "Picking at bed-clothes; plays with hands; reaches out for things. Epileptic attacks ending in deep sleep. Spasms and convulsions. Cramps in calves and toes. Child sobs and cries without waking."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [
+    "Intense sleeplessness. Sopor, with convulsions. Starts up frightened. Coma vigil.",
+    "Nerves.--Great restlessness; every muscle twitches. Will not be covered."
+  ],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Bellad",
+    "Stram",
+    "Agaric",
+    "Gels"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/h/hyos.htm",
+    "title": "HYOSCYAMUS NIGER - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:44:31.435Z"
+  },
+  "confidence_score": 0.8
+}

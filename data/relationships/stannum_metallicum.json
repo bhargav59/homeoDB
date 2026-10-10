@@ -1,0 +1,19 @@
+{
+  "remedy_name": "STANNUM METALLICUM",
+  "source_file": "raw_1772505025171.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/s/stann.htm",
+  "relationships": {
+    "complementary": [
+      "Puls"
+    ],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Stann iod"
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "parsed_at": "2026-03-03T15:23:37.737Z"
+}

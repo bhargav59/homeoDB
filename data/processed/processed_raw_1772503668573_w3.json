@@ -1,0 +1,62 @@
+{
+  "name": "VIBURNUM OPULUS",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "High Cranberry"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Constant nausea; relieved by eating. No appetite.",
+    "Irritable. Vertigo; feels as if falling forward. Severe pain in temporal region. Sore feeling in eyeballs.",
+    "Stiff, sore feeling in nape of neck. Feels as if back would break. Sacral backache. Lower extremities weak and heavy."
+  ],
+  "guiding_symptoms": [
+    "Constant nausea; relieved by eating. No appetite.",
+    "Irritable. Vertigo; feels as if falling forward. Severe pain in temporal region. Sore feeling in eyeballs.",
+    "Stiff, sore feeling in nape of neck. Feels as if back would break. Sacral backache. Lower extremities weak and heavy."
+  ],
+  "modalities": {
+    "worse": [
+      "lying on affected side, in warm room, evening and night"
+    ],
+    "better": [
+      "in open air and resting"
+    ]
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Irritable. Vertigo; feels as if falling forward. Severe pain in temporal region. Sore feeling in eyeballs."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "Constant nausea; relieved by eating. No appetite."
+  ],
+  "urinary_symptoms": [
+    "Frequent urging. Copious, pale, light-colored urine. Cannot hold water on coughing or walking."
+  ],
+  "musculoskeletal_symptoms": [
+    "Stiff, sore feeling in nape of neck. Feels as if back would break. Sacral backache. Lower extremities weak and heavy."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "after-pains",
+    "cancer of the tongue",
+    "obstinate hiccough",
+    "supposed to be a uterine tonic"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/v/vib.htm",
+    "title": "VIBURNUM OPULUS - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:07:48.573Z"
+  },
+  "confidence_score": 0.8
+}

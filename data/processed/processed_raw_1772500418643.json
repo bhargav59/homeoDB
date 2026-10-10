@@ -1,0 +1,67 @@
+{
+  "name": "CARBO ANIMALIS",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Animal Charcoal"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Eating tires patient. Weak, empty feeling in stomach. Burning and griping. Weak digestion. Flatulence. Ptomaine poisoning. Repugnance to fat food. Sour water from mouth. Pyrosis.",
+    "Headache, as if head had been blown to pieces. Rush of blood with confusion. Sensation as if something lay above eyes so that she could not look up. Bluish cheeks and lips. Vertigo followed by nose-bleed. Nose swollen, tip bluish small tumor on it. Hearing confused; cannot tell direction of sound.",
+    "Pleurisy, typhoid character, and remaining stitch. Ulceration of lung, with feeling of coldness of chest. Cough, with discharge of greenish pus.",
+    "Pain in coccyx; burns when touched. Ankles turn easily. Straining and over-lifting produce great debility. Joints weak. Easy discoloration. Pain in hip joints at night. Night sweat fetid and profuse. Wrist pain."
+  ],
+  "guiding_symptoms": [
+    "Eating tires patient. Weak, empty feeling in stomach. Burning and griping. Weak digestion. Flatulence. Ptomaine poisoning. Repugnance to fat food. Sour water from mouth. Pyrosis.",
+    "Headache, as if head had been blown to pieces. Rush of blood with confusion. Sensation as if something lay above eyes so that she could not look up. Bluish cheeks and lips. Vertigo followed by nose-bleed. Nose swollen, tip bluish small tumor on it. Hearing confused; cannot tell direction of sound.",
+    "Pleurisy, typhoid character, and remaining stitch. Ulceration of lung, with feeling of coldness of chest. Cough, with discharge of greenish pus."
+  ],
+  "modalities": {
+    "worse": [
+      "after shaving, loss of animal fluids"
+    ],
+    "better": []
+  },
+  "mind_symptoms": [
+    "Desire to be alone, sad and reflective, avoids conversation. Anxiety at night, with orgasm of blood."
+  ],
+  "head_symptoms": [
+    "Headache, as if head had been blown to pieces. Rush of blood with confusion. Sensation as if something lay above eyes so that she could not look up. Bluish cheeks and lips. Vertigo followed by nose-bleed. Nose swollen, tip bluish small tumor on it. Hearing confused; cannot tell direction of sound."
+  ],
+  "respiratory_symptoms": [
+    "Pleurisy, typhoid character, and remaining stitch. Ulceration of lung, with feeling of coldness of chest. Cough, with discharge of greenish pus."
+  ],
+  "gi_symptoms": [
+    "Eating tires patient. Weak, empty feeling in stomach. Burning and griping. Weak digestion. Flatulence. Ptomaine poisoning. Repugnance to fat food. Sour water from mouth. Pyrosis."
+  ],
+  "urinary_symptoms": [
+    "Nausea of pregnancy; worse at night. Lochia offensive (Kreos; Rhus; Secale). Menses too early, frequent long lasting, followed by great exhaustion, so weak, can hardly speak (Cocc), flow only in morning (Bor; Sep). Burning in vagina and labia. Darting in breast; painful indurations in breast, especially right. Cancer of uterus, burning pain down thighs."
+  ],
+  "musculoskeletal_symptoms": [
+    "Pain in coccyx; burns when touched. Ankles turn easily. Straining and over-lifting produce great debility. Joints weak. Easy discoloration. Pain in hip joints at night. Night sweat fetid and profuse. Wrist pain."
+  ],
+  "skin_symptoms": [
+    "Spongy ulcers, copper-colored eruption. Acne rosacea. Chilblains, worse in evening, in bed and from cold. Verruca on hands and face of old people, with bluish color of extremities. Glands indurated, swollen, painful, in neck, axillć, groin, mammć; pains lancinating, cutting, burning (Con; Merc iod flav). Burning, rawness and fissures; moisture. Bubo."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Badiaga",
+    "Sepia",
+    "Sulph",
+    "Plumb iod"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/c/carb-an.htm",
+    "title": "CARBO ANIMALIS - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:13:38.643Z"
+  },
+  "confidence_score": 0.8
+}

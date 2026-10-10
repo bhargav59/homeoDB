@@ -1,0 +1,57 @@
+{
+  "name": "ELATERIUM OFFICINARUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Squirting Cucumber"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Nausea and vomiting, with great weakness. Griping pains in bowels.",
+    "Sharp pains in fingers and thumbs, knees, toes, and instep. Gouty pain in great toes. Pain extends down extremities; pain in hip-joints with diarrhœa. Arthritic nodules."
+  ],
+  "guiding_symptoms": [
+    "Nausea and vomiting, with great weakness. Griping pains in bowels.",
+    "Sharp pains in fingers and thumbs, knees, toes, and instep. Gouty pain in great toes. Pain extends down extremities; pain in hip-joints with diarrhœa. Arthritic nodules."
+  ],
+  "modalities": {
+    "worse": [
+      "from exposure on damp ground"
+    ],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "Nausea and vomiting, with great weakness. Griping pains in bowels."
+  ],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [
+    "Sharp pains in fingers and thumbs, knees, toes, and instep. Gouty pain in great toes. Pain extends down extremities; pain in hip-joints with diarrhœa. Arthritic nodules."
+  ],
+  "skin_symptoms": [
+    "Smarts, stings, and burns. Dropsical. Urticaria from suppressed intermittent. Skin, orange color."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [
+    "Chill comes on with much yawning and stretching, lasting all through chill. Pain in extremities, darting into fingers and toes. Chills and fever, with spurting diarrhœa."
+  ],
+  "complementary_remedies": [
+    "Bry",
+    "Croton",
+    "Gambogia"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/e/elat.htm",
+    "title": "ELATERIUM OFFICINARUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:30:14.855Z"
+  },
+  "confidence_score": 0.6799999999999999
+}

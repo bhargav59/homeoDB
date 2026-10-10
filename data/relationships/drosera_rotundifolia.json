@@ -1,0 +1,24 @@
+{
+  "remedy_name": "DROSERA ROTUNDIFOLIA",
+  "source_file": "raw_1772501367191.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/d/dros.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      "Camph"
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Fluoroform (2 per cent watery solution",
+      "2-4 drops",
+      "after paroxysms",
+      "considered specific for whooping-cough)"
+    ],
+    "incompatible": [],
+    "antidotes": [
+      "Camph"
+    ]
+  },
+  "parsed_at": "2026-03-03T15:23:37.453Z"
+}

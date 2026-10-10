@@ -1,0 +1,26 @@
+{
+  "remedy_name": "VESPA CRABRO",
+  "source_file": "raw_1772505758444.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/v/vesp.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      "Sempervivum tector",
+      "locally"
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Scorpio (salivation",
+      "strabismus",
+      "tetanus)",
+      "Apis"
+    ],
+    "incompatible": [],
+    "antidotes": [
+      "Sempervivum tector",
+      "locally"
+    ]
+  },
+  "parsed_at": "2026-03-03T15:23:37.772Z"
+}

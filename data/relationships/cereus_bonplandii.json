@@ -1,0 +1,20 @@
+{
+  "remedy_name": "CEREUS BONPLANDII",
+  "source_file": "raw_1772500631538.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/c/cere-b.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Cactus",
+      "Spigel",
+      "Kalmia",
+      "wild anger and low morals"
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "parsed_at": "2026-03-03T15:23:37.421Z"
+}

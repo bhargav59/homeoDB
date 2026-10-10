@@ -1,0 +1,30 @@
+{
+  "remedy_name": "HYDRANGEA ARBORESCENS",
+  "source_file": "raw_1772502251422.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/h/hydrang.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Lycopod",
+      "Chimaphil",
+      "Berberis",
+      "Pareira",
+      "Uva",
+      "Sabal",
+      "Oxydendron",
+      "affections of bladder",
+      "with pains in penis",
+      "worse",
+      "eating",
+      "relaxed mucous membranes",
+      "with excessive and depraved secretions",
+      "imperfect digestion and assimilation)"
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "parsed_at": "2026-03-03T15:23:37.493Z"
+}

@@ -1,0 +1,20 @@
+{
+  "remedy_name": "MYGALE LASIODORA",
+  "source_file": "raw_1772503416501.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/m/mygal.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Agar",
+      "Tarant",
+      "Cupr",
+      "Zizia"
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "parsed_at": "2026-03-03T15:23:37.552Z"
+}

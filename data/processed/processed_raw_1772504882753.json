@@ -1,0 +1,76 @@
+{
+  "name": "SEPIA OFFICINALIS",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Inky Juice of Cuttlefish"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Feeling of goneness; not relieved by eating (Carb an). Nausea at smell or sight of food. Nausea worse lying on side. Tobacco dyspepsia. Everything tastes too salty (Carbo beg; Chin). Band of pain about four inches wide encircling hypochondria. Nausea in morning before eating. Disposition to vomit after eating. Burning in pit of stomach. Longing for vinegar, acids, and pickles. Worse, after milk, especially when boiled. Acid dyspepsia with bloated abdomen, sour eructations. Loathes fat.",
+    "Vertigo, with sensation of something rolling round in head. Prodromal symptoms of apoplexy. Stinging pain from within outward and upward mostly left, or in forehead, with nausea, vomiting; worse indoors and when lying on painful side. Jerking of head backwards and forwards. Coldness of vertex. Headache in terrible shocks at menstrual nisus, with scanty flow. Hair falls out. Open fontanelles. Roots of hair sensitive. Pimples on forehead near hair.",
+    "Dry, fatiguing cough, apparently coming from stomach. Rotten-egg taste with coughing. Oppression of chest morning and evening. Dyspnœa; worse, after sleep; better, rapid motion. Cough in morning, with profuse expectoration, tasting salty (Phos; Ambr). Hypostatic pleuritis. Whooping-cough that drags on. Cough excited by tickling in larynx or chest.",
+    "Violent, intermittent palpitation. Beating in all arteries. Tremulous feeling with flushes.",
+    "Lower extremities lame and stiff, tension as if too short. Heaviness and bruised feeling. Restleness in all limbs, twitching and jerkings night and day. Pain in heel. Coldness of legs and feet.",
+    "Weakness in small of back. Pains extend into back. Coldness between shoulders."
+  ],
+  "guiding_symptoms": [
+    "Feeling of goneness; not relieved by eating (Carb an). Nausea at smell or sight of food. Nausea worse lying on side. Tobacco dyspepsia. Everything tastes too salty (Carbo beg; Chin). Band of pain about four inches wide encircling hypochondria. Nausea in morning before eating. Disposition to vomit after eating. Burning in pit of stomach. Longing for vinegar, acids, and pickles. Worse, after milk, especially when boiled. Acid dyspepsia with bloated abdomen, sour eructations. Loathes fat.",
+    "Vertigo, with sensation of something rolling round in head. Prodromal symptoms of apoplexy. Stinging pain from within outward and upward mostly left, or in forehead, with nausea, vomiting; worse indoors and when lying on painful side. Jerking of head backwards and forwards. Coldness of vertex. Headache in terrible shocks at menstrual nisus, with scanty flow. Hair falls out. Open fontanelles. Roots of hair sensitive. Pimples on forehead near hair.",
+    "Dry, fatiguing cough, apparently coming from stomach. Rotten-egg taste with coughing. Oppression of chest morning and evening. Dyspnœa; worse, after sleep; better, rapid motion. Cough in morning, with profuse expectoration, tasting salty (Phos; Ambr). Hypostatic pleuritis. Whooping-cough that drags on. Cough excited by tickling in larynx or chest."
+  ],
+  "modalities": {
+    "worse": [
+      "forenoons and evenings",
+      "washing, laundry-work, dampness, left side, after sweat",
+      "cold air, before thunder-storm"
+    ],
+    "better": [
+      "by exercise, pressure, warmth of bed, hot applications, drawing limbs up, cold bathing, after sleep"
+    ]
+  },
+  "mind_symptoms": [
+    "Indifferent to those loved best. Averse to occupation, to family. Irritable; easily offended. Dreads to be alone. Very sad. Weeps when telling symptoms. Miserly. Anxious toward evening; indolent."
+  ],
+  "head_symptoms": [
+    "Vertigo, with sensation of something rolling round in head. Prodromal symptoms of apoplexy. Stinging pain from within outward and upward mostly left, or in forehead, with nausea, vomiting; worse indoors and when lying on painful side. Jerking of head backwards and forwards. Coldness of vertex. Headache in terrible shocks at menstrual nisus, with scanty flow. Hair falls out. Open fontanelles. Roots of hair sensitive. Pimples on forehead near hair."
+  ],
+  "respiratory_symptoms": [
+    "Dry, fatiguing cough, apparently coming from stomach. Rotten-egg taste with coughing. Oppression of chest morning and evening. Dyspnœa; worse, after sleep; better, rapid motion. Cough in morning, with profuse expectoration, tasting salty (Phos; Ambr). Hypostatic pleuritis. Whooping-cough that drags on. Cough excited by tickling in larynx or chest."
+  ],
+  "gi_symptoms": [
+    "Feeling of goneness; not relieved by eating (Carb an). Nausea at smell or sight of food. Nausea worse lying on side. Tobacco dyspepsia. Everything tastes too salty (Carbo beg; Chin). Band of pain about four inches wide encircling hypochondria. Nausea in morning before eating. Disposition to vomit after eating. Burning in pit of stomach. Longing for vinegar, acids, and pickles. Worse, after milk, especially when boiled. Acid dyspepsia with bloated abdomen, sour eructations. Loathes fat."
+  ],
+  "urinary_symptoms": [
+    "Red, adhesive, sand in urine. Involuntary urination, during first sleep. Chronic cystitis, slow micturition, with bearing-down sensation above pubis."
+  ],
+  "musculoskeletal_symptoms": [
+    "Lower extremities lame and stiff, tension as if too short. Heaviness and bruised feeling. Restleness in all limbs, twitching and jerkings night and day. Pain in heel. Coldness of legs and feet."
+  ],
+  "skin_symptoms": [
+    "Herpes circinatus in isolated spots. Itching; not relieved by scratching; worse in bends of elbows and knees. Chloasma; herpetic eruption on lips, about mouth and nose. Ringworm-like eruption every spring. Urticaria on going in open air; better in warm room. Hyperidrosis and bromidrosis. Sweat on feet, worse on toes; intolerable odor. Lentigo in young women. Ichthyosis with offensive odor of skin."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [
+    "Frequent flushes of heat; sweat from least motion. General lack of warmth of body. Feet cold and wet. Shivering, with thirst; worse, towards evening."
+  ],
+  "complementary_remedies": [
+    "Lit",
+    "Murex",
+    "Silica",
+    "Sulph",
+    "Asperula-Nacent oxygen"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/s/sep.htm",
+    "title": "SEPIA OFFICINALIS - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:28:02.753Z"
+  },
+  "confidence_score": 0.8
+}

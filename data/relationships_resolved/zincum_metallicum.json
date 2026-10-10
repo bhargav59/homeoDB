@@ -1,0 +1,100 @@
+{
+  "remedy_name": "ZINCUM METALLICUM",
+  "source_file": "raw_1772505895842.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [
+      {
+        "original": "Nux",
+        "resolved_name": "NUX MOSCHATA",
+        "confidence": 1,
+        "method": "exact"
+      }
+    ],
+    "compare": [
+      {
+        "original": "Agaric",
+        "resolved_name": "AGARICUS MUSCARIUS",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Ign",
+        "resolved_name": "IGNATIA AMARA",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      },
+      {
+        "original": "Plumb",
+        "resolved_name": "PLUMBUM METALLICUM",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Argent",
+        "resolved_name": "ARGENTUM METALLICUM",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Puls",
+        "resolved_name": "PULSATILLA",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      },
+      {
+        "original": "Helleb",
+        "resolved_name": "HELLEBORUS NIGER",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Tuberc",
+        "resolved_name": "TUBERCULINUM",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "in amelioration by secretions: Lach",
+        "resolved_name": "LAC CANINUM",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Stan",
+        "resolved_name": "STANNUM",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      },
+      {
+        "original": "Mosch",
+        "resolved_name": "MOSCHUS",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "brain feels sore",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "Rademacher's solution",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "five-drop",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:11.768Z"
+}

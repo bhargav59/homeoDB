@@ -1,0 +1,61 @@
+{
+  "name": "COCCUS CACTI",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Cochineal"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Suboccipital soreness; worse after sleep and exertion. Headache, worse from lying on back, better with the head high. Dull pain over right eye in morning. Sensation of a foreign body between upper lid and eyeball. Distress from cinders lodged in eye.",
+    "Constant hawking from enlarged uvula; coryza, with inflamed fauces; accumulation of thick viscid mucus, which is expectorated with great difficulty. Tickling in larynx. Sensation of a crumb behind larynx, must swallow continually; brushing teeth causes cough. Fauces very sensitive. Suffocative cough; worse, first waking, with tough, white mucus, which strangles. Spasmodic morning cough. Whooping cough attacks end with vomiting of this tough mucus. Chronic bronchitis complicated with gravel; large quantities of albuminous, tenacious mucus, are expectorated. Walking against wind takes breath away.",
+    "Sensation as if everything were pressed toward the heart."
+  ],
+  "guiding_symptoms": [
+    "Suboccipital soreness; worse after sleep and exertion. Headache, worse from lying on back, better with the head high. Dull pain over right eye in morning. Sensation of a foreign body between upper lid and eyeball. Distress from cinders lodged in eye.",
+    "Constant hawking from enlarged uvula; coryza, with inflamed fauces; accumulation of thick viscid mucus, which is expectorated with great difficulty. Tickling in larynx. Sensation of a crumb behind larynx, must swallow continually; brushing teeth causes cough. Fauces very sensitive. Suffocative cough; worse, first waking, with tough, white mucus, which strangles. Spasmodic morning cough. Whooping cough attacks end with vomiting of this tough mucus. Chronic bronchitis complicated with gravel; large quantities of albuminous, tenacious mucus, are expectorated. Walking against wind takes breath away.",
+    "Sensation as if everything were pressed toward the heart."
+  ],
+  "modalities": {
+    "worse": [
+      "left side, after sleep, touch, pressure of clothing, brushing teeth, slightest exertion"
+    ],
+    "better": [
+      "walking"
+    ]
+  },
+  "mind_symptoms": [
+    "Early morning or afternoon sadness."
+  ],
+  "head_symptoms": [
+    "Suboccipital soreness; worse after sleep and exertion. Headache, worse from lying on back, better with the head high. Dull pain over right eye in morning. Sensation of a foreign body between upper lid and eyeball. Distress from cinders lodged in eye."
+  ],
+  "respiratory_symptoms": [
+    "Constant hawking from enlarged uvula; coryza, with inflamed fauces; accumulation of thick viscid mucus, which is expectorated with great difficulty. Tickling in larynx. Sensation of a crumb behind larynx, must swallow continually; brushing teeth causes cough. Fauces very sensitive. Suffocative cough; worse, first waking, with tough, white mucus, which strangles. Spasmodic morning cough. Whooping cough attacks end with vomiting of this tough mucus. Chronic bronchitis complicated with gravel; large quantities of albuminous, tenacious mucus, are expectorated. Walking against wind takes breath away."
+  ],
+  "gi_symptoms": [],
+  "urinary_symptoms": [
+    "Urging to urinate; brick-red sediment. Urinary calculi, hæmaturia, urates, and uric acid; lancinating pains from kidney to bladder. Deep-colored, thick urine. Dysuria."
+  ],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Canth",
+    "Cact",
+    "Sars"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/c/coc-c.htm",
+    "title": "COCCUS CACTI - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:22:06.446Z"
+  },
+  "confidence_score": 0.74
+}

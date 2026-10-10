@@ -1,0 +1,21 @@
+{
+  "remedy_name": "UPAS TIEUT",
+  "source_file": "raw_1772505594093.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/u/upa.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      "Curare"
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "(a deadly poison to the muscular system"
+    ],
+    "incompatible": [],
+    "antidotes": [
+      "Curare"
+    ]
+  },
+  "parsed_at": "2026-03-03T15:23:37.765Z"
+}

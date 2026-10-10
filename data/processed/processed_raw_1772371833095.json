@@ -1,0 +1,47 @@
+{
+  "name": "AMMONIUM BROMATUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Bromide of Ammonia"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Cerebral congestion. Feeling of a band above ears. Sneezing; thick nasal discharge.",
+    "Sudden, short cough, strangling. Tickling in trachea and bronchial tubes. Wakes at 3 am with cough. Feels suffocated; continuous cough, when lying down at night; sharp pain in lungs. Whooping Cough.--Dry, spasmodic cough on lying down."
+  ],
+  "guiding_symptoms": [
+    "Cerebral congestion. Feeling of a band above ears. Sneezing; thick nasal discharge.",
+    "Sudden, short cough, strangling. Tickling in trachea and bronchial tubes. Wakes at 3 am with cough. Feels suffocated; continuous cough, when lying down at night; sharp pain in lungs. Whooping Cough.--Dry, spasmodic cough on lying down."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Cerebral congestion. Feeling of a band above ears. Sneezing; thick nasal discharge."
+  ],
+  "respiratory_symptoms": [
+    "Sudden, short cough, strangling. Tickling in trachea and bronchial tubes. Wakes at 3 am with cough. Feels suffocated; continuous cough, when lying down at night; sharp pain in lungs. Whooping Cough.--Dry, spasmodic cough on lying down."
+  ],
+  "gi_symptoms": [],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/a/am-br.htm",
+    "title": "AMMONIUM BROMATUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-01T13:30:33.095Z"
+  },
+  "confidence_score": 0.56
+}

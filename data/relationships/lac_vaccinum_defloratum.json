@@ -1,0 +1,17 @@
+{
+  "remedy_name": "LAC VACCINUM DEFLORATUM",
+  "source_file": "raw_1772502743205.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/l/lac-d.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Colostrum (Diarrhśa in infants"
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "parsed_at": "2026-03-03T15:23:37.517Z"
+}

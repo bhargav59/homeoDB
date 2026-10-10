@@ -1,0 +1,18 @@
+{
+  "remedy_name": "USTILAGO MAYDIS",
+  "source_file": "raw_1772505643133.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/u/ust.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Secale",
+      "Sabin"
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "parsed_at": "2026-03-03T15:23:37.767Z"
+}

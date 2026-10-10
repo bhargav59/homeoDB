@@ -1,0 +1,22 @@
+{
+  "remedy_name": "Piper Methysticum.",
+  "source_file": "raw_1772507856870_clarke_dictionary_w2.json",
+  "source_url": "https://www.homeoint.org/clarke/p/piper_m.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      "Puls"
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Cubeba",
+      "Piper nig"
+    ],
+    "incompatible": [],
+    "antidotes": [
+      "d by: Puls"
+    ]
+  },
+  "parsed_at": "2026-03-03T15:23:38.236Z"
+}

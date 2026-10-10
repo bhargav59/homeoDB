@@ -1,0 +1,68 @@
+{
+  "name": "PHYTOLACCA DECANDRA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Poke-root"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Vertigo on rising. Brain feels sore. Pain from frontal region backward. Pressure in temples and over eyes. Rheumatism of scalp; pains come on every time it rains. Scaly eruption on scalp.",
+    "Aphonia. Difficult breathing; dry hacking, tickling cough; worse at night (Mentha; Bellad). Aching pains in chest, through mid-sternum; with cough. Rheumatism of lower intercostals.",
+    "Feeling as if heart leaped into throat (Pod). Shock of pain in cardiac region alternating with pain in right arm.",
+    "Shooting pain in right shoulder, with stiffness and inability to raise arm (see Heart). Rheumatism pains; worse in morning. Pains fly like electric shocks, shooting, lancinating, shifting rapidly (Puls; Kali bich). Pain in under side of thighs. Syphilitic sciatica. Aching of heels; relieved by elevating feet. Pains like shocks. Pain in legs, patient dreads to get up. Feet puffed; pain in ankles and feet. Neuralgia in toes.",
+    "Aching pains in lumbar region; pains streaking up and down spine into sacrum. Weakness and dull pain in region of kidneys. Back stiff, especially in morning on rising and during damp weather."
+  ],
+  "guiding_symptoms": [
+    "Vertigo on rising. Brain feels sore. Pain from frontal region backward. Pressure in temples and over eyes. Rheumatism of scalp; pains come on every time it rains. Scaly eruption on scalp.",
+    "Aphonia. Difficult breathing; dry hacking, tickling cough; worse at night (Mentha; Bellad). Aching pains in chest, through mid-sternum; with cough. Rheumatism of lower intercostals.",
+    "Feeling as if heart leaped into throat (Pod). Shock of pain in cardiac region alternating with pain in right arm."
+  ],
+  "modalities": {
+    "worse": [
+      "sensitive to electric changes"
+    ],
+    "better": [
+      "warmth, dry weather, rest"
+    ]
+  },
+  "mind_symptoms": [
+    "Loss of personal delicacy, disregard of surrounding objects. Indifferent to life."
+  ],
+  "head_symptoms": [
+    "Vertigo on rising. Brain feels sore. Pain from frontal region backward. Pressure in temples and over eyes. Rheumatism of scalp; pains come on every time it rains. Scaly eruption on scalp."
+  ],
+  "respiratory_symptoms": [
+    "Aphonia. Difficult breathing; dry hacking, tickling cough; worse at night (Mentha; Bellad). Aching pains in chest, through mid-sternum; with cough. Rheumatism of lower intercostals."
+  ],
+  "gi_symptoms": [
+    "Sore spot in right hypochondrium. Rheumatism of abdominal muscles. Colic at navel. Burning griping pains. Bruised feeling through epigastrium and abdomen. Constipation of the aged and those with weak heart. Bleeding from rectum.",
+    "Urine.--Scanty, suppressed, with pain in kidney region. Nephritis."
+  ],
+  "urinary_symptoms": [
+    "Painful induration of testicles. Shooting along perineum to penis."
+  ],
+  "musculoskeletal_symptoms": [
+    "Shooting pain in right shoulder, with stiffness and inability to raise arm (see Heart). Rheumatism pains; worse in morning. Pains fly like electric shocks, shooting, lancinating, shifting rapidly (Puls; Kali bich). Pain in under side of thighs. Syphilitic sciatica. Aching of heels; relieved by elevating feet. Pains like shocks. Pain in legs, patient dreads to get up. Feet puffed; pain in ankles and feet. Neuralgia in toes."
+  ],
+  "skin_symptoms": [
+    "Itches, becomes dry, shrunken, pale. Papular and pustular lesions. Most useful in early stages of cutaneous diseases. Disposition to boils, and when sloughing occurs. Squamous eruptions. Syphilitic eruptions. Swelling and induration of glands. Venereal buboes. Scarlatina-like rash. Warts and moles."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [
+    "High fever, alternating with chilliness and great prostration."
+  ],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/p/phyt.htm",
+    "title": "PHYTOLACCA DECANDRA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:06:26.137Z"
+  },
+  "confidence_score": 0.8
+}

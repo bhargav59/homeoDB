@@ -1,0 +1,25 @@
+{
+  "remedy_name": "PARIS QUADRIFOLIA",
+  "source_file": "raw_1772503990744.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/p/par.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      "Coff"
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Pastinaca-Parsnip--(Loquacity",
+      "delirium tremens",
+      "illusions of vision",
+      "intolerance on milk",
+      "Roots used dietetically"
+    ],
+    "incompatible": [],
+    "antidotes": [
+      "Coff"
+    ]
+  },
+  "parsed_at": "2026-03-03T15:23:37.688Z"
+}

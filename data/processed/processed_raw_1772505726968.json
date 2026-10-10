@@ -1,0 +1,73 @@
+{
+  "name": "VERATRUM VIRIDE",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "White American Hellebore"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Thirsty. Nausea and vomiting. Smallest quantity of food or drink immediately rejected. Constrictive pain; increased by warm drinks. Hiccough; excessive and painful, with spasms of śsophagus. Burning in stomach and śsophagus.",
+    "Congestion intense, almost apoplectic. Hot head, bloodshot eyes. Bloated, livid face. Hippocratic face. Head retracted, pupils dilated, double vision. Meningitis. Pain from nape of neck; cannot hold head up. Sunstroke; head full, throbbing arteries (Bell; Glon; Usnea). Face flushed. Convulsive twitching of facial muscles (Agaricus). Vertigo with nausea.",
+    "Tongue.--White or yellow, with red streak down the middle. Feels scalded. Increased saliva.",
+    "Congestion of lungs. Difficult breathing. Sensation of a heavy load on chest. Pneumonia, with faint feeling in stomach and violent congestion. Croup. Menstrual colic before the appearance of the discharge with strangury.",
+    "Urine.--Scanty with cloudy sediment.",
+    "Pulse slow, soft, weak, irregular, intermittent. Rapid pulse, low tension (Tabac; Dig). Constant, dull, burning pain in region of heart. Valvular diseases. Beating of pulses throughout body, especially in right thigh.",
+    "Aching pain in back of neck and shoulders. Severe pain in joints and muscles. Violent electric-like shocks in limbs. Convulsive twitchings. Acute rheumatism. Fever."
+  ],
+  "guiding_symptoms": [
+    "Thirsty. Nausea and vomiting. Smallest quantity of food or drink immediately rejected. Constrictive pain; increased by warm drinks. Hiccough; excessive and painful, with spasms of śsophagus. Burning in stomach and śsophagus.",
+    "Congestion intense, almost apoplectic. Hot head, bloodshot eyes. Bloated, livid face. Hippocratic face. Head retracted, pupils dilated, double vision. Meningitis. Pain from nape of neck; cannot hold head up. Sunstroke; head full, throbbing arteries (Bell; Glon; Usnea). Face flushed. Convulsive twitching of facial muscles (Agaricus). Vertigo with nausea.",
+    "Tongue.--White or yellow, with red streak down the middle. Feels scalded. Increased saliva."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [
+    "Quarrelsome and delirious."
+  ],
+  "head_symptoms": [
+    "Congestion intense, almost apoplectic. Hot head, bloodshot eyes. Bloated, livid face. Hippocratic face. Head retracted, pupils dilated, double vision. Meningitis. Pain from nape of neck; cannot hold head up. Sunstroke; head full, throbbing arteries (Bell; Glon; Usnea). Face flushed. Convulsive twitching of facial muscles (Agaricus). Vertigo with nausea.",
+    "Tongue.--White or yellow, with red streak down the middle. Feels scalded. Increased saliva."
+  ],
+  "respiratory_symptoms": [
+    "Congestion of lungs. Difficult breathing. Sensation of a heavy load on chest. Pneumonia, with faint feeling in stomach and violent congestion. Croup. Menstrual colic before the appearance of the discharge with strangury.",
+    "Urine.--Scanty with cloudy sediment."
+  ],
+  "gi_symptoms": [
+    "Thirsty. Nausea and vomiting. Smallest quantity of food or drink immediately rejected. Constrictive pain; increased by warm drinks. Hiccough; excessive and painful, with spasms of śsophagus. Burning in stomach and śsophagus."
+  ],
+  "urinary_symptoms": [
+    "Rigid os (Bell; Gels). Puerperal fever. Suppressed menstruation, with congestion to head (Bell). Menstrual colic before the appearance of the discharge with strangury."
+  ],
+  "musculoskeletal_symptoms": [
+    "Aching pain in back of neck and shoulders. Severe pain in joints and muscles. Violent electric-like shocks in limbs. Convulsive twitchings. Acute rheumatism. Fever."
+  ],
+  "skin_symptoms": [
+    "Erysipelas, with cerebral symptoms. Erythema. Itching in various parts. Hot sweating."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [
+    "Hyperthermy in the evening and hypothermy in the morning. Suppurative fevers with great variation of temperature."
+  ],
+  "complementary_remedies": [
+    "Gels",
+    "Bapt",
+    "Bell",
+    "Acon",
+    "Ferr phos"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/v/verat-v.htm",
+    "title": "VERATRUM VIRIDE - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:42:06.968Z"
+  },
+  "confidence_score": 0.8
+}

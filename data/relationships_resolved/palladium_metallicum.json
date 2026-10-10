@@ -1,0 +1,46 @@
+{
+  "remedy_name": "PALLADIUM METALLICUM",
+  "source_file": "raw_1772503977953.json",
+  "relationships": {
+    "complementary": [
+      {
+        "original": "ary",
+        "resolved_name": "BARYTA ACETICA",
+        "confidence": 0.8,
+        "method": "substring"
+      }
+    ],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Arg",
+        "resolved_name": "ARGENTUM NITRICUM",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      },
+      {
+        "original": "Helon",
+        "resolved_name": "CHELONE GLABRA",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Lil",
+        "resolved_name": "LILIUM TIGRINUM",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Apis",
+        "resolved_name": "APIS MELLIFICA",
+        "confidence": 1,
+        "method": "exact"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:10.604Z"
+}

@@ -1,0 +1,53 @@
+{
+  "name": "MILLEFOLIUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Yarrow"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Vertigo when moving slowly. Sensation as if he had forgotten something. The head seems full of blood. Convulsions and epilepsy from suppressed menses. Piercing thrusts of pain.",
+    "Hæmoptysis in incipient phthisis. Cough, with bloody expectoration, in suppressed menses or hæmorrhoids. Violent palpitation."
+  ],
+  "guiding_symptoms": [
+    "Vertigo when moving slowly. Sensation as if he had forgotten something. The head seems full of blood. Convulsions and epilepsy from suppressed menses. Piercing thrusts of pain.",
+    "Hæmoptysis in incipient phthisis. Cough, with bloody expectoration, in suppressed menses or hæmorrhoids. Violent palpitation."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Vertigo when moving slowly. Sensation as if he had forgotten something. The head seems full of blood. Convulsions and epilepsy from suppressed menses. Piercing thrusts of pain."
+  ],
+  "respiratory_symptoms": [
+    "Hæmoptysis in incipient phthisis. Cough, with bloody expectoration, in suppressed menses or hæmorrhoids. Violent palpitation."
+  ],
+  "gi_symptoms": [
+    "Hæmorrhage from bowels. Bleeding hæmorrhoids. Urine bloody (Senec aur)."
+  ],
+  "urinary_symptoms": [
+    "Menses early, profuse, protracted. Hæmorrhage from uterus; bright red, fluid. Painful varices during pregnancy."
+  ],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Ficus venosa (Pakur"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/m/mill.htm",
+    "title": "MILLEFOLIUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:02:27.765Z"
+  },
+  "confidence_score": 0.62
+}

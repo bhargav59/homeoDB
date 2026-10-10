@@ -1,0 +1,29 @@
+{
+  "remedy_name": "CLEMATIS ERECTA",
+  "source_file": "raw_1772500906719.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/c/clem.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      "Bryon"
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Clematis vitalba",
+      "Sil",
+      "Staph",
+      "Petrol",
+      "Oleand",
+      "Sarsap",
+      "Canth",
+      "Phos ac",
+      "Pulsat"
+    ],
+    "incompatible": [],
+    "antidotes": [
+      "Bryon"
+    ]
+  },
+  "parsed_at": "2026-03-03T15:23:37.433Z"
+}

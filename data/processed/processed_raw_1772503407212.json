@@ -1,0 +1,52 @@
+{
+  "name": "MUREX PURPUREA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Purple Fish"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Sinking, all-gone sensation in stomach (Sep). Hungry, must eat."
+  ],
+  "guiding_symptoms": [
+    "Sinking, all-gone sensation in stomach (Sep). Hungry, must eat."
+  ],
+  "modalities": {
+    "worse": [
+      "least touch"
+    ],
+    "better": []
+  },
+  "mind_symptoms": [
+    "Great sadness, anxiety, and dread."
+  ],
+  "head_symptoms": [],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "Sinking, all-gone sensation in stomach (Sep). Hungry, must eat."
+  ],
+  "urinary_symptoms": [
+    "Urine frequent at night; smells like Valerian constant urging (Kreos)."
+  ],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Plat",
+    "Lil"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/m/murx.htm",
+    "title": "MUREX PURPUREA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:03:27.212Z"
+  },
+  "confidence_score": 0.62
+}

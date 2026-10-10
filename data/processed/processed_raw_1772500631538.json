@@ -1,0 +1,60 @@
+{
+  "name": "CEREUS BONPLANDII",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "A Night-blooming Cereus"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Convulsive pains at the heart; feels as if transfixed. Pain in chest through heart, with pain running toward spleen. Pain in left pectoral muscle and cartilages of left lower ribs. Sensation of a great weight on heart, and pricking pain. Hypertrophy of heart. Difficult, sighing respiration, as from some compression of chest.",
+    "Occipital headache and pain through the globe of the eyes and orbits (Cedron; Onos). Pain across the brain from left to right. Pain along right malar bone running to temple.",
+    "Pain in neck, back, shoulders, down arms, hands and fingers. Pain in knees and joints of lower extremities."
+  ],
+  "guiding_symptoms": [
+    "Convulsive pains at the heart; feels as if transfixed. Pain in chest through heart, with pain running toward spleen. Pain in left pectoral muscle and cartilages of left lower ribs. Sensation of a great weight on heart, and pricking pain. Hypertrophy of heart. Difficult, sighing respiration, as from some compression of chest.",
+    "Occipital headache and pain through the globe of the eyes and orbits (Cedron; Onos). Pain across the brain from left to right. Pain along right malar bone running to temple.",
+    "Pain in neck, back, shoulders, down arms, hands and fingers. Pain in knees and joints of lower extremities."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [
+    "Great desire to work and to be doing something useful."
+  ],
+  "head_symptoms": [
+    "Occipital headache and pain through the globe of the eyes and orbits (Cedron; Onos). Pain across the brain from left to right. Pain along right malar bone running to temple."
+  ],
+  "respiratory_symptoms": [
+    "Convulsive pains at the heart; feels as if transfixed. Pain in chest through heart, with pain running toward spleen. Pain in left pectoral muscle and cartilages of left lower ribs. Sensation of a great weight on heart, and pricking pain. Hypertrophy of heart. Difficult, sighing respiration, as from some compression of chest."
+  ],
+  "gi_symptoms": [],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [
+    "Pain in neck, back, shoulders, down arms, hands and fingers. Pain in knees and joints of lower extremities."
+  ],
+  "skin_symptoms": [
+    "Itching of skin (Dolich; Sulph)."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Cactus",
+    "Spigel",
+    "Kalmia",
+    "wild anger and low morals"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/c/cere-b.htm",
+    "title": "CEREUS BONPLANDII - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:17:11.538Z"
+  },
+  "confidence_score": 0.62
+}

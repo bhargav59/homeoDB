@@ -1,0 +1,59 @@
+{
+  "name": "GRATIOLA OFFICINALIS",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Hedge Hyssop"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Vertigo during and after meals; hunger and feeling of emptiness after meals. Dyspepsia, with much distention of the stomach. Cramps and colic after supper and during night, with swelling of abdomen and constipation. Dysphagia for liquids.",
+    "Sick headache. Rush of blood with vanishing of sight. Sensation as if brain was contracting and head became smaller. Tightness in forehead, with wrinkles in skin. Eyes dry, burn. Myopia."
+  ],
+  "guiding_symptoms": [
+    "Vertigo during and after meals; hunger and feeling of emptiness after meals. Dyspepsia, with much distention of the stomach. Cramps and colic after supper and during night, with swelling of abdomen and constipation. Dysphagia for liquids.",
+    "Sick headache. Rush of blood with vanishing of sight. Sensation as if brain was contracting and head became smaller. Tightness in forehead, with wrinkles in skin. Eyes dry, burn. Myopia."
+  ],
+  "modalities": {
+    "worse": [
+      "drinking too much water"
+    ],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Sick headache. Rush of blood with vanishing of sight. Sensation as if brain was contracting and head became smaller. Tightness in forehead, with wrinkles in skin. Eyes dry, burn. Myopia."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "Vertigo during and after meals; hunger and feeling of emptiness after meals. Dyspepsia, with much distention of the stomach. Cramps and colic after supper and during night, with swelling of abdomen and constipation. Dysphagia for liquids."
+  ],
+  "urinary_symptoms": [
+    "Nymphomania. Menses too profuse, premature, and too long. Leucorrhœa."
+  ],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [],
+  "sleep_symptoms": [
+    "Insomnia."
+  ],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Dig",
+    "Euph",
+    "Tab",
+    "Cham",
+    "Ammon pic"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/g/grat.htm",
+    "title": "GRATIOLA OFFICINALIS - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:39:59.323Z"
+  },
+  "confidence_score": 0.6799999999999999
+}

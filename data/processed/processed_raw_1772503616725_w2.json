@@ -1,0 +1,58 @@
+{
+  "name": "SAPONARIA OFFICINALIS",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Soap Root"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Difficult swallowing. Nausea, heartburn; full feeling not relieved by eructation.",
+    "Stitching pain, supraorbital; worse, left side, evening, motion. Throbbing over orbits. Congestions to head; tired feeling in nape. Coryza. Sensation of drunkenness with constant endeavor to go left-wards. Left-sided trigeminal neuralgia, especially supraorbital. Stopped up feeling in nose, also itching and sneezing.",
+    "Impulse weak; pulse less frequent. Palpitation with anxiety."
+  ],
+  "guiding_symptoms": [
+    "Difficult swallowing. Nausea, heartburn; full feeling not relieved by eructation.",
+    "Stitching pain, supraorbital; worse, left side, evening, motion. Throbbing over orbits. Congestions to head; tired feeling in nape. Coryza. Sensation of drunkenness with constant endeavor to go left-wards. Left-sided trigeminal neuralgia, especially supraorbital. Stopped up feeling in nose, also itching and sneezing.",
+    "Impulse weak; pulse less frequent. Palpitation with anxiety."
+  ],
+  "modalities": {
+    "worse": [
+      "at night, mental exertion, left side"
+    ],
+    "better": []
+  },
+  "mind_symptoms": [
+    "Utter indifference to pain or possible death. Apathetic, depressed, with sleepiness."
+  ],
+  "head_symptoms": [
+    "Stitching pain, supraorbital; worse, left side, evening, motion. Throbbing over orbits. Congestions to head; tired feeling in nape. Coryza. Sensation of drunkenness with constant endeavor to go left-wards. Left-sided trigeminal neuralgia, especially supraorbital. Stopped up feeling in nose, also itching and sneezing."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "Difficult swallowing. Nausea, heartburn; full feeling not relieved by eructation."
+  ],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Yucca",
+    "Senega",
+    "Dioscorea and other plants (Tired",
+    "indifferent"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/s/sapo.htm",
+    "title": "SAPONARIA OFFICINALIS - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:06:56.725Z"
+  },
+  "confidence_score": 0.62
+}

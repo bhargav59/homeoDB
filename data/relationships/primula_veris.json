@@ -1,0 +1,23 @@
+{
+  "remedy_name": "PRIMULA VERIS",
+  "source_file": "raw_1772504312987.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/p/prim-v.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Cyclamen",
+      "Ranunc",
+      "Śnothera--Evening Primrose--(exhausting",
+      "watery diarrhśa",
+      "cholera infantum",
+      "hydrocephaloid)",
+      "especially on index fingers and thumbs)"
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "parsed_at": "2026-03-03T15:23:37.704Z"
+}

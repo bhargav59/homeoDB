@@ -1,0 +1,41 @@
+{
+  "remedy_name": "AMYLENUM NITROSUM",
+  "source_file": "raw_1772371961581.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      {
+        "original": "Cactus",
+        "resolved_name": "CACTUS GRANDIFLORUS",
+        "confidence": 1,
+        "method": "exact"
+      }
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Glonoine",
+        "resolved_name": "GLONOINUM",
+        "confidence": 0.7,
+        "method": "levenshtein_2"
+      },
+      {
+        "original": "Lachesis",
+        "resolved_name": "LACHESIS MUTUS",
+        "confidence": 1,
+        "method": "exact"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": [
+      {
+        "original": "Cactus",
+        "resolved_name": "CACTUS GRANDIFLORUS",
+        "confidence": 1,
+        "method": "exact"
+      }
+    ]
+  },
+  "resolved_at": "2026-03-11T01:50:08.465Z"
+}

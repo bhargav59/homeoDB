@@ -1,0 +1,43 @@
+{
+  "name": "FILIX MAS",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Male Fern"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [],
+  "guiding_symptoms": [],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Blindness, monocular amblyopia."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "Bloated.--Gnawing-pain; worse eating sweets. Diarrhśa and vomiting. Worm colic, with itching of nose, pale face, blue rings around eyes. Painless hiccough."
+  ],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Aspidium Alhamanticum"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/f/fil.htm",
+    "title": "FILIX MAS - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:35:20.162Z"
+  },
+  "confidence_score": 0.44
+}

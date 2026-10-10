@@ -1,0 +1,19 @@
+{
+  "remedy_name": "GAMBOGIA",
+  "source_file": "raw_1772501858819.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/g/gamb.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Croton",
+      "Aloes",
+      "Pod"
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "parsed_at": "2026-03-03T15:23:37.477Z"
+}

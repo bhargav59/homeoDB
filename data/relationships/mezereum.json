@@ -1,0 +1,31 @@
+{
+  "remedy_name": "MEZEREUM",
+  "source_file": "raw_1772503326937.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/m/mez.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      "Kali hyd"
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "emesis and purgation",
+      "cerebral hyperæmia",
+      "neuralgic pains",
+      "with depression",
+      "palpitation",
+      "and dyspnœa)",
+      "Merc",
+      "Phyt",
+      "Rhus",
+      "Guaiac",
+      "Syph"
+    ],
+    "incompatible": [],
+    "antidotes": [
+      "Kali hyd"
+    ]
+  },
+  "parsed_at": "2026-03-03T15:23:37.548Z"
+}

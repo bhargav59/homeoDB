@@ -1,0 +1,33 @@
+{
+  "remedy_name": "HAEMATOXYLON CAMPECHIANUM",
+  "source_file": "raw_1772502068568.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Cactus",
+        "resolved_name": "CACTUS GRANDIFLORUS",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Colocy",
+        "resolved_name": "COLOCYNTHIS",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      },
+      {
+        "original": "Naja",
+        "resolved_name": "NAJA TRIPUDIANS",
+        "confidence": 1,
+        "method": "exact"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:09.791Z"
+}

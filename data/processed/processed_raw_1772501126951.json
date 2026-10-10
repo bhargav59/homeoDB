@@ -1,0 +1,55 @@
+{
+  "name": "CRATAEGUS OXYACANTHA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Hawthorn Berries"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Apprehensive, despondent. Very nervous and irritable, with pain in back of head and neck. Mental dullness conjunctival irritation nasal discharges.",
+    "Cardiac dropsy. Fatty degeneration. Aortic disease. Extreme dyspnśa on least exertion, without much increase of pulse. Pain in region of heart and under left clavicle. Heart muscles seem flabby, worn out. Cough. Heart dilated; first sound weak. Pulse accelerated, irregular, feeble, intermittent. Valvular murmurs, angina pectoris. Cutaneous chilliness, blueness of fingers and toes; all aggravated by exertion or excitement. Sustains heart in infectious diseases."
+  ],
+  "guiding_symptoms": [
+    "Apprehensive, despondent. Very nervous and irritable, with pain in back of head and neck. Mental dullness conjunctival irritation nasal discharges.",
+    "Cardiac dropsy. Fatty degeneration. Aortic disease. Extreme dyspnśa on least exertion, without much increase of pulse. Pain in region of heart and under left clavicle. Heart muscles seem flabby, worn out. Cough. Heart dilated; first sound weak. Pulse accelerated, irregular, feeble, intermittent. Valvular murmurs, angina pectoris. Cutaneous chilliness, blueness of fingers and toes; all aggravated by exertion or excitement. Sustains heart in infectious diseases."
+  ],
+  "modalities": {
+    "worse": [
+      "in warm room"
+    ],
+    "better": [
+      "fresh air, quiet and rest"
+    ]
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Apprehensive, despondent. Very nervous and irritable, with pain in back of head and neck. Mental dullness conjunctival irritation nasal discharges."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [],
+  "urinary_symptoms": [
+    "Diabetes, especially in children."
+  ],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [
+    "Excessive perspiration. Skin eruptions."
+  ],
+  "sleep_symptoms": [
+    "Insomnia of aortic patients."
+  ],
+  "fever_symptoms": [],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/c/crat.htm",
+    "title": "CRATAEGUS OXYACANTHA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:25:26.951Z"
+  },
+  "confidence_score": 0.6799999999999999
+}

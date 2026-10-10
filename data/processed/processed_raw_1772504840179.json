@@ -1,0 +1,44 @@
+{
+  "name": "SEMPERVIVUM TECTORUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Houseleek"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [],
+  "guiding_symptoms": [],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Malignant ulcers of mouth. Cancer of tongue (Galium). Tongue has ulcers; bleed easily, especially at night; much soreness of tongue with stabbing pains. Whole mouth very tender."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [
+    "Erysipelatous affections. Warts and corns. Aphthæ. Flushed surface and stinging pains."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "ulcers",
+    "intermittent fever"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/s/semp.htm",
+    "title": "SEMPERVIVUM TECTORUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:27:20.179Z"
+  },
+  "confidence_score": 0.44
+}

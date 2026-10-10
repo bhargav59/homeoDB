@@ -1,0 +1,58 @@
+{
+  "name": "CINNABARIS",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Mercuric Sulphide"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Congestion to head; face purple red.",
+    "Pain in forearm from elbow down, including hands. Pain in long bones when barometer lowers; coldness of joints."
+  ],
+  "guiding_symptoms": [
+    "Congestion to head; face purple red.",
+    "Pain in forearm from elbow down, including hands. Pain in long bones when barometer lowers; coldness of joints."
+  ],
+  "modalities": {
+    "worse": [
+      "lying on right side (feels as if contents of body were being dragged over to that side)"
+    ],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Congestion to head; face purple red."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [],
+  "urinary_symptoms": [
+    "Prepuce swollen; warts on it which bleed easily; testicles enlarged; buboes; angry-looking chancres. Syphilides, squamous and vesicular."
+  ],
+  "musculoskeletal_symptoms": [
+    "Pain in forearm from elbow down, including hands. Pain in long bones when barometer lowers; coldness of joints."
+  ],
+  "skin_symptoms": [
+    "Very fiery-red looking ulcers. Nodes on shin-bones. Buboes. Condyloma, easily bleeding."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Hepar",
+    "Nitr ac",
+    "Thuja",
+    "Sep"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/c/cinnb.htm",
+    "title": "CINNABARIS - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:21:02.996Z"
+  },
+  "confidence_score": 0.8
+}

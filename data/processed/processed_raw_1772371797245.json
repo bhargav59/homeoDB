@@ -1,0 +1,57 @@
+{
+  "name": "ALUMINA SILICATA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Andalasite rock-Alumina 63, Silica 37 parts"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Congestion of brain. Constriction of scalp. Pain in head, better heat, perspires. Pain in eyes, flickering. Frequent coryzas. Swelling and ulceration of nose.",
+    "Catarrh of chest, pain, raw feeling. Feeling of great weakness in chest. Stitching pains. Spasmodic cough with purulent viscid expectoration.",
+    "Heaviness, jerking, numbness, aching and pains."
+  ],
+  "guiding_symptoms": [
+    "Congestion of brain. Constriction of scalp. Pain in head, better heat, perspires. Pain in eyes, flickering. Frequent coryzas. Swelling and ulceration of nose.",
+    "Catarrh of chest, pain, raw feeling. Feeling of great weakness in chest. Stitching pains. Spasmodic cough with purulent viscid expectoration.",
+    "Heaviness, jerking, numbness, aching and pains."
+  ],
+  "modalities": {
+    "worse": [
+      "cold air, after eating, standing"
+    ],
+    "better": [
+      "warmth, fasting, resting in bed"
+    ]
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Congestion of brain. Constriction of scalp. Pain in head, better heat, perspires. Pain in eyes, flickering. Frequent coryzas. Swelling and ulceration of nose."
+  ],
+  "respiratory_symptoms": [
+    "Catarrh of chest, pain, raw feeling. Feeling of great weakness in chest. Stitching pains. Spasmodic cough with purulent viscid expectoration."
+  ],
+  "gi_symptoms": [],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [
+    "Heaviness, jerking, numbness, aching and pains."
+  ],
+  "skin_symptoms": [
+    "Formication along course of nerves, veins feel full and distended. Sore to touch and pressure."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/a/alum-sil.htm",
+    "title": "ALUMINA SILICATA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-01T13:29:57.245Z"
+  },
+  "confidence_score": 0.56
+}

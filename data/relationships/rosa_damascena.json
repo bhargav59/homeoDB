@@ -1,0 +1,20 @@
+{
+  "remedy_name": "ROSA DAMASCENA",
+  "source_file": "raw_1772504587290.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/r/ros-d.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "watery coryza",
+      "itching of nose and eyes",
+      "frequent sneezing",
+      "dyspnśa"
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "parsed_at": "2026-03-03T15:23:37.717Z"
+}

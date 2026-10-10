@@ -1,0 +1,54 @@
+{
+  "name": "SOLANUM NIGRUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Black Nightshade"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Furious delirium. Vertigo; terrible headache and complete cessation of the mental faculties. Night terrors. Congestive headache.",
+    "Constructive feeling in chest, with difficult breathing; cough with tickling in throat. Expectoration thick, yellow. Pain in left chest, sore to touch."
+  ],
+  "guiding_symptoms": [
+    "Furious delirium. Vertigo; terrible headache and complete cessation of the mental faculties. Night terrors. Congestive headache.",
+    "Constructive feeling in chest, with difficult breathing; cough with tickling in throat. Expectoration thick, yellow. Pain in left chest, sore to touch."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Furious delirium. Vertigo; terrible headache and complete cessation of the mental faculties. Night terrors. Congestive headache."
+  ],
+  "respiratory_symptoms": [
+    "Constructive feeling in chest, with difficult breathing; cough with tickling in throat. Expectoration thick, yellow. Pain in left chest, sore to touch."
+  ],
+  "gi_symptoms": [],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [
+    "Alternation of coldness and heat. Scarlet fever; eruption in spots, large and vivid."
+  ],
+  "complementary_remedies": [
+    "Bellad",
+    "twenty to forty-drop doses",
+    "hystero-epilepsy",
+    "also in whooping-cough"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/s/sol-n.htm",
+    "title": "SOLANUM NIGRUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:29:09.224Z"
+  },
+  "confidence_score": 0.62
+}

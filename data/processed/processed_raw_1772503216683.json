@@ -1,0 +1,63 @@
+{
+  "name": "MENYANTHES TRIFOLIATA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Buck-bean"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "No thirst at any time. Revenous hunger; passing away after eating a little. Desire for meat. Sensation of coldness extending up to śsophagus.",
+    "Pressing in vertex; better, hard pressure with hand. Pressing-together pain. Weight pressing on brain with every step on ascending. Pain from nape over whole brain; better, stooping, sitting; worse, going upstairs. Cracking in jaw and twitching of facial muscles.",
+    "Icy coldness of hands and feet. Cramp-like pain. As soon as patient lies down, legs jerk and twitch."
+  ],
+  "guiding_symptoms": [
+    "No thirst at any time. Revenous hunger; passing away after eating a little. Desire for meat. Sensation of coldness extending up to śsophagus.",
+    "Pressing in vertex; better, hard pressure with hand. Pressing-together pain. Weight pressing on brain with every step on ascending. Pain from nape over whole brain; better, stooping, sitting; worse, going upstairs. Cracking in jaw and twitching of facial muscles.",
+    "Icy coldness of hands and feet. Cramp-like pain. As soon as patient lies down, legs jerk and twitch."
+  ],
+  "modalities": {
+    "worse": [
+      "during rest, ascending"
+    ],
+    "better": [
+      "pressure on affected part, stooping, motion"
+    ]
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Pressing in vertex; better, hard pressure with hand. Pressing-together pain. Weight pressing on brain with every step on ascending. Pain from nape over whole brain; better, stooping, sitting; worse, going upstairs. Cracking in jaw and twitching of facial muscles."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "No thirst at any time. Revenous hunger; passing away after eating a little. Desire for meat. Sensation of coldness extending up to śsophagus."
+  ],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [
+    "Icy coldness of hands and feet. Cramp-like pain. As soon as patient lies down, legs jerk and twitch."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [
+    "Coldness predominates; felt most acutely in abdomen and legs and tip of nose."
+  ],
+  "complementary_remedies": [
+    "Caps",
+    "Puls",
+    "Calc",
+    "Phos ac",
+    "Sang"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/m/meny.htm",
+    "title": "MENYANTHES TRIFOLIATA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:00:16.683Z"
+  },
+  "confidence_score": 0.6799999999999999
+}

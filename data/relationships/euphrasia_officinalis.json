@@ -1,0 +1,29 @@
+{
+  "remedy_name": "EUPHRASIA OFFICINALIS",
+  "source_file": "raw_1772501604790.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/e/euphr.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      "Camph"
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "hot lachrymation with itching",
+      "swollen lids",
+      "dull headache",
+      "also for effects of Poison-Oak)",
+      "Cepa",
+      "Ars",
+      "Gels",
+      "Kali hyd",
+      "Sabadilla"
+    ],
+    "incompatible": [],
+    "antidotes": [
+      "Camph"
+    ]
+  },
+  "parsed_at": "2026-03-03T15:23:37.464Z"
+}

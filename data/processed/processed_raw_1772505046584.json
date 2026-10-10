@@ -1,0 +1,59 @@
+{
+  "name": "STELLARIA MEDIA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Chickweed"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "General irritability. Lassitude, indisposition to work. Smarting and burning in eyes, feel protruded. Dull, frontal headache; worse in morning and left side with sleepiness. Neck muscles stiff and sore. Eyes feel protruded.",
+    "Rheumatoid pains in different parts of the body. Sharp pain in small of back, over kidneys, in gluteal region, extending down thigh. Pain in shoulders and arms. Synovitis. Bruised feeling. Rheumatic pains in calves of legs."
+  ],
+  "guiding_symptoms": [
+    "General irritability. Lassitude, indisposition to work. Smarting and burning in eyes, feel protruded. Dull, frontal headache; worse in morning and left side with sleepiness. Neck muscles stiff and sore. Eyes feel protruded.",
+    "Rheumatoid pains in different parts of the body. Sharp pain in small of back, over kidneys, in gluteal region, extending down thigh. Pain in shoulders and arms. Synovitis. Bruised feeling. Rheumatic pains in calves of legs."
+  ],
+  "modalities": {
+    "worse": [
+      "mornings, warmth, tobacco"
+    ],
+    "better": [
+      "evenings, cold air, motion"
+    ]
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "General irritability. Lassitude, indisposition to work. Smarting and burning in eyes, feel protruded. Dull, frontal headache; worse in morning and left side with sleepiness. Neck muscles stiff and sore. Eyes feel protruded."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "Liver engorged, swollen, with stitching pain and sensitive to pressure. Clay-colored stools. Hepatic torpor. Constipation or alternating constipation and diarrhśa."
+  ],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [
+    "Rheumatoid pains in different parts of the body. Sharp pain in small of back, over kidneys, in gluteal region, extending down thigh. Pain in shoulders and arms. Synovitis. Bruised feeling. Rheumatic pains in calves of legs."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Pulsat (similar in rheumatism",
+    "pains shifting",
+    "worse rest",
+    "warmth",
+    "better cold air"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/s/stel.htm",
+    "title": "STELLARIA MEDIA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:30:46.584Z"
+  },
+  "confidence_score": 0.56
+}

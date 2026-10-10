@@ -1,0 +1,60 @@
+{
+  "remedy_name": "BORAX VENETA",
+  "source_file": "raw_1772500071683.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      {
+        "original": "Cham",
+        "resolved_name": "CHAMOMILLA",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      }
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Calc",
+        "resolved_name": "CALCAREA CARBONICA",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      },
+      {
+        "original": "Bryon",
+        "resolved_name": "BRYONIA",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      },
+      {
+        "original": "Sanicula",
+        "resolved_name": "SANICULA AQUA",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Sulph ac",
+        "resolved_name": "SULPHUR",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      }
+    ],
+    "incompatible": [
+      {
+        "original": "Antidote: Cham",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      }
+    ],
+    "antidotes": [
+      {
+        "original": "Cham",
+        "resolved_name": "CHAMOMILLA",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      }
+    ]
+  },
+  "resolved_at": "2026-03-11T01:50:08.684Z"
+}

@@ -1,0 +1,48 @@
+{
+  "name": "PINUS SILVESTRIS",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Scotch Pine"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Stiffness; gouty pain in all joints, especially finger-joints. Cramps in calves."
+  ],
+  "guiding_symptoms": [
+    "Stiffness; gouty pain in all joints, especially finger-joints. Cramps in calves."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [
+    "Stiffness; gouty pain in all joints, especially finger-joints. Cramps in calves."
+  ],
+  "skin_symptoms": [
+    "Nettle-rash. Itching all over, especially about joints and on abdomen. Nose itches."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "amenorrhśa",
+    "abortion"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/p/pin-s.htm",
+    "title": "PINUS SILVESTRIS - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:06:26.769Z"
+  },
+  "confidence_score": 0.44
+}

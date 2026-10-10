@@ -1,0 +1,60 @@
+{
+  "name": "MANCINELLA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Hippomane-Manganeel Apple"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Continual choking sensation rising from stomach. Vomiting of ingesta, followed by gripping and copious stools. Burning pains and black vomit.",
+    "Vertigo; head feels lights, empty. Scalp itches. Hair falls out after acute sickness.",
+    "Icy coldness of hands and feet. Pain in thumb."
+  ],
+  "guiding_symptoms": [
+    "Continual choking sensation rising from stomach. Vomiting of ingesta, followed by gripping and copious stools. Burning pains and black vomit.",
+    "Vertigo; head feels lights, empty. Scalp itches. Hair falls out after acute sickness.",
+    "Icy coldness of hands and feet. Pain in thumb."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [
+    "Silent mood, sadness. Wandering thoughts. Sudden vanishing of thought. Bashful. Fear of becoming insane."
+  ],
+  "head_symptoms": [
+    "Vertigo; head feels lights, empty. Scalp itches. Hair falls out after acute sickness."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "Continual choking sensation rising from stomach. Vomiting of ingesta, followed by gripping and copious stools. Burning pains and black vomit."
+  ],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [
+    "Icy coldness of hands and feet. Pain in thumb."
+  ],
+  "skin_symptoms": [
+    "Intense erythema. Vesicles. Fungoid growths. Erysipelas. Large blisters, as from scalds. Heavy, brown crusts and scabs. Pemphigus."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Croton",
+    "Jatropha",
+    "Canth",
+    "Anacard"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/m/manc.htm",
+    "title": "MANCINELLA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:58:36.707Z"
+  },
+  "confidence_score": 0.74
+}

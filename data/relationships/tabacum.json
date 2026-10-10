@@ -1,0 +1,29 @@
+{
+  "remedy_name": "TABACUM",
+  "source_file": "raw_1772505261360.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/t/tab.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      "Vinegar"
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Hydrobromic acid",
+      "Camph",
+      "Verat",
+      "Ars",
+      "nausea",
+      "cold sweat",
+      "and speedy collapse",
+      "head drawn back",
+      "muscles of neck and back rigid"
+    ],
+    "incompatible": [],
+    "antidotes": [
+      "Vinegar"
+    ]
+  },
+  "parsed_at": "2026-03-03T15:23:37.750Z"
+}

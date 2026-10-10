@@ -1,0 +1,52 @@
+{
+  "name": "BRACHYGLOTTIS REPENS",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Puka-Puka"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Cramp in fingers, thumb, and wrist when writing-soreness extending along flexor carpi ulnaris."
+  ],
+  "guiding_symptoms": [
+    "Cramp in fingers, thumb, and wrist when writing-soreness extending along flexor carpi ulnaris."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "Feeling as if something rolling about. Fluttering in region of ovary."
+  ],
+  "urinary_symptoms": [
+    "Pressure in neck of bladder; urging to urinate. Sense of swashing in bladder. Soreness in urethra; feeling as if urine could not be retained. Urine contains mucous corpuscles and epithelium, albumen and casts."
+  ],
+  "musculoskeletal_symptoms": [
+    "Cramp in fingers, thumb, and wrist when writing-soreness extending along flexor carpi ulnaris."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Apis",
+    "Helonias",
+    "Merc cor",
+    "Plumbum"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/b/brach.htm",
+    "title": "BRACHYGLOTTIS REPENS - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:08:32.547Z"
+  },
+  "confidence_score": 0.5
+}

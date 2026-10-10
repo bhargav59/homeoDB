@@ -1,0 +1,17 @@
+{
+  "remedy_name": "FERRUM PHOSPHORICUM",
+  "source_file": "raw_1772501686179.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/f/ferr-p.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "(Oxygenoid Constitution"
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "parsed_at": "2026-03-03T15:23:37.470Z"
+}

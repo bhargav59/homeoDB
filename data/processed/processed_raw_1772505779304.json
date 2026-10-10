@@ -1,0 +1,50 @@
+{
+  "name": "VINCA MINOR",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Lesser Periwinkle"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Tearing pain in vertex, ringing and whistling in ears. Whirling vertigo, with flickering before eyes. Spots on scalp, oozing moisture, matting hair together. Corrosive itching of scalp. Bald spots. Plica polonica. Irresistible desire to scratch."
+  ],
+  "guiding_symptoms": [
+    "Tearing pain in vertex, ringing and whistling in ears. Whirling vertigo, with flickering before eyes. Spots on scalp, oozing moisture, matting hair together. Corrosive itching of scalp. Bald spots. Plica polonica. Irresistible desire to scratch."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Tearing pain in vertex, ringing and whistling in ears. Whirling vertigo, with flickering before eyes. Spots on scalp, oozing moisture, matting hair together. Corrosive itching of scalp. Bald spots. Plica polonica. Irresistible desire to scratch."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [],
+  "urinary_symptoms": [
+    "Excessive menstruation with great weakness. Passive uterine hæmorrhages (Ust; Trill; Secale). Menorrhagia; continuous flow, particularly at climacteric (Lach). Hæmorrhages from fibroids."
+  ],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [
+    "Corrosive itching. Great sensitiveness of skin, with redness and soreness from slight rubbing. Eczema of head and face; pustules, itching, burning, and offensive odor. Hair matted together."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Oleand",
+    "Staph"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/v/vinc.htm",
+    "title": "VINCA MINOR - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:42:59.304Z"
+  },
+  "confidence_score": 0.62
+}

@@ -1,0 +1,66 @@
+{
+  "name": "OLEANDER",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Rose-laurel"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Canine hunger, with hurried eating, without appetite. Thirst. Empty belching. Vomiting of food; greenish water. Throbbing in pit.",
+    "Oppression as from a weight; asthmatic when lying down. Palpitation, with weakness and empty feeling in chest. Dyspnśa. Obtuse stitches in chest.",
+    "Vertigo and diplopia, when looking down. Vertigo, when looking fixedly at an object, and on rising in bed. Pain in brain, as if head would burst. Numb feeling. Dull, unable to think. Indolence. Eruption on scalp. Humid, fetid spots behind ears (Graph; Petrol) and occiput, with red, rough, herpetic spots in front. Corrosive itching on forehead and edge of hair; worse, heat.",
+    "Weakness of lower limbs. Paralysis of legs and feet. Want of animal heat in limbs. Cold feet. Painless paralysis. Constant cold feet. Swelling, burning stiffness of fingers. Veins and hands swollen. Śdema. Stiffness of joints."
+  ],
+  "guiding_symptoms": [
+    "Canine hunger, with hurried eating, without appetite. Thirst. Empty belching. Vomiting of food; greenish water. Throbbing in pit.",
+    "Oppression as from a weight; asthmatic when lying down. Palpitation, with weakness and empty feeling in chest. Dyspnśa. Obtuse stitches in chest.",
+    "Vertigo and diplopia, when looking down. Vertigo, when looking fixedly at an object, and on rising in bed. Pain in brain, as if head would burst. Numb feeling. Dull, unable to think. Indolence. Eruption on scalp. Humid, fetid spots behind ears (Graph; Petrol) and occiput, with red, rough, herpetic spots in front. Corrosive itching on forehead and edge of hair; worse, heat."
+  ],
+  "modalities": {
+    "worse": [
+      "undressing, rest, friction of clothes"
+    ],
+    "better": []
+  },
+  "mind_symptoms": [
+    "Memory weak; slow perception. Melancholy, with obstinate constipation."
+  ],
+  "head_symptoms": [
+    "Vertigo and diplopia, when looking down. Vertigo, when looking fixedly at an object, and on rising in bed. Pain in brain, as if head would burst. Numb feeling. Dull, unable to think. Indolence. Eruption on scalp. Humid, fetid spots behind ears (Graph; Petrol) and occiput, with red, rough, herpetic spots in front. Corrosive itching on forehead and edge of hair; worse, heat."
+  ],
+  "respiratory_symptoms": [
+    "Oppression as from a weight; asthmatic when lying down. Palpitation, with weakness and empty feeling in chest. Dyspnśa. Obtuse stitches in chest."
+  ],
+  "gi_symptoms": [
+    "Canine hunger, with hurried eating, without appetite. Thirst. Empty belching. Vomiting of food; greenish water. Throbbing in pit."
+  ],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [
+    "Weakness of lower limbs. Paralysis of legs and feet. Want of animal heat in limbs. Cold feet. Painless paralysis. Constant cold feet. Swelling, burning stiffness of fingers. Veins and hands swollen. Śdema. Stiffness of joints."
+  ],
+  "skin_symptoms": [
+    "Itching, scurfy pimples; herpes; sensitive and numb. Nocturnal burning. Very sensitive skin; slightest friction causes soreness and chapping. Violent itching eruption, bleeding, oozing; want of perspiration. Pruritus, especially of scalp, which is sensitive."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Con",
+    "Nat m",
+    "Rhus",
+    "Caust",
+    "Lathyr"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/o/olnd.htm",
+    "title": "OLEANDER - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:09:05.903Z"
+  },
+  "confidence_score": 0.8
+}

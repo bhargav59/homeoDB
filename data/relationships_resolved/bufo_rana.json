@@ -1,0 +1,54 @@
+{
+  "remedy_name": "BUFO RANA",
+  "source_file": "raw_1772500144872.json",
+  "relationships": {
+    "complementary": [
+      {
+        "original": "Salamandra",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      }
+    ],
+    "antidoted_by": [
+      {
+        "original": "Laches",
+        "resolved_name": "LACHESIS",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      }
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Baryt carb",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "Asterias",
+        "resolved_name": "ASTERIAS RUBENS",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Salamand",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": [
+      {
+        "original": "Laches",
+        "resolved_name": "LACHESIS",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      }
+    ]
+  },
+  "resolved_at": "2026-03-11T01:50:08.737Z"
+}

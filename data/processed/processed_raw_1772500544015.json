@@ -1,0 +1,47 @@
+{
+  "name": "CASTOR EQUI",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Rudimentary Thumb-nail of the Horse"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Cracked, sore nipples, excessively tender. Swelling of mammć. Violent itching in breasts; areola reddened."
+  ],
+  "guiding_symptoms": [
+    "Cracked, sore nipples, excessively tender. Swelling of mammć. Violent itching in breasts; areola reddened."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [],
+  "respiratory_symptoms": [
+    "Cracked, sore nipples, excessively tender. Swelling of mammć. Violent itching in breasts; areola reddened."
+  ],
+  "gi_symptoms": [],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Graphites",
+    "Hippomanes",
+    "Calc"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/c/castor-e.htm",
+    "title": "CASTOR EQUI - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:15:44.015Z"
+  },
+  "confidence_score": 0.38
+}

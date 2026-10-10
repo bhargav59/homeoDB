@@ -1,0 +1,63 @@
+{
+  "name": "SARSAPARILLA OFFICINALIS",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Smilax"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Pains cause depression. Shooting pain from above right temporal region. Pains from occiput to eyes. Words reverberate in ear to the root of nose. Periosteal pains due to venereal disease. Influenza. Scalp sensitive. Eruptions on face and upper lip. Moist eruption on scalp. Crusta lactea beginning in face.",
+    "Paralytic, tearing pains. Trembling of hands and feet. Burning on sides of fingers and toes. Onychia, ulceration around ends of fingers, cutting sensation under nails. Rheumatism, bone pains; worse at night. Deep rhagades on fingers and toes; burn under nails. Tetter on hands; ulceration around ends of fingers (Psorin). Cutting sensation under nails (Petrol). Rheumatic pains after gonorrhśa."
+  ],
+  "guiding_symptoms": [
+    "Pains cause depression. Shooting pain from above right temporal region. Pains from occiput to eyes. Words reverberate in ear to the root of nose. Periosteal pains due to venereal disease. Influenza. Scalp sensitive. Eruptions on face and upper lip. Moist eruption on scalp. Crusta lactea beginning in face.",
+    "Paralytic, tearing pains. Trembling of hands and feet. Burning on sides of fingers and toes. Onychia, ulceration around ends of fingers, cutting sensation under nails. Rheumatism, bone pains; worse at night. Deep rhagades on fingers and toes; burn under nails. Tetter on hands; ulceration around ends of fingers (Psorin). Cutting sensation under nails (Petrol). Rheumatic pains after gonorrhśa."
+  ],
+  "modalities": {
+    "worse": [
+      "dampness at night, after urinating, when yawning, in spring, before menses"
+    ],
+    "better": []
+  },
+  "mind_symptoms": [
+    "Despondent, sensitive, easily offended, ill humored and taciturn."
+  ],
+  "head_symptoms": [
+    "Pains cause depression. Shooting pain from above right temporal region. Pains from occiput to eyes. Words reverberate in ear to the root of nose. Periosteal pains due to venereal disease. Influenza. Scalp sensitive. Eruptions on face and upper lip. Moist eruption on scalp. Crusta lactea beginning in face."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "Rumbling and fermentation. Colic and backache at same time. Much flatus; cholera infantum."
+  ],
+  "urinary_symptoms": [
+    "Urine scanty, slimy, flaky, sandy, bloody. Gravel. Renal colic. Severe pain at conclusion of urination. Urine dribbles while sitting. Bladder distended and tender. Child screams before and while passing urine. Sand on diaper. Renal colic and dysuria in infants. Pain from right kidney downward. Tenesmus of bladder; urine passes in thin, feeble stream. Pain at meatus."
+  ],
+  "musculoskeletal_symptoms": [
+    "Paralytic, tearing pains. Trembling of hands and feet. Burning on sides of fingers and toes. Onychia, ulceration around ends of fingers, cutting sensation under nails. Rheumatism, bone pains; worse at night. Deep rhagades on fingers and toes; burn under nails. Tetter on hands; ulceration around ends of fingers (Psorin). Cutting sensation under nails (Petrol). Rheumatic pains after gonorrhśa."
+  ],
+  "skin_symptoms": [
+    "Emaciated, shriveled, lies in folds (Abrot; Sanic), dry, flabby. Herpetic eruptions; ulcers. Rash from exposure to open air; dry, itching; comes on in spring; becomes crusty. Rhagades; skin cracked on hands and feet. Skin hard, indurated. Summer cutaneous affections."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Berb",
+    "Lycop",
+    "Nat m",
+    "Petrol",
+    "Sassafras"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/s/sars.htm",
+    "title": "SARSAPARILLA OFFICINALIS - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:26:20.230Z"
+  },
+  "confidence_score": 0.8
+}

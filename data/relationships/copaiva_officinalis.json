@@ -1,0 +1,30 @@
+{
+  "remedy_name": "COPAIVA OFFICINALIS",
+  "source_file": "raw_1772501066256.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/c/cop.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      "Bell"
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Santalum--",
+      "Cannab",
+      "Canth",
+      "Barosma",
+      "Cubeb",
+      "Apis",
+      "Vespa",
+      "Erig",
+      "Senecio",
+      "Sepia"
+    ],
+    "incompatible": [],
+    "antidotes": [
+      "Bell"
+    ]
+  },
+  "parsed_at": "2026-03-03T15:23:37.440Z"
+}

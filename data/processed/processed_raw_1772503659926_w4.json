@@ -1,0 +1,53 @@
+{
+  "name": "UPAS TIEUT",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Upas-tree-Strychnos Tiente"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Lancinating pain throughout right lung toward the liver, stopping breathing. Violent palpitation; sensation of heaviness in stomach.",
+    "Disinclined for mental work. Irritable. Dull headache deep in brain."
+  ],
+  "guiding_symptoms": [
+    "Lancinating pain throughout right lung toward the liver, stopping breathing. Violent palpitation; sensation of heaviness in stomach.",
+    "Disinclined for mental work. Irritable. Dull headache deep in brain."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Disinclined for mental work. Irritable. Dull headache deep in brain."
+  ],
+  "respiratory_symptoms": [
+    "Lancinating pain throughout right lung toward the liver, stopping breathing. Violent palpitation; sensation of heaviness in stomach."
+  ],
+  "gi_symptoms": [],
+  "urinary_symptoms": [
+    "Desire increased, with loss of power. Dull backache, as after excessive coitus."
+  ],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [
+    "Numb hands and feet. Hangnails inflamed; itching and redness of roots of nails."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "(a deadly poison to the muscular system"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/u/upa.htm",
+    "title": "UPAS TIEUT - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:07:39.926Z"
+  },
+  "confidence_score": 0.6799999999999999
+}

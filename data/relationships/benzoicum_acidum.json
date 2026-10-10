@@ -1,0 +1,26 @@
+{
+  "remedy_name": "BENZOICUM ACIDUM",
+  "source_file": "raw_1772499964890.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/b/benz-ac.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      "Copaiva"
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Nitric acid",
+      "Ammon benz",
+      "Sabina",
+      "Tropoeolum"
+    ],
+    "incompatible": [
+      "Wine"
+    ],
+    "antidotes": [
+      "Copaiva"
+    ]
+  },
+  "parsed_at": "2026-03-03T15:23:37.383Z"
+}

@@ -1,0 +1,65 @@
+{
+  "name": "BISMUTHUM SUBNITRICUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Precipitated Sub-Nitrate of Bismuth"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Vomits, with convulsive gagging and pain. Water is vomited as soon as it reaches the stomach. Eructation after drinking. Vomits all fluids. Burning; feeling of a load. Will eat for several days; then vomit. Slow digestion, with fetid eructations. Gastralgia; pain from stomach through to spine. Gastritis. Better, cold drinks, but vomiting when stomach becomes full.",
+    "Tongue coated white; sweetish, metallic taste. Inexpressible pain in stomach; must bend backwards. Pressure as from a load in one spot, alternating with burning, crampy pain and pyrosis.",
+    "Headache alternates with gastralgia. Neuralgic pain, as if torn by pincers; involves face and teeth; worse, eating; better, cold; alternate with gastralgia. Cutting or pressure above right orbit extending to occiput. Pressure in occiput; worse, motion; with heaviness.",
+    "Pinching in middle of diaphragm, extending transversely through chest. Angina pectoris; pain around heart, left arm to fingers.",
+    "Cramps in hands and feet. Tearing in wrist. Paralytic weakness, especially right arm. Tearing in tips of fingers under nails (Berb). Itching erosion near tibia and back of feet near joints. Cold limbs."
+  ],
+  "guiding_symptoms": [
+    "Vomits, with convulsive gagging and pain. Water is vomited as soon as it reaches the stomach. Eructation after drinking. Vomits all fluids. Burning; feeling of a load. Will eat for several days; then vomit. Slow digestion, with fetid eructations. Gastralgia; pain from stomach through to spine. Gastritis. Better, cold drinks, but vomiting when stomach becomes full.",
+    "Tongue coated white; sweetish, metallic taste. Inexpressible pain in stomach; must bend backwards. Pressure as from a load in one spot, alternating with burning, crampy pain and pyrosis.",
+    "Headache alternates with gastralgia. Neuralgic pain, as if torn by pincers; involves face and teeth; worse, eating; better, cold; alternate with gastralgia. Cutting or pressure above right orbit extending to occiput. Pressure in occiput; worse, motion; with heaviness."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [
+    "Solitude is unbearable. Desire for company. Complains about his condition. Anguish. Discontented."
+  ],
+  "head_symptoms": [
+    "Headache alternates with gastralgia. Neuralgic pain, as if torn by pincers; involves face and teeth; worse, eating; better, cold; alternate with gastralgia. Cutting or pressure above right orbit extending to occiput. Pressure in occiput; worse, motion; with heaviness."
+  ],
+  "respiratory_symptoms": [
+    "Pinching in middle of diaphragm, extending transversely through chest. Angina pectoris; pain around heart, left arm to fingers."
+  ],
+  "gi_symptoms": [
+    "Vomits, with convulsive gagging and pain. Water is vomited as soon as it reaches the stomach. Eructation after drinking. Vomits all fluids. Burning; feeling of a load. Will eat for several days; then vomit. Slow digestion, with fetid eructations. Gastralgia; pain from stomach through to spine. Gastritis. Better, cold drinks, but vomiting when stomach becomes full.",
+    "Tongue coated white; sweetish, metallic taste. Inexpressible pain in stomach; must bend backwards. Pressure as from a load in one spot, alternating with burning, crampy pain and pyrosis."
+  ],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [
+    "Cramps in hands and feet. Tearing in wrist. Paralytic weakness, especially right arm. Tearing in tips of fingers under nails (Berb). Itching erosion near tibia and back of feet near joints. Cold limbs."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [
+    "Restless on account of voluptuous dreams. Sleepy in morning, a few hours after eating."
+  ],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Antimon",
+    "Ars",
+    "Bellad",
+    "Kreosot"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/b/bism-sn.htm",
+    "title": "BISMUTHUM SUBNITRICUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:06:59.144Z"
+  },
+  "confidence_score": 0.8
+}

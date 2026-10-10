@@ -1,0 +1,62 @@
+{
+  "name": "CALCAREA SULPHURICA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Sulphate of Lime-Plaster of Paris"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Scald-head of children, if there be purulent discharge, or yellow, purulent crusts.",
+    "Cough, with purulent and sanious sputa and hectic fever. Empyćma, pus forming in the lungs or pleural cavities. Purulent, sanious expectoration. Catarrh, with thick, lumpy, white-yellow or pus-like secretion.",
+    "Burning-itching of soles of feet."
+  ],
+  "guiding_symptoms": [
+    "Scald-head of children, if there be purulent discharge, or yellow, purulent crusts.",
+    "Cough, with purulent and sanious sputa and hectic fever. Empyćma, pus forming in the lungs or pleural cavities. Purulent, sanious expectoration. Catarrh, with thick, lumpy, white-yellow or pus-like secretion.",
+    "Burning-itching of soles of feet."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Scald-head of children, if there be purulent discharge, or yellow, purulent crusts."
+  ],
+  "respiratory_symptoms": [
+    "Cough, with purulent and sanious sputa and hectic fever. Empyćma, pus forming in the lungs or pleural cavities. Purulent, sanious expectoration. Catarrh, with thick, lumpy, white-yellow or pus-like secretion."
+  ],
+  "gi_symptoms": [
+    "Pain in region of liver, in right side of pelvis, followed by weakness, nausea, and pain in stomach."
+  ],
+  "urinary_symptoms": [
+    "Menses late, long-lasting, with headache, twitching great weakness."
+  ],
+  "musculoskeletal_symptoms": [
+    "Burning-itching of soles of feet."
+  ],
+  "skin_symptoms": [
+    "Cuts, wounds, bruises, etc, unhealthy, discharging pus; they do not heal readily. Yellow, purulent crusts or discharge. Purulent exudations in or upon the skin. Skin affections with yellowish scabs. Many little matterless pimples under the hair, bleeding when scratched. Dry eczema in children."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [
+    "Hectic fever, caused by formation of pus. With cough and burning in soles."
+  ],
+  "complementary_remedies": [
+    "Hepar",
+    "Silica"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/c/calc-s.htm",
+    "title": "CALCAREA SULPHURICA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:11:25.554Z"
+  },
+  "confidence_score": 0.8
+}

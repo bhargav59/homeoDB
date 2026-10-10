@@ -1,0 +1,75 @@
+{
+  "remedy_name": "CADMIUM SULPHURATUM",
+  "source_file": "raw_1772500175842.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Cadmium oxide",
+        "resolved_name": "CADMIUM SULPHURATUM",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Cad brom (pain and burning in stomach",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "and vomiting)",
+        "resolved_name": "Dr. Reckeweg R52, Homeopathic Medicine For Nausea &amp; Vomiting During Traveling",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "constipation frequent desire",
+        "resolved_name": "CONIUM MACULATUM",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      },
+      {
+        "original": "tenesmus",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "abdomen bloated)",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "Zinc",
+        "resolved_name": "ZINCUM METALLICUM",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      },
+      {
+        "original": "Ars",
+        "resolved_name": "ARSENICUM ALBUM",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      },
+      {
+        "original": "Carbo",
+        "resolved_name": "CARBO ANIMALIS",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Verat",
+        "resolved_name": "VERATRUM ALBUM",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:08.751Z"
+}

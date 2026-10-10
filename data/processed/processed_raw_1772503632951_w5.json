@@ -1,0 +1,59 @@
+{
+  "name": "STICTA PULMONARIA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Lungwort"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Dull headache, with dull heavy pressure in forehead and root of nose. Catarrhal headache before discharge appears. Burning in eyes and soreness of balls. Sensation as if scalp were too small. Burning in eyelids.",
+    "Throat raw; dropping of mucus posteriorly. Dry, hacking cough during night; worse, inspiration. Tracheitis, facilitates expectoration. Loose cough in morning. Pain through chest from sternum to spiral column. Cough after measles (Sang); worse towards evening and when tired. Pulsation from right side of sternum down to abdomen.",
+    "Rheumatic pain in right shoulder joint, deltoid, and biceps. Swelling, heat, redness of joints. Spot of inflammation and redness over affected joint. Pain severe and drawing. Chorea-like spasms; legs feel floating in air. Housemaid's knee (Rhus; Kali hyd; Slag). Shooting pains in knees. Joints and neighboring muscles red, swollen, painful. Rheumatic pains precede catarrhal symptoms."
+  ],
+  "guiding_symptoms": [
+    "Dull headache, with dull heavy pressure in forehead and root of nose. Catarrhal headache before discharge appears. Burning in eyes and soreness of balls. Sensation as if scalp were too small. Burning in eyelids.",
+    "Throat raw; dropping of mucus posteriorly. Dry, hacking cough during night; worse, inspiration. Tracheitis, facilitates expectoration. Loose cough in morning. Pain through chest from sternum to spiral column. Cough after measles (Sang); worse towards evening and when tired. Pulsation from right side of sternum down to abdomen.",
+    "Rheumatic pain in right shoulder joint, deltoid, and biceps. Swelling, heat, redness of joints. Spot of inflammation and redness over affected joint. Pain severe and drawing. Chorea-like spasms; legs feel floating in air. Housemaid's knee (Rhus; Kali hyd; Slag). Shooting pains in knees. Joints and neighboring muscles red, swollen, painful. Rheumatic pains precede catarrhal symptoms."
+  ],
+  "modalities": {
+    "worse": [
+      "sudden changes of temperature"
+    ],
+    "better": []
+  },
+  "mind_symptoms": [
+    "Feels as if floating in air (Datura arborea; Lac. Can). Confusion of ideas; patient must talk."
+  ],
+  "head_symptoms": [
+    "Dull headache, with dull heavy pressure in forehead and root of nose. Catarrhal headache before discharge appears. Burning in eyes and soreness of balls. Sensation as if scalp were too small. Burning in eyelids."
+  ],
+  "respiratory_symptoms": [
+    "Throat raw; dropping of mucus posteriorly. Dry, hacking cough during night; worse, inspiration. Tracheitis, facilitates expectoration. Loose cough in morning. Pain through chest from sternum to spiral column. Cough after measles (Sang); worse towards evening and when tired. Pulsation from right side of sternum down to abdomen."
+  ],
+  "gi_symptoms": [
+    "Diarrhśa; stools profuse, frothy; worse, morning. Urine increased, with soreness and aching in bladder."
+  ],
+  "urinary_symptoms": [
+    "Scanty flow of milk."
+  ],
+  "musculoskeletal_symptoms": [
+    "Rheumatic pain in right shoulder joint, deltoid, and biceps. Swelling, heat, redness of joints. Spot of inflammation and redness over affected joint. Pain severe and drawing. Chorea-like spasms; legs feel floating in air. Housemaid's knee (Rhus; Kali hyd; Slag). Shooting pains in knees. Joints and neighboring muscles red, swollen, painful. Rheumatic pains precede catarrhal symptoms."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/s/stict.htm",
+    "title": "STICTA PULMONARIA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:07:12.951Z"
+  },
+  "confidence_score": 0.8
+}

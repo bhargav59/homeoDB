@@ -1,0 +1,68 @@
+{
+  "name": "AETHUSA CYNAPIUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Fool's Parsley"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Intolerance of milk; vomiting as soon as swallowed or in large curds. Hungry after vomiting. Regurgitation of food about an hour after eating. Violent vomiting of a white frothy matter. Nausea at sight of food. Painful contraction of stomach. Vomiting, with sweat and great weakness, accompanied by anguish and distress, followed by sleepiness. Stomach feels turned upside down, with burning feeling up to the chest. Tearing pains in the stomach extending to śsophagus.",
+    "Feels bound up, or in a vise. Occipital pain extending down spine; better lying down and by pressure. Head symptoms relieved by expelling flatus (Sanguin) and by stool. Hair feels pulled. Vertigo with drowsiness, with palpitation; head hot after vertigo ceases.",
+    "Difficult, oppressed, anxious respiration; crampy constriction. Sufferings render patient speechless.",
+    "Violent palpitation, with vertigo, headache and restlessness. Pulse rapid, hard and small.",
+    "Back and Extremities.--Want of power to stand up or hold head up. Back feels as if in a vise. Aching in small of back. Weakness of lower extremities. Fingers and thumbs clenched. Numbness of hands and feet. Violent spasms. Squinting of eyes downward."
+  ],
+  "guiding_symptoms": [
+    "Intolerance of milk; vomiting as soon as swallowed or in large curds. Hungry after vomiting. Regurgitation of food about an hour after eating. Violent vomiting of a white frothy matter. Nausea at sight of food. Painful contraction of stomach. Vomiting, with sweat and great weakness, accompanied by anguish and distress, followed by sleepiness. Stomach feels turned upside down, with burning feeling up to the chest. Tearing pains in the stomach extending to śsophagus.",
+    "Feels bound up, or in a vise. Occipital pain extending down spine; better lying down and by pressure. Head symptoms relieved by expelling flatus (Sanguin) and by stool. Hair feels pulled. Vertigo with drowsiness, with palpitation; head hot after vertigo ceases.",
+    "Difficult, oppressed, anxious respiration; crampy constriction. Sufferings render patient speechless."
+  ],
+  "modalities": {
+    "worse": [
+      "3 to 4 am, and evenings",
+      "warmth, summer"
+    ],
+    "better": [
+      "in open air and company"
+    ]
+  },
+  "mind_symptoms": [
+    "Restless, anxious, crying. Sees rats, cats, dogs, etc. Unconscious, delirious. Inability to think, to fix the attention. Brain fag. Idiocy may alternate with furor and irritability."
+  ],
+  "head_symptoms": [
+    "Feels bound up, or in a vise. Occipital pain extending down spine; better lying down and by pressure. Head symptoms relieved by expelling flatus (Sanguin) and by stool. Hair feels pulled. Vertigo with drowsiness, with palpitation; head hot after vertigo ceases."
+  ],
+  "respiratory_symptoms": [
+    "Difficult, oppressed, anxious respiration; crampy constriction. Sufferings render patient speechless."
+  ],
+  "gi_symptoms": [
+    "Intolerance of milk; vomiting as soon as swallowed or in large curds. Hungry after vomiting. Regurgitation of food about an hour after eating. Violent vomiting of a white frothy matter. Nausea at sight of food. Painful contraction of stomach. Vomiting, with sweat and great weakness, accompanied by anguish and distress, followed by sleepiness. Stomach feels turned upside down, with burning feeling up to the chest. Tearing pains in the stomach extending to śsophagus."
+  ],
+  "urinary_symptoms": [
+    "Cutting pain in bladder, with frequent urging. Pain in kidneys."
+  ],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [
+    "Excoriation of thighs in walking. Easy perspiration. Surface of body cold and covered with clammy sweat. Lymphatic glands swollen. Itching eruption around joints. Skin of hands dry and shrunken. Ecchymosis. Anasarca."
+  ],
+  "sleep_symptoms": [
+    "Disturbed by violent startings; cold perspiration. Dozing after vomiting or stool. Child is so exhausted, it falls asleep at once."
+  ],
+  "fever_symptoms": [
+    "Great heat; no thirst. Profuse, cold sweat. Must be covered during sweat."
+  ],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/a/aeth.htm",
+    "title": "AETHUSA CYNAPIUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-01T13:27:06.844Z"
+  },
+  "confidence_score": 0.8
+}

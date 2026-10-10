@@ -1,0 +1,59 @@
+{
+  "name": "CALCAREA ARSENICOSA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Arsenite of Lime"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Region of stomach distended. Enlarged liver and spleen in children. Pancreatic disease; relieves burning pain in cancer of pancreas. Belching with saliva and beating of heart.",
+    "Violent rush of blood to head with vertigo. Pain in head better by lying on painful side. Weekly headache. Benumbling headache mostly around ears.",
+    "Constriction and pain in region of heart, suffocating feeling, palpitation, oppression and throbbing and pain in back extending to arms.",
+    "Removes inflammatory products in veins of lower extremities. Weariness and lameness of lower limbs.",
+    "Pain and stiffness near nape of neck. Violent backache, throbbing, drives out of bed."
+  ],
+  "guiding_symptoms": [
+    "Region of stomach distended. Enlarged liver and spleen in children. Pancreatic disease; relieves burning pain in cancer of pancreas. Belching with saliva and beating of heart.",
+    "Violent rush of blood to head with vertigo. Pain in head better by lying on painful side. Weekly headache. Benumbling headache mostly around ears.",
+    "Constriction and pain in region of heart, suffocating feeling, palpitation, oppression and throbbing and pain in back extending to arms."
+  ],
+  "modalities": {
+    "worse": [
+      "from slight exertion"
+    ],
+    "better": []
+  },
+  "mind_symptoms": [
+    "Anger, anxiety. Desire for company. Confusion, delusions, illusions. Great depression."
+  ],
+  "head_symptoms": [
+    "Violent rush of blood to head with vertigo. Pain in head better by lying on painful side. Weekly headache. Benumbling headache mostly around ears."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "Region of stomach distended. Enlarged liver and spleen in children. Pancreatic disease; relieves burning pain in cancer of pancreas. Belching with saliva and beating of heart."
+  ],
+  "urinary_symptoms": [
+    "Kidney region sensitive to pressure. Albuminuria, passes urine every hour."
+  ],
+  "musculoskeletal_symptoms": [
+    "Removes inflammatory products in veins of lower extremities. Weariness and lameness of lower limbs."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/c/calc-ar.htm",
+    "title": "CALCAREA ARSENICOSA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:10:41.659Z"
+  },
+  "confidence_score": 0.8
+}

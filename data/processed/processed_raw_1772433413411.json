@@ -1,0 +1,41 @@
+{
+  "name": "ASTACUS FLUVIATILIS",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Crawfish"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [],
+  "guiding_symptoms": [],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [
+    "Nettle-rash over whole body. Itching. Crusta lactea, with enlarged lymphatic glands. Erysipelas, and liver affections with nettle-rash. Swelling of cervical glands. Jaundice."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [
+    "Inward chilliness; very sensitive to air, worse uncovering; violent fever, with headache."
+  ],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/a/astac.htm",
+    "title": "ASTACUS FLUVIATILIS - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-02T06:36:53.411Z"
+  },
+  "confidence_score": 0.44
+}

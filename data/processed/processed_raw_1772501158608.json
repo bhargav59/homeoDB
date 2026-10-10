@@ -1,0 +1,62 @@
+{
+  "name": "CROTON TIGLIUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Croton-oil Seed"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Drawing-pain through the left chest into the back. Asthma, with cough; cannot expand the chest. Nursing women; every suck the child gives produces pain from nipple back. Inflamed breasts. Cough; as soon as he touches the pillow must get up. Sensitive to deep breathing.",
+    "Pressing pain in forehead, especially orbits."
+  ],
+  "guiding_symptoms": [
+    "Drawing-pain through the left chest into the back. Asthma, with cough; cannot expand the chest. Nursing women; every suck the child gives produces pain from nipple back. Inflamed breasts. Cough; as soon as he touches the pillow must get up. Sensitive to deep breathing.",
+    "Pressing pain in forehead, especially orbits."
+  ],
+  "modalities": {
+    "worse": [
+      "least food or drink",
+      "during summer",
+      "touch, night and morning, washing"
+    ],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Pressing pain in forehead, especially orbits."
+  ],
+  "respiratory_symptoms": [
+    "Drawing-pain through the left chest into the back. Asthma, with cough; cannot expand the chest. Nursing women; every suck the child gives produces pain from nipple back. Inflamed breasts. Cough; as soon as he touches the pillow must get up. Sensitive to deep breathing."
+  ],
+  "gi_symptoms": [
+    "Copious watery stools, with much urging; always forcibly shot out, with gurgling in intestines; worse, drinking the least quantity, or even while eating. Constant urging to stool, followed by sudden evacuation. Swashing sensation in intestines.",
+    "Urine.--Night urine foaming; dark orange color; turbid on standing; greasy particles floating on top. Day urine is pale, with white sediment."
+  ],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [
+    "Feels hide-bound. Intense itching; but scratching is painful. Pustular eruption, especially on face and genitals, with fearful itching, followed by painful burning. Vesicles; confluent oozing. Vesicular erysipelas, itching exceedingly. Herpes zoster; stinging, smarting pains of the eruption."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "producing colic",
+    "nausea",
+    "vomiting",
+    "cholera-like symptoms",
+    "thin"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/c/crot-t.htm",
+    "title": "CROTON TIGLIUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:25:58.608Z"
+  },
+  "confidence_score": 0.6799999999999999
+}

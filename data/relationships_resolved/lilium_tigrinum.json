@@ -1,0 +1,65 @@
+{
+  "remedy_name": "LILIUM TIGRINUM",
+  "source_file": "raw_1772502909379.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      {
+        "original": "Helon",
+        "resolved_name": "CHELONE GLABRA",
+        "confidence": 0.8,
+        "method": "substring"
+      }
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Cact",
+        "resolved_name": "CACTUS GRANDIFLORUS",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Helon",
+        "resolved_name": "CHELONE GLABRA",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Murex",
+        "resolved_name": "MUREX PURPUREA",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Sep",
+        "resolved_name": "SEPIA",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      },
+      {
+        "original": "Plat",
+        "resolved_name": "PLATINA",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      },
+      {
+        "original": "Pallad",
+        "resolved_name": "PALLADIUM METALLICUM",
+        "confidence": 0.8,
+        "method": "substring"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": [
+      {
+        "original": "Helon",
+        "resolved_name": "CHELONE GLABRA",
+        "confidence": 0.8,
+        "method": "substring"
+      }
+    ]
+  },
+  "resolved_at": "2026-03-11T01:50:10.177Z"
+}

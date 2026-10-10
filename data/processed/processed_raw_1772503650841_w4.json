@@ -1,0 +1,79 @@
+{
+  "name": "THUJA OCCIDENTALIS",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Arbor vitæ"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Complete loss of appetite. Dislike for fresh meat and potatoes. Rancid eructations after fat food. Cutting pain in epigastrium. Cannot eat onions. Flatulence; pain after food; sinking sensation in epigastrium before food; thirst. Tea-drinking dyspepsia.",
+    "Pain as if pierced by a nail (Coff; Ign). Neuralgia from tea (Selen). Left-sided headache. White, scaly dandruff; hair dry and falling out. Greasy skin of face.",
+    "Dry, hacking cough in afternoon, with pain in pit of stomach. Stitches in chest; worse, cold drinks. Asthma in children (Nat sulph). Papilloma of larynx. Chronic laryngitis.",
+    "When walking, limbs feel as if made of wood or glass, and would break easily. Tips of fingers swollen, red, feel read. Muscular twitchings, weakness and trembling. Cracking in joints. Pain in heels and tendo-Achilles. Nails brittle. Ingrowing toe nail."
+  ],
+  "guiding_symptoms": [
+    "Complete loss of appetite. Dislike for fresh meat and potatoes. Rancid eructations after fat food. Cutting pain in epigastrium. Cannot eat onions. Flatulence; pain after food; sinking sensation in epigastrium before food; thirst. Tea-drinking dyspepsia.",
+    "Pain as if pierced by a nail (Coff; Ign). Neuralgia from tea (Selen). Left-sided headache. White, scaly dandruff; hair dry and falling out. Greasy skin of face.",
+    "Dry, hacking cough in afternoon, with pain in pit of stomach. Stitches in chest; worse, cold drinks. Asthma in children (Nat sulph). Papilloma of larynx. Chronic laryngitis."
+  ],
+  "modalities": {
+    "worse": [
+      "at night, from heat of bed",
+      "at 3 am and 3 pm",
+      "from cold, damp air",
+      "after breakfast",
+      "fat, coffee"
+    ],
+    "better": [
+      "left side",
+      "while drawing up a limb"
+    ]
+  },
+  "mind_symptoms": [
+    "Fixed ideas, as if a strange person were at his side; as if soul and body were separated; as if something alive in abdomen (Croc). Emotional sensitiveness; music causes weeping and trembling."
+  ],
+  "head_symptoms": [
+    "Pain as if pierced by a nail (Coff; Ign). Neuralgia from tea (Selen). Left-sided headache. White, scaly dandruff; hair dry and falling out. Greasy skin of face."
+  ],
+  "respiratory_symptoms": [
+    "Dry, hacking cough in afternoon, with pain in pit of stomach. Stitches in chest; worse, cold drinks. Asthma in children (Nat sulph). Papilloma of larynx. Chronic laryngitis."
+  ],
+  "gi_symptoms": [
+    "Complete loss of appetite. Dislike for fresh meat and potatoes. Rancid eructations after fat food. Cutting pain in epigastrium. Cannot eat onions. Flatulence; pain after food; sinking sensation in epigastrium before food; thirst. Tea-drinking dyspepsia."
+  ],
+  "urinary_symptoms": [
+    "Urethra swollen inflamed. Urinary stream split and small. Sensation of trickling after urinating. Severe cutting after (Sars). Frequent micturition accompanying pains. Desire sudden and urgent, but cannot be controlled. Paralysis sphincter vesicæ."
+  ],
+  "musculoskeletal_symptoms": [
+    "When walking, limbs feel as if made of wood or glass, and would break easily. Tips of fingers swollen, red, feel read. Muscular twitchings, weakness and trembling. Cracking in joints. Pain in heels and tendo-Achilles. Nails brittle. Ingrowing toe nail."
+  ],
+  "skin_symptoms": [
+    "Polypi, tubercles, warts epithelioma, nævi, carbuncles; ulcers, especially in ano-genital region. Freckles and blotches. Perspiration sweetish, and strong. Dry skin, with brown spots. Zona; herpetic eruptions. Tearing pains in glands. Glandular enlargement. Nails crippled; brittle and soft. Eruptions only on covered parts; worse after scratching. Very sensitive to touch. Coldness of one side. Sarcoma; polypi. Brown spots on hands and arms."
+  ],
+  "sleep_symptoms": [
+    "Persistent insomnia."
+  ],
+  "fever_symptoms": [
+    "Chill, beginning in thighs. Sweat only on uncovered parts, or all over except head, when sleeping; profuse, sour, smelling like honey. Orgasm of blood in the evening, with throbbing in the blood-vessels."
+  ],
+  "complementary_remedies": [
+    "(Hydrogenoid constitution: Calcar",
+    "Silica",
+    "Nat sulph",
+    "Aranea",
+    "Apis"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/t/thuj.htm",
+    "title": "THUJA OCCIDENTALIS - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:07:30.841Z"
+  },
+  "confidence_score": 0.8
+}

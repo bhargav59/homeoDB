@@ -1,0 +1,53 @@
+{
+  "remedy_name": "DAPHNE INDICA",
+  "source_file": "raw_1772501297547.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      {
+        "original": "Bry",
+        "resolved_name": "BRYONIA",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      }
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Fluor ac",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "Aur",
+        "resolved_name": "AURUM METALLICUM",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      },
+      {
+        "original": "Mez",
+        "resolved_name": "MEZEREUM",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Staph",
+        "resolved_name": "STAPHYSAGRIA",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": [
+      {
+        "original": "Bry",
+        "resolved_name": "BRYONIA",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      }
+    ]
+  },
+  "resolved_at": "2026-03-11T01:50:09.266Z"
+}

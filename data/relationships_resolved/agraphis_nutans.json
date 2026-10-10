@@ -1,0 +1,45 @@
+{
+  "remedy_name": "AGRAPHIS NUTANS",
+  "source_file": "raw_1772371686223.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Hydrast",
+        "resolved_name": "HYDRASTIS CANADENSIS",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Cepa",
+        "resolved_name": "ALLIUM CEPA",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Calc phos",
+        "resolved_name": "CALCAREA CARBONICA",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      },
+      {
+        "original": "Sulph jod",
+        "resolved_name": "SULPHUR",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      },
+      {
+        "original": "Calc jod",
+        "resolved_name": "CALCAREA CARBONICA",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:08.385Z"
+}

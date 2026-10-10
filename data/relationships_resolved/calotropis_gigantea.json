@@ -1,0 +1,45 @@
+{
+  "remedy_name": "CALOTROPIS GIGANTEA",
+  "source_file": "raw_1772500314960.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Merc",
+        "resolved_name": "MERCURIUS SOLUBILIS",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      },
+      {
+        "original": "Potass iod",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "Berb aqui",
+        "resolved_name": "Dr. Reckeweg Berb Aquif. Q Mother Tinctures, Buy Dr. Reckeweg Berb Aquif. Q Online",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Sarsap",
+        "resolved_name": "SARSAPARILLA OFFICINALIS",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Ipecac",
+        "resolved_name": "IPECACUANHA",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:08.811Z"
+}

@@ -1,0 +1,59 @@
+{
+  "name": "SULFONALUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "A Coal-tar Product"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Dropsy, stupid; pain on attempting to raise head. Double vision; heavy look about eyes; tinnitus, aphasia; tongue as if paralyzed. Eyes bloodshot and restless. Vertigo, unable to rise. Double vision; ptosis; tinnitus; dysphagia, difficult speech.",
+    "Congestion of lungs; stertorous breathing. Sighing dyspnœa.",
+    "Ataxic movements, staggering gait; cold, weak, trembling; legs seem too heavy. Extreme restlessness; muscular twitchings. Knee-jerks disappear. Stiffness and paralysis of both legs. Anæsthesia of legs."
+  ],
+  "guiding_symptoms": [
+    "Dropsy, stupid; pain on attempting to raise head. Double vision; heavy look about eyes; tinnitus, aphasia; tongue as if paralyzed. Eyes bloodshot and restless. Vertigo, unable to rise. Double vision; ptosis; tinnitus; dysphagia, difficult speech.",
+    "Congestion of lungs; stertorous breathing. Sighing dyspnœa.",
+    "Ataxic movements, staggering gait; cold, weak, trembling; legs seem too heavy. Extreme restlessness; muscular twitchings. Knee-jerks disappear. Stiffness and paralysis of both legs. Anæsthesia of legs."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [
+    "Mental confusion, incoherency, illusions; apathetic. Alternation of happy, hopeful states with depression and weakness. Extreme irritability."
+  ],
+  "head_symptoms": [
+    "Dropsy, stupid; pain on attempting to raise head. Double vision; heavy look about eyes; tinnitus, aphasia; tongue as if paralyzed. Eyes bloodshot and restless. Vertigo, unable to rise. Double vision; ptosis; tinnitus; dysphagia, difficult speech."
+  ],
+  "respiratory_symptoms": [
+    "Congestion of lungs; stertorous breathing. Sighing dyspnœa."
+  ],
+  "gi_symptoms": [],
+  "urinary_symptoms": [
+    "Albuminuria, with casts. Scanty. Pink color. Constant desire to urinate; scanty, brownish red. Hæmato-porphyrinuria."
+  ],
+  "musculoskeletal_symptoms": [
+    "Ataxic movements, staggering gait; cold, weak, trembling; legs seem too heavy. Extreme restlessness; muscular twitchings. Knee-jerks disappear. Stiffness and paralysis of both legs. Anæsthesia of legs."
+  ],
+  "skin_symptoms": [
+    "Itching, bluish purpura. Erythema."
+  ],
+  "sleep_symptoms": [
+    "Fidgety, wakeful, drowsy. Insomnia."
+  ],
+  "fever_symptoms": [],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/s/sulfon.htm",
+    "title": "SULFONALUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:32:58.829Z"
+  },
+  "confidence_score": 0.74
+}

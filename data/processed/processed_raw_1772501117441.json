@@ -1,0 +1,52 @@
+{
+  "name": "COTYLEDON UMBILICUS",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Pennywort"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Aching in back and thighs. Aching in all joints. Skin sensitive, rubbing of trousers causes an acute sting. Legs and arms feel heavy and sore."
+  ],
+  "guiding_symptoms": [
+    "Aching in back and thighs. Aching in all joints. Skin sensitive, rubbing of trousers causes an acute sting. Legs and arms feel heavy and sore."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [
+    "Lost, confused feeling. Could not articulate for some time on awaking. Pressing vertex headache. Ailments from suppressed emotion. Feeling as if a part of the body were absent.",
+    "Breast.--Pain under left nipple, and aching in right breast. Pain through to scapula from region of left breast. Pain at angles of scapulć. Full, bursting feeling, as if from obstruction at heart. Choking fullness in throat. Breathing oppressed."
+  ],
+  "head_symptoms": [],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [
+    "Aching in back and thighs. Aching in all joints. Skin sensitive, rubbing of trousers causes an acute sting. Legs and arms feel heavy and sore."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Ambra",
+    "Asafoet",
+    "Hepatica",
+    "Ignatia",
+    "Laches"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/c/cot.htm",
+    "title": "COTYLEDON UMBILICUS - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:25:17.441Z"
+  },
+  "confidence_score": 0.44
+}

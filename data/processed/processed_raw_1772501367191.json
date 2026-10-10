@@ -1,0 +1,62 @@
+{
+  "name": "DROSERA ROTUNDIFOLIA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Sundew"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Nausea. Aversion to and bad effects from acids.",
+    "Respiratory Organs.--Spasmodic, dry irritative cough, like whooping-cough, the paroxysms following each other very rapidly; can scarcely breathe; chokes. Cough very deep and hoarse; worse, after midnight; yellow expectoration, with bleeding from nose and mouth; retching. Deep, hoarse voice; hoarseness; laryngitis. Rough, scraping sensation deep in the fauces and soft palate. Sensation as if crumbs were in the throat, of feather in larynx. Laryngeal phthisis, with rapid emaciation. Harassing and titillating cough in children-not at all through the day, but commences as soon as the head touches the pillow at night. Clergyman's sore throat, with rough, scraping, dry sensation deep in the fauces; voice hoarse, deep, toneless, cracked, requires exertion to speak. Asthma when talking, with contraction of the throat at every word uttered.",
+    "Vertigo when walking in open air, with inclination to fall to the left side. Coldness of left half of face, with stinging pains and dry heat of right half.",
+    "Paralytic pains in the coxo-femoral joint and thighs. Stiffness in joints of feet. All limbs feel lame. Bed feels too hard."
+  ],
+  "guiding_symptoms": [
+    "Nausea. Aversion to and bad effects from acids.",
+    "Respiratory Organs.--Spasmodic, dry irritative cough, like whooping-cough, the paroxysms following each other very rapidly; can scarcely breathe; chokes. Cough very deep and hoarse; worse, after midnight; yellow expectoration, with bleeding from nose and mouth; retching. Deep, hoarse voice; hoarseness; laryngitis. Rough, scraping sensation deep in the fauces and soft palate. Sensation as if crumbs were in the throat, of feather in larynx. Laryngeal phthisis, with rapid emaciation. Harassing and titillating cough in children-not at all through the day, but commences as soon as the head touches the pillow at night. Clergyman's sore throat, with rough, scraping, dry sensation deep in the fauces; voice hoarse, deep, toneless, cracked, requires exertion to speak. Asthma when talking, with contraction of the throat at every word uttered.",
+    "Vertigo when walking in open air, with inclination to fall to the left side. Coldness of left half of face, with stinging pains and dry heat of right half."
+  ],
+  "modalities": {
+    "worse": [
+      "after midnight, lying down, on getting warm in bed, drinking, singing, laughing"
+    ],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Vertigo when walking in open air, with inclination to fall to the left side. Coldness of left half of face, with stinging pains and dry heat of right half."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "Nausea. Aversion to and bad effects from acids.",
+    "Respiratory Organs.--Spasmodic, dry irritative cough, like whooping-cough, the paroxysms following each other very rapidly; can scarcely breathe; chokes. Cough very deep and hoarse; worse, after midnight; yellow expectoration, with bleeding from nose and mouth; retching. Deep, hoarse voice; hoarseness; laryngitis. Rough, scraping sensation deep in the fauces and soft palate. Sensation as if crumbs were in the throat, of feather in larynx. Laryngeal phthisis, with rapid emaciation. Harassing and titillating cough in children-not at all through the day, but commences as soon as the head touches the pillow at night. Clergyman's sore throat, with rough, scraping, dry sensation deep in the fauces; voice hoarse, deep, toneless, cracked, requires exertion to speak. Asthma when talking, with contraction of the throat at every word uttered."
+  ],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [
+    "Paralytic pains in the coxo-femoral joint and thighs. Stiffness in joints of feet. All limbs feel lame. Bed feels too hard."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [
+    "Internal chilliness; shivering, with hot face, cold hands, no thirst. Is always too cold, even in bed."
+  ],
+  "complementary_remedies": [
+    "Fluoroform (2 per cent watery solution",
+    "2-4 drops",
+    "after paroxysms",
+    "considered specific for whooping-cough"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/d/dros.htm",
+    "title": "DROSERA ROTUNDIFOLIA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:29:27.191Z"
+  },
+  "confidence_score": 0.62
+}

@@ -1,0 +1,48 @@
+{
+  "name": "VIPERA BERUS",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "The German Viper"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Patient is obliged to keep the extremities elevated. When they are allowed to hang down, it seems as if they would burst, and the pain is unbearable (Diad). Varicose veins and acute phlebitis. Veins swollen, sensitive; bursting pain. Severe cramps in lower extremities."
+  ],
+  "guiding_symptoms": [
+    "Patient is obliged to keep the extremities elevated. When they are allowed to hang down, it seems as if they would burst, and the pain is unbearable (Diad). Varicose veins and acute phlebitis. Veins swollen, sensitive; bursting pain. Severe cramps in lower extremities."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Excessively swollen. Lips and tongue swollen, livid, protruding. Tongue dry, brown, black. Speech difficult.",
+    "Liver.--Violent pain in enlarged liver, with jaundice and fever; extends to shoulder and hip."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [
+    "Patient is obliged to keep the extremities elevated. When they are allowed to hang down, it seems as if they would burst, and the pain is unbearable (Diad). Varicose veins and acute phlebitis. Veins swollen, sensitive; bursting pain. Severe cramps in lower extremities."
+  ],
+  "skin_symptoms": [
+    "Livid. Skin peels in large plates. Lymphangioma, boils, carbuncles, with bursting sensation, relieved by elevating parts."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/v/vip.htm",
+    "title": "VIPERA BERUS - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:43:29.441Z"
+  },
+  "confidence_score": 0.5
+}

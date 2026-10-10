@@ -1,0 +1,26 @@
+{
+  "remedy_name": "LILIUM TIGRINUM",
+  "source_file": "raw_1772502909379.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/l/lil-t.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      "Helon"
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Cact",
+      "Helon",
+      "Murex",
+      "Sep",
+      "Plat",
+      "Pallad"
+    ],
+    "incompatible": [],
+    "antidotes": [
+      "Helon"
+    ]
+  },
+  "parsed_at": "2026-03-03T15:23:37.525Z"
+}

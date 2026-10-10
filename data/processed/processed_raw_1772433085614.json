@@ -1,0 +1,43 @@
+{
+  "name": "APOCYNUM ANDROSAEMIFOLIUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Dogbane"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Pain in all joints. Pain in toes and soles. Swelling of hands and feet. Profuse sweat, with much heat in soles. Tingling pain in toes. Cramps in soles. Violent heat in soles (Sulph)."
+  ],
+  "guiding_symptoms": [
+    "Pain in all joints. Pain in toes and soles. Swelling of hands and feet. Profuse sweat, with much heat in soles. Tingling pain in toes. Cramps in soles. Violent heat in soles (Sulph)."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [
+    "Pain in all joints. Pain in toes and soles. Swelling of hands and feet. Profuse sweat, with much heat in soles. Tingling pain in toes. Cramps in soles. Violent heat in soles (Sulph)."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/a/apoc-a.htm",
+    "title": "APOCYNUM ANDROSAEMIFOLIUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-02T06:31:25.614Z"
+  },
+  "confidence_score": 0.32
+}

@@ -1,0 +1,50 @@
+{
+  "name": "RATANHIA PERUVIANA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Krameria-Mapato"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Pain like knives cutting the stomach.",
+    "Bursting in head after stool, and when sitting with head bent forward. Sensation as if scalp from nose to vertex were stretched."
+  ],
+  "guiding_symptoms": [
+    "Pain like knives cutting the stomach.",
+    "Bursting in head after stool, and when sitting with head bent forward. Sensation as if scalp from nose to vertex were stretched."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Bursting in head after stool, and when sitting with head bent forward. Sensation as if scalp from nose to vertex were stretched."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "Pain like knives cutting the stomach."
+  ],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Paeon",
+    "Croton (rectal neuralgia"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/r/rat.htm",
+    "title": "RATANHIA PERUVIANA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:06:42.490Z"
+  },
+  "confidence_score": 0.5
+}

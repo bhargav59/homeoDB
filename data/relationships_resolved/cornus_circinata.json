@@ -1,0 +1,123 @@
+{
+  "remedy_name": "CORNUS CIRCINATA",
+  "source_file": "raw_1772501098219.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "disturbed sleep",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "fever",
+        "resolved_name": "Dr. Reckeweg R6, Homeopathic Medicine For High Fever, Buy Homeopathic Medicines For Influenza",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "restlessness",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "eczema",
+        "resolved_name": "Dr. Reckeweg R23, Buy Homeopathic Medicine For Eczema, Homeopathic Medicine For Pimples in India",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "skin cracked",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "chest feels cold",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "as if full of ice)",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "Cornus florida (chronic malaria",
+        "resolved_name": "CORNUS CIRCINATA",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "neuralgic pains in arms",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "chest",
+        "resolved_name": "CAUSTICUM",
+        "confidence": 0.7,
+        "method": "levenshtein_2"
+      },
+      {
+        "original": "and trunk",
+        "resolved_name": "ARUM DRACONTIUM",
+        "confidence": 0.55,
+        "method": "levenshtein_3"
+      },
+      {
+        "original": "and sensation as if broken in two",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "intermittent fever",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "with drowsiness",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "feels cold",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "but is warm to touch",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "great exhaustion in intervals",
+        "resolved_name": "X",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "general clammy sweat",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:09.152Z"
+}

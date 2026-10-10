@@ -1,0 +1,18 @@
+{
+  "remedy_name": "SOLANUM NIGRUM",
+  "source_file": "raw_1772504949224.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/s/sol-n.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Bellad",
+      "twenty to forty-drop"
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "parsed_at": "2026-03-03T15:23:37.734Z"
+}

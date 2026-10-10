@@ -1,0 +1,68 @@
+{
+  "name": "DULCAMARA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Bitter-sweet"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Vomiting of white, tenacious mucus. Aversion to food. Burning thirst for cold drinks. Heartburn. Nausea accompanies the desire for stool. Chilliness during vomiting.",
+    "Mental confusion. Occipital pain ascending from nape of neck. Headache relieved by conversation. Rejects things asked for. Back part of head chilly, heavy, aching, during cold weather. Ringworm of scalp. Scaldhead, thick brown crusts, bleeding when scratched. Buzzing in head.",
+    "Cough worse cold, wet weather, with free expectoration, tickling in larynx. Cough, hoarse, spasmodic. Whooping-cough, with excessive secretion of mucus. Winter coughs, dry, teasing. Asthma with dyspnœa. Loose, rattling cough; worse wet weather. Must cough a long time to expel phlegm. Cough after physical exertion.",
+    "Paralysis; paralyzed limbs, feet icy cold. Warts on hands. Perspiration on palms of hands. Pain in shin-bones. Rheumatism alternates with diarrhœa. Rheumatic symptoms after acute skin eruptions.",
+    "Stiff neck. Pain in small of back, as after long stooping. Stiffness and lameness across neck and shoulders, after getting cold and wet."
+  ],
+  "guiding_symptoms": [
+    "Vomiting of white, tenacious mucus. Aversion to food. Burning thirst for cold drinks. Heartburn. Nausea accompanies the desire for stool. Chilliness during vomiting.",
+    "Mental confusion. Occipital pain ascending from nape of neck. Headache relieved by conversation. Rejects things asked for. Back part of head chilly, heavy, aching, during cold weather. Ringworm of scalp. Scaldhead, thick brown crusts, bleeding when scratched. Buzzing in head.",
+    "Cough worse cold, wet weather, with free expectoration, tickling in larynx. Cough, hoarse, spasmodic. Whooping-cough, with excessive secretion of mucus. Winter coughs, dry, teasing. Asthma with dyspnœa. Loose, rattling cough; worse wet weather. Must cough a long time to expel phlegm. Cough after physical exertion."
+  ],
+  "modalities": {
+    "worse": [
+      "at night",
+      "from cold in general, damp, rainy weather"
+    ],
+    "better": [
+      "from moving about, external warmth"
+    ]
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Mental confusion. Occipital pain ascending from nape of neck. Headache relieved by conversation. Rejects things asked for. Back part of head chilly, heavy, aching, during cold weather. Ringworm of scalp. Scaldhead, thick brown crusts, bleeding when scratched. Buzzing in head."
+  ],
+  "respiratory_symptoms": [
+    "Cough worse cold, wet weather, with free expectoration, tickling in larynx. Cough, hoarse, spasmodic. Whooping-cough, with excessive secretion of mucus. Winter coughs, dry, teasing. Asthma with dyspnœa. Loose, rattling cough; worse wet weather. Must cough a long time to expel phlegm. Cough after physical exertion."
+  ],
+  "gi_symptoms": [
+    "Vomiting of white, tenacious mucus. Aversion to food. Burning thirst for cold drinks. Heartburn. Nausea accompanies the desire for stool. Chilliness during vomiting."
+  ],
+  "urinary_symptoms": [
+    "Suppression of menses from cold or dampness. Before appearance of menses, a rash appears on skin, or sexual excitement. Dysmenorrhœa, with blotches all over; mammæ engorged and sore, delicate, sensitive to cold."
+  ],
+  "musculoskeletal_symptoms": [
+    "Paralysis; paralyzed limbs, feet icy cold. Warts on hands. Perspiration on palms of hands. Pain in shin-bones. Rheumatism alternates with diarrhœa. Rheumatic symptoms after acute skin eruptions."
+  ],
+  "skin_symptoms": [
+    "Adenitis. Pruritus, always worse in cold, wet weather. Herpes zoster, pemphigus. Swelling and indurated glands from cold. Vesicular eruptions. Sensitive bleeding ulcers. Little boils. Red spots, urticaria, brought on by exposure, or sour stomach. Humid eruptions on face, genitals, hands, etc. Warts, large, smooth, on face and palmar surface of hands. Anasarca. Thick, brown-yellow crusts, bleeding when scratched."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [
+    "Dry burning heat all over. Chilliness towards evening, mostly in back. Icy coldness, with pains. Dry heat and burning of skin. Chilliness with thirst."
+  ],
+  "complementary_remedies": [
+    "Pimpinello--(Bibernell"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/d/dulc.htm",
+    "title": "DULCAMARA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:29:47.289Z"
+  },
+  "confidence_score": 0.8
+}

@@ -1,0 +1,39 @@
+{
+  "remedy_name": "ANGUSTURA VERA",
+  "source_file": "raw_1772372038532.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Nux",
+        "resolved_name": "NUX MOSCHATA",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Ruta",
+        "resolved_name": "RUTA GRAVEOLENS",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Mercur",
+        "resolved_name": "MERCURIUS SOLUBILIS",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      },
+      {
+        "original": "Brucea",
+        "resolved_name": "Brucea Antidysenterica.",
+        "confidence": 1,
+        "method": "exact"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:08.494Z"
+}

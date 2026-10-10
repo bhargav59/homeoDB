@@ -1,0 +1,49 @@
+{
+  "name": "CYPRIPEDIUM PUBESCENS",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Yellow Lady's Slipper"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Child cries out at night; is wakeful and begins to laugh and play. Headaches of elderly people and during climacteric."
+  ],
+  "guiding_symptoms": [
+    "Child cries out at night; is wakeful and begins to laugh and play. Headaches of elderly people and during climacteric."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Child cries out at night; is wakeful and begins to laugh and play. Headaches of elderly people and during climacteric."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Ambra",
+    "Kali brom",
+    "Scutellar",
+    "Valerian",
+    "Ignat"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/c/cypr.htm",
+    "title": "CYPRIPEDIUM PUBESCENS - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:27:48.656Z"
+  },
+  "confidence_score": 0.38
+}

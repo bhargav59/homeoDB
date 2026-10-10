@@ -1,0 +1,54 @@
+{
+  "name": "PHASEOLUS NANUS",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Dwarf-bean"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Breathing slow and sighing. Pulse rapid. Palpitation. Sick feeling about heart, with weak pulse. Right ribs sore. Dropsical effusion into pleura or pericardium.",
+    "Aches chiefly in forehead or orbits from fullness of brain; worse any movement or mental exertion.",
+    "Fearful palpitation and feeling that death is approaching."
+  ],
+  "guiding_symptoms": [
+    "Breathing slow and sighing. Pulse rapid. Palpitation. Sick feeling about heart, with weak pulse. Right ribs sore. Dropsical effusion into pleura or pericardium.",
+    "Aches chiefly in forehead or orbits from fullness of brain; worse any movement or mental exertion.",
+    "Fearful palpitation and feeling that death is approaching."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Aches chiefly in forehead or orbits from fullness of brain; worse any movement or mental exertion."
+  ],
+  "respiratory_symptoms": [
+    "Breathing slow and sighing. Pulse rapid. Palpitation. Sick feeling about heart, with weak pulse. Right ribs sore. Dropsical effusion into pleura or pericardium."
+  ],
+  "gi_symptoms": [],
+  "urinary_symptoms": [
+    "Diabetic urine."
+  ],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Cratæg",
+    "Lach"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/p/phase.htm",
+    "title": "PHASEOLUS NANUS - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:06:23.270Z"
+  },
+  "confidence_score": 0.62
+}

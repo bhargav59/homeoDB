@@ -1,0 +1,19 @@
+{
+  "remedy_name": "PSORINUM",
+  "source_file": "raw_1772504344509.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/p/psor.htm",
+  "relationships": {
+    "complementary": [
+      "Sulphur"
+    ],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Calcarea and Natrum ars"
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "parsed_at": "2026-03-03T15:23:37.706Z"
+}

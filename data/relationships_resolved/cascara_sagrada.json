@@ -1,0 +1,27 @@
+{
+  "remedy_name": "CASCARA SAGRADA",
+  "source_file": "raw_1772500502215.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Hyd",
+        "resolved_name": "ARSENICUM HYDROGENISATUM",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Nux",
+        "resolved_name": "NUX MOSCHATA",
+        "confidence": 1,
+        "method": "exact"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:08.885Z"
+}

@@ -1,0 +1,90 @@
+{
+  "remedy_name": "CALENDULA OFFICINALIS",
+  "source_file": "raw_1772500304471.json",
+  "relationships": {
+    "complementary": [
+      {
+        "original": "Hepar",
+        "resolved_name": "HEPAR SULPHUR",
+        "confidence": 1,
+        "method": "exact"
+      }
+    ],
+    "antidoted_by": [
+      {
+        "original": "Chelidon",
+        "resolved_name": "CHELIDONIUM MAJUS",
+        "confidence": 0.8,
+        "method": "substring"
+      }
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Hamamel",
+        "resolved_name": "HAMAMELIS VIRGINIANA",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Hyperic",
+        "resolved_name": "HYPERICUM PERFORATUM",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Symph",
+        "resolved_name": "MYOSOTIS SYMPHYTIFOLIA",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Arn",
+        "resolved_name": "ARNICA MONTANA",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      },
+      {
+        "original": "in deafness: Ferr pic",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "Kal iod",
+        "resolved_name": "KALIUM ARSENICOSUM",
+        "confidence": 0.55,
+        "method": "levenshtein_3"
+      },
+      {
+        "original": "Calc",
+        "resolved_name": "CALCAREA CARBONICA",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      },
+      {
+        "original": "Mag c",
+        "resolved_name": "MAGNESIA PHOSPHORICA",
+        "confidence": 0.7,
+        "method": "levenshtein_2"
+      },
+      {
+        "original": "Graph",
+        "resolved_name": "GRAPHITES",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": [
+      {
+        "original": "Chelidon",
+        "resolved_name": "CHELIDONIUM MAJUS",
+        "confidence": 0.8,
+        "method": "substring"
+      }
+    ]
+  },
+  "resolved_at": "2026-03-11T01:50:08.805Z"
+}

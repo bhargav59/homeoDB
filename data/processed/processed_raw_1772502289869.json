@@ -1,0 +1,61 @@
+{
+  "name": "IBERIS AMARA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Bitter Candytuft"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Vertigo and pains around heart. Constant hawking of thick, stringy mucus until after a meal. Hot, flushed face. Vertigo, as if occiput were turning around; eyes feel forced outwards.",
+    "Conscious of heart's action. On turning on left side, stitching pain as of needles through ventricles felt at each systole. Palpitation, with vertigo and choking in throat. Stitching pains in cardiac region. Pulse full, irregular, intermittent. Worse, least motion and in warm room. Sensation of weight and pressure, with occasional sharp, stinging pains. Dropsy, with enlarged heart. Violent palpitation induced by slightest exertion, or by laughing, or coughing. Darting pains through heart. Cardiac dyspnśa. Dilation of heart. Wakes with palpitation about 2 am. Throat and trachea fills up with mucus. Cough causes redness of face. Tachycardia.",
+    "Numbness and tingling in left hand and arm. Whole body sore, lame and trembling."
+  ],
+  "guiding_symptoms": [
+    "Vertigo and pains around heart. Constant hawking of thick, stringy mucus until after a meal. Hot, flushed face. Vertigo, as if occiput were turning around; eyes feel forced outwards.",
+    "Conscious of heart's action. On turning on left side, stitching pain as of needles through ventricles felt at each systole. Palpitation, with vertigo and choking in throat. Stitching pains in cardiac region. Pulse full, irregular, intermittent. Worse, least motion and in warm room. Sensation of weight and pressure, with occasional sharp, stinging pains. Dropsy, with enlarged heart. Violent palpitation induced by slightest exertion, or by laughing, or coughing. Darting pains through heart. Cardiac dyspnśa. Dilation of heart. Wakes with palpitation about 2 am. Throat and trachea fills up with mucus. Cough causes redness of face. Tachycardia.",
+    "Numbness and tingling in left hand and arm. Whole body sore, lame and trembling."
+  ],
+  "modalities": {
+    "worse": [
+      "lying down",
+      "on left side",
+      "motion, exertion",
+      "warm room"
+    ],
+    "better": []
+  },
+  "mind_symptoms": [
+    "Sad and sighing; fearful and trembling. Irritable."
+  ],
+  "head_symptoms": [
+    "Vertigo and pains around heart. Constant hawking of thick, stringy mucus until after a meal. Hot, flushed face. Vertigo, as if occiput were turning around; eyes feel forced outwards."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [
+    "Numbness and tingling in left hand and arm. Whole body sore, lame and trembling."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Cact",
+    "Dig",
+    "Amyl",
+    "Bell"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/i/iber.htm",
+    "title": "IBERIS AMARA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:44:49.869Z"
+  },
+  "confidence_score": 0.62
+}

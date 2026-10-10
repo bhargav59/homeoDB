@@ -1,0 +1,54 @@
+{
+  "name": "OLEUM JECORIS ASELLI",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Cod-liver Oil"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Hoarseness. Sharp stitching pains. Burning spots. Dry, hacking, tickling cough, especially at night. Whooping-cough in miserable, scrofulous children. Here give drop doses, increasing daily one drop up to twelve, then descend in the same way (Dahlke). Soreness through chest. Hćmoptysis (Acalypha; Millef). Palpitation, accompanies other symptoms. Yellowness. Children who cannot take milk.",
+    "Aching in elbows and knees, in sacrum. Chronic rheumatism, with rigid muscles and tendons. Burning in palms."
+  ],
+  "guiding_symptoms": [
+    "Hoarseness. Sharp stitching pains. Burning spots. Dry, hacking, tickling cough, especially at night. Whooping-cough in miserable, scrofulous children. Here give drop doses, increasing daily one drop up to twelve, then descend in the same way (Dahlke). Soreness through chest. Hćmoptysis (Acalypha; Millef). Palpitation, accompanies other symptoms. Yellowness. Children who cannot take milk.",
+    "Aching in elbows and knees, in sacrum. Chronic rheumatism, with rigid muscles and tendons. Burning in palms."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [],
+  "respiratory_symptoms": [
+    "Hoarseness. Sharp stitching pains. Burning spots. Dry, hacking, tickling cough, especially at night. Whooping-cough in miserable, scrofulous children. Here give drop doses, increasing daily one drop up to twelve, then descend in the same way (Dahlke). Soreness through chest. Hćmoptysis (Acalypha; Millef). Palpitation, accompanies other symptoms. Yellowness. Children who cannot take milk."
+  ],
+  "gi_symptoms": [],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [
+    "Aching in elbows and knees, in sacrum. Chronic rheumatism, with rigid muscles and tendons. Burning in palms."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [
+    "Constantly chilly towards evening. Hectic fever. Night-sweats."
+  ],
+  "complementary_remedies": [
+    "Cholesterine",
+    "Tubercul",
+    "Phosph",
+    "Iod"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/o/ol-j.htm",
+    "title": "OLEUM JECORIS ASELLI - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:06:07.410Z"
+  },
+  "confidence_score": 0.5
+}

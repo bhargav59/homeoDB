@@ -1,0 +1,59 @@
+{
+  "remedy_name": "ARGENTUM METALLICUM",
+  "source_file": "raw_1772433179512.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      {
+        "original": "Mercur",
+        "resolved_name": "MERCURIUS SOLUBILIS",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      }
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Selen",
+        "resolved_name": "SELENIUM METALLICUM",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Alum",
+        "resolved_name": "ALUMINA",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Platina",
+        "resolved_name": "PLATINA",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      },
+      {
+        "original": "Stannum",
+        "resolved_name": "STANNUM METALLICUM",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Ampelopsis",
+        "resolved_name": "AMPELOPSIS QUINQUEFOLIA",
+        "confidence": 1,
+        "method": "exact"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": [
+      {
+        "original": "Mercur",
+        "resolved_name": "MERCURIUS SOLUBILIS",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      }
+    ]
+  },
+  "resolved_at": "2026-03-11T01:50:08.527Z"
+}

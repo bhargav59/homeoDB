@@ -1,0 +1,71 @@
+{
+  "name": "MEDORRHINUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "The Gonorrhśal Virus"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Coppery taste and eructations of sulphuretted hydrogen. Ravenous hunger soon after eating. Very thirsty. Cravings for liquor, salt, sweets, etc, warm drinks. Pernicious vomiting of pregnancy.",
+    "Burning pain in brain; worse, occiput. Head heavy and drawn backward. Headache from jarring of cars, exhaustion, or hard work. Weight and pressure in vertex. Hair dry, crispy. Itching of scalp; dandruff.",
+    "Much oppression of breathing. Hoarse while reading. Pain and soreness through chest and mammć. Incessant, dry, night cough. Asthma. Incipient consumption. Larynx feels sore. Dyspnśa; cannot exhale (Samb). Cough; better lying on stomach.",
+    "Pain in back, with burning heat. Legs heavy; ache all night; cannot keep them still (Zinc). Ankles easily turn when walking. Burning of hands feet. Finger-joints enlarged, puffy. Gouty concretions. Heels and balls of feet tender (Thuja). Soreness of soles. Restless; better, clutching hands."
+  ],
+  "guiding_symptoms": [
+    "Coppery taste and eructations of sulphuretted hydrogen. Ravenous hunger soon after eating. Very thirsty. Cravings for liquor, salt, sweets, etc, warm drinks. Pernicious vomiting of pregnancy.",
+    "Burning pain in brain; worse, occiput. Head heavy and drawn backward. Headache from jarring of cars, exhaustion, or hard work. Weight and pressure in vertex. Hair dry, crispy. Itching of scalp; dandruff.",
+    "Much oppression of breathing. Hoarse while reading. Pain and soreness through chest and mammć. Incessant, dry, night cough. Asthma. Incipient consumption. Larynx feels sore. Dyspnśa; cannot exhale (Samb). Cough; better lying on stomach."
+  ],
+  "modalities": {
+    "worse": [
+      "when thinking of ailment, from daylight to sunset, heat, inland"
+    ],
+    "better": [
+      "at the seashore, lying on stomach, damp weather (Caust)"
+    ]
+  },
+  "mind_symptoms": [
+    "Weak memory. Loses the thread of conversation. Cannot speak without weeping. Time passes too slowly (Cannab ind; Arg n). Is in a great hurry. Hopeless of recovery. Difficult concentration. Fears going insane (Mancinella). Sensibility exalted. Nervous, restless. Fear in the dark and of some one behind her. Melancholy, with suicidal thoughts."
+  ],
+  "head_symptoms": [
+    "Burning pain in brain; worse, occiput. Head heavy and drawn backward. Headache from jarring of cars, exhaustion, or hard work. Weight and pressure in vertex. Hair dry, crispy. Itching of scalp; dandruff."
+  ],
+  "respiratory_symptoms": [
+    "Much oppression of breathing. Hoarse while reading. Pain and soreness through chest and mammć. Incessant, dry, night cough. Asthma. Incipient consumption. Larynx feels sore. Dyspnśa; cannot exhale (Samb). Cough; better lying on stomach."
+  ],
+  "gi_symptoms": [
+    "Coppery taste and eructations of sulphuretted hydrogen. Ravenous hunger soon after eating. Very thirsty. Cravings for liquor, salt, sweets, etc, warm drinks. Pernicious vomiting of pregnancy."
+  ],
+  "urinary_symptoms": [
+    "Nocturnal emissions, followed by great weakness. Impotence. Gleet; whole urethra feels sore. Urethritis. Enlarged and painful prostate with frequent urging and painful urination."
+  ],
+  "musculoskeletal_symptoms": [
+    "Pain in back, with burning heat. Legs heavy; ache all night; cannot keep them still (Zinc). Ankles easily turn when walking. Burning of hands feet. Finger-joints enlarged, puffy. Gouty concretions. Heels and balls of feet tender (Thuja). Soreness of soles. Restless; better, clutching hands."
+  ],
+  "skin_symptoms": [
+    "Yellow. Intense and incessant itching; worse night and when thinking of it. Fiery red rash about anus in babies. Copper-colored spots. Favus. Tumors and abnormal growth."
+  ],
+  "sleep_symptoms": [
+    "Dreams she is drinking (Ars; Phos). Sleeps in knee-chest position."
+  ],
+  "fever_symptoms": [
+    "Wants to be fanned all the time. Chills up and down back; coldness of legs, hands, and forearms. Flashes of heat in face and neck. Night-sweat and hectic."
+  ],
+  "complementary_remedies": [
+    "(Lactation: Galega",
+    "Lactuca"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/m/med.htm",
+    "title": "MEDORRHINUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:59:05.701Z"
+  },
+  "confidence_score": 0.8
+}

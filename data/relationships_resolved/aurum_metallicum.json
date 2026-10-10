@@ -1,0 +1,53 @@
+{
+  "remedy_name": "AURUM METALLICUM",
+  "source_file": "raw_1772433449704.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      {
+        "original": "Bell",
+        "resolved_name": "BELLADONNA",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      }
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Aur ars (chronic aortitis",
+        "resolved_name": "AURUM METALLICUM",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      },
+      {
+        "original": "lupus",
+        "resolved_name": "FUCUS VESICULOSUS",
+        "confidence": 0.7,
+        "method": "levenshtein_2"
+      },
+      {
+        "original": "phthisis in syphilitic headaches",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "also in anæmia and chlorosis",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": [
+      {
+        "original": "Bell",
+        "resolved_name": "BELLADONNA",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      }
+    ]
+  },
+  "resolved_at": "2026-03-11T01:50:08.608Z"
+}

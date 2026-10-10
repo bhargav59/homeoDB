@@ -1,0 +1,52 @@
+{
+  "name": "POPULUS TREMULOIDES",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "American Aspen"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Indigestion, with flatulence and acidity. Nausea and vomiting.",
+    "Urine.--Severe tenesmus; painful scalding. Urine contains mucus and pus. Prostate enlarged. Pain behind pubis, at end of urination."
+  ],
+  "guiding_symptoms": [
+    "Indigestion, with flatulence and acidity. Nausea and vomiting.",
+    "Urine.--Severe tenesmus; painful scalding. Urine contains mucus and pus. Prostate enlarged. Pain behind pubis, at end of urination."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "Indigestion, with flatulence and acidity. Nausea and vomiting.",
+    "Urine.--Severe tenesmus; painful scalding. Urine contains mucus and pus. Prostate enlarged. Pain behind pubis, at end of urination."
+  ],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Nux",
+    "China",
+    "Cornus flor",
+    "Cannabis",
+    "Cantharis"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/p/pop.htm",
+    "title": "POPULUS TREMULOIDES - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:06:33.142Z"
+  },
+  "confidence_score": 0.38
+}

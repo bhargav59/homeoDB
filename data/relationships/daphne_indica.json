@@ -1,0 +1,24 @@
+{
+  "remedy_name": "DAPHNE INDICA",
+  "source_file": "raw_1772501297547.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/d/daph.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      "Bry"
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Fluor ac",
+      "Aur",
+      "Mez",
+      "Staph"
+    ],
+    "incompatible": [],
+    "antidotes": [
+      "Bry"
+    ]
+  },
+  "parsed_at": "2026-03-03T15:23:37.450Z"
+}

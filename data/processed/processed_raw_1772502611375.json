@@ -1,0 +1,55 @@
+{
+  "name": "KALIUM MURIATICUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Cloride of Potassium-KCl"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Fatty or rich food causes indigestion. Vomiting of white, opaque mucus; water gathers in the mouth. Pain in the stomach, with constipation. Bulimia; hunger disappears by drinking water.",
+    "Imagines he must starve. Headache, with vomiting. Crusta lactea. Dandruff."
+  ],
+  "guiding_symptoms": [
+    "Fatty or rich food causes indigestion. Vomiting of white, opaque mucus; water gathers in the mouth. Pain in the stomach, with constipation. Bulimia; hunger disappears by drinking water.",
+    "Imagines he must starve. Headache, with vomiting. Crusta lactea. Dandruff."
+  ],
+  "modalities": {
+    "worse": [
+      "rich food, fats, motion"
+    ],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Imagines he must starve. Headache, with vomiting. Crusta lactea. Dandruff."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "Fatty or rich food causes indigestion. Vomiting of white, opaque mucus; water gathers in the mouth. Pain in the stomach, with constipation. Bulimia; hunger disappears by drinking water."
+  ],
+  "urinary_symptoms": [
+    "Menstruation too late or suppressed, checked or too early; excessive discharge; dark-clotted, or tough, black blood, like tar (Plat). Leucorrhœa; discharge of milky-white mucus, thick, non-irritating, bland. Morning sickness, with vomiting of white phlegm. Bunches in breast feel quite soft and are tender.",
+    "Respiratory Organs.--Loss of voice; hoarseness. Asthma, with gastric derangements; mucus white and hard to cough up. Loud, noisy stomach cough; cough short, acute, and spasmodic, like whooping-cough; expectoration thick and white. Rattling sounds of air passing through thick, tenacious mucus in the bronchi; difficult to cough up.",
+    "Back and Extremities.--Rheumatic fever; exudation and swelling around the joints. Rheumatic pains felt only during motion, or increased by it. Nightly rheumatic pains; worse from warmth of bed; lightning-like from small of back to feet; must get out of bed and sit up. Hands get stiff while writing."
+  ],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [
+    "Acne, erythema, and eczema, with vesicles containing thick, white contents. Dry, flour-like scales on the skin (Arsenic). Bursitis."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/k/kali-m.htm",
+    "title": "KALIUM MURIATICUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:50:11.375Z"
+  },
+  "confidence_score": 0.8
+}

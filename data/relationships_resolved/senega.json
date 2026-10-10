@@ -1,0 +1,51 @@
+{
+  "remedy_name": "SENEGA",
+  "source_file": "raw_1772504860078.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Caust",
+        "resolved_name": "CAUSTICUM",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      },
+      {
+        "original": "Phos",
+        "resolved_name": "PHOSPHORUS",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      },
+      {
+        "original": "Saponin",
+        "resolved_name": "Saponinum.",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Ammon",
+        "resolved_name": "AMMONIUM BENZOICUM",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Calc",
+        "resolved_name": "CALCAREA CARBONICA",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      },
+      {
+        "original": "infantile colic: hysteria)",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:11.192Z"
+}

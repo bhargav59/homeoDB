@@ -1,0 +1,55 @@
+{
+  "name": "LOLEUM TEMULENTUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Darnel"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Nausea, vomiting. Pain in pit of stomach and abdomen. Severe purging.",
+    "Anxious and depressed, confused. Vertigo; must close eyes. Head heavy. Noises in ears.",
+    "Gait unsteady. Trembling of all limbs. Loss of power in extremities. Violent pain in calves, as if bound with cords. Cold extremities. Spasmodic motions of arms and legs. Cannot write; cannot hold a glass of water. Trembling of hands in paralysis."
+  ],
+  "guiding_symptoms": [
+    "Nausea, vomiting. Pain in pit of stomach and abdomen. Severe purging.",
+    "Anxious and depressed, confused. Vertigo; must close eyes. Head heavy. Noises in ears.",
+    "Gait unsteady. Trembling of all limbs. Loss of power in extremities. Violent pain in calves, as if bound with cords. Cold extremities. Spasmodic motions of arms and legs. Cannot write; cannot hold a glass of water. Trembling of hands in paralysis."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Anxious and depressed, confused. Vertigo; must close eyes. Head heavy. Noises in ears."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "Nausea, vomiting. Pain in pit of stomach and abdomen. Severe purging."
+  ],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [
+    "Gait unsteady. Trembling of all limbs. Loss of power in extremities. Violent pain in calves, as if bound with cords. Cold extremities. Spasmodic motions of arms and legs. Cannot write; cannot hold a glass of water. Trembling of hands in paralysis."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Secale",
+    "Lathyr",
+    "Astrag"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/l/lol.htm",
+    "title": "LOLEUM TEMULENTUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:56:24.601Z"
+  },
+  "confidence_score": 0.5
+}

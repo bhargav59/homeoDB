@@ -1,0 +1,45 @@
+{
+  "remedy_name": "DOLICHOS PRURIENS",
+  "source_file": "raw_1772501347261.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Rhus",
+        "resolved_name": "RHUS GLABRA",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Bell",
+        "resolved_name": "BELLADONNA",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      },
+      {
+        "original": "Hep",
+        "resolved_name": "HEPAR SULPHURIS",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      },
+      {
+        "original": "Nit ac",
+        "resolved_name": "NITRICUM ACIDUM",
+        "confidence": 0.85,
+        "method": "levenshtein_1"
+      },
+      {
+        "original": "Fagopyr",
+        "resolved_name": "FAGOPYRUM ESCULENTUM",
+        "confidence": 0.8,
+        "method": "substring"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:09.293Z"
+}

@@ -1,0 +1,18 @@
+{
+  "remedy_name": "NATRIUM CARBONICUM",
+  "source_file": "raw_1772503508506.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/n/nat-c.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Nat sulph",
+      "Caust"
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "parsed_at": "2026-03-03T15:23:37.557Z"
+}

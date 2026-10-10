@@ -1,0 +1,22 @@
+{
+  "remedy_name": "RAPHANUS SATIVUS",
+  "source_file": "raw_1772504463414.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/r/raph.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Momordica (worse",
+      "near splenic flexure)",
+      "Carbo",
+      "Anarc",
+      "Arg nit",
+      "Brassica"
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "parsed_at": "2026-03-03T15:23:37.711Z"
+}

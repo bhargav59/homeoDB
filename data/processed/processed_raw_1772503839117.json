@@ -1,0 +1,47 @@
+{
+  "name": "OREODAPHNE CALIFORNICA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "California Laurel"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Eructations, with nausea and shuddering.",
+    "Dizziness; worse on stopping or moving. Head heavy, eyelids heavy, twitching. Intense aching, with pressure at inner angle of either orbit, generally left, extending through brain and across scalp to the base of the occiput; worse light, noise; better, closing eyes and perfect quiet. Constant, dull ache in cervical and occipital region, extending to scapula down spine, into the head; pain into the ears. Great heaviness of head, with constant desire to move the head, which does not relieve. Drooping eyelids. Twitching. Atonic diarrhśa."
+  ],
+  "guiding_symptoms": [
+    "Eructations, with nausea and shuddering.",
+    "Dizziness; worse on stopping or moving. Head heavy, eyelids heavy, twitching. Intense aching, with pressure at inner angle of either orbit, generally left, extending through brain and across scalp to the base of the occiput; worse light, noise; better, closing eyes and perfect quiet. Constant, dull ache in cervical and occipital region, extending to scapula down spine, into the head; pain into the ears. Great heaviness of head, with constant desire to move the head, which does not relieve. Drooping eyelids. Twitching. Atonic diarrhśa."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Dizziness; worse on stopping or moving. Head heavy, eyelids heavy, twitching. Intense aching, with pressure at inner angle of either orbit, generally left, extending through brain and across scalp to the base of the occiput; worse light, noise; better, closing eyes and perfect quiet. Constant, dull ache in cervical and occipital region, extending to scapula down spine, into the head; pain into the ears. Great heaviness of head, with constant desire to move the head, which does not relieve. Drooping eyelids. Twitching. Atonic diarrhśa."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "Eructations, with nausea and shuddering."
+  ],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/o/oreo.htm",
+    "title": "OREODAPHNE CALIFORNICA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:10:39.115Z"
+  },
+  "confidence_score": 0.38
+}

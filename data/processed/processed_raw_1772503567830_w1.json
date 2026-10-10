@@ -1,0 +1,54 @@
+{
+  "name": "OENANTHE CROCATA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Water Dropwart"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Pains all over head, dizzy. Sudden and complete unconsciousness. Furious delirium, giddiness. Countenance livid, eyes fixed, pupils dilated, convulsive twitching of facial muscles, trismus, foaming at mouth, locked jaws. Much yawning. Tendency to cry over little things.",
+    "Tickling cough, with rattling in the lower part of the chest, and thick, frothy expectoration. Heavy, spasmodic, stertorous breathing.",
+    "Convulsions; opisthotonos. Pain along crural and sciatic nerves, commencing in back. Cold hands and feet. Numbness of hand and foot."
+  ],
+  "guiding_symptoms": [
+    "Pains all over head, dizzy. Sudden and complete unconsciousness. Furious delirium, giddiness. Countenance livid, eyes fixed, pupils dilated, convulsive twitching of facial muscles, trismus, foaming at mouth, locked jaws. Much yawning. Tendency to cry over little things.",
+    "Tickling cough, with rattling in the lower part of the chest, and thick, frothy expectoration. Heavy, spasmodic, stertorous breathing.",
+    "Convulsions; opisthotonos. Pain along crural and sciatic nerves, commencing in back. Cold hands and feet. Numbness of hand and foot."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Pains all over head, dizzy. Sudden and complete unconsciousness. Furious delirium, giddiness. Countenance livid, eyes fixed, pupils dilated, convulsive twitching of facial muscles, trismus, foaming at mouth, locked jaws. Much yawning. Tendency to cry over little things."
+  ],
+  "respiratory_symptoms": [
+    "Tickling cough, with rattling in the lower part of the chest, and thick, frothy expectoration. Heavy, spasmodic, stertorous breathing."
+  ],
+  "gi_symptoms": [],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [
+    "Convulsions; opisthotonos. Pain along crural and sciatic nerves, commencing in back. Cold hands and feet. Numbness of hand and foot."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Cicuta",
+    "Kali brom"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/o/oena.htm",
+    "title": "OENANTHE CROCATA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:06:07.830Z"
+  },
+  "confidence_score": 0.5
+}

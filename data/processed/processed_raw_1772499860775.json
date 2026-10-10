@@ -1,0 +1,65 @@
+{
+  "name": "BADIAGA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Fresh-water Sponge"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Mouth hot. Much thirst. Lancinating pain in pit of stomach extending to vertebra and scapula.",
+    "Sensation of enlargement and fullness. Pain in forehead and temple, extending to eyeballs, worse in afternoon. Blueness under eyes. Dandruff; scalp sore, dry, tetter-like. Dull, dizzy feeling in head. Coryza, sneezing, watery discharge, with asthmatic breathing and suffocative cough. Influenza. Slight sounds are greatly accentuated.",
+    "Cough; worse in afternoon, better in warm room. The mucus flies out of mouth and nostrils. Whooping-cough, with thick yellow expectoration; flies out. Hay-fever, with asthmatic breathing. Pleuritic stitches in chest, neck, and back.",
+    "Indescribable bad feeling about the heart with soreness and pain, flying stitches all over.",
+    "Stitches in nape, scapulć. Pain in small of back, hips and lower limbs. Very stiff neck. Muscles and skin sore, as if beaten."
+  ],
+  "guiding_symptoms": [
+    "Mouth hot. Much thirst. Lancinating pain in pit of stomach extending to vertebra and scapula.",
+    "Sensation of enlargement and fullness. Pain in forehead and temple, extending to eyeballs, worse in afternoon. Blueness under eyes. Dandruff; scalp sore, dry, tetter-like. Dull, dizzy feeling in head. Coryza, sneezing, watery discharge, with asthmatic breathing and suffocative cough. Influenza. Slight sounds are greatly accentuated.",
+    "Cough; worse in afternoon, better in warm room. The mucus flies out of mouth and nostrils. Whooping-cough, with thick yellow expectoration; flies out. Hay-fever, with asthmatic breathing. Pleuritic stitches in chest, neck, and back."
+  ],
+  "modalities": {
+    "worse": [
+      "by cold"
+    ],
+    "better": [
+      "by heat"
+    ]
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Sensation of enlargement and fullness. Pain in forehead and temple, extending to eyeballs, worse in afternoon. Blueness under eyes. Dandruff; scalp sore, dry, tetter-like. Dull, dizzy feeling in head. Coryza, sneezing, watery discharge, with asthmatic breathing and suffocative cough. Influenza. Slight sounds are greatly accentuated."
+  ],
+  "respiratory_symptoms": [
+    "Cough; worse in afternoon, better in warm room. The mucus flies out of mouth and nostrils. Whooping-cough, with thick yellow expectoration; flies out. Hay-fever, with asthmatic breathing. Pleuritic stitches in chest, neck, and back."
+  ],
+  "gi_symptoms": [
+    "Mouth hot. Much thirst. Lancinating pain in pit of stomach extending to vertebra and scapula."
+  ],
+  "urinary_symptoms": [
+    "Metrorrhagia; worse at night, with feeling of enlargement of head (Arg). Cancer of breast (Asterias; Con; Carbo an; Plumb iod)."
+  ],
+  "musculoskeletal_symptoms": [
+    "Stitches in nape, scapulć. Pain in small of back, hips and lower limbs. Very stiff neck. Muscles and skin sore, as if beaten."
+  ],
+  "skin_symptoms": [
+    "Sore to touch. Freckles. Rhagades."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Merc similar but opposite modalities"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/b/bad.htm",
+    "title": "BADIAGA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:04:20.775Z"
+  },
+  "confidence_score": 0.8
+}

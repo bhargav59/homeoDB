@@ -1,0 +1,21 @@
+{
+  "remedy_name": "MILLEFOLIUM",
+  "source_file": "raw_1772503347765.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Ficus venosa",
+        "resolved_name": "FICUS RELIGIOSA",
+        "confidence": 0.8,
+        "method": "substring"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:10.377Z"
+}

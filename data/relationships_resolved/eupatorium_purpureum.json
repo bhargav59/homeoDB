@@ -1,0 +1,51 @@
+{
+  "remedy_name": "EUPATORIUM PURPUREUM",
+  "source_file": "raw_1772501563598.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Senecio",
+        "resolved_name": "SENECIO AUREUS",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Cannab sat",
+        "resolved_name": "CANNABIS INDICA",
+        "confidence": 0.55,
+        "method": "levenshtein_3"
+      },
+      {
+        "original": "Helon",
+        "resolved_name": "CHELONE GLABRA",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Phos ac",
+        "resolved_name": "PHOSPHORUS",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      },
+      {
+        "original": "Triticum",
+        "resolved_name": "TRITICUM REPENS",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Epigea",
+        "resolved_name": "EPIGEA REPENS",
+        "confidence": 1,
+        "method": "exact"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:09.595Z"
+}

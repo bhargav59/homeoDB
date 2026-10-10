@@ -1,0 +1,23 @@
+{
+  "remedy_name": "NATRIUM MURIATICUM",
+  "source_file": "raw_1772503529683.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/n/nat-m.htm",
+  "relationships": {
+    "complementary": [
+      "to Apis"
+    ],
+    "antidoted_by": [
+      "Ars"
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Aqua marina-Isotonic plasma"
+    ],
+    "incompatible": [],
+    "antidotes": [
+      "Ars"
+    ]
+  },
+  "parsed_at": "2026-03-03T15:23:37.558Z"
+}

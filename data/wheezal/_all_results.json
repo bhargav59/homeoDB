@@ -1,0 +1,759 @@
+[
+  {
+    "name": "Anaemia",
+    "url": "https://www.wheezalstore.com/product/29687075/Anaemia",
+    "collection_id": "bio_combination",
+    "title": "Anaemia",
+    "price": "₹99",
+    "description": "",
+    "image": "",
+    "scraped_at": "2026-03-26T05:27:47.853Z",
+    "composition": [
+      "Calc. Phos. 3x",
+      "Ferrum Phos. 3x",
+      "Nat. Mur. 3x"
+    ],
+    "indications": [
+      "Debility",
+      "Wasting diseases",
+      "Poor digestion",
+      "Improvement of blood quality"
+    ],
+    "bc_number": "BC-1"
+  },
+  {
+    "name": "Asthma",
+    "url": "https://www.wheezalstore.com/product/29687076/Asthma",
+    "collection_id": "bio_combination",
+    "title": "Asthma",
+    "price": "₹99",
+    "description": "",
+    "image": "",
+    "scraped_at": "2026-03-26T05:27:52.171Z",
+    "composition": [
+      "Kali Phos. 3x",
+      "Mag. Phos. 3x",
+      "Nat. Mur. 3x",
+      "Nat. Sulph. 3x"
+    ],
+    "indications": [
+      "Spasmodic cough",
+      "Dyspnoea",
+      "Bronchial asthma"
+    ],
+    "bc_number": "BC-2"
+  },
+  {
+    "name": "Colic",
+    "url": "https://www.wheezalstore.com/product/29687077/Colic",
+    "collection_id": "bio_combination",
+    "title": "Colic",
+    "price": "₹99",
+    "description": "",
+    "image": "",
+    "scraped_at": "2026-03-26T05:27:57.383Z",
+    "composition": [
+      "Mag. Phos. 3x",
+      "Calc. Phos. 3x",
+      "Nat. Sulph. 3x",
+      "Ferrum Phos. 3x",
+      "Kali Phos. 3x"
+    ],
+    "indications": [
+      "Flatulent colic",
+      "Intestinal pain",
+      "Abdominal cramps"
+    ],
+    "bc_number": "BC-3"
+  },
+  {
+    "name": "Constipation",
+    "url": "https://www.wheezalstore.com/product/29687078/Constipation",
+    "collection_id": "bio_combination",
+    "title": "Constipation",
+    "price": "₹99",
+    "description": "",
+    "image": "",
+    "scraped_at": "2026-03-26T05:28:01.065Z",
+    "composition": [
+      "Calc. Fluor. 3x",
+      "Kali Mur. 3x",
+      "Nat. Mur. 3x",
+      "Silicea 6x"
+    ],
+    "indications": [
+      "Chronic constipation",
+      "Hard stool",
+      "Inertia of bowels"
+    ],
+    "bc_number": "BC-4"
+  },
+  {
+    "name": "Coryza",
+    "url": "https://www.wheezalstore.com/product/29687079/Coryza",
+    "collection_id": "bio_combination",
+    "title": "Coryza",
+    "price": "₹99",
+    "description": "",
+    "image": "",
+    "scraped_at": "2026-03-26T05:28:06.038Z",
+    "composition": [
+      "Ferrum Phos. 3x",
+      "Kali Mur. 3x",
+      "Nat. Mur. 3x",
+      "Kali Sulph. 3x"
+    ],
+    "indications": [
+      "Sneezing",
+      "Nasal discharge",
+      "Sore throat",
+      "Headache"
+    ],
+    "bc_number": "BC-5"
+  },
+  {
+    "name": "Cough, Cold & Catarrh",
+    "url": "https://www.wheezalstore.com/product/29687080/Cough--Cold---Catarrh",
+    "collection_id": "bio_combination",
+    "title": "Cough, Cold & Catarrh",
+    "price": "₹99",
+    "description": "",
+    "image": "",
+    "scraped_at": "2026-03-26T05:28:10.472Z",
+    "composition": [
+      "Ferrum Phos. 3x",
+      "Kali Mur. 3x",
+      "Mag. Phos. 3x",
+      "Nat. Mur. 3x",
+      "Nat. Sulph. 3x"
+    ],
+    "indications": [
+      "Acute cough",
+      "Cold with headache",
+      "Pain in chest"
+    ],
+    "bc_number": "BC-6"
+  },
+  {
+    "name": "Diabetes",
+    "url": "https://www.wheezalstore.com/product/29687081/Diabetes",
+    "collection_id": "bio_combination",
+    "title": "Diabetes",
+    "price": "₹99",
+    "description": "",
+    "image": "",
+    "scraped_at": "2026-03-26T05:28:15.168Z",
+    "composition": [
+      "Calc. Phos. 3x",
+      "Ferrum Phos. 3x",
+      "Kali Phos. 3x",
+      "Nat. Phos. 3x",
+      "Nat. Sulph. 3x"
+    ],
+    "indications": [
+      "Increased thirst",
+      "Frequent urination",
+      "General weakness"
+    ],
+    "bc_number": "BC-7"
+  },
+  {
+    "name": "Diarrhoea",
+    "url": "https://www.wheezalstore.com/product/29687083/Diarrhoea",
+    "collection_id": "bio_combination",
+    "title": "Diarrhoea",
+    "price": "₹99",
+    "description": "",
+    "image": "",
+    "scraped_at": "2026-03-26T05:28:18.755Z",
+    "composition": [
+      "Calc. Phos. 3x",
+      "Ferrum Phos. 3x",
+      "Kali Phos. 3x",
+      "Kali Sulph. 3x",
+      "Nat. Sulph. 3x"
+    ],
+    "indications": [
+      "Thin watery stools",
+      "Abdominal pain",
+      "Weakness"
+    ],
+    "bc_number": "BC-8"
+  },
+  {
+    "name": "Dysentery",
+    "url": "https://www.wheezalstore.com/product/29687084/Dysentery",
+    "collection_id": "bio_combination",
+    "title": "Dysentery",
+    "price": "₹99",
+    "description": "",
+    "image": "",
+    "scraped_at": "2026-03-26T05:28:22.918Z",
+    "composition": [
+      "Ferrum Phos. 3x",
+      "Kali Mur. 3x",
+      "Kali Phos. 3x",
+      "Mag. Phos. 3x"
+    ],
+    "indications": [
+      "Stools with mucus or blood",
+      "Constant urging"
+    ],
+    "bc_number": "BC-9"
+  },
+  {
+    "name": "Enlarged Tonsils",
+    "url": "https://www.wheezalstore.com/product/29687085/Enlarged-Tonsils",
+    "collection_id": "bio_combination",
+    "title": "Enlarged Tonsils",
+    "price": "₹99",
+    "description": "",
+    "image": "",
+    "scraped_at": "2026-03-26T05:28:26.429Z",
+    "composition": [
+      "Calc. Phos. 3x",
+      "Ferrum Phos. 3x",
+      "Kali Mur. 3x"
+    ],
+    "indications": [
+      "Inflamed tonsils",
+      "Swelling",
+      "Difficulty swallowing"
+    ],
+    "bc_number": "BC-10"
+  },
+  {
+    "name": "Fever",
+    "url": "https://www.wheezalstore.com/product/29687086/Fever",
+    "collection_id": "bio_combination",
+    "title": "Fever",
+    "price": "₹99",
+    "description": "",
+    "image": "",
+    "scraped_at": "2026-03-26T05:28:30.814Z",
+    "composition": [
+      "Ferrum Phos. 3x",
+      "Kali Mur. 3x",
+      "Kali Sulph. 3x",
+      "Nat. Mur. 3x",
+      "Nat. Sulph. 3x"
+    ],
+    "indications": [
+      "Inflammatory fevers",
+      "Intermittent fevers",
+      "Body ache"
+    ],
+    "bc_number": "BC-11"
+  },
+  {
+    "name": "Headache",
+    "url": "https://www.wheezalstore.com/product/29687087/Headache",
+    "collection_id": "bio_combination",
+    "title": "Headache",
+    "price": "₹99",
+    "description": "",
+    "image": "",
+    "scraped_at": "2026-03-26T05:28:35.123Z",
+    "composition": [
+      "Ferrum Phos. 3x",
+      "Kali Phos. 3x",
+      "Mag. Phos. 3x",
+      "Nat. Mur. 3x"
+    ],
+    "indications": [
+      "Nervous headache",
+      "Congestive headache",
+      "Migraine"
+    ],
+    "bc_number": "BC-12"
+  },
+  {
+    "name": "Leucorrhoea",
+    "url": "https://www.wheezalstore.com/product/29687088/Leucorrhoea",
+    "collection_id": "bio_combination",
+    "title": "Leucorrhoea",
+    "price": "₹99",
+    "description": "",
+    "image": "",
+    "scraped_at": "2026-03-26T05:28:40.068Z",
+    "composition": [
+      "Calc. Phos. 3x",
+      "Kali Phos. 3x",
+      "Kali Sulph. 3x",
+      "Nat. Mur. 3x"
+    ],
+    "indications": [
+      "Vaginal discharge",
+      "Weakness",
+      "Backache"
+    ],
+    "bc_number": "BC-13"
+  },
+  {
+    "name": "Measles",
+    "url": "https://www.wheezalstore.com/product/29687089/Measles",
+    "collection_id": "bio_combination",
+    "title": "Measles",
+    "price": "₹99",
+    "description": "",
+    "image": "",
+    "scraped_at": "2026-03-26T05:28:44.031Z",
+    "composition": [
+      "Ferrum Phos. 3x",
+      "Kali Mur. 3x",
+      "Kali Sulph. 3x"
+    ],
+    "indications": [
+      "Eruptions",
+      "Cough",
+      "Fever following measles"
+    ],
+    "bc_number": "BC-14"
+  },
+  {
+    "name": "Menstrual Troubles",
+    "url": "https://www.wheezalstore.com/product/29687090/Menstrual-Troubles",
+    "collection_id": "bio_combination",
+    "title": "Menstrual Troubles",
+    "price": "₹99",
+    "description": "",
+    "image": "",
+    "scraped_at": "2026-03-26T05:28:49.185Z",
+    "composition": [
+      "Calc. Phos. 3x",
+      "Ferrum Phos. 3x",
+      "Kali Phos. 3x",
+      "Kali Sulph. 3x",
+      "Mag. Phos. 3x"
+    ],
+    "indications": [
+      "Irregular menses",
+      "Painful menstruation",
+      "Debility"
+    ],
+    "bc_number": "BC-15"
+  },
+  {
+    "name": "Nervous Exhaustion",
+    "url": "https://www.wheezalstore.com/product/29687091/Nervous-Exhaustion",
+    "collection_id": "bio_combination",
+    "title": "Nervous Exhaustion",
+    "price": "₹99",
+    "description": "",
+    "image": "",
+    "scraped_at": "2026-03-26T05:28:53.148Z",
+    "composition": [
+      "Calc. Phos. 3x",
+      "Ferrum Phos. 3x",
+      "Kali Phos. 3x",
+      "Mag. Phos. 3x",
+      "Nat. Mur. 3x"
+    ],
+    "indications": [
+      "Mental fatigue",
+      "Sleeplessness",
+      "Poor memory"
+    ],
+    "bc_number": "BC-16"
+  },
+  {
+    "name": "Piles",
+    "url": "https://www.wheezalstore.com/product/29687092/Piles",
+    "collection_id": "bio_combination",
+    "title": "Piles",
+    "price": "₹99",
+    "description": "",
+    "image": "",
+    "scraped_at": "2026-03-26T05:28:57.992Z",
+    "composition": [
+      "Calc. Fluor. 3x",
+      "Ferrum Phos. 3x",
+      "Kali Mur. 3x"
+    ],
+    "indications": [
+      "Bleeding or blind piles",
+      "Anal fissures",
+      "Pain during stool"
+    ],
+    "bc_number": "BC-17"
+  },
+  {
+    "name": "Pyorrhoea",
+    "url": "https://www.wheezalstore.com/product/29687093/Pyorrhoea",
+    "collection_id": "bio_combination",
+    "title": "Pyorrhoea",
+    "price": "₹99",
+    "description": "",
+    "image": "",
+    "scraped_at": "2026-03-26T05:29:02.390Z",
+    "composition": [
+      "Calc. Fluor. 3x",
+      "Calc. Sulph. 3x",
+      "Silicea 6x"
+    ],
+    "indications": [
+      "Bleeding gums",
+      "Foul breath",
+      "Loose teeth"
+    ],
+    "bc_number": "BC-18"
+  },
+  {
+    "name": "Joint Complaints",
+    "url": "https://www.wheezalstore.com/product/29687094/Joint-Complaints",
+    "collection_id": "bio_combination",
+    "title": "Joint Complaints",
+    "price": "₹99",
+    "description": "",
+    "image": "",
+    "scraped_at": "2026-03-26T05:29:07.284Z",
+    "composition": [
+      "Calc. Phos. 3x",
+      "Ferrum Phos. 3x",
+      "Kali Sulph. 3x",
+      "Mag. Phos. 3x",
+      "Nat. Sulph. 3x"
+    ],
+    "indications": [
+      "Joint pains",
+      "Arthritis",
+      "Swelling of joints"
+    ],
+    "bc_number": "BC-19"
+  },
+  {
+    "name": "Skin Diseases",
+    "url": "https://www.wheezalstore.com/product/29687095/Skin-Diseases",
+    "collection_id": "bio_combination",
+    "title": "Skin Diseases",
+    "price": "₹99",
+    "description": "",
+    "image": "",
+    "scraped_at": "2026-03-26T05:29:11.313Z",
+    "composition": [
+      "Calc. Fluor. 3x",
+      "Calc. Sulph. 3x",
+      "Kali Mur. 3x",
+      "Nat. Mur. 3x",
+      "Nat. Sulph. 3x"
+    ],
+    "indications": [
+      "Eczema",
+      "Skin eruptions",
+      "Acne",
+      "Scaling skin"
+    ],
+    "bc_number": "BC-20"
+  },
+  {
+    "name": "Dentition Problem",
+    "url": "https://www.wheezalstore.com/product/29687096/Dentition-Problem",
+    "collection_id": "bio_combination",
+    "title": "Dentition Problem",
+    "price": "₹99",
+    "description": "",
+    "image": "",
+    "scraped_at": "2026-03-26T05:29:15.876Z",
+    "composition": [
+      "Calc. Phos. 3x",
+      "Ferrum Phos. 3x"
+    ],
+    "indications": [
+      "Teething troubles",
+      "Irritability during dentition",
+      "Slow walking"
+    ],
+    "bc_number": "BC-21"
+  },
+  {
+    "name": "Scrofula",
+    "url": "https://www.wheezalstore.com/product/29687097/Scrofula",
+    "collection_id": "bio_combination",
+    "title": "Scrofula",
+    "price": "₹99",
+    "description": "",
+    "image": "",
+    "scraped_at": "2026-03-26T05:29:20.457Z",
+    "composition": [
+      "Calc. Phos. 3x",
+      "Ferrum Phos. 3x",
+      "Kali Mur. 3x",
+      "Silicea 6x"
+    ],
+    "indications": [
+      "Glandular swellings",
+      "Chronic enlargement of nodes"
+    ],
+    "bc_number": "BC-22"
+  },
+  {
+    "name": "Toothache",
+    "url": "https://www.wheezalstore.com/product/29687098/Toothache",
+    "collection_id": "bio_combination",
+    "title": "Toothache",
+    "price": "₹99",
+    "description": "",
+    "image": "",
+    "scraped_at": "2026-03-26T05:29:24.867Z",
+    "composition": [
+      "Calc. Fluor. 3x",
+      "Ferrum Phos. 3x",
+      "Kali Mur. 3x",
+      "Kali Phos. 3x",
+      "Silicea 6x"
+    ],
+    "indications": [
+      "Dental pain",
+      "Sensitivity",
+      "Gum inflammation"
+    ],
+    "bc_number": "BC-23"
+  },
+  {
+    "name": "Nerves & Brain tonic",
+    "url": "https://www.wheezalstore.com/product/29687099/Nerves---Brain-tonic",
+    "collection_id": "bio_combination",
+    "title": "Nerves & Brain tonic",
+    "price": "₹99",
+    "description": "",
+    "image": "",
+    "scraped_at": "2026-03-26T05:29:29.814Z",
+    "composition": [
+      "Calc. Phos. 3x",
+      "Ferrum Phos. 3x",
+      "Kali Phos. 3x",
+      "Mag. Phos. 3x",
+      "Nat. Phos. 3x"
+    ],
+    "indications": [
+      "General debility",
+      "Nervousness",
+      "Mental exhaustion"
+    ],
+    "bc_number": "BC-24"
+  },
+  {
+    "name": "Acidity, Flatulence & Indigestion",
+    "url": "https://www.wheezalstore.com/product/29687100/Acidity--Flatulence---Indigestion",
+    "collection_id": "bio_combination",
+    "title": "Acidity, Flatulence & Indigestion",
+    "price": "₹99",
+    "description": "",
+    "image": "",
+    "scraped_at": "2026-03-26T05:29:34.977Z",
+    "composition": [
+      "Nat. Phos. 3x",
+      "Nat. Sulph. 3x",
+      "Silicea 12x"
+    ],
+    "indications": [
+      "Hyperacidity",
+      "Flatulence",
+      "Gaseousness"
+    ],
+    "bc_number": "BC-25"
+  },
+  {
+    "name": "Easy Child Birth",
+    "url": "https://www.wheezalstore.com/product/29687101/Easy-Child-Birth",
+    "collection_id": "bio_combination",
+    "title": "Easy Child Birth",
+    "price": "₹99",
+    "description": "",
+    "image": "",
+    "scraped_at": "2026-03-26T05:29:38.973Z",
+    "composition": [
+      "Calc. Fluor. 3x",
+      "Calc. Phos. 3x",
+      "Kali Phos. 3x",
+      "Mag. Phos. 3x"
+    ],
+    "indications": [
+      "Labor pains",
+      "Facilitate childbirth",
+      "Post-natal health"
+    ],
+    "bc_number": "BC-26"
+  },
+  {
+    "name": "Lack of Vitality",
+    "url": "https://www.wheezalstore.com/product/29687102/Lack-of-Vitality",
+    "collection_id": "bio_combination",
+    "title": "Lack of Vitality",
+    "price": "₹99",
+    "description": "",
+    "image": "",
+    "scraped_at": "2026-03-26T05:29:43.281Z",
+    "composition": [
+      "Calc. Phos. 3x",
+      "Kali Phos. 3x",
+      "Nat. Mur. 3x"
+    ],
+    "indications": [
+      "Sexual debility",
+      "Nervous weakness",
+      "Loss of vigor"
+    ],
+    "bc_number": "BC-27"
+  },
+  {
+    "name": "General Tonic",
+    "url": "https://www.wheezalstore.com/product/29687103/General-Tonic",
+    "collection_id": "bio_combination",
+    "title": "General Tonic",
+    "price": "₹99",
+    "description": "",
+    "image": "",
+    "scraped_at": "2026-03-26T05:29:48.236Z",
+    "composition": [
+      "Calc. Fluor. 3x",
+      "Calc. Phos. 3x",
+      "Calc. Sulph. 3x",
+      "Ferrum Phos. 3x",
+      "Kali Mur. 3x",
+      "Kali Phos. 3x",
+      "Kali Sulph. 3x",
+      "Mag. Phos. 3x",
+      "Nat. Mur. 3x",
+      "Nat. Phos. 3x",
+      "Nat. Sulph. 3x",
+      "Silicea 6x"
+    ],
+    "indications": [
+      "Comprehensive tonic",
+      "Post-illness recovery",
+      "General health"
+    ],
+    "bc_number": "BC-28"
+  },
+  {
+    "name": "Calcarea Fluorica",
+    "url": "https://www.wheezalstore.com/product/29751145/Calcarea-Fluorica",
+    "collection_id": "bio_chemics",
+    "title": "Calcarea Fluorica",
+    "price": "₹99",
+    "description": "",
+    "image": "",
+    "scraped_at": "2026-03-26T05:29:53.498Z"
+  },
+  {
+    "name": "Calcarea Phosphorica",
+    "url": "https://www.wheezalstore.com/product/29751146/Calcarea-Phosphorica",
+    "collection_id": "bio_chemics",
+    "title": "Calcarea Phosphorica",
+    "price": "₹99",
+    "description": "",
+    "image": "",
+    "scraped_at": "2026-03-26T05:30:00.006Z"
+  },
+  {
+    "name": "Calcarea Sulphurica",
+    "url": "https://www.wheezalstore.com/product/29751147/Calcarea-Sulphurica",
+    "collection_id": "bio_chemics",
+    "title": "Calcarea Sulphurica",
+    "price": "₹99",
+    "description": "",
+    "image": "",
+    "scraped_at": "2026-03-26T05:30:07.888Z"
+  },
+  {
+    "name": "Ferrum Phosphoricum",
+    "url": "https://www.wheezalstore.com/product/29751148/Ferrum-Phosphoricum",
+    "collection_id": "bio_chemics",
+    "title": "Ferrum Phosphoricum",
+    "price": "₹99",
+    "description": "",
+    "image": "",
+    "scraped_at": "2026-03-26T05:30:13.629Z"
+  },
+  {
+    "name": "Five Phos.",
+    "url": "https://www.wheezalstore.com/product/29751149/Five-Phos-",
+    "collection_id": "bio_chemics",
+    "title": "Five Phos.",
+    "price": "₹99",
+    "description": "",
+    "image": "",
+    "scraped_at": "2026-03-26T05:30:20.416Z"
+  },
+  {
+    "name": "Kali Muriaticum",
+    "url": "https://www.wheezalstore.com/product/29751151/Kali-Muriaticum",
+    "collection_id": "bio_chemics",
+    "title": "Kali Muriaticum",
+    "price": "₹99",
+    "description": "",
+    "image": "",
+    "scraped_at": "2026-03-26T05:30:24.734Z"
+  },
+  {
+    "name": "Kali Phosphoricum",
+    "url": "https://www.wheezalstore.com/product/29751152/Kali-Phosphoricum",
+    "collection_id": "bio_chemics",
+    "title": "Kali Phosphoricum",
+    "price": "₹99",
+    "description": "",
+    "image": "",
+    "scraped_at": "2026-03-26T05:30:32.174Z"
+  },
+  {
+    "name": "Kali Sulphuricum",
+    "url": "https://www.wheezalstore.com/product/29751153/Kali-Sulphuricum",
+    "collection_id": "bio_chemics",
+    "title": "Kali Sulphuricum",
+    "price": "₹99",
+    "description": "",
+    "image": "",
+    "scraped_at": "2026-03-26T05:30:45.368Z"
+  },
+  {
+    "name": "Magnesium Phosphoricum",
+    "url": "https://www.wheezalstore.com/product/29751154/Magnesium-Phosphoricum",
+    "collection_id": "bio_chemics",
+    "title": "Magnesium Phosphoricum",
+    "price": "₹99",
+    "description": "",
+    "image": "",
+    "scraped_at": "2026-03-26T05:30:55.936Z"
+  },
+  {
+    "name": "Natrum Muriaticum",
+    "url": "https://www.wheezalstore.com/product/29751155/Natrum-Muriaticum",
+    "collection_id": "bio_chemics",
+    "title": "Natrum Muriaticum",
+    "price": "₹99",
+    "description": "",
+    "image": "",
+    "scraped_at": "2026-03-26T05:31:02.239Z"
+  },
+  {
+    "name": "Natrum Phosphoricum",
+    "url": "https://www.wheezalstore.com/product/29751156/Natrum-Phosphoricum",
+    "collection_id": "bio_chemics",
+    "title": "Natrum Phosphoricum",
+    "price": "₹99",
+    "description": "",
+    "image": "",
+    "scraped_at": "2026-03-26T05:31:19.471Z"
+  },
+  {
+    "name": "Natrum Sulphuricum",
+    "url": "https://www.wheezalstore.com/product/29751157/Natrum-Sulphuricum",
+    "collection_id": "bio_chemics",
+    "title": "Natrum Sulphuricum",
+    "price": "₹99",
+    "description": "",
+    "image": "",
+    "scraped_at": "2026-03-26T05:31:26.279Z"
+  },
+  {
+    "name": "Silicea",
+    "url": "https://www.wheezalstore.com/product/29751159/Silicea",
+    "collection_id": "bio_chemics",
+    "title": "Silicea",
+    "price": "₹99",
+    "description": "",
+    "image": "",
+    "scraped_at": "2026-03-26T05:31:31.153Z"
+  }
+]

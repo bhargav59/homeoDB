@@ -1,0 +1,59 @@
+{
+  "name": "PARIS QUADRIFOLIA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "One-berry"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Sensation as if scalp were contracted and bones scraped. Soreness of top of head; cannot brush hair. Aches, as from pulling a string from eyes to occiput. Occipital headache, with a feeling of weight. Head feels very large, expanded. Scalp sensitive. Numb feeling on left side of head.",
+    "Stuffed condition and fullness at root of nose. Periodical, painless hoarseness. Cough as from vapor of sulphur in trachea. Constant hawking, on account of viscid, green mucus in larynx and trachea.",
+    "Sense of weight and weariness in nape of neck and across shoulders. Neuralgia, beginning in left intercostal region, and extending into left arm. Arm becomes stiff, fingers clenched. Neuralgia of coccyx; pulsating, sticking, when sitting. Fingers often feel numb. Numbness of upper limbs. Everything feels rough."
+  ],
+  "guiding_symptoms": [
+    "Sensation as if scalp were contracted and bones scraped. Soreness of top of head; cannot brush hair. Aches, as from pulling a string from eyes to occiput. Occipital headache, with a feeling of weight. Head feels very large, expanded. Scalp sensitive. Numb feeling on left side of head.",
+    "Stuffed condition and fullness at root of nose. Periodical, painless hoarseness. Cough as from vapor of sulphur in trachea. Constant hawking, on account of viscid, green mucus in larynx and trachea.",
+    "Sense of weight and weariness in nape of neck and across shoulders. Neuralgia, beginning in left intercostal region, and extending into left arm. Arm becomes stiff, fingers clenched. Neuralgia of coccyx; pulsating, sticking, when sitting. Fingers often feel numb. Numbness of upper limbs. Everything feels rough."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [
+    "Imaginary foul smells. Feels too large. Garrulous, prattling, vivacious."
+  ],
+  "head_symptoms": [
+    "Sensation as if scalp were contracted and bones scraped. Soreness of top of head; cannot brush hair. Aches, as from pulling a string from eyes to occiput. Occipital headache, with a feeling of weight. Head feels very large, expanded. Scalp sensitive. Numb feeling on left side of head."
+  ],
+  "respiratory_symptoms": [
+    "Stuffed condition and fullness at root of nose. Periodical, painless hoarseness. Cough as from vapor of sulphur in trachea. Constant hawking, on account of viscid, green mucus in larynx and trachea."
+  ],
+  "gi_symptoms": [],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [
+    "Sense of weight and weariness in nape of neck and across shoulders. Neuralgia, beginning in left intercostal region, and extending into left arm. Arm becomes stiff, fingers clenched. Neuralgia of coccyx; pulsating, sticking, when sitting. Fingers often feel numb. Numbness of upper limbs. Everything feels rough."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Pastinaca-Parsnip--(Loquacity",
+    "delirium tremens",
+    "illusions of vision",
+    "intolerance on milk",
+    "Roots used dietetically"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/p/par.htm",
+    "title": "PARIS QUADRIFOLIA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:06:17.253Z"
+  },
+  "confidence_score": 0.74
+}

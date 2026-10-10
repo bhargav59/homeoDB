@@ -1,0 +1,19 @@
+{
+  "remedy_name": "COFFEA CRUDA",
+  "source_file": "raw_1772500996172.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/c/coff.htm",
+  "relationships": {
+    "complementary": [
+      "Acon"
+    ],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [],
+    "incompatible": [
+      "Camph"
+    ],
+    "antidotes": []
+  },
+  "parsed_at": "2026-03-03T15:23:37.437Z"
+}

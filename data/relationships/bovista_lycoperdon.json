@@ -1,0 +1,24 @@
+{
+  "remedy_name": "BOVISTA LYCOPERDON",
+  "source_file": "raw_1772500102447.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/b/bov.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      "tar applications"
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Calc",
+      "Rhus",
+      "Sepia",
+      "Cicuta"
+    ],
+    "incompatible": [],
+    "antidotes": [
+      "tar applications"
+    ]
+  },
+  "parsed_at": "2026-03-03T15:23:37.392Z"
+}

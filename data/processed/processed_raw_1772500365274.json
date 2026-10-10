@@ -1,0 +1,67 @@
+{
+  "name": "CANNABIS INDICA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Hashish"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Increased appetite. Pain at cardiac orifice; better, pressure. Distention. Pyloric spasm. Sensation of extreme tension in abdominal vessels-feel distended to bursting.",
+    "Feels as if top of head were opening and shutting and as if calvarium were being lifted. Shocks through brain (Aloe; Coca). Urćmic headache. Throbbing and weight at occiput. Headache with flatulence. Involuntary shaking of head. Migraine attack preceded by unusual excitement with loquacity.",
+    "Humid asthma. Chest oppressed with deep, labored breathing.",
+    "Palpitation awakes him. Piercing pain, with great oppression. Pulse very slow (Dig; Kalmia; Apocyn).",
+    "Pain across shoulders and spine; must stoop; cannot walk erect. Thrilling through arms and hands, and from knees down. Entire paralysis of the lower extremities. Pain in soles and calves; sharp pains in knees and ankles; very exhausted after a short walk."
+  ],
+  "guiding_symptoms": [
+    "Increased appetite. Pain at cardiac orifice; better, pressure. Distention. Pyloric spasm. Sensation of extreme tension in abdominal vessels-feel distended to bursting.",
+    "Feels as if top of head were opening and shutting and as if calvarium were being lifted. Shocks through brain (Aloe; Coca). Urćmic headache. Throbbing and weight at occiput. Headache with flatulence. Involuntary shaking of head. Migraine attack preceded by unusual excitement with loquacity.",
+    "Humid asthma. Chest oppressed with deep, labored breathing."
+  ],
+  "modalities": {
+    "worse": [
+      "morning",
+      "from coffee, liquor and tobacco",
+      "lying on right side"
+    ],
+    "better": [
+      "from fresh air, cold water, rest"
+    ]
+  },
+  "mind_symptoms": [
+    "Excessive loquacity; exuberance of spirits. Time seems too long; seconds seem ages; a few rods an immense distance. Constantly theorizing. Anxious depression; constant fear of becoming insane. Mania, must constantly move. Very forgetful; cannot finish sentence. Is lost in delicious thought. Uncontrollable laughter. Delirium tremens. Clairvoyance. Emotional excitement; rapid change of mood. Cannot realize her identity, chronic vertigo as of floating off."
+  ],
+  "head_symptoms": [
+    "Feels as if top of head were opening and shutting and as if calvarium were being lifted. Shocks through brain (Aloe; Coca). Urćmic headache. Throbbing and weight at occiput. Headache with flatulence. Involuntary shaking of head. Migraine attack preceded by unusual excitement with loquacity."
+  ],
+  "respiratory_symptoms": [
+    "Humid asthma. Chest oppressed with deep, labored breathing."
+  ],
+  "gi_symptoms": [
+    "Increased appetite. Pain at cardiac orifice; better, pressure. Distention. Pyloric spasm. Sensation of extreme tension in abdominal vessels-feel distended to bursting."
+  ],
+  "urinary_symptoms": [
+    "Urine loaded with slimy mucus. Must strain; dribbling; has to wait some time before the urine flows. Stitches and burning in urethra. Dull pain in region of right kidney."
+  ],
+  "musculoskeletal_symptoms": [
+    "Pain across shoulders and spine; must stoop; cannot walk erect. Thrilling through arms and hands, and from knees down. Entire paralysis of the lower extremities. Pain in soles and calves; sharp pains in knees and ankles; very exhausted after a short walk."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [
+    "Very sleepy, but unable to do so. Obstinate and intractable forms of insomnia. Catalepsy. Dreams of dead bodies; prophetic. Nightmare."
+  ],
+  "fever_symptoms": [],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/c/cann-i.htm",
+    "title": "CANNABIS INDICA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:12:45.274Z"
+  },
+  "confidence_score": 0.8
+}

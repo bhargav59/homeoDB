@@ -1,0 +1,69 @@
+{
+  "name": "STRAMONIUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Thorn-apple"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Food tastes like straw. Violent thirst. Vomiting of mucus and green bile.",
+    "Urine.--Suppression, bladder empty.",
+    "Raises head frequently from the pillow. Pain in forehead and over eyebrows, beginning at 9 am; worse until noon. Boring pain, preceded by obscure vision. Rush of blood to head; staggers, with tendency to fall forward and to the left. Auditory hallucinations.",
+    "Graceful, rhythmic motions. Convulsions of upper extremities and of isolated groups of muscles. Chorea; spasms partial, constantly changing. Violent pain in left hip. Trembling, twitching of tendons, staggering gait."
+  ],
+  "guiding_symptoms": [
+    "Food tastes like straw. Violent thirst. Vomiting of mucus and green bile.",
+    "Urine.--Suppression, bladder empty.",
+    "Raises head frequently from the pillow. Pain in forehead and over eyebrows, beginning at 9 am; worse until noon. Boring pain, preceded by obscure vision. Rush of blood to head; staggers, with tendency to fall forward and to the left. Auditory hallucinations."
+  ],
+  "modalities": {
+    "worse": [
+      "in dark room, when alone, looking at bright or shining objects, after sleep, on swallowing"
+    ],
+    "better": [
+      "from bright light, company, warmth"
+    ]
+  },
+  "mind_symptoms": [
+    "Devout, earnest, beseeching and ceaseless talking. Loquacious, garrulous, laughing, singing, swearing, praying, rhyming. Sees ghosts, hears voices, talks with spirits. Rapid changes from joy to sadness. Violent and lewd. Delusions about his identity; thinks himself tall, double, a part missing. Religious mania. Cannot bear solitude or darkness; must have light and company. Sight of water or anything glittering brings on spasms. Delirium, with desire to escape (Bell; Bry; Rhus)."
+  ],
+  "head_symptoms": [
+    "Raises head frequently from the pillow. Pain in forehead and over eyebrows, beginning at 9 am; worse until noon. Boring pain, preceded by obscure vision. Rush of blood to head; staggers, with tendency to fall forward and to the left. Auditory hallucinations."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "Food tastes like straw. Violent thirst. Vomiting of mucus and green bile.",
+    "Urine.--Suppression, bladder empty."
+  ],
+  "urinary_symptoms": [
+    "Sexual erethism, with indecent speech and action. Hands constantly kept on genitals."
+  ],
+  "musculoskeletal_symptoms": [
+    "Graceful, rhythmic motions. Convulsions of upper extremities and of isolated groups of muscles. Chorea; spasms partial, constantly changing. Violent pain in left hip. Trembling, twitching of tendons, staggering gait."
+  ],
+  "skin_symptoms": [
+    "Shining red flash. Effects of suppressed eruption in scarlatina, with delirium, etc."
+  ],
+  "sleep_symptoms": [
+    "Awaken terrified; screams with fright. Deep snoring sleep. Sleepy, but cannot sleep (Bell)."
+  ],
+  "fever_symptoms": [
+    "Profuse sweat, which does not relieve. Violent fever."
+  ],
+  "complementary_remedies": [
+    "especially: Hyoscy and Bellad"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/s/stram.htm",
+    "title": "STRAMONIUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:07:13.038Z"
+  },
+  "confidence_score": 0.8
+}

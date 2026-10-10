@@ -1,0 +1,43 @@
+{
+  "name": "OPERCULINA TURPENTHUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Nishope"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [],
+  "guiding_symptoms": [],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [
+    "Delirium associated with restlessness, loquacity. Tendency to escape from bed; ravings, pains cause fainting."
+  ],
+  "head_symptoms": [],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "Watery diarrhœa, profuse with sinking sensation, Cholera morbus. Hæmorrhoids."
+  ],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [
+    "Lymphatic glands enlarged and indurated. Boils and slowly suppurating abscesses."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/o/oper.htm",
+    "title": "OPERCULINA TURPENTHUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:10:07.059Z"
+  },
+  "confidence_score": 0.38
+}

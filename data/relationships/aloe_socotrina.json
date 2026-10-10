@@ -1,0 +1,25 @@
+{
+  "remedy_name": "ALOE SOCOTRINA",
+  "source_file": "raw_1772371762394.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/a/aloe.htm",
+  "relationships": {
+    "complementary": [
+      "Sulphur"
+    ],
+    "antidoted_by": [
+      "Opium"
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Kali bich",
+      "Lycop",
+      "Allium sat"
+    ],
+    "incompatible": [],
+    "antidotes": [
+      "Opium"
+    ]
+  },
+  "parsed_at": "2026-03-03T15:23:37.329Z"
+}

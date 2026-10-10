@@ -1,0 +1,24 @@
+{
+  "remedy_name": "Oleum Animale.",
+  "source_file": "raw_1772507971031_clarke_dictionary_w1.json",
+  "source_url": "https://www.homeoint.org/clarke/o/ol_an.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      "Camph"
+    ],
+    "follows_well": [
+      "Bry"
+    ],
+    "inimical": [],
+    "compare": [
+      "In headache with concomitant polyuria",
+      "Ign"
+    ],
+    "incompatible": [],
+    "antidotes": [
+      "d by: Camph"
+    ]
+  },
+  "parsed_at": "2026-03-03T15:23:38.333Z"
+}

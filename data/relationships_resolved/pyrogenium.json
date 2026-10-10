@@ -1,0 +1,34 @@
+{
+  "remedy_name": "PYROGENIUM",
+  "source_file": "raw_1772504384761.json",
+  "relationships": {
+    "complementary": [
+      {
+        "original": "Bryon",
+        "resolved_name": "BRYONIA",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      }
+    ],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Streptoccin (anti-febrile action",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "septic symptoms in infectious diseases)",
+        "resolved_name": "SEPIA",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:10.896Z"
+}

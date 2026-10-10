@@ -1,0 +1,45 @@
+{
+  "remedy_name": "SANICULA AQUA",
+  "source_file": "raw_1772504720443.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Abrot",
+        "resolved_name": "ABROTANUM",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Alum",
+        "resolved_name": "ALUMINA",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Calc",
+        "resolved_name": "CALCAREA CARBONICA",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      },
+      {
+        "original": "Sil",
+        "resolved_name": "SILICEA",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      },
+      {
+        "original": "Sulph",
+        "resolved_name": "SULPHUR",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:11.129Z"
+}

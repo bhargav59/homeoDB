@@ -1,0 +1,77 @@
+{
+  "name": "MAGNESIUM CARBONICUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Carbonate of Magnesia"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Desire for fruit, acids, and vegetables. Eructations sour, and vomiting of bitter water. Craving for meat.",
+    "Sticking pain in the side of the head on which he lies, as if the hair was pulled; worse, mental exertion. Itching of scalp worse in damp weather. Pain above margin of right orbit. Blank motes before eyes.",
+    "Ticking cough, with salty, bloody expectoration. Constrictive pains in chest, with dyspnœa. Soreness in chest during motion.",
+    "Tearing in shoulders as if dislocated. Right shoulder painful, cannot raise it (Sang). Whole body feels tired and painful, especially legs and feet. Swelling in bend of knee."
+  ],
+  "guiding_symptoms": [
+    "Desire for fruit, acids, and vegetables. Eructations sour, and vomiting of bitter water. Craving for meat.",
+    "Sticking pain in the side of the head on which he lies, as if the hair was pulled; worse, mental exertion. Itching of scalp worse in damp weather. Pain above margin of right orbit. Blank motes before eyes.",
+    "Ticking cough, with salty, bloody expectoration. Constrictive pains in chest, with dyspnœa. Soreness in chest during motion."
+  ],
+  "modalities": {
+    "worse": [
+      "warmth of bed",
+      "change of temperature",
+      "cold wind or weather",
+      "every three weeks",
+      "rest"
+    ],
+    "better": [
+      "warm air",
+      "walking in open air"
+    ]
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Sticking pain in the side of the head on which he lies, as if the hair was pulled; worse, mental exertion. Itching of scalp worse in damp weather. Pain above margin of right orbit. Blank motes before eyes."
+  ],
+  "respiratory_symptoms": [
+    "Ticking cough, with salty, bloody expectoration. Constrictive pains in chest, with dyspnœa. Soreness in chest during motion."
+  ],
+  "gi_symptoms": [
+    "Desire for fruit, acids, and vegetables. Eructations sour, and vomiting of bitter water. Craving for meat."
+  ],
+  "urinary_symptoms": [
+    "Sore throat before menses appear. Before menses, coryza and nasal stoppage. Menses too late and scanty, thick, dark, like pitch; mucous leucorrhœa. Menses flow only in sleep; more profuse at night (Amm m), or when lying down; cease when walking."
+  ],
+  "musculoskeletal_symptoms": [
+    "Tearing in shoulders as if dislocated. Right shoulder painful, cannot raise it (Sang). Whole body feels tired and painful, especially legs and feet. Swelling in bend of knee."
+  ],
+  "skin_symptoms": [
+    "Earthy, sallow and parchment-like; emaciation. Itching vesicles on hands and fingers. Nodosities under skin. Sore; sensitive to cold."
+  ],
+  "sleep_symptoms": [
+    "Unrefreshing; more tired on rising than on retiring."
+  ],
+  "fever_symptoms": [
+    "Chilly in evening. Fever at night. Sour, greasy perspiration."
+  ],
+  "complementary_remedies": [
+    "Rheum",
+    "Kreos",
+    "Aloes",
+    "Cheiranthus-Wall flower --(deafness",
+    "otorrhœa"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/m/mag-c.htm",
+    "title": "MAGNESIUM CARBONICUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:57:38.897Z"
+  },
+  "confidence_score": 0.8
+}

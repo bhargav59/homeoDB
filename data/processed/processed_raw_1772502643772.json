@@ -1,0 +1,43 @@
+{
+  "name": "KALIUM PERMANGANATUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Permanganate of Potassium"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Bleeding from nose. Nasal discharge. Smarts and irritates. Constrictive, smarting sensation in throat. Larynx feels raw. Short, hacking cough."
+  ],
+  "guiding_symptoms": [
+    "Bleeding from nose. Nasal discharge. Smarts and irritates. Constrictive, smarting sensation in throat. Larynx feels raw. Short, hacking cough."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [],
+  "respiratory_symptoms": [
+    "Bleeding from nose. Nasal discharge. Smarts and irritates. Constrictive, smarting sensation in throat. Larynx feels raw. Short, hacking cough."
+  ],
+  "gi_symptoms": [],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/k/kali-per.htm",
+    "title": "KALIUM PERMANGANATUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:50:43.772Z"
+  },
+  "confidence_score": 0.38
+}

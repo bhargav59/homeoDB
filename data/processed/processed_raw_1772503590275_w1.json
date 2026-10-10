@@ -1,0 +1,52 @@
+{
+  "name": "PLANTAGO MAJOR",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Plantain"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Periodical prosopalgia, worse 7 am to 2 pm, accompanied with flow of tears, photophobia; pains radiate to temples and lower face."
+  ],
+  "guiding_symptoms": [
+    "Periodical prosopalgia, worse 7 am to 2 pm, accompanied with flow of tears, photophobia; pains radiate to temples and lower face."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Periodical prosopalgia, worse 7 am to 2 pm, accompanied with flow of tears, photophobia; pains radiate to temples and lower face."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "Wants to defecate; goes often, but cannot bad, can hardly stand. Diarrhśa, with brown watery",
+    "Urine.--Profuse flow; nocturnal enuresis (Rhus arom; Caust; Bellad)."
+  ],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [
+    "Itching and burning; papulć. Urticaria, chilblains (Agar; Tamus)."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Kalm",
+    "Cham",
+    "Puls"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/p/plan.htm",
+    "title": "PLANTAGO MAJOR - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:06:30.274Z"
+  },
+  "confidence_score": 0.6799999999999999
+}

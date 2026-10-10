@@ -1,0 +1,26 @@
+{
+  "remedy_name": "CANNABIS SATIVA",
+  "source_file": "raw_1772500377026.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/c/cann-s.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      "Camph"
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Hedysarum-Brazilian Burdock--",
+      "Canth",
+      "Apis",
+      "Copaiva",
+      "Thuj",
+      "Kal nit"
+    ],
+    "incompatible": [],
+    "antidotes": [
+      "Camph"
+    ]
+  },
+  "parsed_at": "2026-03-03T15:23:37.408Z"
+}

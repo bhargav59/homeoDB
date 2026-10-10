@@ -1,0 +1,23 @@
+{
+  "remedy_name": "TARENTULA CUBENSIS",
+  "source_file": "raw_1772505309717.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/t/tarent-c.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Ars",
+      "Pyrog",
+      "Crotal",
+      "Echin",
+      "Anthrac",
+      "Bellad",
+      "Apis"
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "parsed_at": "2026-03-03T15:23:37.752Z"
+}

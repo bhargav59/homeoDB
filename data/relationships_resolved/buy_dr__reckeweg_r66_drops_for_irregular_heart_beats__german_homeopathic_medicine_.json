@@ -1,0 +1,14 @@
+{
+  "remedy_name": "Buy Dr. Reckeweg R66 Drops For Irregular Heart Beats (German Homeopathic Medicine)",
+  "source_file": "raw_1772510265147_reckeweg_dilutions_w4.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:08.738Z"
+}

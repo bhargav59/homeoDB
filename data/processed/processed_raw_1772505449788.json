@@ -1,0 +1,67 @@
+{
+  "name": "THYROIDINUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Dried Thyroid Gland of the Sheep"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Desire for sweets and thirst for cold water. Nausea worse riding in car. Flatulence, much flatus in abdomen.",
+    "Feeling of lightness in brain. Persistent frontal headache. Eyeballs prominent. Face flushed; lips burn. Tongue thickly coated. Fullness and heat. Face flushed. Bad taste in mouth.",
+    "Dry, painful cough with scanty, difficult expectoration and burning in pharynx.",
+    "Weak, frequent pulse, with inability to lie down. Tachycardia (Naja). Anxiety about chest, as if constricted. Palpitation from least exertion. Severe heart pain; Ready excitability of heart. Heart's action weak, with numbness of fingers.",
+    "Rheumative arthritis with tendency to obesity, coldness and cramps of extremities. Peeling of skin of lower limbs. Cold extremities. Aching pains. Śdema of legs. Trembling of limbs and entire body."
+  ],
+  "guiding_symptoms": [
+    "Desire for sweets and thirst for cold water. Nausea worse riding in car. Flatulence, much flatus in abdomen.",
+    "Feeling of lightness in brain. Persistent frontal headache. Eyeballs prominent. Face flushed; lips burn. Tongue thickly coated. Fullness and heat. Face flushed. Bad taste in mouth.",
+    "Dry, painful cough with scanty, difficult expectoration and burning in pharynx."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [
+    "Stupor, alternating with restless melancholy. Irritable, worse least opposition; goes into a rage over trifles."
+  ],
+  "head_symptoms": [
+    "Feeling of lightness in brain. Persistent frontal headache. Eyeballs prominent. Face flushed; lips burn. Tongue thickly coated. Fullness and heat. Face flushed. Bad taste in mouth."
+  ],
+  "respiratory_symptoms": [
+    "Dry, painful cough with scanty, difficult expectoration and burning in pharynx."
+  ],
+  "gi_symptoms": [
+    "Desire for sweets and thirst for cold water. Nausea worse riding in car. Flatulence, much flatus in abdomen."
+  ],
+  "urinary_symptoms": [
+    "Increased flow; polyuria; some albumen and sugar. Enuresis in weakly children who are nervous and irritable (1/2 gr night and morning). Urine smells of violets, burning along urethra, increase of uric acid."
+  ],
+  "musculoskeletal_symptoms": [
+    "Rheumative arthritis with tendency to obesity, coldness and cramps of extremities. Peeling of skin of lower limbs. Cold extremities. Aching pains. Śdema of legs. Trembling of limbs and entire body."
+  ],
+  "skin_symptoms": [
+    "Psoriasis associated with adiposity (not in developing stage). Skin dry, impoverished. Cold hands and feet. Eczema. Uterine fibroids. Browny swelling. Swelling of glands of stony hardness. Sluggish cases. Jaundice with pruritus. Ichtyosis, lupus. Itching without eruption, worse night."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Spongia",
+    "Calc",
+    "Fucus",
+    "Lycopus",
+    "Iodothyrine"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/t/thyr.htm",
+    "title": "THYROIDINUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:37:29.788Z"
+  },
+  "confidence_score": 0.8
+}

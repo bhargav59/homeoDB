@@ -1,0 +1,71 @@
+{
+  "name": "CONIUM MACULATUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Poison Hemlock"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Soreness about the root of tongue. Terrible nausea, acrid heartburn and acid eructations; worse on going to bed. Painful spasms of the stomach. Amelioration from eating and aggravation a few hours after meals; acidity and burning; painful spot the level of the sternum.",
+    "Vertigo, when lying down, and when turning over in bed, when turning head sidewise, or turning eyes; worse, shaking head, slight noise or conversation of others, especially towards the left. Headache, stupefying, with nausea and vomiting of mucus, with a feeling as of foreign body under the skull. Scorched feeling on top. Tightness as if both temples were compressed; worse after a meal. (Gels.; Atropine.) Bruised, semilateral pains. Dull occipital pain on rising in morning.",
+    "Dry cough, almost continuous, hacking; worse, evening and at night; caused by dry spot in larynx with itching in chest and throat, when lying down, talking or laughing, and during pregnancy. Expectoration only after long coughing. Want of breath on taking the least exercise; oppressed breathing, constriction of chest; pains in chest.",
+    "Heavy, weary, paralyzed; trembling; bands unsteady; fingers and toes numb. Muscular weakness, especially of lower extremities. Perspiration of hands. Putting feet on chair relieves pain.",
+    "Dorsal pain between shoulders. Ill effects of bruises and shocks to spine. Coccyodynia. Dull aching in lumbar and sacral region."
+  ],
+  "guiding_symptoms": [
+    "Soreness about the root of tongue. Terrible nausea, acrid heartburn and acid eructations; worse on going to bed. Painful spasms of the stomach. Amelioration from eating and aggravation a few hours after meals; acidity and burning; painful spot the level of the sternum.",
+    "Vertigo, when lying down, and when turning over in bed, when turning head sidewise, or turning eyes; worse, shaking head, slight noise or conversation of others, especially towards the left. Headache, stupefying, with nausea and vomiting of mucus, with a feeling as of foreign body under the skull. Scorched feeling on top. Tightness as if both temples were compressed; worse after a meal. (Gels.; Atropine.) Bruised, semilateral pains. Dull occipital pain on rising in morning.",
+    "Dry cough, almost continuous, hacking; worse, evening and at night; caused by dry spot in larynx with itching in chest and throat, when lying down, talking or laughing, and during pregnancy. Expectoration only after long coughing. Want of breath on taking the least exercise; oppressed breathing, constriction of chest; pains in chest."
+  ],
+  "modalities": {
+    "worse": [
+      "lying down, turning or rising in bed",
+      "celibacy",
+      "before and during menses, from taking cold, bodily or mental exertion"
+    ],
+    "better": [
+      "while fasting, in the dark, from letting limbs hang down, motion and pressure"
+    ]
+  },
+  "mind_symptoms": [
+    "Excitement causes mental depression. Depressed, timid, averse to society, and afraid of being alone. No inclination for business or study; takes no interest in anything. Memory weak; unable to sustain 'any mental effort."
+  ],
+  "head_symptoms": [
+    "Vertigo, when lying down, and when turning over in bed, when turning head sidewise, or turning eyes; worse, shaking head, slight noise or conversation of others, especially towards the left. Headache, stupefying, with nausea and vomiting of mucus, with a feeling as of foreign body under the skull. Scorched feeling on top. Tightness as if both temples were compressed; worse after a meal. (Gels.; Atropine.) Bruised, semilateral pains. Dull occipital pain on rising in morning."
+  ],
+  "respiratory_symptoms": [
+    "Dry cough, almost continuous, hacking; worse, evening and at night; caused by dry spot in larynx with itching in chest and throat, when lying down, talking or laughing, and during pregnancy. Expectoration only after long coughing. Want of breath on taking the least exercise; oppressed breathing, constriction of chest; pains in chest."
+  ],
+  "gi_symptoms": [
+    "Soreness about the root of tongue. Terrible nausea, acrid heartburn and acid eructations; worse on going to bed. Painful spasms of the stomach. Amelioration from eating and aggravation a few hours after meals; acidity and burning; painful spot the level of the sternum."
+  ],
+  "urinary_symptoms": [
+    "Desire increased; power decreased. Sexual nervousness, with feeble erection. Effects of suppressed sexual appetite. Testicles hard and enlarged."
+  ],
+  "musculoskeletal_symptoms": [
+    "Heavy, weary, paralyzed; trembling; bands unsteady; fingers and toes numb. Muscular weakness, especially of lower extremities. Perspiration of hands. Putting feet on chair relieves pain."
+  ],
+  "skin_symptoms": [
+    "Axillary glands pain, with numb feeling down arm. Induration after contusions. Yellow skin, with papular eruption; yellow finger-nails. Glands enlarged and indurated, also mesenteric. Flying stitches through the glands. Tumors, piercing pains; worse, at night. Chronic ulcers with fetid discharge. Sweat as soon as one sleeps, or even when closing eyes. Night and morning sweat, with offensive odor, and smarting in skin."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "enlarged glands",
+    "cancer of breast",
+    "worms"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/c/con-m.htm",
+    "title": "CONIUM MACULATUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:23:57.973Z"
+  },
+  "confidence_score": 0.8
+}

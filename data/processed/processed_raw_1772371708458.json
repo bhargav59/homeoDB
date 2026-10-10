@@ -1,0 +1,54 @@
+{
+  "name": "ALETRIS FARINOSA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Stargrass"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Disgust for food. Least food causes distress. Fainting spells, with vertigo. Vomiting during pregnancy. Nervous dyspepsia. Flatulent colic."
+  ],
+  "guiding_symptoms": [
+    "Disgust for food. Least food causes distress. Fainting spells, with vertigo. Vomiting during pregnancy. Nervous dyspepsia. Flatulent colic."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [
+    "Power and energy weakened. Confused feelings. Cannot concentrate mind. Fainting, with vertigo."
+  ],
+  "head_symptoms": [
+    "Much frothy saliva."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "Disgust for food. Least food causes distress. Fainting spells, with vertigo. Vomiting during pregnancy. Nervous dyspepsia. Flatulent colic."
+  ],
+  "urinary_symptoms": [
+    "Premature and profuse menses, with labor-like pains (Bell; Cham; Kali c; Plat). Retarded and scanty flow (Senecio). Uterus seems heavy. Prolapse, with pain in right inguinal region. Leucorrhœa due to weakness and anæmia. Habitual tendency to abortion. Muscular pains during pregnancy."
+  ],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Helonias",
+    "Hydrastis",
+    "Tanacet",
+    "China"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/a/alet.htm",
+    "title": "ALETRIS FARINOSA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-01T13:28:28.458Z"
+  },
+  "confidence_score": 0.62
+}

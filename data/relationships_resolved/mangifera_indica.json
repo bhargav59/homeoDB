@@ -1,0 +1,27 @@
+{
+  "remedy_name": "MANGIFERA INDICA",
+  "source_file": "raw_1772503135353.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Erigeron",
+        "resolved_name": "ERIGERON CANADENSE",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Epilobium",
+        "resolved_name": "Epilobium Palustre.",
+        "confidence": 1,
+        "method": "exact"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:10.271Z"
+}

@@ -1,0 +1,50 @@
+{
+  "name": "CUNDURANGO",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Condor Plant"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Painful affections of the stomach; ulceration. Vomiting of food and indurations, constant burning pain. Stricture of śsophagus, with burning pains behind sternum, where food seems to stick. Vomiting of food, and indurations in left hypochondrium with constant burning pain."
+  ],
+  "guiding_symptoms": [
+    "Painful affections of the stomach; ulceration. Vomiting of food and indurations, constant burning pain. Stricture of śsophagus, with burning pains behind sternum, where food seems to stick. Vomiting of food, and indurations in left hypochondrium with constant burning pain."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "Painful affections of the stomach; ulceration. Vomiting of food and indurations, constant burning pain. Stricture of śsophagus, with burning pains behind sternum, where food seems to stick. Vomiting of food, and indurations in left hypochondrium with constant burning pain."
+  ],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [
+    "Fissures form about the muco-cutaneous outlets. Epithelioma of lips or anus. Ulcerative stage of carcinoma cutis when fissures form."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Asterias",
+    "Conium",
+    "Hydrast",
+    "Arsenic"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/c/cund.htm",
+    "title": "CUNDURANGO - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:26:40.601Z"
+  },
+  "confidence_score": 0.44
+}

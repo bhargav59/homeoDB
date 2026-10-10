@@ -1,0 +1,41 @@
+{
+  "name": "ALNUS RUBRA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Red Alder"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [],
+  "guiding_symptoms": [],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [],
+  "urinary_symptoms": [
+    "Leucorrhœa, with erosions of cervix, bleeding easily. Amenorrhœa, with burning pains from back to pubis."
+  ],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [
+    "Chronic herpes. Enlarged sub-maxillary glands. Eczema, prurigo. Purpura hæmorrhagica. Poison-oak. Use locally."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/a/aln.htm",
+    "title": "ALNUS RUBRA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-01T13:29:12.646Z"
+  },
+  "confidence_score": 0.38
+}

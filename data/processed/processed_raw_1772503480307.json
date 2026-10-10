@@ -1,0 +1,54 @@
+{
+  "name": "NAPHTHALINUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "A chemical compound from Coal-tar; Tar Camphor"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Lying as if stupefied by a narcotic. Restless. Face pale yellowish hue.",
+    "Sneezing; eyes inflamed; painful; head hot. Hay-fever. Spasmodic asthma; better in open air. Soreness in chest and stomach; must loosen clothing. Dyspnśa and sighing inspiration. Emphysema in the aged with asthma. Whooping-cough, long and continued paroxysms of coughing, unable to get a respiration. Acute laryngo-tracheitis. Bronchitis when the spasmodic element is associated with tenacious expectoration and oppression (Cartier)."
+  ],
+  "guiding_symptoms": [
+    "Lying as if stupefied by a narcotic. Restless. Face pale yellowish hue.",
+    "Sneezing; eyes inflamed; painful; head hot. Hay-fever. Spasmodic asthma; better in open air. Soreness in chest and stomach; must loosen clothing. Dyspnśa and sighing inspiration. Emphysema in the aged with asthma. Whooping-cough, long and continued paroxysms of coughing, unable to get a respiration. Acute laryngo-tracheitis. Bronchitis when the spasmodic element is associated with tenacious expectoration and oppression (Cartier)."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Lying as if stupefied by a narcotic. Restless. Face pale yellowish hue."
+  ],
+  "respiratory_symptoms": [
+    "Sneezing; eyes inflamed; painful; head hot. Hay-fever. Spasmodic asthma; better in open air. Soreness in chest and stomach; must loosen clothing. Dyspnśa and sighing inspiration. Emphysema in the aged with asthma. Whooping-cough, long and continued paroxysms of coughing, unable to get a respiration. Acute laryngo-tracheitis. Bronchitis when the spasmodic element is associated with tenacious expectoration and oppression (Cartier)."
+  ],
+  "gi_symptoms": [],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [
+    "Dermatitis; itching infiltration. Eruptions at corners of mouth and pigmentation around nails.",
+    "Non-homeopathic Uses-For worms, and especially pin--worms, one-gramme dose. Externally in skin diseases, five per cent ointment."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Dros",
+    "Corall",
+    "Coccus"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/n/naph.htm",
+    "title": "NAPHTHALINUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:04:40.307Z"
+  },
+  "confidence_score": 0.56
+}

@@ -1,0 +1,53 @@
+{
+  "remedy_name": "LACTUCA VIROSA",
+  "source_file": "raw_1772502775768.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      {
+        "original": "Acet ac",
+        "resolved_name": "Actæa Spicata.",
+        "confidence": 0.55,
+        "method": "levenshtein_3"
+      }
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "similar to Lactuca",
+        "resolved_name": "LAC CANINUM",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "(chronic diarrhśa",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "worse after eating",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "nights and towards morning",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": [
+      {
+        "original": "Acet ac",
+        "resolved_name": "Actæa Spicata.",
+        "confidence": 0.55,
+        "method": "levenshtein_3"
+      }
+    ]
+  },
+  "resolved_at": "2026-03-11T01:50:10.137Z"
+}

@@ -1,0 +1,65 @@
+{
+  "name": "CYCLAMEN EUROPAEUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Sow-bread"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Salty taste; hiccough-like eructation worse, fat food. Diarrhœa after every cup of coffee; hiccough. Satiety after a few mouthfuls. Disgust for meat, especially pork. Desire for lemonade. No thirst all day.",
+    "Terrors of conscience. Grieves over duty neglected. Depression, with weeping desire to be alone. Aching in morning, with flickering before eyes; sneezing with itching in ear. Vertigo; things turn in a circle; better in the room; worse, open air. One-sided headache. Frequent sneezing with itching in ears.",
+    "Pains in parts where bones lie near surface. Burning, sore pain in heels. Cramp-like contraction of right thumb and index finger. Pains in periosteum. Chilblains."
+  ],
+  "guiding_symptoms": [
+    "Salty taste; hiccough-like eructation worse, fat food. Diarrhœa after every cup of coffee; hiccough. Satiety after a few mouthfuls. Disgust for meat, especially pork. Desire for lemonade. No thirst all day.",
+    "Terrors of conscience. Grieves over duty neglected. Depression, with weeping desire to be alone. Aching in morning, with flickering before eyes; sneezing with itching in ear. Vertigo; things turn in a circle; better in the room; worse, open air. One-sided headache. Frequent sneezing with itching in ears.",
+    "Pains in parts where bones lie near surface. Burning, sore pain in heels. Cramp-like contraction of right thumb and index finger. Pains in periosteum. Chilblains."
+  ],
+  "modalities": {
+    "worse": [
+      "open air, evenings, sitting, standing, and cold water"
+    ],
+    "better": [
+      "during menstrual flow, by moving about, rubbing parts",
+      "in warm room, lemonade"
+    ]
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Terrors of conscience. Grieves over duty neglected. Depression, with weeping desire to be alone. Aching in morning, with flickering before eyes; sneezing with itching in ear. Vertigo; things turn in a circle; better in the room; worse, open air. One-sided headache. Frequent sneezing with itching in ears."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "Salty taste; hiccough-like eructation worse, fat food. Diarrhœa after every cup of coffee; hiccough. Satiety after a few mouthfuls. Disgust for meat, especially pork. Desire for lemonade. No thirst all day."
+  ],
+  "urinary_symptoms": [
+    "Menses profuse, black, membranous, clotted, too early, with labor-like pains from back to pubes. Flow less when moving about. Menstrual irregularities with megrim and blindness, or fiery spots before eyes. Hiccough during pregnancy. Post-partum hæmorrhage, with colicky bearing-down pains, with relief after gush of blood. After menses, swelling of breasts, with milky secretion."
+  ],
+  "musculoskeletal_symptoms": [
+    "Pains in parts where bones lie near surface. Burning, sore pain in heels. Cramp-like contraction of right thumb and index finger. Pains in periosteum. Chilblains."
+  ],
+  "skin_symptoms": [
+    "Acne in young women, pruritus better scratching and appearance of menses."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Ambra",
+    "Pulsat",
+    "Cinchona",
+    "Fer cit et Chin"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/c/cycl.htm",
+    "title": "CYCLAMEN EUROPAEUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:27:39.170Z"
+  },
+  "confidence_score": 0.8
+}

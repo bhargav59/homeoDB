@@ -1,0 +1,43 @@
+{
+  "name": "CINNAMOMUM CEYLANICUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Cinnamon"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [],
+  "guiding_symptoms": [],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [],
+  "urinary_symptoms": [
+    "Bearing-down sensation. Menses early, profuse, prolonged, bright red. Sleepy. No desire for anything. Fingers seem swollen. Uterine hæmorrhages caused by overlifting, during puerperal state; menorrhagia."
+  ],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Ipec",
+    "Sil",
+    "Trill"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/c/cinnm.htm",
+    "title": "CINNAMOMUM CEYLANICUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:21:12.310Z"
+  },
+  "confidence_score": 0.38
+}

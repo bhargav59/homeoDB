@@ -1,0 +1,22 @@
+{
+  "remedy_name": "PALLADIUM METALLICUM",
+  "source_file": "raw_1772503977953.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/p/pall.htm",
+  "relationships": {
+    "complementary": [
+      "ary"
+    ],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Arg",
+      "Helon",
+      "Lil",
+      "Apis"
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "parsed_at": "2026-03-03T15:23:37.688Z"
+}

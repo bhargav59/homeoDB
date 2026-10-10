@@ -1,0 +1,21 @@
+{
+  "remedy_name": "HYDROCOTYLE ASIATICA",
+  "source_file": "raw_1772502262219.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/h/hydrc.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Elæis-South American Palm--(scleroderma",
+      "elephantiasis",
+      "leprosy",
+      "skin thickened",
+      "itching and hardened"
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "parsed_at": "2026-03-03T15:23:37.494Z"
+}

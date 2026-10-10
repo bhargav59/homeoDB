@@ -1,0 +1,196 @@
+{
+  "remedy_name": "TUBERCULINUM",
+  "source_file": "raw_1772505574722.json",
+  "relationships": {
+    "complementary": [
+      {
+        "original": "Calcarea",
+        "resolved_name": "CALCAREA CARBONICA",
+        "confidence": 1,
+        "method": "exact"
+      }
+    ],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "produces pneumonia",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "broncho-pneumonia",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "symptoms similar to tuberculosis",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "relieves the debility",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "diminishes the cough",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "improves the appetite",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "and braces up the whole organism",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "itching of palms and ears",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "cough",
+        "resolved_name": "Dr. Reckeweg R9, Buy Homeopathic Medicine For Cough, Buy Homeopathic Medicine Cough Syrup Online",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "acute",
+        "resolved_name": "ACTAEA SPICATA",
+        "confidence": 0.55,
+        "method": "levenshtein_3"
+      },
+      {
+        "original": "inflammatory",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "irritating",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "incessant",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "and tickling",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "loss of strength and appetite)",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "Hydrast",
+        "resolved_name": "HYDRASTIS CANADENSIS",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Formic acid (tuberculosis",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "chronic nephritis",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "malignant tumors",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "pulmonary tuberculosis",
+        "resolved_name": "Pulmo Vulpis.",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "not in third stage",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "however",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "lupus",
+        "resolved_name": "FUCUS VESICULOSUS",
+        "confidence": 0.7,
+        "method": "levenshtein_2"
+      },
+      {
+        "original": "carcinoma of breast and stomach",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "Dr",
+        "resolved_name": "DROSERA",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      },
+      {
+        "original": "Bacil",
+        "resolved_name": "BACILLINUM BURNETT",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Psorin",
+        "resolved_name": "PSORINUM",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Lach",
+        "resolved_name": "LACHESIS",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      },
+      {
+        "original": "Thuja",
+        "resolved_name": "THUJA OCCIDENTALIS",
+        "confidence": 1,
+        "method": "exact"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:11.621Z"
+}

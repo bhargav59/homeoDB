@@ -1,0 +1,24 @@
+{
+  "remedy_name": "TARENTULA HISPANICA",
+  "source_file": "raw_1772505298482.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/t/tarent.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      "Lach"
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Agar",
+      "Ars",
+      "Cupr",
+      "Mag phos"
+    ],
+    "incompatible": [],
+    "antidotes": [
+      "Lach"
+    ]
+  },
+  "parsed_at": "2026-03-03T15:23:37.752Z"
+}

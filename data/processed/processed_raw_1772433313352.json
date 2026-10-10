@@ -1,0 +1,49 @@
+{
+  "name": "ARUM DRACONTIUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Green Dragon"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Heavy; shooting pain in ears, aching pain behind right ear.",
+    "Hoarseness; excess of mucus in larynx. Asthmatic at night. Expectoration thick, heavy."
+  ],
+  "guiding_symptoms": [
+    "Heavy; shooting pain in ears, aching pain behind right ear.",
+    "Hoarseness; excess of mucus in larynx. Asthmatic at night. Expectoration thick, heavy."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Heavy; shooting pain in ears, aching pain behind right ear."
+  ],
+  "respiratory_symptoms": [
+    "Hoarseness; excess of mucus in larynx. Asthmatic at night. Expectoration thick, heavy."
+  ],
+  "gi_symptoms": [],
+  "urinary_symptoms": [
+    "Irresistible desire to pass urine, burns and smarts."
+  ],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/a/arum-d.htm",
+    "title": "ARUM DRACONTIUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-02T06:35:13.352Z"
+  },
+  "confidence_score": 0.56
+}

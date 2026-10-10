@@ -1,0 +1,65 @@
+{
+  "name": "MYRICA CERIFERA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Bayberry"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Taste bitter and nauseous, with offensive breath. Complete loss appetite, but with a feeling of fullness in the stomach after a hearty meal. Strong desire for acids. Weak, sinking feeling in the epigastrium, approaching nausea; increased after eating; relieved by rapid walking.",
+    "Scalp feels tight. Headache, with drowsiness; yellow sclerotica; aching in eyeballs. Pressure in vertex and forehead. Dull, heavy aching in temples and forehead on waking in the morning. Pain and stiffness in nape of neck.",
+    "Staggering gait. Pain under shoulder-blades and back of neck, in all muscles, in hollow of right foot."
+  ],
+  "guiding_symptoms": [
+    "Taste bitter and nauseous, with offensive breath. Complete loss appetite, but with a feeling of fullness in the stomach after a hearty meal. Strong desire for acids. Weak, sinking feeling in the epigastrium, approaching nausea; increased after eating; relieved by rapid walking.",
+    "Scalp feels tight. Headache, with drowsiness; yellow sclerotica; aching in eyeballs. Pressure in vertex and forehead. Dull, heavy aching in temples and forehead on waking in the morning. Pain and stiffness in nape of neck.",
+    "Staggering gait. Pain under shoulder-blades and back of neck, in all muscles, in hollow of right foot."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [
+    "Despondent, irritable, indifferent. Gloomy."
+  ],
+  "head_symptoms": [
+    "Scalp feels tight. Headache, with drowsiness; yellow sclerotica; aching in eyeballs. Pressure in vertex and forehead. Dull, heavy aching in temples and forehead on waking in the morning. Pain and stiffness in nape of neck."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "Taste bitter and nauseous, with offensive breath. Complete loss appetite, but with a feeling of fullness in the stomach after a hearty meal. Strong desire for acids. Weak, sinking feeling in the epigastrium, approaching nausea; increased after eating; relieved by rapid walking."
+  ],
+  "urinary_symptoms": [
+    "Dark, frothy, scanty, high-colored, biliary."
+  ],
+  "musculoskeletal_symptoms": [
+    "Staggering gait. Pain under shoulder-blades and back of neck, in all muscles, in hollow of right foot."
+  ],
+  "skin_symptoms": [
+    "Yellow and itching. Jaundice. Creeping sensation, as of insects."
+  ],
+  "sleep_symptoms": [
+    "Disturbed, bad dreams and frequent waking; insomnia."
+  ],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Ptel",
+    "Cornus cir",
+    "Chelid",
+    "Lept",
+    "Fagop"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/m/myric.htm",
+    "title": "MYRICA CERIFERA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:03:56.548Z"
+  },
+  "confidence_score": 0.8
+}

@@ -1,0 +1,24 @@
+{
+  "remedy_name": "SABINA",
+  "source_file": "raw_1772504637793.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/s/sabin.htm",
+  "relationships": {
+    "complementary": [
+      "Thuja"
+    ],
+    "antidoted_by": [
+      "Puls"
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "varices of lower extremities",
+      "dysentery"
+    ],
+    "incompatible": [],
+    "antidotes": [
+      "Puls"
+    ]
+  },
+  "parsed_at": "2026-03-03T15:23:37.719Z"
+}

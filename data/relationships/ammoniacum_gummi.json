@@ -1,0 +1,23 @@
+{
+  "remedy_name": "AMMONIACUM GUMMI",
+  "source_file": "raw_1772371974623.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/a/ammc.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      "Bry"
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Senega",
+      "Tart emet",
+      "Balsam Peru"
+    ],
+    "incompatible": [],
+    "antidotes": [
+      "Bry"
+    ]
+  },
+  "parsed_at": "2026-03-03T15:23:37.340Z"
+}

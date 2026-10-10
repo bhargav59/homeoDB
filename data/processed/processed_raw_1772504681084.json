@@ -1,0 +1,47 @@
+{
+  "name": "SALVIA OFFICINALIS",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Sage"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Tickling cough, especially in consumption."
+  ],
+  "guiding_symptoms": [
+    "Tickling cough, especially in consumption."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [],
+  "respiratory_symptoms": [
+    "Tickling cough, especially in consumption."
+  ],
+  "gi_symptoms": [],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [
+    "Soft, relaxed, with enfeebled circulation and cold extremities. Colliquative perspiration."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Chrysanhemum Leucanthemum--Ox-eye Daisy"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/s/salv.htm",
+    "title": "SALVIA OFFICINALIS - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:24:41.084Z"
+  },
+  "confidence_score": 0.44
+}

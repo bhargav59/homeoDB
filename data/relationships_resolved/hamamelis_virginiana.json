@@ -1,0 +1,90 @@
+{
+  "remedy_name": "HAMAMELIS VIRGINIANA",
+  "source_file": "raw_1772502079169.json",
+  "relationships": {
+    "complementary": [
+      {
+        "original": "Ferrum",
+        "resolved_name": "FERRUM METALLICUM",
+        "confidence": 1,
+        "method": "exact"
+      }
+    ],
+    "antidoted_by": [
+      {
+        "original": "Arnica",
+        "resolved_name": "ARNICA MONTANA",
+        "confidence": 1,
+        "method": "exact"
+      }
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "in hæmorrhoids: Calc fluor",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "Aloe",
+        "resolved_name": "ALOE SOCOTRINA",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Mur ac in varicose veins",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "Arnica",
+        "resolved_name": "ARNICA MONTANA",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Calend",
+        "resolved_name": "CALENDULA OFFICINALIS",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Trillium",
+        "resolved_name": "TRILLIUM PENDULUM",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Bellis",
+        "resolved_name": "BELLIS PERENNIS",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Sulph ac",
+        "resolved_name": "SULPHUR",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      },
+      {
+        "original": "Pulsatilla",
+        "resolved_name": "PULSATILLA PRATENSIS",
+        "confidence": 1,
+        "method": "exact"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": [
+      {
+        "original": "Arnica",
+        "resolved_name": "ARNICA MONTANA",
+        "confidence": 1,
+        "method": "exact"
+      }
+    ]
+  },
+  "resolved_at": "2026-03-11T01:50:09.794Z"
+}

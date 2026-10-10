@@ -1,0 +1,95 @@
+{
+  "remedy_name": "MEZEREUM",
+  "source_file": "raw_1772503326937.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      {
+        "original": "Kali hyd",
+        "resolved_name": "KALI CARBONICUM",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      }
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "emesis and purgation",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "cerebral hyperæmia",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "neuralgic pains",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "with depression",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "palpitation",
+        "resolved_name": "Reckeweg R2, Buy Homeopathic Medicines for Heart Tonic, Homeopathic Medicine for Heart Pain, Palpitations",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "and dyspnœa)",
+        "resolved_name": "VESPA CRABRO",
+        "confidence": 0.55,
+        "method": "levenshtein_3"
+      },
+      {
+        "original": "Merc",
+        "resolved_name": "MERCURIUS SOLUBILIS",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      },
+      {
+        "original": "Phyt",
+        "resolved_name": "PHYTOLACCA",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      },
+      {
+        "original": "Rhus",
+        "resolved_name": "RHUS GLABRA",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Guaiac",
+        "resolved_name": "Guaiacum.",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Syph",
+        "resolved_name": "SYPHILINUM",
+        "confidence": 0.8,
+        "method": "substring"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": [
+      {
+        "original": "Kali hyd",
+        "resolved_name": "KALI CARBONICUM",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      }
+    ]
+  },
+  "resolved_at": "2026-03-11T01:50:10.376Z"
+}

@@ -1,0 +1,65 @@
+{
+  "name": "ASTERIAS RUBENS",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Red Starfish"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Breasts swollen, indurated. Neuralgia of left breast and arm (Brom). Pain under sternum and in muscles of prćcordial region. Left breast feels as if pulled inward, and pain extends over inner arm to end of little finger. Numbness of hand and fingers of left side. Cancer mammć even in ulcerative stage. Acute, lancinating pain. Axillary glands swollen hard and knotted.",
+    "Nervous System.--Gait unsteady; muscles refuse to obey the will. Epilepsy; preceded by twitching over whole body.",
+    "Cannot bear contradiction. Shocks in brain; throbbing; heat in head, as if surrounded by hot air."
+  ],
+  "guiding_symptoms": [
+    "Breasts swollen, indurated. Neuralgia of left breast and arm (Brom). Pain under sternum and in muscles of prćcordial region. Left breast feels as if pulled inward, and pain extends over inner arm to end of little finger. Numbness of hand and fingers of left side. Cancer mammć even in ulcerative stage. Acute, lancinating pain. Axillary glands swollen hard and knotted.",
+    "Nervous System.--Gait unsteady; muscles refuse to obey the will. Epilepsy; preceded by twitching over whole body.",
+    "Cannot bear contradiction. Shocks in brain; throbbing; heat in head, as if surrounded by hot air."
+  ],
+  "modalities": {
+    "worse": [
+      "coffee, night",
+      "cold damp weather, left side"
+    ],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Cannot bear contradiction. Shocks in brain; throbbing; heat in head, as if surrounded by hot air."
+  ],
+  "respiratory_symptoms": [
+    "Breasts swollen, indurated. Neuralgia of left breast and arm (Brom). Pain under sternum and in muscles of prćcordial region. Left breast feels as if pulled inward, and pain extends over inner arm to end of little finger. Numbness of hand and fingers of left side. Cancer mammć even in ulcerative stage. Acute, lancinating pain. Axillary glands swollen hard and knotted.",
+    "Nervous System.--Gait unsteady; muscles refuse to obey the will. Epilepsy; preceded by twitching over whole body."
+  ],
+  "gi_symptoms": [
+    "Constipation. Ineffectual desire. Stool like olives. Diarrhśa, watery brown, gushing out in jet."
+  ],
+  "urinary_symptoms": [
+    "Colic and other sufferings cease with appearance of flow. Breasts swell and pain in breasts; worse left. Ulceration with sharp pains, piercing to scapulć. Pains down left arm to fingers, worse motion. Excitement of sexual instinct with nervous agitation.",
+    "Nodes and indurations of mammary gland, dull aching, neuralgic pain in this region (Conium)."
+  ],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [
+    "Destitute of pliability and elasticity. Itching spots. Ulcers, with fetid ichor. Acne. Psoriasis and herpes zoster worse left arm and chest. Enlarged axillary glands, worse, at night and in damp weather."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Conium",
+    "Carbo",
+    "Ars",
+    "Condurango"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/a/aster.htm",
+    "title": "ASTERIAS RUBENS - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-02T06:37:04.795Z"
+  },
+  "confidence_score": 0.74
+}

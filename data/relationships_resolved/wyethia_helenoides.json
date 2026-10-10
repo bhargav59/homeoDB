@@ -1,0 +1,33 @@
+{
+  "remedy_name": "WYETHIA HELENOIDES",
+  "source_file": "raw_1772505831269.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Arum",
+        "resolved_name": "ARUM DRACONTIUM",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Sang",
+        "resolved_name": "SANGUINARIA",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      },
+      {
+        "original": "Lach",
+        "resolved_name": "LACHESIS",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:11.748Z"
+}

@@ -1,0 +1,81 @@
+{
+  "remedy_name": "MERCURIUS SOLUBILIS",
+  "source_file": "raw_1772503235687.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Capparis coriaccea (polyuria",
+        "resolved_name": "PARIS QUADRIFOLIA",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "glandular affections",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "mucous diarrhśa",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "influenza)",
+        "resolved_name": "Dr. Reckeweg R6, Homeopathic Medicine For High Fever, Buy Homeopathic Medicines For Influenza",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "ptyalism",
+        "resolved_name": "PHYSALIS ALKEKENGI",
+        "confidence": 0.55,
+        "method": "levenshtein_3"
+      },
+      {
+        "original": "dysphagia",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "wasting of body and much debility",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "cholera infantum)",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "Kali hyd",
+        "resolved_name": "KALI CARBONICUM",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      },
+      {
+        "original": "Mercur acet (Congestion with stiffness",
+        "resolved_name": "MERCURIUS SOLUBILIS",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      },
+      {
+        "original": "dryness and heat of parts affected",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:10.334Z"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "SULPHUR IODATUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Iodide of Sulphur"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [],
+  "guiding_symptoms": [],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [
+    "Itching on ears, nose, and in urethra. Papular eruption on face. Cold-sores on lips. Boils on neck. Barber's itch. Acne. Lichen planus. Arms covered with itching rash. Hair feels as if erect."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/s/sul-i.htm",
+    "title": "SULPHUR IODATUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:07:18.772Z"
+  },
+  "confidence_score": 0.38
+}

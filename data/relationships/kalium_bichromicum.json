@@ -1,0 +1,29 @@
+{
+  "remedy_name": "KALIUM BICHROMICUM",
+  "source_file": "raw_1772502548030.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/k/kali-bi.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      "Ars"
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Tart emet",
+      "Brom",
+      "Hepar",
+      "Ind",
+      "Calc",
+      "Ant cr",
+      "Ammon caust",
+      "Sulph ac",
+      "Ipecac"
+    ],
+    "incompatible": [],
+    "antidotes": [
+      "Ars"
+    ]
+  },
+  "parsed_at": "2026-03-03T15:23:37.507Z"
+}

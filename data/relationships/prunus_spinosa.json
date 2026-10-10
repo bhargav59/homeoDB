@@ -1,0 +1,34 @@
+{
+  "remedy_name": "PRUNUS SPINOSA",
+  "source_file": "raw_1772504332966.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/p/prun.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Lauroc",
+      "Prumus padus-Bird--cherry--(sore throat",
+      "irritable heart",
+      "dilatation of right heart",
+      "cough",
+      "worse at night on lying down",
+      "weak digestion",
+      "especially in elderly people",
+      "chronic bronchitis",
+      "increases muscular tone)",
+      "Pyrus-Mountain Ash--(irritation of eyes",
+      "constriction around waist",
+      "spasmodic pains in uterus",
+      "bladder",
+      "heart",
+      "cold-water sensation in stomach",
+      "coldness extends up śsophagus",
+      "neuralgic and gouty pains)"
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "parsed_at": "2026-03-03T15:23:37.705Z"
+}

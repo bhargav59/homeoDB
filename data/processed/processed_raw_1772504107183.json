@@ -1,0 +1,61 @@
+{
+  "name": "PHELLANDRIUM AQUATICUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Water Dropwort"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Sticking pain through right breast near sternum, extending to back near shoulders. Dyspnœa, and continuous cough, early in morning. Cough, with profuse and fetid expectoration; compels him to sit up. Hoarseness.",
+    "Weight on vertex; aching and burning in temples and above eyes. Crushing feeling in vertex. Vertigo, dizzy when lying down.",
+    "Tired feeling when walking."
+  ],
+  "guiding_symptoms": [
+    "Sticking pain through right breast near sternum, extending to back near shoulders. Dyspnœa, and continuous cough, early in morning. Cough, with profuse and fetid expectoration; compels him to sit up. Hoarseness.",
+    "Weight on vertex; aching and burning in temples and above eyes. Crushing feeling in vertex. Vertigo, dizzy when lying down.",
+    "Tired feeling when walking."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Weight on vertex; aching and burning in temples and above eyes. Crushing feeling in vertex. Vertigo, dizzy when lying down."
+  ],
+  "respiratory_symptoms": [
+    "Sticking pain through right breast near sternum, extending to back near shoulders. Dyspnœa, and continuous cough, early in morning. Cough, with profuse and fetid expectoration; compels him to sit up. Hoarseness."
+  ],
+  "gi_symptoms": [],
+  "urinary_symptoms": [
+    "Pain in milk ducts; intolerable between nursing. Pain in nipples."
+  ],
+  "musculoskeletal_symptoms": [
+    "Tired feeling when walking."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [
+    "Hectic; profuse and debilitating perspiration; intermittent, with pain in arms. Desire for acids."
+  ],
+  "complementary_remedies": [
+    "Con",
+    "Phyt",
+    "Sil",
+    "Ant iod",
+    "Myosotis arvensis"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/p/phel.htm",
+    "title": "PHELLANDRIUM AQUATICUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:15:07.183Z"
+  },
+  "confidence_score": 0.6799999999999999
+}

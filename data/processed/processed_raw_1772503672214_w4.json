@@ -1,0 +1,54 @@
+{
+  "name": "X",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "X-RAY"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Sticking pains in different parts of head and face. Dull pain in right upper jaw. Stiff neck. Sudden cricks in neck, pains more severe behind ears. Pain in muscles of neck when lifting head from pillow. Fullness in ears, ringing in head.",
+    "Rheumatic pains. General tired and sick feeling. Palms rough and scaly."
+  ],
+  "guiding_symptoms": [
+    "Sticking pains in different parts of head and face. Dull pain in right upper jaw. Stiff neck. Sudden cricks in neck, pains more severe behind ears. Pain in muscles of neck when lifting head from pillow. Fullness in ears, ringing in head.",
+    "Rheumatic pains. General tired and sick feeling. Palms rough and scaly."
+  ],
+  "modalities": {
+    "worse": [
+      "in bed, afternoon, evening and night",
+      "open air"
+    ],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Sticking pains in different parts of head and face. Dull pain in right upper jaw. Stiff neck. Sudden cricks in neck, pains more severe behind ears. Pain in muscles of neck when lifting head from pillow. Fullness in ears, ringing in head."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [],
+  "urinary_symptoms": [
+    "Lewd dreams. Sexual desire lost. Re-establishes suppressed gonorrhœa."
+  ],
+  "musculoskeletal_symptoms": [
+    "Rheumatic pains. General tired and sick feeling. Palms rough and scaly."
+  ],
+  "skin_symptoms": [
+    "Dry, itching eczema. Erythema around roots of nails. Skin dry, wrinkled. Painful cracks. Warty growths. Nails thicken. Psoriasis."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/x/x-ray.htm",
+    "title": "X-RAY - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:07:52.214Z"
+  },
+  "confidence_score": 0.62
+}

@@ -1,0 +1,51 @@
+{
+  "name": "INDOLUM",
+  "abbreviation": "Unknown",
+  "common_names": [],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Bloated feeling. Hungry sensation after full meal. Great thirst. Constipation.",
+    "Dull occipital and frontal headache in afternoon. Dull sensation over eyes. Eyeballs hot and hurt when moved. Pupils dilated with headache.",
+    "Very tired and sore in lower limbs. Feet burn. Knee-joints sore."
+  ],
+  "guiding_symptoms": [
+    "Bloated feeling. Hungry sensation after full meal. Great thirst. Constipation.",
+    "Dull occipital and frontal headache in afternoon. Dull sensation over eyes. Eyeballs hot and hurt when moved. Pupils dilated with headache.",
+    "Very tired and sore in lower limbs. Feet burn. Knee-joints sore."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Dull occipital and frontal headache in afternoon. Dull sensation over eyes. Eyeballs hot and hurt when moved. Pupils dilated with headache."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "Bloated feeling. Hungry sensation after full meal. Great thirst. Constipation."
+  ],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [
+    "Very tired and sore in lower limbs. Feet burn. Knee-joints sore."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [
+    "Sleepiness. Continuous dreaming."
+  ],
+  "fever_symptoms": [],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/i/indol.htm",
+    "title": "INDOLUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:45:59.589Z"
+  },
+  "confidence_score": 0.5
+}

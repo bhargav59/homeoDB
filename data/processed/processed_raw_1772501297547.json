@@ -1,0 +1,57 @@
+{
+  "name": "DAPHNE INDICA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Spurge Laurel"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Feels as if skull would burst; as if head were separated from body. Heat in head, especially in vertex. Tongue coated on one side only (Rhus). Foul-smelling, ptyalism hot.",
+    "Urine.--Thick, turbid, yellowish, like rotten eggs.",
+    "Right toe swollen, painful. Pain shoots upward into abdomen and heart. Rheumatic pains in thighs and knees. Cold feeling on buttocks. Shooting pains, shift rapidly worse, cold air."
+  ],
+  "guiding_symptoms": [
+    "Feels as if skull would burst; as if head were separated from body. Heat in head, especially in vertex. Tongue coated on one side only (Rhus). Foul-smelling, ptyalism hot.",
+    "Urine.--Thick, turbid, yellowish, like rotten eggs.",
+    "Right toe swollen, painful. Pain shoots upward into abdomen and heart. Rheumatic pains in thighs and knees. Cold feeling on buttocks. Shooting pains, shift rapidly worse, cold air."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Feels as if skull would burst; as if head were separated from body. Heat in head, especially in vertex. Tongue coated on one side only (Rhus). Foul-smelling, ptyalism hot.",
+    "Urine.--Thick, turbid, yellowish, like rotten eggs."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [
+    "Right toe swollen, painful. Pain shoots upward into abdomen and heart. Rheumatic pains in thighs and knees. Cold feeling on buttocks. Shooting pains, shift rapidly worse, cold air."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [
+    "Entire inability to sleep; sometimes caused by aching in bones. Dreams, with nightmare. Dreams of cats, black cats. Starting on falling to sleep with chilliness and clamminess."
+  ],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Fluor ac",
+    "Aur",
+    "Mez",
+    "Staph"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/d/daph.htm",
+    "title": "DAPHNE INDICA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:28:17.547Z"
+  },
+  "confidence_score": 0.5
+}

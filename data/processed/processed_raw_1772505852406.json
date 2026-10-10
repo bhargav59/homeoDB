@@ -1,0 +1,64 @@
+{
+  "name": "XANTOXYLUM FRAXINEUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Prickly Ash"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Feels full. Weight and pain on vertex. Pain over eyes, throbbing pressure over nose, pressure in forehead; head seems divided; ringing in ears. Occipital headache. Sick headache with dizziness and flatulence.",
+    "Aphonia. Constant desire to take a long breath; oppression of chest. Dry cough, day and night.",
+    "Paralysis of left side following spinal disorders. Numbness of left side; impairment of nerves of motion. Hemiplegia. Pain in nape, extending down back. Sciatica; worse, hot weather. Anterior, crural neuralgia (Staph). Left arm numb. Neuralgic shooting pain, as from electricity, all over limb."
+  ],
+  "guiding_symptoms": [
+    "Feels full. Weight and pain on vertex. Pain over eyes, throbbing pressure over nose, pressure in forehead; head seems divided; ringing in ears. Occipital headache. Sick headache with dizziness and flatulence.",
+    "Aphonia. Constant desire to take a long breath; oppression of chest. Dry cough, day and night.",
+    "Paralysis of left side following spinal disorders. Numbness of left side; impairment of nerves of motion. Hemiplegia. Pain in nape, extending down back. Sciatica; worse, hot weather. Anterior, crural neuralgia (Staph). Left arm numb. Neuralgic shooting pain, as from electricity, all over limb."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [
+    "Nervous, frightened. Mental depression."
+  ],
+  "head_symptoms": [
+    "Feels full. Weight and pain on vertex. Pain over eyes, throbbing pressure over nose, pressure in forehead; head seems divided; ringing in ears. Occipital headache. Sick headache with dizziness and flatulence."
+  ],
+  "respiratory_symptoms": [
+    "Aphonia. Constant desire to take a long breath; oppression of chest. Dry cough, day and night."
+  ],
+  "gi_symptoms": [
+    "Griping and diarrhœa. Dysentery, with tympanites, tenesmus; inodorous discharges."
+  ],
+  "urinary_symptoms": [
+    "Menses too early and painful. Ovarian neuralgia, with pain in loins and lower abdomen; worse, left side, extending down the thigh, along genito-crural nerves. Neuralgic dysmenorrhœa, with neuralgic headaches; pain in back and down legs. Menses thick, almost black. After-pains (Arnica; Cup; Cham). Leucorrhœa at time of menses. Neurasthenic patients who are thin, emaciated; poor assimilation with insomnia and occipital headache."
+  ],
+  "musculoskeletal_symptoms": [
+    "Paralysis of left side following spinal disorders. Numbness of left side; impairment of nerves of motion. Hemiplegia. Pain in nape, extending down back. Sciatica; worse, hot weather. Anterior, crural neuralgia (Staph). Left arm numb. Neuralgic shooting pain, as from electricity, all over limb."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [
+    "Hard and unrefreshing; dreams of flying. Sleeplessness in neurasthenics."
+  ],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Gnaph",
+    "Cimicif",
+    "Staph",
+    "Mezer"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/x/xan.htm",
+    "title": "XANTOXYLUM FRAXINEUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:44:12.406Z"
+  },
+  "confidence_score": 0.8
+}

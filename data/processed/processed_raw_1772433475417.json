@@ -1,0 +1,51 @@
+{
+  "name": "AVENA SATIVA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Common Oat"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Nervous headache at menstrual period, with burning at top of head. Occipital headache, with phosphatic urine.",
+    "Numbness of limbs, as if paralyzed. Strength of hand diminished."
+  ],
+  "guiding_symptoms": [
+    "Nervous headache at menstrual period, with burning at top of head. Occipital headache, with phosphatic urine.",
+    "Numbness of limbs, as if paralyzed. Strength of hand diminished."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [
+    "Inability to keep mind on any one subject."
+  ],
+  "head_symptoms": [
+    "Nervous headache at menstrual period, with burning at top of head. Occipital headache, with phosphatic urine."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [],
+  "urinary_symptoms": [
+    "Spermatorrhœa; impotency; after too much indulgence."
+  ],
+  "musculoskeletal_symptoms": [
+    "Numbness of limbs, as if paralyzed. Strength of hand diminished."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/a/aven.htm",
+    "title": "AVENA SATIVA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-02T06:37:55.417Z"
+  },
+  "confidence_score": 0.62
+}

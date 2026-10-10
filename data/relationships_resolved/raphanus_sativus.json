@@ -1,0 +1,51 @@
+{
+  "remedy_name": "RAPHANUS SATIVUS",
+  "source_file": "raw_1772504463414.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Momordica (worse",
+        "resolved_name": "MOMORDICA BALSAMICA",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "near splenic flexure)",
+        "resolved_name": "X",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Carbo",
+        "resolved_name": "CARBO ANIMALIS",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Anarc",
+        "resolved_name": "BARYTA CARBONICA",
+        "confidence": 0.7,
+        "method": "levenshtein_2"
+      },
+      {
+        "original": "Arg nit",
+        "resolved_name": "ARGENTUM NITRICUM",
+        "confidence": 0.55,
+        "method": "levenshtein_3"
+      },
+      {
+        "original": "Brassica",
+        "resolved_name": "Brassica Napus.",
+        "confidence": 1,
+        "method": "exact"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:10.966Z"
+}

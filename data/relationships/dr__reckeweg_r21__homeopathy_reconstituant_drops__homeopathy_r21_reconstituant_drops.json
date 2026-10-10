@@ -1,0 +1,15 @@
+{
+  "remedy_name": "Dr. Reckeweg R21, Homeopathy Reconstituant Drops, Homeopathy R21 Reconstituant Drops",
+  "source_file": "raw_1772509515511_reckeweg_dilutions_w4.json",
+  "source_url": "https://www.reckeweg-india.com/product-details/r21-20.html",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "parsed_at": "2026-03-03T15:23:38.560Z"
+}

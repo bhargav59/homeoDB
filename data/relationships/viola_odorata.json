@@ -1,0 +1,36 @@
+{
+  "remedy_name": "VIOLA ODORATA",
+  "source_file": "raw_1772505788601.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/v/viol-o.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Ulmus (formication in feet",
+      "numb",
+      "creeping pain in legs and feet",
+      "rheumatic pains above wrists",
+      "numbness",
+      "tingling",
+      "Chenopodium (ears",
+      "chronic otitis media",
+      "progressive deafness to the voice",
+      "buzzing",
+      "absent or deficient bone conduction",
+      "a consciousness of the ear",
+      "hearing better for shrill",
+      "high-pitched sounds than for low ones)",
+      "Aur",
+      "Puls",
+      "Sep",
+      "Ign",
+      "Cina",
+      "Cauloph"
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "parsed_at": "2026-03-03T15:23:37.774Z"
+}

@@ -1,0 +1,66 @@
+{
+  "name": "MOSCHUS",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Musk"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Desire for black coffee, stimulants. Aversion to food. Everything tastes flat. With stomach symptoms, anxiety in chest. Distended. Faints when eating. Abdomen greatly distended. Spasmodic, nervous hiccough (Hydrocy ac; Sulph ac; Ignat; Cajap).",
+    "Compressive pain over root of nose. Pressure on top of head. Vertigo on least motion; sensation as if falling from a great height. Scalp sensitive. Sounds in ears as from the report of a cannon.",
+    "Tightness of chest, is obliged to take a deeper breath. Sudden constriction of larynx and trachea. Difficult respiration; chest oppressed; hysterical spasm of chest; asthma. Spasm of glottis. Impending paralysis of lungs. Asthma, with intense anxiety, fear, and smothering sensation. Cough ceases, mucus cannot be expectorated. Globus hystericus.",
+    "Hysterical palpitation. Trembling around heart. Weak pulse and fainting."
+  ],
+  "guiding_symptoms": [
+    "Desire for black coffee, stimulants. Aversion to food. Everything tastes flat. With stomach symptoms, anxiety in chest. Distended. Faints when eating. Abdomen greatly distended. Spasmodic, nervous hiccough (Hydrocy ac; Sulph ac; Ignat; Cajap).",
+    "Compressive pain over root of nose. Pressure on top of head. Vertigo on least motion; sensation as if falling from a great height. Scalp sensitive. Sounds in ears as from the report of a cannon.",
+    "Tightness of chest, is obliged to take a deeper breath. Sudden constriction of larynx and trachea. Difficult respiration; chest oppressed; hysterical spasm of chest; asthma. Spasm of glottis. Impending paralysis of lungs. Asthma, with intense anxiety, fear, and smothering sensation. Cough ceases, mucus cannot be expectorated. Globus hystericus."
+  ],
+  "modalities": {
+    "worse": [
+      "cold"
+    ],
+    "better": [
+      "in open air, rubbing"
+    ]
+  },
+  "mind_symptoms": [
+    "Uncontrollable laughter. Scolding. Anxiety with palpitation; starting as if frightened. Sexual hypochondriasis."
+  ],
+  "head_symptoms": [
+    "Compressive pain over root of nose. Pressure on top of head. Vertigo on least motion; sensation as if falling from a great height. Scalp sensitive. Sounds in ears as from the report of a cannon."
+  ],
+  "respiratory_symptoms": [
+    "Tightness of chest, is obliged to take a deeper breath. Sudden constriction of larynx and trachea. Difficult respiration; chest oppressed; hysterical spasm of chest; asthma. Spasm of glottis. Impending paralysis of lungs. Asthma, with intense anxiety, fear, and smothering sensation. Cough ceases, mucus cannot be expectorated. Globus hystericus."
+  ],
+  "gi_symptoms": [
+    "Desire for black coffee, stimulants. Aversion to food. Everything tastes flat. With stomach symptoms, anxiety in chest. Distended. Faints when eating. Abdomen greatly distended. Spasmodic, nervous hiccough (Hydrocy ac; Sulph ac; Ignat; Cajap)."
+  ],
+  "urinary_symptoms": [
+    "Violent desire; involuntary emissions. Impotence, associated with diabetes (Coca). Premature senility. Nausea and vomiting after coition."
+  ],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Nux mosch",
+    "Asaf",
+    "Valer",
+    "Sumbul",
+    "Ign"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/m/mosch.htm",
+    "title": "MOSCHUS - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:03:06.807Z"
+  },
+  "confidence_score": 0.8
+}

@@ -1,0 +1,47 @@
+{
+  "name": "NUPHAR LUTEUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Yellow Pond-lily"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [],
+  "guiding_symptoms": [],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "Entero-colitis. Yellow diarrhœa; worse in the morning. Diarrhœa during typhoid."
+  ],
+  "urinary_symptoms": [
+    "Complete absence of sexual desire; parts relaxed; penis retracted. Impotency, with involuntary emissions during stool, when urinating. Spermatorrhœa. Pain in testicles and penis."
+  ],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "in sexual weakness",
+    "Agnus",
+    "Kali brom",
+    "Lycop",
+    "Selen"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/n/nuph.htm",
+    "title": "NUPHAR LUTEUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:06:04.610Z"
+  },
+  "confidence_score": 0.44
+}

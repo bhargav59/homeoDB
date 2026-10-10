@@ -1,0 +1,21 @@
+{
+  "remedy_name": "PIPER METHYSTICUM",
+  "source_file": "raw_1772504176703.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "especially in early cases)",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:10.787Z"
+}

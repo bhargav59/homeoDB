@@ -1,0 +1,75 @@
+{
+  "name": "SILICEA TERRA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Silica. Pure Flint"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Disgust for meat and warm food. On swallowing food, it easily gets into posterior nares. Want of appetite; thirst excessive. Sour eructations after eating (Sepia; Calc). Pit of stomach painful to pressure. Vomiting after drinking (Ars; Verat).",
+    "Aches from fasting. Vertigo from looking up; better, wrapping up warmly; when lying on left side (Magnes mur; Strontia). Profuse sweat of head, offensive, and extends to neck. Pain begins at occiput, and spreads over head and settles over eyes. Swelling in the glabella.",
+    "Colds fail to yield; sputum persistently muco-purulent and profuse. Slow recovery after pneumonia. Cough and sore throat, with expectoration of little granules like shot, which, when broken, smell very offensive. Cough with expectoration in day, bloody or purulent. Stitches in chest through to back. Violent cough when lying down, with thick, yellow lumpy expectoration; suppurative stage of expectoration (Bals. Peru).",
+    "Sciatica, pains through hips, legs and feet. Cramp in calves and soles. Loss of power in legs. Tremulous hands when using them. Paralytic weakness of forearm. Affections of finger nails, especially if white spots on nails. Ingrowing toe-nails. Icy cold and sweaty feet. The parts lain on go to sleep. Offensive sweat on feet, hands, and axillæ. Sensation in tips of fingers, as if suppurating. Panaritium. Pain in knee, as if tightly bound. Calves tense and contracted. Pain beneath toes. Soles sore (Ruta). Soreness in feet from instep through to the sole. Suppurates.",
+    "Weak spine; very susceptible to draughts on back. Pain in coccyx. Spinal irritation after injuries to spine; diseases of bones of spine. Potts' disease."
+  ],
+  "guiding_symptoms": [
+    "Disgust for meat and warm food. On swallowing food, it easily gets into posterior nares. Want of appetite; thirst excessive. Sour eructations after eating (Sepia; Calc). Pit of stomach painful to pressure. Vomiting after drinking (Ars; Verat).",
+    "Aches from fasting. Vertigo from looking up; better, wrapping up warmly; when lying on left side (Magnes mur; Strontia). Profuse sweat of head, offensive, and extends to neck. Pain begins at occiput, and spreads over head and settles over eyes. Swelling in the glabella.",
+    "Colds fail to yield; sputum persistently muco-purulent and profuse. Slow recovery after pneumonia. Cough and sore throat, with expectoration of little granules like shot, which, when broken, smell very offensive. Cough with expectoration in day, bloody or purulent. Stitches in chest through to back. Violent cough when lying down, with thick, yellow lumpy expectoration; suppurative stage of expectoration (Bals. Peru)."
+  ],
+  "modalities": {
+    "worse": [
+      "new moon, in morning, from washing, during menses, uncovering, lying down, damp, lying on, left side, cold"
+    ],
+    "better": [
+      "warmth, wrapping up head, summer",
+      "in wet or humid weather"
+    ]
+  },
+  "mind_symptoms": [
+    "Yielding, faint-hearted, anxious. Nervous and excitable. Sensitive to all impressions. Brain-fag. Obstinate, headstrong children. Abstracted. Fixed ideas; thinks only of pins, fears them, searches and counts them."
+  ],
+  "head_symptoms": [
+    "Aches from fasting. Vertigo from looking up; better, wrapping up warmly; when lying on left side (Magnes mur; Strontia). Profuse sweat of head, offensive, and extends to neck. Pain begins at occiput, and spreads over head and settles over eyes. Swelling in the glabella."
+  ],
+  "respiratory_symptoms": [
+    "Colds fail to yield; sputum persistently muco-purulent and profuse. Slow recovery after pneumonia. Cough and sore throat, with expectoration of little granules like shot, which, when broken, smell very offensive. Cough with expectoration in day, bloody or purulent. Stitches in chest through to back. Violent cough when lying down, with thick, yellow lumpy expectoration; suppurative stage of expectoration (Bals. Peru)."
+  ],
+  "gi_symptoms": [
+    "Disgust for meat and warm food. On swallowing food, it easily gets into posterior nares. Want of appetite; thirst excessive. Sour eructations after eating (Sepia; Calc). Pit of stomach painful to pressure. Vomiting after drinking (Ars; Verat)."
+  ],
+  "urinary_symptoms": [
+    "Bloody, involuntary, with red or yellow sediment. Prostatic fluid discharged when straining at stool. Nocturnal enuresis in children with worms."
+  ],
+  "musculoskeletal_symptoms": [
+    "Sciatica, pains through hips, legs and feet. Cramp in calves and soles. Loss of power in legs. Tremulous hands when using them. Paralytic weakness of forearm. Affections of finger nails, especially if white spots on nails. Ingrowing toe-nails. Icy cold and sweaty feet. The parts lain on go to sleep. Offensive sweat on feet, hands, and axillæ. Sensation in tips of fingers, as if suppurating. Panaritium. Pain in knee, as if tightly bound. Calves tense and contracted. Pain beneath toes. Soles sore (Ruta). Soreness in feet from instep through to the sole. Suppurates."
+  ],
+  "skin_symptoms": [
+    "Felons, abscesses, boils, old fistulous ulcers. Delicate, pale, waxy. Cracks at end of fingers. Painless swelling of glands. Rose-colored blotches. Scars suddenly become painful. Pus offensive. Promotes expulsion of foreign bodies from tissues. Every little injury suppurates. Long lasting suppuration and fistulous tracts. Dry finger tips. Eruptions itch only in daytime and evening. Crippled nails. Indurated tumors. Abscesses of joints. After impure vaccination. Bursa. Lepra, nodes, and coppery spots. Keloid growths."
+  ],
+  "sleep_symptoms": [
+    "Night-walking; gets up while asleep. Sleeplessness, with great orgasm of blood and heat in head. Frequent starts in sleep. Anxious dreams. Excessive gaping."
+  ],
+  "fever_symptoms": [
+    "Chilliness; very sensitive to cold air. Creeping, shivering over the whole body. Cold extremities, even in a warm room. Sweat at night; worse towards morning. Suffering parts feel cold."
+  ],
+  "complementary_remedies": [
+    "Black Gunpowder 3x (Abscesses",
+    "boils",
+    "carbuncles",
+    "limb purple"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/s/sil.htm",
+    "title": "SILICEA TERRA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:07:03.524Z"
+  },
+  "confidence_score": 0.8
+}

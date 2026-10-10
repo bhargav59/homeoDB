@@ -1,0 +1,24 @@
+{
+  "remedy_name": "CARDUUS MARIANUS",
+  "source_file": "raw_1772500480725.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/c/card-m.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Card benedictus (strong action on eyes",
+      "stomach symptoms similar)",
+      "Chelidon",
+      "Chionanthes",
+      "Merc",
+      "Podophyl",
+      "Bry",
+      "Aloe"
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "parsed_at": "2026-03-03T15:23:37.414Z"
+}

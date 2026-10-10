@@ -1,0 +1,22 @@
+{
+  "remedy_name": "CEDRON",
+  "source_file": "raw_1772500601165.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/c/cedr.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      "Lach"
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Ars",
+      "China"
+    ],
+    "incompatible": [],
+    "antidotes": [
+      "Lach"
+    ]
+  },
+  "parsed_at": "2026-03-03T15:23:37.420Z"
+}

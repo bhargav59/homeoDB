@@ -1,0 +1,21 @@
+{
+  "remedy_name": "SANICULA AQUA",
+  "source_file": "raw_1772504720443.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/s/sanic.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Abrot",
+      "Alum",
+      "Calc",
+      "Sil",
+      "Sulph"
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "parsed_at": "2026-03-03T15:23:37.722Z"
+}

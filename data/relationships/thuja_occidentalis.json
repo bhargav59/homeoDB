@@ -1,0 +1,28 @@
+{
+  "remedy_name": "THUJA OCCIDENTALIS",
+  "source_file": "raw_1772505421955.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/t/thuj.htm",
+  "relationships": {
+    "complementary": [
+      "Sabina"
+    ],
+    "antidoted_by": [
+      "Merc"
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "(Hydrogenoid constitution: Calcar",
+      "Silica",
+      "Nat sulph",
+      "Aranea",
+      "Apis",
+      "Pulsat)"
+    ],
+    "incompatible": [],
+    "antidotes": [
+      "Merc"
+    ]
+  },
+  "parsed_at": "2026-03-03T15:23:37.757Z"
+}

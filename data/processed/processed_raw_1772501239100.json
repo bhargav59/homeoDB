@@ -1,0 +1,55 @@
+{
+  "name": "CUPRUM ARSENICOSUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Arsenite of Copper-Scheele's Green"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Cardiac rhythm and force altered due to defective elimination.",
+    "Cramps in calves of legs, worse after midnight, only relieved by getting out of bed and standing. Ulcers; gangrene.",
+    "Persistent lameness. Pain in lumbar region and in lower left shoulder-blade; chest feels tight."
+  ],
+  "guiding_symptoms": [
+    "Cardiac rhythm and force altered due to defective elimination.",
+    "Cramps in calves of legs, worse after midnight, only relieved by getting out of bed and standing. Ulcers; gangrene.",
+    "Persistent lameness. Pain in lumbar region and in lower left shoulder-blade; chest feels tight."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Tongue thickly coated, dirty brown, white, metallic taste; thirst. Dry mouth."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "Gastro-enteritis. Violent abdominal pain. Diarrhśa in phthisis. Cholera (Ars; Verat; Camph). Rumbling and sharp cutting pain. Dark liquid stools."
+  ],
+  "urinary_symptoms": [
+    "Renal inefficiency and urćmia. Garlicky odor. Diabetes. Urine of high specific gravity; increased, acetones and diacetic acid."
+  ],
+  "musculoskeletal_symptoms": [
+    "Cramps in calves of legs, worse after midnight, only relieved by getting out of bed and standing. Ulcers; gangrene."
+  ],
+  "skin_symptoms": [
+    "Icy cold. Sweat, and skin even when dry. Cold, clammy perspiration of an intermittent nature. Acne, pustules on face and in the cruro-genital region; ulcers look like chancre. Gangrene; carbuncles."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/c/cupr-ar.htm",
+    "title": "CUPRUM ARSENICOSUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:27:19.100Z"
+  },
+  "confidence_score": 0.74
+}

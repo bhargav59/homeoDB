@@ -1,0 +1,57 @@
+{
+  "name": "RUMEX CRISPUS",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Yellow Dock"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Tongue sore at edges; coated; sensation of hard substance in pit of stomach; hiccough, pyrosis, nausea; cannot eat meat; it causes eructations, pruritus. Jaundice after excessive use of alcoholics. Chronic gastritis; aching pain in pit of stomach and shooting in the chest; extends towards the throat-pit, worse any motion or talking. Pain in left breast after meals; flatulence.",
+    "Nose dry. Tickling in throat-pit causes cough. Copious mucous discharge from nose and trachea. Dry, teasing cough, preventing sleep. Aggravated by pressure, talking, and especially by inspiring cool air and at night. Thin, watery, frothy expectoration by the mouthful: later, stringy and tough. Rawness of larynx and trachea. Soreness behind sternum, especially left side, in region of left shoulder. Raw pain under clavicle. Lump in throat."
+  ],
+  "guiding_symptoms": [
+    "Tongue sore at edges; coated; sensation of hard substance in pit of stomach; hiccough, pyrosis, nausea; cannot eat meat; it causes eructations, pruritus. Jaundice after excessive use of alcoholics. Chronic gastritis; aching pain in pit of stomach and shooting in the chest; extends towards the throat-pit, worse any motion or talking. Pain in left breast after meals; flatulence.",
+    "Nose dry. Tickling in throat-pit causes cough. Copious mucous discharge from nose and trachea. Dry, teasing cough, preventing sleep. Aggravated by pressure, talking, and especially by inspiring cool air and at night. Thin, watery, frothy expectoration by the mouthful: later, stringy and tough. Rawness of larynx and trachea. Soreness behind sternum, especially left side, in region of left shoulder. Raw pain under clavicle. Lump in throat."
+  ],
+  "modalities": {
+    "worse": [
+      "in evening, from inhaling cold air",
+      "left chest",
+      "uncovering"
+    ],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [],
+  "respiratory_symptoms": [
+    "Nose dry. Tickling in throat-pit causes cough. Copious mucous discharge from nose and trachea. Dry, teasing cough, preventing sleep. Aggravated by pressure, talking, and especially by inspiring cool air and at night. Thin, watery, frothy expectoration by the mouthful: later, stringy and tough. Rawness of larynx and trachea. Soreness behind sternum, especially left side, in region of left shoulder. Raw pain under clavicle. Lump in throat."
+  ],
+  "gi_symptoms": [
+    "Tongue sore at edges; coated; sensation of hard substance in pit of stomach; hiccough, pyrosis, nausea; cannot eat meat; it causes eructations, pruritus. Jaundice after excessive use of alcoholics. Chronic gastritis; aching pain in pit of stomach and shooting in the chest; extends towards the throat-pit, worse any motion or talking. Pain in left breast after meals; flatulence."
+  ],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [
+    "Intense itching of skin, especially of lower extremities; worse, exposure to cold air when undressing. Urticaria; contagious prurigo."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Caust",
+    "Sulph",
+    "Bell"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/r/rumx.htm",
+    "title": "RUMEX CRISPUS - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:06:48.403Z"
+  },
+  "confidence_score": 0.62
+}

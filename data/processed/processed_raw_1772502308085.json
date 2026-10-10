@@ -1,0 +1,52 @@
+{
+  "name": "ICTODES FOETIDA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Skunk-cabbage-Ictodes"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Absent-minded, irritable. Headache in single spots, with violent pulsation of temporal arteries. Outward drawing from glabella. Better in open air (Puls). Red swelling across the bridge of the nose.",
+    "Spasmodic croup. Troublesome respiration, with sudden feeling of anguish and sweat.",
+    "Sneezing, with pain in throat. Pain in chest, with difficult breathing. Tongue feels numb. Asthma; relieved by stool."
+  ],
+  "guiding_symptoms": [
+    "Absent-minded, irritable. Headache in single spots, with violent pulsation of temporal arteries. Outward drawing from glabella. Better in open air (Puls). Red swelling across the bridge of the nose.",
+    "Spasmodic croup. Troublesome respiration, with sudden feeling of anguish and sweat.",
+    "Sneezing, with pain in throat. Pain in chest, with difficult breathing. Tongue feels numb. Asthma; relieved by stool."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Absent-minded, irritable. Headache in single spots, with violent pulsation of temporal arteries. Outward drawing from glabella. Better in open air (Puls). Red swelling across the bridge of the nose."
+  ],
+  "respiratory_symptoms": [
+    "Spasmodic croup. Troublesome respiration, with sudden feeling of anguish and sweat.",
+    "Sneezing, with pain in throat. Pain in chest, with difficult breathing. Tongue feels numb. Asthma; relieved by stool."
+  ],
+  "gi_symptoms": [
+    "Inflation and tension in abdomen."
+  ],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/i/ictod.htm",
+    "title": "ICTODES FOETIDA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:45:08.085Z"
+  },
+  "confidence_score": 0.44
+}

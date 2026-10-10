@@ -1,0 +1,59 @@
+{
+  "name": "COCAINUM HYDROCHLORICUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "An Alkaloid from Erythroxylon Coca"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Loss of appetite for solid food. Likes sweets. Hćmorrhages from bowels, stomach.",
+    "Nervous System.--Chorea; paralysis agitans; alcoholic tremors and senile trembling. Local sensory paralysis. Formication and numbness in hands and forearms.",
+    "Throbbing and bursting sensation. Pupils dilated. Hearing greatly increased. Roaring and noises in head."
+  ],
+  "guiding_symptoms": [
+    "Loss of appetite for solid food. Likes sweets. Hćmorrhages from bowels, stomach.",
+    "Nervous System.--Chorea; paralysis agitans; alcoholic tremors and senile trembling. Local sensory paralysis. Formication and numbness in hands and forearms.",
+    "Throbbing and bursting sensation. Pupils dilated. Hearing greatly increased. Roaring and noises in head."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [
+    "Talkative. Constant desire to do something great, to undertake vast feats of strength. Cerebral activity. Frightful persecutory hallucinations; sees and feels bugs and worms. Moral sense blunted. Personal appearance neglected. Thinks he hears unpleasant remarks about himself. Hallucinations of hearing. Irrational jealousy. Insomnia."
+  ],
+  "head_symptoms": [
+    "Throbbing and bursting sensation. Pupils dilated. Hearing greatly increased. Roaring and noises in head."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "Loss of appetite for solid food. Likes sweets. Hćmorrhages from bowels, stomach.",
+    "Nervous System.--Chorea; paralysis agitans; alcoholic tremors and senile trembling. Local sensory paralysis. Formication and numbness in hands and forearms."
+  ],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [],
+  "sleep_symptoms": [
+    "Restless, cannot sleep for hours after retiring."
+  ],
+  "fever_symptoms": [
+    "Coldness with intense pallor."
+  ],
+  "complementary_remedies": [
+    "Stovain (an analgesic",
+    "a vasomotor dilator"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/c/cocain.htm",
+    "title": "COCAINUM HYDROCHLORICUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:22:25.314Z"
+  },
+  "confidence_score": 0.74
+}

@@ -1,0 +1,21 @@
+{
+  "remedy_name": "JABORANDI",
+  "source_file": "raw_1772502437406.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/j/jab.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Amyl nit",
+      "Atrop",
+      "Physos",
+      "Lycop",
+      "Ruta"
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "parsed_at": "2026-03-03T15:23:37.502Z"
+}

@@ -1,0 +1,19 @@
+{
+  "remedy_number": "R2",
+  "remedy_name": "Gold Drops",
+  "ingredients": [
+    "Aconitum D6",
+    "Arnica D3",
+    "Aurum chloratum D6",
+    "Cactus D4",
+    "Crataegus Q",
+    "Digitalis D3",
+    "Ignatia D6",
+    "Kalium phosphoricum D4",
+    "Laurocerasus D3",
+    "Spigelia D3",
+    "Valeriana D2"
+  ],
+  "source": "Compiled from reckeweg-india.com, 1mg.com, medikosh.com references",
+  "parsed_at": "2026-03-03T15:30:15.506Z"
+}

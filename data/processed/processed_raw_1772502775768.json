@@ -1,0 +1,64 @@
+{
+  "name": "LACTUCA VIROSA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Acrid Lettuce"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Difficult breathing. Suffocative breathing from dropsy of the chest. Constant tickling cough. Incessant, spasmodic cough, as if chest would fly to pieces. Squeezing sensation in lower chest.",
+    "Dull, heavy, confused, dizzy. Heat of face and headache, with general coldness. Headache, with affections of respiratory organs.",
+    "Lame hip down left side; worse walking. Coldness and numbness of feet and legs. Tremor of hands and arms. Cramps in shin bones, extending to toes and side of leg involving calves."
+  ],
+  "guiding_symptoms": [
+    "Difficult breathing. Suffocative breathing from dropsy of the chest. Constant tickling cough. Incessant, spasmodic cough, as if chest would fly to pieces. Squeezing sensation in lower chest.",
+    "Dull, heavy, confused, dizzy. Heat of face and headache, with general coldness. Headache, with affections of respiratory organs.",
+    "Lame hip down left side; worse walking. Coldness and numbness of feet and legs. Tremor of hands and arms. Cramps in shin bones, extending to toes and side of leg involving calves."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [
+    "Stupefaction of sense. Great restlessness."
+  ],
+  "head_symptoms": [
+    "Dull, heavy, confused, dizzy. Heat of face and headache, with general coldness. Headache, with affections of respiratory organs."
+  ],
+  "respiratory_symptoms": [
+    "Difficult breathing. Suffocative breathing from dropsy of the chest. Constant tickling cough. Incessant, spasmodic cough, as if chest would fly to pieces. Squeezing sensation in lower chest."
+  ],
+  "gi_symptoms": [
+    "Sensation of weight, of fullness; borborygmi; abundant emission of wind. Colic in early morning, abdomen tense, relieved somewhat by evacuation and passing of wind."
+  ],
+  "urinary_symptoms": [
+    "Promotes catamenia. Increase of milk in breasts (Asafoet)."
+  ],
+  "musculoskeletal_symptoms": [
+    "Lame hip down left side; worse walking. Coldness and numbness of feet and legs. Tremor of hands and arms. Cramps in shin bones, extending to toes and side of leg involving calves."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [
+    "Restless; impossible to get to sleep. Deep, comatose sleep."
+  ],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "similar to Lactuca",
+    "(chronic diarrhśa",
+    "worse after eating",
+    "nights and towards morning"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/l/lact-v.htm",
+    "title": "LACTUCA VIROSA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:52:55.768Z"
+  },
+  "confidence_score": 0.74
+}

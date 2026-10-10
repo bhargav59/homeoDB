@@ -1,0 +1,33 @@
+{
+  "remedy_name": "OPIUM",
+  "source_file": "raw_1772503570635_w1.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/o/op.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      "Acute Opium poisoning"
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Apis",
+      "Bell",
+      "Gels",
+      "Nux mosch",
+      "twitching",
+      "tympanities",
+      "much itching)",
+      "Codein (dry",
+      "teasing",
+      "incessant cough",
+      "twitching of muscles",
+      "especially those of eyelids)",
+      "Eschscholtzia-Cal California Poppy--"
+    ],
+    "incompatible": [],
+    "antidotes": [
+      "Acute Opium poisoning"
+    ]
+  },
+  "parsed_at": "2026-03-03T15:23:37.571Z"
+}

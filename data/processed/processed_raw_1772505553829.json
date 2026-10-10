@@ -1,0 +1,46 @@
+{
+  "name": "TRITICUM REPENS",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "TRITICUM REPENS-AGROPYRON REPENS"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [],
+  "guiding_symptoms": [],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Always blowing nose."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [],
+  "urinary_symptoms": [
+    "Frequent, difficult, and painful urination (Pop). Gravelly deposits. Catarrhal and purulent discharges (Pareira). Strangury, pyelitis; enlarged prostate. Chronic cystic irritability. Incontinence; constant desire. Urine is dense and causes irritation of the mucous surfaces."
+  ],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Tradescantia",
+    "painful urination",
+    "urethral discharge",
+    "scrotum inflamed"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/t/tritic.htm",
+    "title": "TRITICUM REPENS-AGROPYRON REPENS - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:39:13.829Z"
+  },
+  "confidence_score": 0.44
+}

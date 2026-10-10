@@ -1,0 +1,125 @@
+{
+  "remedy_name": "SPIGELIA ANTHELMIA",
+  "source_file": "raw_1772504968280.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      {
+        "original": "Pulsat",
+        "resolved_name": "PULSATILLA",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      }
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "paroxysmal laughing and crying",
+        "resolved_name": "X",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "loud",
+        "resolved_name": "LEDUM",
+        "confidence": 0.7,
+        "method": "levenshtein_2"
+      },
+      {
+        "original": "disconnected talking",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "vertigo",
+        "resolved_name": "Dr. Reckeweg R29, Homeopathic Remedy For Syncope, Homeopathy Vertigo Treatment, Homeopathic Medicine For Syncope",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "dilated pupils",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "congestions)",
+        "resolved_name": "CONIUM MACULATUM",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      },
+      {
+        "original": "Acon",
+        "resolved_name": "ACONITUM NAPELLUS",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      },
+      {
+        "original": "Cact",
+        "resolved_name": "CACTUS GRANDIFLORUS",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Cimicif",
+        "resolved_name": "CIMICIFUGA RACEMOSA",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      },
+      {
+        "original": "Arnica",
+        "resolved_name": "ARNICA MONTANA",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Cinnab",
+        "resolved_name": "CINNABARIS",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Naja",
+        "resolved_name": "NAJA TRIPUDIANS",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Spong",
+        "resolved_name": "SPONGIA TOSTA",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      },
+      {
+        "original": "Sabad",
+        "resolved_name": "SABADILLA",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      },
+      {
+        "original": "Teucr",
+        "resolved_name": "TEUCRIUM MARUM VERUM",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Cina",
+        "resolved_name": "CINA MARITIMA",
+        "confidence": 1,
+        "method": "exact"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": [
+      {
+        "original": "Pulsat",
+        "resolved_name": "PULSATILLA",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      }
+    ]
+  },
+  "resolved_at": "2026-03-11T01:50:11.278Z"
+}

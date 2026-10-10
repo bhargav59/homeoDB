@@ -1,0 +1,55 @@
+{
+  "name": "ASPARAGUS OFFICINALIS",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Common Garden Asparagus"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Confused. Coryza, with profuse, thin fluid. Aching in forehead and root of nose. Migrainious morning headache with scotoma. Throat feels rough, with hawking copious tenacious mucus throat.",
+    "Urine.--Frequent, with fine stitches in orifice of urethra; burning; of peculiar odor. Cystitis, with pus, mucus and tenesmus. Lithiasis.",
+    "Palpitation, with oppression of chest. Pulse intermits, weak, pain about left shoulder and heart, associated with bladder disturbances. Great oppression in breathing. Hydrothorax.",
+    "Rheumatic pain in back, especially near shoulder and limbs. Pain at acromion process of left scapula under clavicle and down arm, with feeble pulse."
+  ],
+  "guiding_symptoms": [
+    "Confused. Coryza, with profuse, thin fluid. Aching in forehead and root of nose. Migrainious morning headache with scotoma. Throat feels rough, with hawking copious tenacious mucus throat.",
+    "Urine.--Frequent, with fine stitches in orifice of urethra; burning; of peculiar odor. Cystitis, with pus, mucus and tenesmus. Lithiasis.",
+    "Palpitation, with oppression of chest. Pulse intermits, weak, pain about left shoulder and heart, associated with bladder disturbances. Great oppression in breathing. Hydrothorax."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Confused. Coryza, with profuse, thin fluid. Aching in forehead and root of nose. Migrainious morning headache with scotoma. Throat feels rough, with hawking copious tenacious mucus throat.",
+    "Urine.--Frequent, with fine stitches in orifice of urethra; burning; of peculiar odor. Cystitis, with pus, mucus and tenesmus. Lithiasis."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [
+    "Rheumatic pain in back, especially near shoulder and limbs. Pain at acromion process of left scapula under clavicle and down arm, with feeble pulse."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Althae-Marshmallow--(contains asparagin",
+    "irritable bladder",
+    "throat and bronchi"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/a/aspar.htm",
+    "title": "ASPARAGUS OFFICINALIS - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-02T06:36:42.756Z"
+  },
+  "confidence_score": 0.5
+}

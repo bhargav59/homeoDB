@@ -1,0 +1,58 @@
+{
+  "name": "TANACETUM VULGARE",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Tansy"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Heavy, dull, confused. Headache with least exertion.",
+    "Mental.--Irritable, sensitive to noise. Mental fatigue, nausea and vertigo, worse in a closed room.",
+    "Hurried, labored, stertorous respiration. Frothy mucus obstructs the air-passages."
+  ],
+  "guiding_symptoms": [
+    "Heavy, dull, confused. Headache with least exertion.",
+    "Mental.--Irritable, sensitive to noise. Mental fatigue, nausea and vertigo, worse in a closed room.",
+    "Hurried, labored, stertorous respiration. Frothy mucus obstructs the air-passages."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Heavy, dull, confused. Headache with least exertion.",
+    "Mental.--Irritable, sensitive to noise. Mental fatigue, nausea and vertigo, worse in a closed room."
+  ],
+  "respiratory_symptoms": [
+    "Hurried, labored, stertorous respiration. Frothy mucus obstructs the air-passages."
+  ],
+  "gi_symptoms": [
+    "Pain in bowels; relieved by stool. Desire for stool immediately after eating. Dysentery."
+  ],
+  "urinary_symptoms": [
+    "Dysmenorrhśa, with bearing-down pains, tenderness, drawing in groins. Menses suppressed; later, profuse."
+  ],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Cimicif",
+    "Cina",
+    "Absinth"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/t/tanac.htm",
+    "title": "TANACETUM VULGARE - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:34:29.790Z"
+  },
+  "confidence_score": 0.62
+}

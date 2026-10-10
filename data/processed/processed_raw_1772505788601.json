@@ -1,0 +1,61 @@
+{
+  "name": "VIOLA ODORATA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Violet"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Burning of the forehead. Vertigo; everything in head seems to whirl around. Heaviness of head, with sensation of weakness in muscles of nape of neck. Scalp tense; must knit the brows. Tendency to pain immediately above eyebrows. Throbbing under eye and temple. Headache across the forehead. Acts upon frontal sinuses. Hysterical attacks in tuberculous patients.",
+    "Torpor in the end of nose, as from a blow. Dry, short, spasmodic cough and dyspnœa; worse in daytime. Oppression of chest. Pertussis, with hoarseness. Dyspnœa during pregnancy. Difficult breathing, anxiety and palpitation, with hysteria.",
+    "Rheumatism of the deltoid muscle. Trembling of limbs. Pressing pain in right carpal and metacarpal joints. (Ulmus)."
+  ],
+  "guiding_symptoms": [
+    "Burning of the forehead. Vertigo; everything in head seems to whirl around. Heaviness of head, with sensation of weakness in muscles of nape of neck. Scalp tense; must knit the brows. Tendency to pain immediately above eyebrows. Throbbing under eye and temple. Headache across the forehead. Acts upon frontal sinuses. Hysterical attacks in tuberculous patients.",
+    "Torpor in the end of nose, as from a blow. Dry, short, spasmodic cough and dyspnœa; worse in daytime. Oppression of chest. Pertussis, with hoarseness. Dyspnœa during pregnancy. Difficult breathing, anxiety and palpitation, with hysteria.",
+    "Rheumatism of the deltoid muscle. Trembling of limbs. Pressing pain in right carpal and metacarpal joints. (Ulmus)."
+  ],
+  "modalities": {
+    "worse": [
+      "cool air"
+    ],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Burning of the forehead. Vertigo; everything in head seems to whirl around. Heaviness of head, with sensation of weakness in muscles of nape of neck. Scalp tense; must knit the brows. Tendency to pain immediately above eyebrows. Throbbing under eye and temple. Headache across the forehead. Acts upon frontal sinuses. Hysterical attacks in tuberculous patients."
+  ],
+  "respiratory_symptoms": [
+    "Torpor in the end of nose, as from a blow. Dry, short, spasmodic cough and dyspnœa; worse in daytime. Oppression of chest. Pertussis, with hoarseness. Dyspnœa during pregnancy. Difficult breathing, anxiety and palpitation, with hysteria."
+  ],
+  "gi_symptoms": [],
+  "urinary_symptoms": [
+    "Milky urine; smells strong. Enuresis in nervous children."
+  ],
+  "musculoskeletal_symptoms": [
+    "Rheumatism of the deltoid muscle. Trembling of limbs. Pressing pain in right carpal and metacarpal joints. (Ulmus)."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Ulmus (formication in feet",
+    "numb",
+    "creeping pain in legs and feet",
+    "rheumatic pains above wrists",
+    "numbness"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/v/viol-o.htm",
+    "title": "VIOLA ODORATA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:43:08.601Z"
+  },
+  "confidence_score": 0.74
+}

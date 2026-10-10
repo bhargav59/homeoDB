@@ -1,0 +1,33 @@
+{
+  "remedy_name": "SEMPERVIVUM TECTORUM",
+  "source_file": "raw_1772504840179.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "ulcers",
+        "resolved_name": "Ulmus Fulva.",
+        "confidence": 0.55,
+        "method": "levenshtein_3"
+      },
+      {
+        "original": "intermittent fever) (Galium",
+        "resolved_name": "GALIUM APARINE",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Kali cyanat)",
+        "resolved_name": "KALI CARBONICUM",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:11.180Z"
+}

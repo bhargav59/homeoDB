@@ -1,0 +1,54 @@
+{
+  "name": "LATRODECTUS MACTANS",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Spider"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Violent, præcordial pain extending to the axilla and down the arm and forearm to fingers, with numbness of the extremity. Pulse feeble and rapid. Sinking sensation at the Cramping pain from chest to abdomen.",
+    "Anxiety. Screams with pain. Pain in neck to back of head. Occipital pain.",
+    "Extreme apnœa. Gasping respiration. Fears losing breath.",
+    "Pain in left arm, feels paralyzed. Weakness of legs followed by cramps in the abdominal muscles. Paræsthesia of lower limbs."
+  ],
+  "guiding_symptoms": [
+    "Violent, præcordial pain extending to the axilla and down the arm and forearm to fingers, with numbness of the extremity. Pulse feeble and rapid. Sinking sensation at the Cramping pain from chest to abdomen.",
+    "Anxiety. Screams with pain. Pain in neck to back of head. Occipital pain.",
+    "Extreme apnœa. Gasping respiration. Fears losing breath."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Anxiety. Screams with pain. Pain in neck to back of head. Occipital pain."
+  ],
+  "respiratory_symptoms": [
+    "Extreme apnœa. Gasping respiration. Fears losing breath."
+  ],
+  "gi_symptoms": [],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [
+    "Pain in left arm, feels paralyzed. Weakness of legs followed by cramps in the abdominal muscles. Paræsthesia of lower limbs."
+  ],
+  "skin_symptoms": [
+    "Coldness of whole surface. Skin cold as marble."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/l/lat-m.htm",
+    "title": "LATRODECTUS MACTANS - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:53:36.983Z"
+  },
+  "confidence_score": 0.62
+}

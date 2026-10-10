@@ -1,0 +1,24 @@
+{
+  "remedy_name": "ANTHRACINUM",
+  "source_file": "raw_1772433004393.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/a/anthraci.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [
+      "In the treatment of carbuncles"
+    ],
+    "inimical": [],
+    "compare": [
+      "Pyrogen",
+      "Lachesis",
+      "Crotalus",
+      "Hippozoen",
+      "Echinac",
+      "Silica follows well"
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "parsed_at": "2026-03-03T15:23:37.349Z"
+}

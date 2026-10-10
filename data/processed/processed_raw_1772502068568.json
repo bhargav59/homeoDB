@@ -1,0 +1,57 @@
+{
+  "name": "HAEMATOXYLON CAMPECHIANUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Logwood"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Painful digging from abdomen to throat, causing pain in region of heart with oppression. Colic, tympanitis. Borborygmi and diarrhœa. Swollen, painful.",
+    "Constriction, extending to epigastrium. Sensation of a bar across chest. Convulsive pain in heart region with oppression. Great soreness in region of heart. Palpitation.",
+    "Feels constricted; heavy, hot. Eyelids heavy."
+  ],
+  "guiding_symptoms": [
+    "Painful digging from abdomen to throat, causing pain in region of heart with oppression. Colic, tympanitis. Borborygmi and diarrhœa. Swollen, painful.",
+    "Constriction, extending to epigastrium. Sensation of a bar across chest. Convulsive pain in heart region with oppression. Great soreness in region of heart. Palpitation.",
+    "Feels constricted; heavy, hot. Eyelids heavy."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Feels constricted; heavy, hot. Eyelids heavy."
+  ],
+  "respiratory_symptoms": [
+    "Constriction, extending to epigastrium. Sensation of a bar across chest. Convulsive pain in heart region with oppression. Great soreness in region of heart. Palpitation."
+  ],
+  "gi_symptoms": [
+    "Painful digging from abdomen to throat, causing pain in region of heart with oppression. Colic, tympanitis. Borborygmi and diarrhœa. Swollen, painful."
+  ],
+  "urinary_symptoms": [
+    "Pain in hypogastrium, attended with slimy, whitish leucorrhœa. Weak feeling, with painful bearing down sensation at menstrual period."
+  ],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Cactus",
+    "Colocy",
+    "Naja"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/h/haem.htm",
+    "title": "HAEMATOXYLON CAMPECHIANUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:41:08.568Z"
+  },
+  "confidence_score": 0.56
+}

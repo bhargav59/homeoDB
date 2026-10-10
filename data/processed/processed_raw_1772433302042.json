@@ -1,0 +1,51 @@
+{
+  "name": "ARTEMISIA VULGARIS",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Mugwort"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Drawn back by spasmodic twitchings. Mouth drawn to left. Congestion of brain."
+  ],
+  "guiding_symptoms": [
+    "Drawn back by spasmodic twitchings. Mouth drawn to left. Congestion of brain."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Drawn back by spasmodic twitchings. Mouth drawn to left. Congestion of brain."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [],
+  "urinary_symptoms": [
+    "Profuse menses. Violent uterine contractions. Spasms during menses."
+  ],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [
+    "Profuse sweat, smelling like garlic."
+  ],
+  "complementary_remedies": [
+    "Absinth",
+    "Cina",
+    "Cicuta"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/a/art-v.htm",
+    "title": "ARTEMISIA VULGARIS - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-02T06:35:02.042Z"
+  },
+  "confidence_score": 0.56
+}

@@ -1,0 +1,62 @@
+{
+  "name": "BOVISTA LYCOPERDON",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Puff-Ball"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Sensation as of a lump of ice. Intolerant of tight clothing around waist.",
+    "Sensation as if head were enlarging, especially of occiput. Distensive headache; worse early morning, open air, lying. Discharge from nose stringy, tough. Dull, bruised pain in brain. Stammering (Stram; Merc). Scalp itches; worse, warmth; sensitive; must scratch until sore.",
+    "Great weakness of all joints; clumsiness with her hands, drops things from hands. Weariness of hands and feet. Sweat in axillć; onion smell. Tip of coccyx itches intolerably. Moist eczema on back of hand. Itching of feet and legs. Śdema in joints after fracture."
+  ],
+  "guiding_symptoms": [
+    "Sensation as of a lump of ice. Intolerant of tight clothing around waist.",
+    "Sensation as if head were enlarging, especially of occiput. Distensive headache; worse early morning, open air, lying. Discharge from nose stringy, tough. Dull, bruised pain in brain. Stammering (Stram; Merc). Scalp itches; worse, warmth; sensitive; must scratch until sore.",
+    "Great weakness of all joints; clumsiness with her hands, drops things from hands. Weariness of hands and feet. Sweat in axillć; onion smell. Tip of coccyx itches intolerably. Moist eczema on back of hand. Itching of feet and legs. Śdema in joints after fracture."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [
+    "Enlarged sensation (Arg n). Awkward; everything falls from hands. Sensitive."
+  ],
+  "head_symptoms": [
+    "Sensation as if head were enlarging, especially of occiput. Distensive headache; worse early morning, open air, lying. Discharge from nose stringy, tough. Dull, bruised pain in brain. Stammering (Stram; Merc). Scalp itches; worse, warmth; sensitive; must scratch until sore."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "Sensation as of a lump of ice. Intolerant of tight clothing around waist."
+  ],
+  "urinary_symptoms": [
+    "Diarrhśa before and during menses. Menses too early and profuse; worse at night. Voluptuous sensation. Leucorrhśa acrid, thick, tough, greenish, follows menses. Cannot bear tight clothing around waist (Lach). Traces of menses between menstruation. Soreness of pubes during menses. Metrorrhagia; Parovarian cysts."
+  ],
+  "musculoskeletal_symptoms": [
+    "Great weakness of all joints; clumsiness with her hands, drops things from hands. Weariness of hands and feet. Sweat in axillć; onion smell. Tip of coccyx itches intolerably. Moist eczema on back of hand. Itching of feet and legs. Śdema in joints after fracture."
+  ],
+  "skin_symptoms": [
+    "Blunt instrument leave deep impression on the skin. Urticaria on excitement, with rheumatic lameness, palpitation and diarrhśa (Dulc). Itching on getting warm. Eczema, moist; formation of thick crusts. Pimples cover the entire body; scurvy; herpetic eruptions. Pruritus ani. Urticaria on waking in the morning, worse from bathing. Pellagra."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Calc",
+    "Rhus",
+    "Sepia",
+    "Cicuta"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/b/bov.htm",
+    "title": "BOVISTA LYCOPERDON - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:08:22.447Z"
+  },
+  "confidence_score": 0.8
+}

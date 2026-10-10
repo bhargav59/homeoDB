@@ -1,0 +1,23 @@
+{
+  "name": "Coryza",
+  "url": "https://www.wheezalstore.com/product/29687079/Coryza",
+  "collection_id": "bio_combination",
+  "title": "Coryza",
+  "price": "₹99",
+  "description": "",
+  "image": "",
+  "scraped_at": "2026-03-26T05:28:06.038Z",
+  "composition": [
+    "Ferrum Phos. 3x",
+    "Kali Mur. 3x",
+    "Nat. Mur. 3x",
+    "Kali Sulph. 3x"
+  ],
+  "indications": [
+    "Sneezing",
+    "Nasal discharge",
+    "Sore throat",
+    "Headache"
+  ],
+  "bc_number": "BC-5"
+}

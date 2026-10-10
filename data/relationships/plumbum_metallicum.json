@@ -1,0 +1,28 @@
+{
+  "remedy_name": "PLUMBUM METALLICUM",
+  "source_file": "raw_1772504246520.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/p/plb.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      "Plat"
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "locally",
+      "as an application  in moist eczema",
+      "Alumina",
+      "Plat",
+      "Opium",
+      "Podoph",
+      "Merc",
+      "Thall"
+    ],
+    "incompatible": [],
+    "antidotes": [
+      "Plat"
+    ]
+  },
+  "parsed_at": "2026-03-03T15:23:37.701Z"
+}

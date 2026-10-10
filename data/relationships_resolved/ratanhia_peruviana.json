@@ -1,0 +1,75 @@
+{
+  "remedy_name": "RATANHIA PERUVIANA",
+  "source_file": "raw_1772504473857.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Paeon",
+        "resolved_name": "PAEONIA OFFICINALIS",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Croton",
+        "resolved_name": "CROTON TIGLIUM",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Sanguin nit",
+        "resolved_name": "SANGUINARIA",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      },
+      {
+        "original": "Macuna prurens-Dolichos-piles",
+        "resolved_name": "DOLICHOS PRURIENS",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "with burning",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "hæmorrhoidal diathesis",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "Silico-sulphocalcite of Alumina",
+        "resolved_name": "SILICEA",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      },
+      {
+        "original": "piles",
+        "resolved_name": "Dr. Reckeweg R13, Homeopathy Medicine For Piles, Buy Piles Homeopathic Medicines, Homeopathic Treatment For Piles in India",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "and constipation",
+        "resolved_name": "CONIUM MACULATUM",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      },
+      {
+        "original": "housemaid's knee)",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:10.977Z"
+}

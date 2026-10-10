@@ -1,0 +1,65 @@
+{
+  "name": "SABINA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Savine"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Heartburn. Desire for lemonade. Bitter taste (Rhus). Lancinating pain from pit of stomach across back.",
+    "Vertigo with suppressed menses. Bursting headache, suddenly coming and going slowly. Rush of blood to head and face. Drawing pains in masseter muscles. Teeth ache when chewing.",
+    "Bruised pains in anterior portion of thighs. Shooting in heels and metatarsal bones. Arthritic pain in joints. Gout; worse, in heated room. Red, shining swelling. Gouty nodosities (Ammon phos).",
+    "Pain between sacrum and pubis from one bone to another. Paralytic pain in small back."
+  ],
+  "guiding_symptoms": [
+    "Heartburn. Desire for lemonade. Bitter taste (Rhus). Lancinating pain from pit of stomach across back.",
+    "Vertigo with suppressed menses. Bursting headache, suddenly coming and going slowly. Rush of blood to head and face. Drawing pains in masseter muscles. Teeth ache when chewing.",
+    "Bruised pains in anterior portion of thighs. Shooting in heels and metatarsal bones. Arthritic pain in joints. Gout; worse, in heated room. Red, shining swelling. Gouty nodosities (Ammon phos)."
+  ],
+  "modalities": {
+    "worse": [
+      "from least motion, heat, warm air"
+    ],
+    "better": [
+      "in cool fresh air"
+    ]
+  },
+  "mind_symptoms": [
+    "Music is intolerable, produces nervousness."
+  ],
+  "head_symptoms": [
+    "Vertigo with suppressed menses. Bursting headache, suddenly coming and going slowly. Rush of blood to head and face. Drawing pains in masseter muscles. Teeth ache when chewing."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "Heartburn. Desire for lemonade. Bitter taste (Rhus). Lancinating pain from pit of stomach across back."
+  ],
+  "urinary_symptoms": [
+    "Inflammatory gonorrhœa, with pus-like discharge. Sycotic excrescences. Burning, sore pain in glans. Prepuce painful with difficulty in retracting it. Increased desire."
+  ],
+  "musculoskeletal_symptoms": [
+    "Bruised pains in anterior portion of thighs. Shooting in heels and metatarsal bones. Arthritic pain in joints. Gout; worse, in heated room. Red, shining swelling. Gouty nodosities (Ammon phos)."
+  ],
+  "skin_symptoms": [
+    "Fig-warts, with intolerable itching and burning. Exuberant granulations (Thuj; Nit ac). Warts. Black pores in skin."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "varices of lower extremities",
+    "dysentery"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/s/sabin.htm",
+    "title": "SABINA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:06:50.704Z"
+  },
+  "confidence_score": 0.8
+}

@@ -1,0 +1,26 @@
+{
+  "remedy_name": "PETROLEUM",
+  "source_file": "raw_1772504069699.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/p/petr.htm",
+  "relationships": {
+    "complementary": [
+      "Sepia"
+    ],
+    "antidoted_by": [
+      "Nux"
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Carbo",
+      "Graph",
+      "Sulph",
+      "Phos"
+    ],
+    "incompatible": [],
+    "antidotes": [
+      "Nux"
+    ]
+  },
+  "parsed_at": "2026-03-03T15:23:37.693Z"
+}

@@ -1,0 +1,54 @@
+{
+  "name": "BACILLINUM BURNETT",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Complementary: Calc phos; Kali carb."
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Irritable, depressed. Severe, deep-in headache, also as of a tight hoop. Ringworm. Eczema of eyelids.",
+    "Oppression. Catarrhal dyspnœa. Humid asthma. Bubbling rales and muco-purulent expectoration. Note. This muco-purulent expectoration of bronchitic patients is equally poly-bacillary; it is a mixture of diverse species and hence Bacillinum is truly indicated (Cartier). Often relieves congestion of the lungs, thus paving way for other remedies in Tuberculosis."
+  ],
+  "guiding_symptoms": [
+    "Irritable, depressed. Severe, deep-in headache, also as of a tight hoop. Ringworm. Eczema of eyelids.",
+    "Oppression. Catarrhal dyspnœa. Humid asthma. Bubbling rales and muco-purulent expectoration. Note. This muco-purulent expectoration of bronchitic patients is equally poly-bacillary; it is a mixture of diverse species and hence Bacillinum is truly indicated (Cartier). Often relieves congestion of the lungs, thus paving way for other remedies in Tuberculosis."
+  ],
+  "modalities": {
+    "worse": [
+      "night and early morning",
+      "cold air"
+    ],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Irritable, depressed. Severe, deep-in headache, also as of a tight hoop. Ringworm. Eczema of eyelids."
+  ],
+  "respiratory_symptoms": [
+    "Oppression. Catarrhal dyspnœa. Humid asthma. Bubbling rales and muco-purulent expectoration. Note. This muco-purulent expectoration of bronchitic patients is equally poly-bacillary; it is a mixture of diverse species and hence Bacillinum is truly indicated (Cartier). Often relieves congestion of the lungs, thus paving way for other remedies in Tuberculosis."
+  ],
+  "gi_symptoms": [
+    "Abdominal pains, enlarged lands in groins, tabes mesenterica. Sudden diarrhœa before breakfast. Obstinate constipation, with offensive flatus."
+  ],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [
+    "Ringworm; pityriasis. Eczema of eyelids. Glands of neck enlarged and tender."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/b/bac.htm",
+    "title": "BACILLINUM BURNETT - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:04:11.311Z"
+  },
+  "confidence_score": 0.62
+}

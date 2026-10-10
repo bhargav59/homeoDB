@@ -1,0 +1,78 @@
+{
+  "name": "AGARICUS MUSCARIUS",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Toad Stool-Bug Agaric"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Empty eructations, tasting of apples. Nervous disturbances, with spasmodic contractions, hiccough. Unnatural hunger. Flatulent distention of stomach and abdomen. Profuse inodorous flatus. Burning in stomach about three hours after a meal, changing into a dull pressure. Gastric disturbance with sharp pains in liver region.",
+    "Vertigo from sunlight, and on walking. Head in constant motion. Falling backward, as if a weight in occiput. Lateral headache, as if from a nail (Coff; Ignat). Dull headache from prolonged desk-work. Icy coldness, like icy needles, or splinters. Neuralgia with icy cold head. Desire to cover head warmly (Silica). Headache with nose-bleed or thick mucous discharge.",
+    "Irregular, tumultuous palpitation, after tobacco. Pulse intermittent and irregular. Cardiac region oppressed, as if thorax were narrowed. Palpitation with redness of face.",
+    "Stiff all over. Pain over hips. Rheumatism better motion. Weakness in loins. Uncertain gait. Trembling. Itching of toes and feet as if frozen. Cramp in soles of feet. Pain in shin-bone. Neuralgia in locomotor ataxia. Paralysis of lower limbs, with spasmodic condition of arms. Numbness of legs on crossing them. Paralytic pain in left arm followed by palpitation. Tearing painful contractions in the calves.",
+    "Pain, with sensitiveness of spine to touch; worse in dorsal region. Lumbago; worse in open air. Crick in back. Twitching of cervical muscles."
+  ],
+  "guiding_symptoms": [
+    "Empty eructations, tasting of apples. Nervous disturbances, with spasmodic contractions, hiccough. Unnatural hunger. Flatulent distention of stomach and abdomen. Profuse inodorous flatus. Burning in stomach about three hours after a meal, changing into a dull pressure. Gastric disturbance with sharp pains in liver region.",
+    "Vertigo from sunlight, and on walking. Head in constant motion. Falling backward, as if a weight in occiput. Lateral headache, as if from a nail (Coff; Ignat). Dull headache from prolonged desk-work. Icy coldness, like icy needles, or splinters. Neuralgia with icy cold head. Desire to cover head warmly (Silica). Headache with nose-bleed or thick mucous discharge.",
+    "Irregular, tumultuous palpitation, after tobacco. Pulse intermittent and irregular. Cardiac region oppressed, as if thorax were narrowed. Palpitation with redness of face."
+  ],
+  "modalities": {
+    "worse": [
+      "open cold air, after eating, after coitus"
+    ],
+    "better": [
+      "moving about slowly"
+    ]
+  },
+  "mind_symptoms": [
+    "Sings, talks, but does not answer. Loquacity. Aversion to work. Indifference. Fearlessness. Delirium characterized by singing, shouting, and muttering; rhymes and prophesies. Begins with paroxysm of yawning.",
+    "The provings bring out four phases of cerebral excitement.",
+    "1. Slight stimulation-shown by increased cheerfulness, courage, loquacity, exalted fancy.",
+    "2. More decided intoxication-great mental excitement and incoherent talking, immoderate gaity alternates with melancholy. Perception of relative size of objects is lost, takes long steps and jumps over small objects as if they were trunks of trees-a small hole appears as a frightful chasm, a spoonful of water an immense lake. Physical strength is increased, can lift heavy loads. With it much twitching.",
+    "3. Third stage produces a condition of furious or raging delirium, screaming, raving, wants to injure himself, etc.",
+    "4. Fourth stage-mental depression, languor, indifference, confusion, disinclination to work, etc. We do not get the active cerebral congestion of Belladonna, but a general nervous excitement such as is found in delirium tremens, delirium of fevers, etc."
+  ],
+  "head_symptoms": [
+    "Vertigo from sunlight, and on walking. Head in constant motion. Falling backward, as if a weight in occiput. Lateral headache, as if from a nail (Coff; Ignat). Dull headache from prolonged desk-work. Icy coldness, like icy needles, or splinters. Neuralgia with icy cold head. Desire to cover head warmly (Silica). Headache with nose-bleed or thick mucous discharge."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "Empty eructations, tasting of apples. Nervous disturbances, with spasmodic contractions, hiccough. Unnatural hunger. Flatulent distention of stomach and abdomen. Profuse inodorous flatus. Burning in stomach about three hours after a meal, changing into a dull pressure. Gastric disturbance with sharp pains in liver region."
+  ],
+  "urinary_symptoms": [
+    "Stitches in urethra. Sudden and violent urging to urinate. Frequent urination."
+  ],
+  "musculoskeletal_symptoms": [
+    "Stiff all over. Pain over hips. Rheumatism better motion. Weakness in loins. Uncertain gait. Trembling. Itching of toes and feet as if frozen. Cramp in soles of feet. Pain in shin-bone. Neuralgia in locomotor ataxia. Paralysis of lower limbs, with spasmodic condition of arms. Numbness of legs on crossing them. Paralytic pain in left arm followed by palpitation. Tearing painful contractions in the calves."
+  ],
+  "skin_symptoms": [
+    "Burning, itching, redness, and swelling, as from frostbites. Pimples, hard, like flea-bites. Miliary eruption, with intolerable itching and burning. Chilblains. Angioneurotic śdema; rosacea. Swollen veins with cold skin. Circumscribed erythematous, papular and pustular and śdematous lesions."
+  ],
+  "sleep_symptoms": [
+    "Paroxysms of yawning. Restless from violent itching and burning. On falling asleep, starts, twitches, and awakes often. Vivid dreams. Drowsy in daytime. Yawning, followed by involuntary laughter."
+  ],
+  "fever_symptoms": [
+    "Very sensitive to cool air. Violent attacks of heat in evening. Copious sweat. Burning spots."
+  ],
+  "complementary_remedies": [
+    "Muscarine",
+    "increasing lachrymal",
+    "salivary",
+    "hepatic",
+    "etc"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/a/agar.htm",
+    "title": "AGARICUS MUSCARIUS - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-01T13:27:29.895Z"
+  },
+  "confidence_score": 0.8
+}

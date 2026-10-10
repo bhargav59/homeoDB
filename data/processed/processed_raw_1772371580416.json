@@ -1,0 +1,58 @@
+{
+  "name": "ACTAEA SPICATA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Baneberry"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Tearing, darting pains in epigastric region, with vomiting. Cramp-like pains in stomach and epigastrium, with difficult breathing; sense of suffocation. Sudden lassitude after eating.",
+    "Fearful, starts easily; confused. Ebullition of blood to head excited by drinking coffee. Vertigo, tearing headache, better in open air, throbbing in brain, pain from crown to between eyebrows; heat in forehead, pain in left frontal eminence as if bone were crushed. Itching of scalp alternating with heat; nose red at tip, fluent coryza.",
+    "Short, irregular breathing at night, while lying. Great oppression. Shortness of breath on exposure to cold air.",
+    "Tearing pains in loins. Rheumatic pains in small joints, wrist, (Ulmus) fingers, ankles, toes. Swelling of joints from slight fatigue. Wrist swollen, red, worse any motion. Paralytic weakness in the hands. Lame feeling in arms. Pain in knee. Sudden lassitude after talking or eating."
+  ],
+  "guiding_symptoms": [
+    "Tearing, darting pains in epigastric region, with vomiting. Cramp-like pains in stomach and epigastrium, with difficult breathing; sense of suffocation. Sudden lassitude after eating.",
+    "Fearful, starts easily; confused. Ebullition of blood to head excited by drinking coffee. Vertigo, tearing headache, better in open air, throbbing in brain, pain from crown to between eyebrows; heat in forehead, pain in left frontal eminence as if bone were crushed. Itching of scalp alternating with heat; nose red at tip, fluent coryza.",
+    "Short, irregular breathing at night, while lying. Great oppression. Shortness of breath on exposure to cold air."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Fearful, starts easily; confused. Ebullition of blood to head excited by drinking coffee. Vertigo, tearing headache, better in open air, throbbing in brain, pain from crown to between eyebrows; heat in forehead, pain in left frontal eminence as if bone were crushed. Itching of scalp alternating with heat; nose red at tip, fluent coryza."
+  ],
+  "respiratory_symptoms": [
+    "Short, irregular breathing at night, while lying. Great oppression. Shortness of breath on exposure to cold air."
+  ],
+  "gi_symptoms": [
+    "Tearing, darting pains in epigastric region, with vomiting. Cramp-like pains in stomach and epigastrium, with difficult breathing; sense of suffocation. Sudden lassitude after eating."
+  ],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [
+    "Tearing pains in loins. Rheumatic pains in small joints, wrist, (Ulmus) fingers, ankles, toes. Swelling of joints from slight fatigue. Wrist swollen, red, worse any motion. Paralytic weakness in the hands. Lame feeling in arms. Pain in knee. Sudden lassitude after talking or eating."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Cimicif",
+    "Cauloph",
+    "Led"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/a/act-sp.htm",
+    "title": "ACTAEA SPICATA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-01T13:26:20.416Z"
+  },
+  "confidence_score": 0.6799999999999999
+}

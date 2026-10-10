@@ -1,0 +1,24 @@
+{
+  "remedy_name": "AURUM METALLICUM",
+  "source_file": "raw_1772433449704.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/a/aur.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      "Bell"
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Aur ars (chronic aortitis",
+      "lupus",
+      "phthisis in syphilitic headaches",
+      "also in anæmia and chlorosis"
+    ],
+    "incompatible": [],
+    "antidotes": [
+      "Bell"
+    ]
+  },
+  "parsed_at": "2026-03-03T15:23:37.374Z"
+}

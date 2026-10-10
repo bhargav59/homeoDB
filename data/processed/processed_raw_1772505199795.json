@@ -1,0 +1,69 @@
+{
+  "name": "SULPHUR",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Sublimated Sulphur"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Complete loss of, or excessive appetite. Putrid eructation. Food tastes too salty. Drinks much, eats little. Milk disagrees. Great desire for sweets (Arg nit). Great acidity, sour eructation. Burning, painful, weight-like pressure. Very weak and faint about 11 am; must have something to eat. Nausea during gestation. Water fills the patient up.",
+    "Constant heat on top of head (Cup sulph; Graph). Heaviness and fullness, pressure in temples. Beating headache; worse, stooping, and with vertigo. Sick headache recurring periodically. Tinea capitis, dry form. Scalp dry, falling of hair; worse, washing. Itching; scratching causes burning.",
+    "Oppression and burning sensation in chest. Difficult respiration; wants windows open. Aphonia. Heat, throughout chest. Red, brown spots all over chest. Loose cough; worse talking, morning, greenish, purulent, sweetish expectoration. Much rattling of mucus. Chest feels heavy; stitches, with heart feeling too large and palpitating pleuritic exudations. Use Tinctura sulphuris. Stitching pains shooting through to the back, worse lying on back or breathing deeply. Flushes of heat in chest rising to head. Oppression, as of a load on chest. Dyspnśa in middle of night, relieved by sitting up. Pulse more rapid in morning than in evening.",
+    "Trembling of hands. Hot, sweaty hands. Rheumatic pain in left shoulder. Heaviness; paretic feeling. Rheumatic gout, with itching. Burning in soles and hands at night. Sweat in armpits, smelling like garlic. Drawing and tearing in arms and hands. Stiffness of knees and ankles. Cannot walk erect; stoop-shouldered. Ganglion.",
+    "Drawing pain between shoulders. Stiffness of nape. Sensation as if vertebrć glided over each other."
+  ],
+  "guiding_symptoms": [
+    "Complete loss of, or excessive appetite. Putrid eructation. Food tastes too salty. Drinks much, eats little. Milk disagrees. Great desire for sweets (Arg nit). Great acidity, sour eructation. Burning, painful, weight-like pressure. Very weak and faint about 11 am; must have something to eat. Nausea during gestation. Water fills the patient up.",
+    "Constant heat on top of head (Cup sulph; Graph). Heaviness and fullness, pressure in temples. Beating headache; worse, stooping, and with vertigo. Sick headache recurring periodically. Tinea capitis, dry form. Scalp dry, falling of hair; worse, washing. Itching; scratching causes burning.",
+    "Oppression and burning sensation in chest. Difficult respiration; wants windows open. Aphonia. Heat, throughout chest. Red, brown spots all over chest. Loose cough; worse talking, morning, greenish, purulent, sweetish expectoration. Much rattling of mucus. Chest feels heavy; stitches, with heart feeling too large and palpitating pleuritic exudations. Use Tinctura sulphuris. Stitching pains shooting through to the back, worse lying on back or breathing deeply. Flushes of heat in chest rising to head. Oppression, as of a load on chest. Dyspnśa in middle of night, relieved by sitting up. Pulse more rapid in morning than in evening."
+  ],
+  "modalities": {
+    "worse": [
+      "at rest, when standing, warmth in bed, washing, bathing, in morning, 11 am, night, from alcoholic stimulants, periodically"
+    ],
+    "better": [
+      "dry, warm weather, lying on right side, from drawing up affected limbs"
+    ]
+  },
+  "mind_symptoms": [
+    "Very forgetful. Difficult thinking. Delusions; thinks rags beautiful things-that he is immensely wealthy. Busy all the time. Childish peevishness in grown people. Irritable. Affections vitiated; very selfish, no regard for others. Religious melancholy. Averse to business; loafs-too lazy to arouse himself. Imagining giving wrong things to people, causing their death. Sulphur subjects are nearly always irritable, depressed, thin and weak, even with good appetite."
+  ],
+  "head_symptoms": [
+    "Constant heat on top of head (Cup sulph; Graph). Heaviness and fullness, pressure in temples. Beating headache; worse, stooping, and with vertigo. Sick headache recurring periodically. Tinea capitis, dry form. Scalp dry, falling of hair; worse, washing. Itching; scratching causes burning."
+  ],
+  "respiratory_symptoms": [
+    "Oppression and burning sensation in chest. Difficult respiration; wants windows open. Aphonia. Heat, throughout chest. Red, brown spots all over chest. Loose cough; worse talking, morning, greenish, purulent, sweetish expectoration. Much rattling of mucus. Chest feels heavy; stitches, with heart feeling too large and palpitating pleuritic exudations. Use Tinctura sulphuris. Stitching pains shooting through to the back, worse lying on back or breathing deeply. Flushes of heat in chest rising to head. Oppression, as of a load on chest. Dyspnśa in middle of night, relieved by sitting up. Pulse more rapid in morning than in evening."
+  ],
+  "gi_symptoms": [
+    "Complete loss of, or excessive appetite. Putrid eructation. Food tastes too salty. Drinks much, eats little. Milk disagrees. Great desire for sweets (Arg nit). Great acidity, sour eructation. Burning, painful, weight-like pressure. Very weak and faint about 11 am; must have something to eat. Nausea during gestation. Water fills the patient up."
+  ],
+  "urinary_symptoms": [
+    "Stitches in penis. Involuntary emissions. Itching of genitals when going to bed. Organs cold, relaxed and powerless."
+  ],
+  "musculoskeletal_symptoms": [
+    "Trembling of hands. Hot, sweaty hands. Rheumatic pain in left shoulder. Heaviness; paretic feeling. Rheumatic gout, with itching. Burning in soles and hands at night. Sweat in armpits, smelling like garlic. Drawing and tearing in arms and hands. Stiffness of knees and ankles. Cannot walk erect; stoop-shouldered. Ganglion."
+  ],
+  "skin_symptoms": [
+    "Dry, scaly, unhealthy; every little injury suppurates. Freckles. Itching, burning; worse scratching and washing. Pimply eruption, pustules, rhagades, hang-nails. Excoriation, especially in folds (Lyc). Feeling of a band around bones. Skin affections after local medication. Pruritus, especially from warmth, is evening, often recurs in spring-time, in damp weather."
+  ],
+  "sleep_symptoms": [
+    "Talks, jerks, and twitches during sleep. Vivid dreams. Wakes up singing. Wakes frequently, and becomes wide awake suddenly. Catnaps; slightest noise awakens. Cannot sleep between 2 an 5 am."
+  ],
+  "fever_symptoms": [
+    "Frequent flashes of heat. Violent ebullitions of heat throughout entire body. Dry skin and great thirst. Night sweat, on nape and occiput. Perspiration of single parts. Disgusting sweats. Remittent type."
+  ],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/s/sulph.htm",
+    "title": "SULPHUR - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:33:19.795Z"
+  },
+  "confidence_score": 0.8
+}

@@ -1,0 +1,60 @@
+{
+  "name": "ALUMEN",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Common Potash Alum"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Burning pain as of weight on top of lead better by pressure of hand. Vertigo, with weakness in pit of stomach. Alopecia.",
+    "Hćmoptysis, great weakness of chest; difficult to expel mucus. Copious, ropy morning expectoration in old people. Asthma.",
+    "Palpitation, from lying down on right side.",
+    "Weakness of all muscles, especially arms and legs. Constricted feeling around limbs."
+  ],
+  "guiding_symptoms": [
+    "Burning pain as of weight on top of lead better by pressure of hand. Vertigo, with weakness in pit of stomach. Alopecia.",
+    "Hćmoptysis, great weakness of chest; difficult to expel mucus. Copious, ropy morning expectoration in old people. Asthma.",
+    "Palpitation, from lying down on right side."
+  ],
+  "modalities": {
+    "worse": [
+      "cold except headache, which is relieved by cold"
+    ],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Burning pain as of weight on top of lead better by pressure of hand. Vertigo, with weakness in pit of stomach. Alopecia."
+  ],
+  "respiratory_symptoms": [
+    "Hćmoptysis, great weakness of chest; difficult to expel mucus. Copious, ropy morning expectoration in old people. Asthma."
+  ],
+  "gi_symptoms": [
+    "Constipation of the most aggravated kind. No desire for stool for days. Violent ineffectual urging to stool. No ability to expel stool. Marble-like masses pass, but rectum still feels full. Itching after stool. Itching in anus. Long lasting pain and smarting in rectum after stool; also hćmorrhoids. Yellow, like an infant's. Hćmorrhage from bowels."
+  ],
+  "urinary_symptoms": [
+    "Tendency to induration of neck of uterus and mammary glands (Carb an; Con). Chronic yellow vaginal discharge. Chronic gonorrhśa, yellow, with little lumps along urethra. Aphthous patches in vagina (Caul). Menses watery."
+  ],
+  "musculoskeletal_symptoms": [
+    "Weakness of all muscles, especially arms and legs. Constricted feeling around limbs."
+  ],
+  "skin_symptoms": [
+    "Ulcers, with indurated base. To be thought of in indurated glands, epithelioma, etc; veins become varicose and bleed. Indurations resulting from long-continued inflammatory irritations. Glands inflame and harden. Alopecia, Scrotal eczema and on back of penis."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/a/alumn.htm",
+    "title": "ALUMEN - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-01T13:30:09.051Z"
+  },
+  "confidence_score": 0.8
+}

@@ -1,0 +1,23 @@
+{
+  "remedy_name": "AMMONIUM MURIATICUM",
+  "source_file": "raw_1772371881045.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/a/am-m.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      "Coffea"
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Calcarea",
+      "Senega",
+      "Caustic"
+    ],
+    "incompatible": [],
+    "antidotes": [
+      "Coffea"
+    ]
+  },
+  "parsed_at": "2026-03-03T15:23:37.335Z"
+}

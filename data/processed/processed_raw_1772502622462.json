@@ -1,0 +1,61 @@
+{
+  "name": "KALIUM NITRICUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Nitrate of Potassium-Saltpeter"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Scalp very sensitive. Headache, with vertigo, as if falling to right side and backwards; worse, stooping. Ennui.",
+    "Hoarseness. Dry, morning cough, with pain in chest and bloody expectoration. Bronchitis, with sharp, short, dry, hacking cough. Asthma, with excessive dyspnœa, nausea, dull stitches, and burning in chest. Dyspnœa so great that breath cannot be held long enough to drink, though thirsty. Chest feels constricted. Oppression worse in morning. Sour-smelling expectoration. Expectoration of clotted blood, after hawking mucus. Acute exacerbations in phthisis; congestion of lungs. Spasmodic croup; paroxysm of crowing. Laryngeal diphtheria.",
+    "Pulse weak, small, thready. Violent stitch in præcordia, and beating of heart.",
+    "Stitches between shoulder-blades. Tearing and sticking in shoulders and joints. Hands and fingers seem swollen."
+  ],
+  "guiding_symptoms": [
+    "Scalp very sensitive. Headache, with vertigo, as if falling to right side and backwards; worse, stooping. Ennui.",
+    "Hoarseness. Dry, morning cough, with pain in chest and bloody expectoration. Bronchitis, with sharp, short, dry, hacking cough. Asthma, with excessive dyspnœa, nausea, dull stitches, and burning in chest. Dyspnœa so great that breath cannot be held long enough to drink, though thirsty. Chest feels constricted. Oppression worse in morning. Sour-smelling expectoration. Expectoration of clotted blood, after hawking mucus. Acute exacerbations in phthisis; congestion of lungs. Spasmodic croup; paroxysm of crowing. Laryngeal diphtheria.",
+    "Pulse weak, small, thready. Violent stitch in præcordia, and beating of heart."
+  ],
+  "modalities": {
+    "worse": [
+      "eating veal",
+      "towards morning and in afternoon"
+    ],
+    "better": [
+      "drinking sips of water"
+    ]
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Scalp very sensitive. Headache, with vertigo, as if falling to right side and backwards; worse, stooping. Ennui."
+  ],
+  "respiratory_symptoms": [
+    "Hoarseness. Dry, morning cough, with pain in chest and bloody expectoration. Bronchitis, with sharp, short, dry, hacking cough. Asthma, with excessive dyspnœa, nausea, dull stitches, and burning in chest. Dyspnœa so great that breath cannot be held long enough to drink, though thirsty. Chest feels constricted. Oppression worse in morning. Sour-smelling expectoration. Expectoration of clotted blood, after hawking mucus. Acute exacerbations in phthisis; congestion of lungs. Spasmodic croup; paroxysm of crowing. Laryngeal diphtheria."
+  ],
+  "gi_symptoms": [
+    "Thin, watery, bloody. Membranous shreds, with tenesmus. Diarrhœa from eating veal."
+  ],
+  "urinary_symptoms": [
+    "Menses too early, profuse, black; preceded and with violent backache. Leucorrhœa. Burning pains in the ovarian region only during menses (Zinc after)."
+  ],
+  "musculoskeletal_symptoms": [
+    "Stitches between shoulder-blades. Tearing and sticking in shoulders and joints. Hands and fingers seem swollen."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/k/kali-n.htm",
+    "title": "KALIUM NITRICUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:50:22.462Z"
+  },
+  "confidence_score": 0.8
+}

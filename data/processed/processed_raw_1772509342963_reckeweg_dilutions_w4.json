@@ -1,0 +1,37 @@
+{
+  "name": "Dr. Reckeweg R7, Homeopathic Medicines For Liver Disease, Homeopathic Medicines For Jaundice, Homeopathic Medicines For Gallbladder",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Symptoms Group"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [],
+  "guiding_symptoms": [],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.reckeweg-india.com/product-details/r7-7.html",
+    "title": "Dr. Reckeweg R7, Homeopathic Medicines For Liver Disease, Homeopathic Medicines For Jaundice, Homeopathic Medicines For Gallbladder",
+    "scraped_at": "2026-03-03T03:42:22.964Z"
+  },
+  "confidence_score": 0.2
+}

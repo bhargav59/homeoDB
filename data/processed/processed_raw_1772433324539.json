@@ -1,0 +1,52 @@
+{
+  "name": "ARUM TRIPHYLLUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Jack-in-the-Pulpit"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Bores head in pillow. Headache from too warm clothing, from hot coffee."
+  ],
+  "guiding_symptoms": [
+    "Bores head in pillow. Headache from too warm clothing, from hot coffee."
+  ],
+  "modalities": {
+    "worse": [
+      "northwest wind",
+      "lying down"
+    ],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Bores head in pillow. Headache from too warm clothing, from hot coffee."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [
+    "Scarlet rash; raw, bloody surfaces anywhere. Impetigo contagiosa."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Ammon carb",
+    "Ailanthus",
+    "Cepa"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/a/arum-t.htm",
+    "title": "ARUM TRIPHYLLUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-02T06:35:24.539Z"
+  },
+  "confidence_score": 0.74
+}

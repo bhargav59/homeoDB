@@ -1,0 +1,67 @@
+{
+  "name": "BAPTISIA TINCTORIA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Wild Indigo"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Can swallow only liquids, vomiting due to spasm of œsophagus. Gastric fever. No appetite. Constant desire for water. Sinking feeling at stomach. Pain in epigastric region. Feeling of hard substance (Abies nig). All symptoms worse from beer (Kali bich). Cardiac orifice contracted convulsively and ulcerative inflammation of stomach and bowels.",
+    "Confused, swimming feeling. Vertigo; pressure at root of nose. Skin of forehead feels tight; seems drawn to back of head. Feels too large, heavy, numb. Soreness of eyeballs. Brain feels sore. Stupor; falls asleep while spoken to. Early deafness in typhoid conditions. Eyelids heavy.",
+    "Lungs feel compressed, breathing difficult; seeks open window. Fears going to sleep on account of nightmare and sense of suffocation. Constriction of chest.",
+    "Back and Extremities.--Neck tired. Stiffness and pain, aching and drawing in arms and legs. Pain in sacrum, around hips and legs. Sore and bruised. Decubitus."
+  ],
+  "guiding_symptoms": [
+    "Can swallow only liquids, vomiting due to spasm of œsophagus. Gastric fever. No appetite. Constant desire for water. Sinking feeling at stomach. Pain in epigastric region. Feeling of hard substance (Abies nig). All symptoms worse from beer (Kali bich). Cardiac orifice contracted convulsively and ulcerative inflammation of stomach and bowels.",
+    "Confused, swimming feeling. Vertigo; pressure at root of nose. Skin of forehead feels tight; seems drawn to back of head. Feels too large, heavy, numb. Soreness of eyeballs. Brain feels sore. Stupor; falls asleep while spoken to. Early deafness in typhoid conditions. Eyelids heavy.",
+    "Lungs feel compressed, breathing difficult; seeks open window. Fears going to sleep on account of nightmare and sense of suffocation. Constriction of chest."
+  ],
+  "modalities": {
+    "worse": [
+      "Humid heat",
+      "fog",
+      "indoors"
+    ],
+    "better": []
+  },
+  "mind_symptoms": [
+    "Wild, wandering feeling. Inability to think. Mental confusion. Ideas confused. Illusion of divided personality. Thinks he is broken or double, and tosses about the bed trying to get pieces together (Cajeput). Delirium, wandering, muttering. Perfect indifference. Falls asleep while being spoken to. Melancholia, with stupor."
+  ],
+  "head_symptoms": [
+    "Confused, swimming feeling. Vertigo; pressure at root of nose. Skin of forehead feels tight; seems drawn to back of head. Feels too large, heavy, numb. Soreness of eyeballs. Brain feels sore. Stupor; falls asleep while spoken to. Early deafness in typhoid conditions. Eyelids heavy."
+  ],
+  "respiratory_symptoms": [
+    "Lungs feel compressed, breathing difficult; seeks open window. Fears going to sleep on account of nightmare and sense of suffocation. Constriction of chest.",
+    "Back and Extremities.--Neck tired. Stiffness and pain, aching and drawing in arms and legs. Pain in sacrum, around hips and legs. Sore and bruised. Decubitus."
+  ],
+  "gi_symptoms": [
+    "Can swallow only liquids, vomiting due to spasm of œsophagus. Gastric fever. No appetite. Constant desire for water. Sinking feeling at stomach. Pain in epigastric region. Feeling of hard substance (Abies nig). All symptoms worse from beer (Kali bich). Cardiac orifice contracted convulsively and ulcerative inflammation of stomach and bowels."
+  ],
+  "urinary_symptoms": [
+    "Threatened miscarriage from mental depression, shock, watching, low fevers. Menses too early, too profuse. Lochia acrid, fetid. Puerperal fever."
+  ],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [
+    "Livid spots all over body and limbs. Burning and heat in skin (Arsenic). Putrid ulcers with stupor, low delirium and prostration."
+  ],
+  "sleep_symptoms": [
+    "Sleepless and restless. Nightmare and frightful dreams. Cannot get herself together, feels scattered about bed. Falls asleep while answering a question."
+  ],
+  "fever_symptoms": [
+    "Chill, with rheumatic pains and soreness all over body. Heat all over, with occasional chills. Chill about 11 am.Adynamic fevers. Typhus fever. Shipboard fever."
+  ],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/b/bapt.htm",
+    "title": "BAPTISIA TINCTORIA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:04:42.920Z"
+  },
+  "confidence_score": 0.8
+}

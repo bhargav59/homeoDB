@@ -1,0 +1,21 @@
+{
+  "remedy_name": "SULPHUR",
+  "source_file": "raw_1772505199795.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/s/sulph.htm",
+  "relationships": {
+    "complementary": [
+      "Aloe"
+    ],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Acon",
+      "not before",
+      "in adenoids: Agraphis"
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "parsed_at": "2026-03-03T15:23:37.746Z"
+}

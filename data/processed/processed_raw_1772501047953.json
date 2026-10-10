@@ -1,0 +1,57 @@
+{
+  "name": "COMOCLADIA DENTATA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Guao"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Acute pain in left mammary gland. Pain from right side of chest down arm to fingers. Cough with pain under left breast, going through to left scapula."
+  ],
+  "guiding_symptoms": [
+    "Acute pain in left mammary gland. Pain from right side of chest down arm to fingers. Cough with pain under left breast, going through to left scapula."
+  ],
+  "modalities": {
+    "worse": [
+      "touch, warmth, rest",
+      "night"
+    ],
+    "better": [
+      "open air, scratching",
+      "by motion"
+    ]
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Ciliary neuralgia with eyes feeling large and protruded, especially right. Worse, near warm stove; feels as if pressed outward. Sees only glimmer of light with left eye. Glaucoma, sense of fullness; eyeball feels too large. Motion of eyes aggravates."
+  ],
+  "respiratory_symptoms": [
+    "Acute pain in left mammary gland. Pain from right side of chest down arm to fingers. Cough with pain under left breast, going through to left scapula."
+  ],
+  "gi_symptoms": [],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [
+    "Itches, red and pimples. Redness all over, like scarlatina. Erysipelas. Deep ulcers, with hard edges. Leprosy. Red stripes on skin (Euphorb). Eczema (papular) of the trunk and extremities; also pustular type."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Rhus",
+    "Anacard",
+    "Euphorb"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/c/com.htm",
+    "title": "COMOCLADIA DENTATA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:24:07.953Z"
+  },
+  "confidence_score": 0.62
+}

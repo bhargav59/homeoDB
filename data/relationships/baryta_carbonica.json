@@ -1,0 +1,29 @@
+{
+  "remedy_name": "BARYTA CARBONICA",
+  "source_file": "raw_1772499902416.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/b/bar-c.htm",
+  "relationships": {
+    "complementary": [
+      "Dulc"
+    ],
+    "antidoted_by": [
+      "for poisonous"
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Digitalis",
+      "Radium",
+      "Aragallus",
+      "Oxytrop",
+      "Astrag"
+    ],
+    "incompatible": [
+      "Calc"
+    ],
+    "antidotes": [
+      "for poisonous"
+    ]
+  },
+  "parsed_at": "2026-03-03T15:23:37.379Z"
+}

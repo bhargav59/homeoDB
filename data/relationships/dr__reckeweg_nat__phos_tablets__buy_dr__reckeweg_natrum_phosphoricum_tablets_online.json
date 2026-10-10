@@ -1,0 +1,15 @@
+{
+  "remedy_name": "Dr. Reckeweg Nat. Phos Tablets, Buy Dr. Reckeweg Natrum Phosphoricum Tablets Online",
+  "source_file": "raw_1772510525345_reckeweg_dilutions_w3.json",
+  "source_url": "https://www.reckeweg-india.com/product-details/nat-phos-tablet-101.html",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "parsed_at": "2026-03-03T15:23:38.791Z"
+}

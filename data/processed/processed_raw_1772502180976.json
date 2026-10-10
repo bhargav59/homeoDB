@@ -1,0 +1,55 @@
+{
+  "name": "HIPPURICUM ACIDUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Proved by Dr. Wm. B. Griggs"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Acid rising. Lump in pit of stomach. Soreness and pressure over liver.",
+    "Pain over right eye, dull, constant, worse in warm room. Eyelids inflamed and swollen.",
+    "Backache extending down hips. Pain in shoulders and extremities and sore swollen joints. Pain in middle of thigh posteriorly shooting down right leg. Tired, grating sensation in the joints."
+  ],
+  "guiding_symptoms": [
+    "Acid rising. Lump in pit of stomach. Soreness and pressure over liver.",
+    "Pain over right eye, dull, constant, worse in warm room. Eyelids inflamed and swollen.",
+    "Backache extending down hips. Pain in shoulders and extremities and sore swollen joints. Pain in middle of thigh posteriorly shooting down right leg. Tired, grating sensation in the joints."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Pain over right eye, dull, constant, worse in warm room. Eyelids inflamed and swollen."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "Acid rising. Lump in pit of stomach. Soreness and pressure over liver."
+  ],
+  "urinary_symptoms": [
+    "Menstrual flow for three weeks with complete relief of muscular and joint pains."
+  ],
+  "musculoskeletal_symptoms": [
+    "Backache extending down hips. Pain in shoulders and extremities and sore swollen joints. Pain in middle of thigh posteriorly shooting down right leg. Tired, grating sensation in the joints."
+  ],
+  "skin_symptoms": [
+    "Itching, burning. Papules looking like goose flesh on chest."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/h/hip-ac.htm",
+    "title": "HIPPURICUM ACIDUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:43:00.976Z"
+  },
+  "confidence_score": 0.6799999999999999
+}

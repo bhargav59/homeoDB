@@ -1,0 +1,48 @@
+{
+  "name": "CUBEBA OFFICINALIS",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Cubebs"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Catarrh of nose and throat, with fetid odor and expectoration. Mucus trickles from posterior nares. Rawness of throat and hoarseness."
+  ],
+  "guiding_symptoms": [
+    "Catarrh of nose and throat, with fetid odor and expectoration. Mucus trickles from posterior nares. Rawness of throat and hoarseness."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [],
+  "respiratory_symptoms": [
+    "Catarrh of nose and throat, with fetid odor and expectoration. Mucus trickles from posterior nares. Rawness of throat and hoarseness."
+  ],
+  "gi_symptoms": [],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Cucurbita",
+    "Copaiva",
+    "Piper meth",
+    "Sandal"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/c/cub.htm",
+    "title": "CUBEBA OFFICINALIS - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:26:09.448Z"
+  },
+  "confidence_score": 0.38
+}

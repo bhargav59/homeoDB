@@ -1,0 +1,20 @@
+{
+  "remedy_name": "BRACHYGLOTTIS REPENS",
+  "source_file": "raw_1772500112547.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/b/brach.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Apis",
+      "Helonias",
+      "Merc cor",
+      "Plumbum"
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "parsed_at": "2026-03-03T15:23:37.393Z"
+}

@@ -1,0 +1,52 @@
+{
+  "name": "BOLETUS LARICIS",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "White Agaric"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Feels light and hollow with deep frontal headache. Thick, yellow coating of tongue; teeth indented. Constant nausea."
+  ],
+  "guiding_symptoms": [
+    "Feels light and hollow with deep frontal headache. Thick, yellow coating of tongue; teeth indented. Constant nausea."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Feels light and hollow with deep frontal headache. Thick, yellow coating of tongue; teeth indented. Constant nausea."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [
+    "Hot and dry, especially in palms. Itching more between scapulć and on forearms."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [
+    "Chilliness along spine, with frequent, hot flashes. Yawns and stretches when chilly. Severe aching in shoulders and joints and small of back. Profuse perspiration at night, with hectic chills and fever."
+  ],
+  "complementary_remedies": [
+    "Agaricin",
+    "also in chorea",
+    "fatty degeneration",
+    "profuse perspiration and erythema"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/b/bol-la.htm",
+    "title": "BOLETUS LARICIS - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:07:32.256Z"
+  },
+  "confidence_score": 0.5
+}

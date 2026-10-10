@@ -1,0 +1,72 @@
+{
+  "name": "LACHESIS MUTUS",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Bushmaster or Surucucu"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Craving for alcohol, oysters. Any food causes distress. Pit of stomach painful to touch. Hungry, cannot wait for food. Gnawing pressure made better by eating, but returning in a few hours. Perceptible trembling movement in the epigastric region. Empty swallowing more painful than swallowing solids.",
+    "Pain through head on awaking. Pain at root of nose. Pressure and burning on vertex. Waves of pain; worse after moving. Sun headaches. With headache, flickerings, dim vision, very pale face. Vertigo. Relieved by onset of a discharge (menses or nasal catarrh).",
+    "Upper part of windpipe very susceptible to touch. Sensation of suffocation and strangulation on lying down, particularly when anything is around throat; compels patient to spring from bed and rush for open window. Spasm of glottis; feels as if something ran from neck to larynx. Feels he must take a deep breath. Cramp-like distress in prćcordial region. Cough; dry, suffocative fits, tickling. Little secretion and much sensitiveness; worse, pressure on larynx, after sleep, open air. Breathing almost stops on falling asleep (Grind). Larynx painful to touch. Sensation as of a plug (Anac) which moves up and down, with a short cough.",
+    "Palpitation, with fainting spells, especially during climacteric. Constricted feeling causing palpitation, with anxiety. Cyanosis. Irregular beats.",
+    "Sciatica, right side, better lying down. Pain in tibia (may follow sore throat). Shortening of tendons.",
+    "Neuralgia of coccyx, worse rising from sitting posture; must sit perfectly still. Pain in neck, worse cervical region. Sensation of threads stretched from back to arms, legs, eyes, etc."
+  ],
+  "guiding_symptoms": [
+    "Craving for alcohol, oysters. Any food causes distress. Pit of stomach painful to touch. Hungry, cannot wait for food. Gnawing pressure made better by eating, but returning in a few hours. Perceptible trembling movement in the epigastric region. Empty swallowing more painful than swallowing solids.",
+    "Pain through head on awaking. Pain at root of nose. Pressure and burning on vertex. Waves of pain; worse after moving. Sun headaches. With headache, flickerings, dim vision, very pale face. Vertigo. Relieved by onset of a discharge (menses or nasal catarrh).",
+    "Upper part of windpipe very susceptible to touch. Sensation of suffocation and strangulation on lying down, particularly when anything is around throat; compels patient to spring from bed and rush for open window. Spasm of glottis; feels as if something ran from neck to larynx. Feels he must take a deep breath. Cramp-like distress in prćcordial region. Cough; dry, suffocative fits, tickling. Little secretion and much sensitiveness; worse, pressure on larynx, after sleep, open air. Breathing almost stops on falling asleep (Grind). Larynx painful to touch. Sensation as of a plug (Anac) which moves up and down, with a short cough."
+  ],
+  "modalities": {
+    "worse": [
+      "after sleep, (Kali bich)"
+    ],
+    "better": [
+      "appearance of discharges, warm applications"
+    ]
+  },
+  "mind_symptoms": [
+    "Great loquacity. Amative. Sad in the morning; no desire to mix with the world. Restless and uneasy; does not wish to attend to business; wants to be off somewhere all the time. Jealous (Hyos). Mental labor best performed at night. Euthanasia. Suspicious; nightly delusion of fire. Religious insanity (Verat; Stram). Derangement of the time sense."
+  ],
+  "head_symptoms": [
+    "Pain through head on awaking. Pain at root of nose. Pressure and burning on vertex. Waves of pain; worse after moving. Sun headaches. With headache, flickerings, dim vision, very pale face. Vertigo. Relieved by onset of a discharge (menses or nasal catarrh)."
+  ],
+  "respiratory_symptoms": [
+    "Upper part of windpipe very susceptible to touch. Sensation of suffocation and strangulation on lying down, particularly when anything is around throat; compels patient to spring from bed and rush for open window. Spasm of glottis; feels as if something ran from neck to larynx. Feels he must take a deep breath. Cramp-like distress in prćcordial region. Cough; dry, suffocative fits, tickling. Little secretion and much sensitiveness; worse, pressure on larynx, after sleep, open air. Breathing almost stops on falling asleep (Grind). Larynx painful to touch. Sensation as of a plug (Anac) which moves up and down, with a short cough."
+  ],
+  "gi_symptoms": [
+    "Craving for alcohol, oysters. Any food causes distress. Pit of stomach painful to touch. Hungry, cannot wait for food. Gnawing pressure made better by eating, but returning in a few hours. Perceptible trembling movement in the epigastric region. Empty swallowing more painful than swallowing solids."
+  ],
+  "urinary_symptoms": [
+    "Intense excitement of sexual organs."
+  ],
+  "musculoskeletal_symptoms": [
+    "Sciatica, right side, better lying down. Pain in tibia (may follow sore throat). Shortening of tendons."
+  ],
+  "skin_symptoms": [
+    "Hot perspiration, bluish, purplish appearance. Boils, carbuncles, ulcers, with bluish, purple surroundings. Dark blisters. Bed-sores, with black edges. Blue-black swellings. Pyemia; dissecting wounds. Purpura, with intense prostration. Senile erysipelas. Wens. Cellulitis. Varicose ulcers."
+  ],
+  "sleep_symptoms": [
+    "Patient sleeps into an aggravation. Sudden starting when falling asleep. Sleepiness, yet cannot sleep (Bell; Op). Wide-awake in evening."
+  ],
+  "fever_symptoms": [
+    "Chilly in back; feet icy cold; hot flushes and hot perspiration. Paroxysm returns after acids. Intermittent fever every spring."
+  ],
+  "complementary_remedies": [
+    "Cotyledon (climacteric troubles"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/l/lach.htm",
+    "title": "LACHESIS MUTUS - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:52:34.342Z"
+  },
+  "confidence_score": 0.8
+}

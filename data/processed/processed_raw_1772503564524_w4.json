@@ -1,0 +1,50 @@
+{
+  "name": "NITRI SPIRITUS DULCIS",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Sweet Spirits of Nitre"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Very rapid breathing by going only a short walk. Painful constriction beneath sternum."
+  ],
+  "guiding_symptoms": [
+    "Very rapid breathing by going only a short walk. Painful constriction beneath sternum."
+  ],
+  "modalities": {
+    "worse": [
+      "from mental disturbance, during winter and spring"
+    ],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Prosopalgia, with photophobia. Burning in cheeks, and vomiting, followed by lassitude. Boring in facial bones; in angles of lower jaw. Very sensitive to cold."
+  ],
+  "respiratory_symptoms": [
+    "Very rapid breathing by going only a short walk. Painful constriction beneath sternum."
+  ],
+  "gi_symptoms": [],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Phos ac",
+    "Lycop"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/n/nit-s-d.htm",
+    "title": "NITRI SPIRITUS DULCIS - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:06:04.524Z"
+  },
+  "confidence_score": 0.5
+}

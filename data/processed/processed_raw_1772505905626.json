@@ -1,0 +1,49 @@
+{
+  "name": "ZINCUM VALERIANICUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Valerinate of Zinc"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Violent, neuralgic, intermittent headaches. Becomes almost insane with pain, which is piercing and stabbing. Uncontrollable sleeplessness from pain in head with melancholy.",
+    "Severe pain in neck and spine. Cannot sit still; must keep legs in constant motion. Sciatic neuralgia."
+  ],
+  "guiding_symptoms": [
+    "Violent, neuralgic, intermittent headaches. Becomes almost insane with pain, which is piercing and stabbing. Uncontrollable sleeplessness from pain in head with melancholy.",
+    "Severe pain in neck and spine. Cannot sit still; must keep legs in constant motion. Sciatic neuralgia."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Violent, neuralgic, intermittent headaches. Becomes almost insane with pain, which is piercing and stabbing. Uncontrollable sleeplessness from pain in head with melancholy."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [],
+  "urinary_symptoms": [
+    "Ovaralgia; pain shoots down limbs, even too foot."
+  ],
+  "musculoskeletal_symptoms": [
+    "Severe pain in neck and spine. Cannot sit still; must keep legs in constant motion. Sciatic neuralgia."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/z/zinc-val.htm",
+    "title": "ZINCUM VALERIANICUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:45:05.626Z"
+  },
+  "confidence_score": 0.44
+}

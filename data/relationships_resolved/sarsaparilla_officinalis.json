@@ -1,0 +1,78 @@
+{
+  "remedy_name": "SARSAPARILLA OFFICINALIS",
+  "source_file": "raw_1772504780230.json",
+  "relationships": {
+    "complementary": [
+      {
+        "original": "Merc",
+        "resolved_name": "MERCURIUS SOLUBILIS",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      }
+    ],
+    "antidoted_by": [
+      {
+        "original": "Bell",
+        "resolved_name": "BELLADONNA",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      }
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Berb",
+        "resolved_name": "BERBERIS VULGARIS",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Lycop",
+        "resolved_name": "LYCOPODIUM CLAVATUM",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      },
+      {
+        "original": "Nat m",
+        "resolved_name": "NATRUM MURIATICUM",
+        "confidence": 0.85,
+        "method": "levenshtein_1"
+      },
+      {
+        "original": "Petrol",
+        "resolved_name": "PETROLEUM",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Sassafras",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "bladder",
+        "resolved_name": "Dr. Reckeweg R7, Homeopathic Medicines For Liver Disease, Homeopathic Medicines For Jaundice, Homeopathic Medicines For Gallbladder",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "prostate and urinary passages",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": [
+      {
+        "original": "Bell",
+        "resolved_name": "BELLADONNA",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      }
+    ]
+  },
+  "resolved_at": "2026-03-11T01:50:11.155Z"
+}

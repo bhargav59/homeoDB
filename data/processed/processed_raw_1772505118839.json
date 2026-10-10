@@ -1,0 +1,69 @@
+{
+  "name": "STRYCHNINUM PURUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Alkaloid of Nux Vomica"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Constant retching. Violent vomiting. Nausea of pregnancy.",
+    "Restless. Over-irritability. Full and bursting headache, with heat in eyes. Vertigo, with roaring in ears. Jerking of head forwards. Scalp sore. Itching of scalp and nape.",
+    "Spasm of muscles about larynx. Excessive dyspnśa. Sharp, contractive pains in muscles of chest. Persistent cough, recurring after influenza.",
+    "Limbs stiff. Rheumatism with stiff joints. Violent jerking, twitching, and trembling. Tetanic convulsions and opisthotonos; spasms provoked by slightest touch and attempt to move. Shocks in the muscles. Cramp-like pains.",
+    "Rigitidy of cervical muscles. Sharp pain in nape and down spine. Back stiff; violent jerks in spinal column. Icy sensation down spine."
+  ],
+  "guiding_symptoms": [
+    "Constant retching. Violent vomiting. Nausea of pregnancy.",
+    "Restless. Over-irritability. Full and bursting headache, with heat in eyes. Vertigo, with roaring in ears. Jerking of head forwards. Scalp sore. Itching of scalp and nape.",
+    "Spasm of muscles about larynx. Excessive dyspnśa. Sharp, contractive pains in muscles of chest. Persistent cough, recurring after influenza."
+  ],
+  "modalities": {
+    "worse": [
+      "morning",
+      "touch",
+      "noise",
+      "motion",
+      "after meals"
+    ],
+    "better": [
+      "lying on back"
+    ]
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Restless. Over-irritability. Full and bursting headache, with heat in eyes. Vertigo, with roaring in ears. Jerking of head forwards. Scalp sore. Itching of scalp and nape."
+  ],
+  "respiratory_symptoms": [
+    "Spasm of muscles about larynx. Excessive dyspnśa. Sharp, contractive pains in muscles of chest. Persistent cough, recurring after influenza."
+  ],
+  "gi_symptoms": [
+    "Constant retching. Violent vomiting. Nausea of pregnancy."
+  ],
+  "urinary_symptoms": [
+    "Desire for coitus (Canth; Camph; Fl ac; Lach; Phos; Plat). Any touch on body excites a voluptuous sensation."
+  ],
+  "musculoskeletal_symptoms": [
+    "Limbs stiff. Rheumatism with stiff joints. Violent jerking, twitching, and trembling. Tetanic convulsions and opisthotonos; spasms provoked by slightest touch and attempt to move. Shocks in the muscles. Cramp-like pains."
+  ],
+  "skin_symptoms": [
+    "Itching of whole body, especially nose. Icy sensation down the spine."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [
+    "Cold chills down spine. Perspiration in a stream down head and chest. Lower extremities cold."
+  ],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/s/stry.htm",
+    "title": "STRYCHNINUM PURUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:31:58.839Z"
+  },
+  "confidence_score": 0.8
+}

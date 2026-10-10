@@ -1,0 +1,57 @@
+{
+  "name": "COPAIVA OFFICINALIS",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Balsam of Copaiva"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Food seems too salty. Gastric troubles during menstruation or following urticaria. Gas and intestinal flatulence, urging to stool and difficult passage with pain.",
+    "Excessive sensitiveness; pain in occiput. Dull, frontal headache, passes to occiput and back again, with throbbing, worse right side and motion. Scalp sensitive. Sensitive to sharp sounds.",
+    "Cough, with profuse, gray, purulent expectoration. Tickling in larynx, trachea, and bronchi. Bronchial catarrh, with profuse greenish, offensive discharge."
+  ],
+  "guiding_symptoms": [
+    "Food seems too salty. Gastric troubles during menstruation or following urticaria. Gas and intestinal flatulence, urging to stool and difficult passage with pain.",
+    "Excessive sensitiveness; pain in occiput. Dull, frontal headache, passes to occiput and back again, with throbbing, worse right side and motion. Scalp sensitive. Sensitive to sharp sounds.",
+    "Cough, with profuse, gray, purulent expectoration. Tickling in larynx, trachea, and bronchi. Bronchial catarrh, with profuse greenish, offensive discharge."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Excessive sensitiveness; pain in occiput. Dull, frontal headache, passes to occiput and back again, with throbbing, worse right side and motion. Scalp sensitive. Sensitive to sharp sounds."
+  ],
+  "respiratory_symptoms": [
+    "Cough, with profuse, gray, purulent expectoration. Tickling in larynx, trachea, and bronchi. Bronchial catarrh, with profuse greenish, offensive discharge."
+  ],
+  "gi_symptoms": [
+    "Food seems too salty. Gastric troubles during menstruation or following urticaria. Gas and intestinal flatulence, urging to stool and difficult passage with pain."
+  ],
+  "urinary_symptoms": [
+    "Burning pressure; painful micturition by drops. Retention, with pain in bladder, anus, and rectum. Catarrh of bladder; dysuria. Swelling of orifice. Constant desire to urinate. Urine smells of violets. Greenish, turbid color; peculiar pungent odor."
+  ],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [
+    "Hives, with fever and constipation. Roseola. Erysipelatous inflammation, especially around abdomen. Circumscribed lenticular patches, with itching; mottled appearance. Chronic urticaria in children. Bullous eruptions."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Santalum--(aching in kidneys"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/c/cop.htm",
+    "title": "COPAIVA OFFICINALIS - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:24:26.256Z"
+  },
+  "confidence_score": 0.8
+}

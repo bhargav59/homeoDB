@@ -1,0 +1,59 @@
+{
+  "name": "ANGUSTURA VERA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Bark of Galipea Cusparia"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Bitter taste. Irresistible desire for coffee. Pain from navel into sternum. Atonic dyspepsia. Belching, with cough (Ambra).",
+    "Oversensitive. Headache, with heat of face. Acute pain in cheeks. Drawing in facial muscles. Pain in temporal muscles, when opening the jaws. Pain in articulation of jaw, in masseter muscles, as if fatigued by chewing too much. Cramp-pain on the zygomatic arch.",
+    "Stiffness and tension of muscles and joints. Pain in limbs on walking. Arms tired and heavy. Caries of long bones. Coldness of fingers. Pain in knees. Cracking in joints.",
+    "Itching along back. Pain in cervical vertebrć. Drawing in the neck. Pain in spine, at nape of neck and sacrum, worse on pressure. Twitching and jerking along back. Bends backward."
+  ],
+  "guiding_symptoms": [
+    "Bitter taste. Irresistible desire for coffee. Pain from navel into sternum. Atonic dyspepsia. Belching, with cough (Ambra).",
+    "Oversensitive. Headache, with heat of face. Acute pain in cheeks. Drawing in facial muscles. Pain in temporal muscles, when opening the jaws. Pain in articulation of jaw, in masseter muscles, as if fatigued by chewing too much. Cramp-pain on the zygomatic arch.",
+    "Stiffness and tension of muscles and joints. Pain in limbs on walking. Arms tired and heavy. Caries of long bones. Coldness of fingers. Pain in knees. Cracking in joints."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Oversensitive. Headache, with heat of face. Acute pain in cheeks. Drawing in facial muscles. Pain in temporal muscles, when opening the jaws. Pain in articulation of jaw, in masseter muscles, as if fatigued by chewing too much. Cramp-pain on the zygomatic arch."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "Bitter taste. Irresistible desire for coffee. Pain from navel into sternum. Atonic dyspepsia. Belching, with cough (Ambra)."
+  ],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [
+    "Stiffness and tension of muscles and joints. Pain in limbs on walking. Arms tired and heavy. Caries of long bones. Coldness of fingers. Pain in knees. Cracking in joints."
+  ],
+  "skin_symptoms": [
+    "Caries, very painful ulcers which affect the bone."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Nux",
+    "Ruta",
+    "Mercur",
+    "Brucea"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/a/ang.htm",
+    "title": "ANGUSTURA VERA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-01T13:33:58.532Z"
+  },
+  "confidence_score": 0.6799999999999999
+}

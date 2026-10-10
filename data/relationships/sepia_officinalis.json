@@ -1,0 +1,25 @@
+{
+  "remedy_name": "SEPIA OFFICINALIS",
+  "source_file": "raw_1772504882753.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/s/sep.htm",
+  "relationships": {
+    "complementary": [
+      "Nat mur"
+    ],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [
+      "Lach"
+    ],
+    "compare": [
+      "Lit",
+      "Murex",
+      "Silica",
+      "Sulph",
+      "Asperula-Nacent oxygen"
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "parsed_at": "2026-03-03T15:23:37.730Z"
+}

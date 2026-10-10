@@ -1,0 +1,43 @@
+{
+  "name": "AETHIOPS MINERALIS",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Sulph and Quicksilver, or Black Sulphide Mercury"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [],
+  "guiding_symptoms": [],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [
+    "Eruptions. Favus-like, scrofulous, herpetic and eczematous."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Calc",
+    "Sil",
+    "Psorin"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/a/aethi-m.htm",
+    "title": "AETHIOPS MINERALIS - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-01T13:27:18.874Z"
+  },
+  "confidence_score": 0.38
+}

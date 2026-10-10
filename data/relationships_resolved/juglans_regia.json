@@ -1,0 +1,21 @@
+{
+  "remedy_name": "JUGLANS REGIA",
+  "source_file": "raw_1772502497490.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Juglans cinerea",
+        "resolved_name": "JUGLANS CINEREA",
+        "confidence": 1,
+        "method": "exact"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:09.993Z"
+}

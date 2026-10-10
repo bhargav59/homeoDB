@@ -1,0 +1,51 @@
+{
+  "name": "PIX LIQUIDA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Pine-tar"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Pain at a spot about the third left costal cartilage where it joins the rib. Rales through the lungs, and muco-purulent sputum; offensive odor and taste. Chronic bronchitis."
+  ],
+  "guiding_symptoms": [
+    "Pain at a spot about the third left costal cartilage where it joins the rib. Rales through the lungs, and muco-purulent sputum; offensive odor and taste. Chronic bronchitis."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [],
+  "respiratory_symptoms": [
+    "Pain at a spot about the third left costal cartilage where it joins the rib. Rales through the lungs, and muco-purulent sputum; offensive odor and taste. Chronic bronchitis."
+  ],
+  "gi_symptoms": [],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [
+    "Cracked; itches intolerably; bleeds on scratching. Eruptions on back of hands."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "its constituents: Kreosol",
+    "Petrol",
+    "Pinus",
+    "Eupion",
+    "Terebinth"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/p/pix.htm",
+    "title": "PIX LIQUIDA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:16:46.678Z"
+  },
+  "confidence_score": 0.44
+}

@@ -1,0 +1,67 @@
+{
+  "name": "HYPERICUM PERFORATUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "St. John's-wort"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Craving for wine. Thirst; Nausea. Tongue coated white at base, tip clean. Feeling of lump in stomach (Abies nig; Bry).",
+    "Heavy; feels as if touched by an icy cold hand. Throbbing in vertex; worse in close room. Brain seems compressed. Right side of face aches. Brain-fag and neurasthenia. Facial neuralgia and toothache of a pulling, tearing character, with sadness. Head feels longer-elongated to a point. In fractured skull, bone splinters. Brain feels alive. Pains in eyes and ears. Falling out of hair.",
+    "Asthma worse foggy weather and relieved by profuse perspiration.",
+    "Darting pain in shoulders. Pressure along ulnar side of arm. Cramp in calves. Pain in toes and fingers, especially in tips. Crawling in hand and feet. Lancinating pain in upper and lower limbs. Neuritis, with tingling, burning pain, numbness and flossy skin. Joints feel bruised. Hysterical joints. Tetanus (Physost; Kali brom). Traumatic neuralgia and neuritis.",
+    "Pain in nape of neck. Pressure over sacrum. Spinal concussion. Coccyx injury from fall, with pain radiating up spine and down limbs. Jerking and twitching of muscles."
+  ],
+  "guiding_symptoms": [
+    "Craving for wine. Thirst; Nausea. Tongue coated white at base, tip clean. Feeling of lump in stomach (Abies nig; Bry).",
+    "Heavy; feels as if touched by an icy cold hand. Throbbing in vertex; worse in close room. Brain seems compressed. Right side of face aches. Brain-fag and neurasthenia. Facial neuralgia and toothache of a pulling, tearing character, with sadness. Head feels longer-elongated to a point. In fractured skull, bone splinters. Brain feels alive. Pains in eyes and ears. Falling out of hair.",
+    "Asthma worse foggy weather and relieved by profuse perspiration."
+  ],
+  "modalities": {
+    "worse": [
+      "in cold",
+      "dampness",
+      "in a fog",
+      "in close room",
+      "least exposure"
+    ],
+    "better": [
+      "bending head backward"
+    ]
+  },
+  "mind_symptoms": [
+    "Feels as if lifted high in air, or anxiety lest he fall from heights. Mistakes in writing. Effects of shock. Melancholy."
+  ],
+  "head_symptoms": [
+    "Heavy; feels as if touched by an icy cold hand. Throbbing in vertex; worse in close room. Brain seems compressed. Right side of face aches. Brain-fag and neurasthenia. Facial neuralgia and toothache of a pulling, tearing character, with sadness. Head feels longer-elongated to a point. In fractured skull, bone splinters. Brain feels alive. Pains in eyes and ears. Falling out of hair."
+  ],
+  "respiratory_symptoms": [
+    "Asthma worse foggy weather and relieved by profuse perspiration."
+  ],
+  "gi_symptoms": [
+    "Craving for wine. Thirst; Nausea. Tongue coated white at base, tip clean. Feeling of lump in stomach (Abies nig; Bry)."
+  ],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [
+    "Darting pain in shoulders. Pressure along ulnar side of arm. Cramp in calves. Pain in toes and fingers, especially in tips. Crawling in hand and feet. Lancinating pain in upper and lower limbs. Neuritis, with tingling, burning pain, numbness and flossy skin. Joints feel bruised. Hysterical joints. Tetanus (Physost; Kali brom). Traumatic neuralgia and neuritis."
+  ],
+  "skin_symptoms": [
+    "Hyperidrosis, sweating of scalp, worse in morning after sleep; falling of hair from injury; eczema of hands and face, intense itching, eruption seems to be under the skin. Herpes zoster. Old ulcers or sores in mouth when very sensitive. Lacerated wounds with much prostration from loss of blood."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/h/hyper.htm",
+    "title": "HYPERICUM PERFORATUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:44:39.898Z"
+  },
+  "confidence_score": 0.8
+}

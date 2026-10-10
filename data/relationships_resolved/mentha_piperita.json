@@ -1,0 +1,33 @@
+{
+  "remedy_name": "MENTHA PIPERITA",
+  "source_file": "raw_1772503195952.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Rumex",
+        "resolved_name": "RUMEX CRISPUS",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Laches",
+        "resolved_name": "LACHESIS",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      },
+      {
+        "original": "Mentha pulegium--European pennyroyal--",
+        "resolved_name": "MENTHA PIPERITA",
+        "confidence": 0.8,
+        "method": "substring"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:10.281Z"
+}

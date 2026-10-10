@@ -1,0 +1,50 @@
+{
+  "name": "AMMONIUM BENZOICUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Benzoate of Ammonia"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Pain across sacrum, with urgency to stool. Soreness in region of right kidney."
+  ],
+  "guiding_symptoms": [
+    "Pain across sacrum, with urgency to stool. Soreness in region of right kidney."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Heavy, stupid."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [
+    "Pain across sacrum, with urgency to stool. Soreness in region of right kidney."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Terebinth",
+    "Benz ac",
+    "Ammonia salts",
+    "Caust"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/a/am-be.htm",
+    "title": "AMMONIUM BENZOICUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-01T13:30:21.725Z"
+  },
+  "confidence_score": 0.5
+}

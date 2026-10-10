@@ -1,0 +1,41 @@
+{
+  "name": "PENTHORUM SEDOIDES",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Virginia Stonecrop"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [],
+  "guiding_symptoms": [],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Constant wet feeling in nose, which no amount of blowing will relieve. Discharge thick, pus-like, streaked with blood. Post-nasal catarrh of puberty."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Penthororun often follows Pulsat"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/p/pen.htm",
+    "title": "PENTHORUM SEDOIDES - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:14:09.900Z"
+  },
+  "confidence_score": 0.38
+}

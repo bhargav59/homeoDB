@@ -1,0 +1,50 @@
+{
+  "name": "POPULUS CANDICANS",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Balm of Gilead"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Discusses her symptoms with every one. Hot head with cold extremities. Cold-sores on lips (Nat mur). Tongue feels thick and numb. Burning irritation of eyes, nose, mouth, throat, and air passages.",
+    "Acute hoarseness. Throat and nostrils burn. Sits bent forward with dry cough. Pharynx and larynx feel dry, and the voice weak and toneless. Rawness and soreness of chest and throat. Cough of children caused by naso-pharyngeal catarrh; mucus drops from posterior nares.",
+    "Doses.--Tincture."
+  ],
+  "guiding_symptoms": [
+    "Discusses her symptoms with every one. Hot head with cold extremities. Cold-sores on lips (Nat mur). Tongue feels thick and numb. Burning irritation of eyes, nose, mouth, throat, and air passages.",
+    "Acute hoarseness. Throat and nostrils burn. Sits bent forward with dry cough. Pharynx and larynx feel dry, and the voice weak and toneless. Rawness and soreness of chest and throat. Cough of children caused by naso-pharyngeal catarrh; mucus drops from posterior nares.",
+    "Doses.--Tincture."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Discusses her symptoms with every one. Hot head with cold extremities. Cold-sores on lips (Nat mur). Tongue feels thick and numb. Burning irritation of eyes, nose, mouth, throat, and air passages."
+  ],
+  "respiratory_symptoms": [
+    "Acute hoarseness. Throat and nostrils burn. Sits bent forward with dry cough. Pharynx and larynx feel dry, and the voice weak and toneless. Rawness and soreness of chest and throat. Cough of children caused by naso-pharyngeal catarrh; mucus drops from posterior nares.",
+    "Doses.--Tincture."
+  ],
+  "gi_symptoms": [],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/p/pop-c.htm",
+    "title": "POPULUS CANDICANS - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:06:33.054Z"
+  },
+  "confidence_score": 0.32
+}

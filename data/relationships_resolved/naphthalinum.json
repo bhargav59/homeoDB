@@ -1,0 +1,33 @@
+{
+  "remedy_name": "NAPHTHALINUM",
+  "source_file": "raw_1772503480307.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Dros",
+        "resolved_name": "DROSERA",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      },
+      {
+        "original": "Corall",
+        "resolved_name": "CORALLIUM RUBRUM",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Coccus",
+        "resolved_name": "COCCUS CACTI",
+        "confidence": 1,
+        "method": "exact"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:10.416Z"
+}

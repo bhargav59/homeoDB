@@ -1,0 +1,33 @@
+{
+  "remedy_name": "IRIDIUM METALLICUM",
+  "source_file": "raw_1772502418795.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Platina",
+        "resolved_name": "PLATINA",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      },
+      {
+        "original": "Palladium",
+        "resolved_name": "PALLADIUM METALLICUM",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Osmium",
+        "resolved_name": "OSMIUM",
+        "confidence": 1,
+        "method": "exact"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:09.966Z"
+}

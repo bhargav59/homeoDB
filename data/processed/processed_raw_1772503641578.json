@@ -1,0 +1,72 @@
+{
+  "name": "NUX VOMICA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Poison-nut"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Sour taste, and nausea in the morning, after eating. Weight and pain in stomach; worse, eating, some time after. Flatulence and pyrosis. Sour, bitter eructations. Nausea and vomiting, with much retching. Ravenous hunger, especially about a day before an attack of dyspepsia. Region of stomach very sensitive to pressure (Bry; Ars). Epigastrium bloated, with pressure s of a stone, several hours after eating. Desire for stimulants. Loves fats and tolerates them well (Puls opposite). Dyspepsia from drinking strong coffee. Difficult belching of gas. Wants to vomit, but cannot.",
+    "Headache in occiput or over eyes, with vertigo; brain feels turning in a circle. Oversensitiveness. Vertigo, with momentary loss of consciousness. Intoxicated feeling; worse, morning, mental exertion, tobacco, alcohol, coffee, open air. Pressing pain on vertex, as if a nail driven in. Vertigo in morning and after dinner. Scalp sensitive. Frontal headache, with desire to press the head against something. Congestive headache, associated with hæmorrhoids. Headache in the sunshine (Glon; Nat carb). Feels distended and sore within, after a debauch.",
+    "Catarrhal hoarseness, with scraping in throat. Spasmodic constriction. Asthma, with fullness in stomach, morning or after eating. Cough, with sensation as if something were torn loose in chest. Shallow respiration. Oppressed breathing. Tight, dry hacking cough; at times with bloody expectoration. Cough brings on bursting headache and bruised pain in epigastric region.",
+    "Arms and hands go to sleep. Paresis of arms, with shocks. Legs numb; feel paralyzed; cramps in calves and soles. Partial paralysis, from overexertion or getting soaked (Rhus). Cracking in knee-joints during motion. Drags his feet when walking. Sensation of sudden loss of power of arms and legs in the morning.",
+    "Backache in lumbar region. Burning in spine; worse, 3 to 4 am. Cervico-brachial neuralgia; worse, touch. Must situp in order to turn in bed. Bruised pain below scapulæ. Sitting is painful."
+  ],
+  "guiding_symptoms": [
+    "Sour taste, and nausea in the morning, after eating. Weight and pain in stomach; worse, eating, some time after. Flatulence and pyrosis. Sour, bitter eructations. Nausea and vomiting, with much retching. Ravenous hunger, especially about a day before an attack of dyspepsia. Region of stomach very sensitive to pressure (Bry; Ars). Epigastrium bloated, with pressure s of a stone, several hours after eating. Desire for stimulants. Loves fats and tolerates them well (Puls opposite). Dyspepsia from drinking strong coffee. Difficult belching of gas. Wants to vomit, but cannot.",
+    "Headache in occiput or over eyes, with vertigo; brain feels turning in a circle. Oversensitiveness. Vertigo, with momentary loss of consciousness. Intoxicated feeling; worse, morning, mental exertion, tobacco, alcohol, coffee, open air. Pressing pain on vertex, as if a nail driven in. Vertigo in morning and after dinner. Scalp sensitive. Frontal headache, with desire to press the head against something. Congestive headache, associated with hæmorrhoids. Headache in the sunshine (Glon; Nat carb). Feels distended and sore within, after a debauch.",
+    "Catarrhal hoarseness, with scraping in throat. Spasmodic constriction. Asthma, with fullness in stomach, morning or after eating. Cough, with sensation as if something were torn loose in chest. Shallow respiration. Oppressed breathing. Tight, dry hacking cough; at times with bloody expectoration. Cough brings on bursting headache and bruised pain in epigastric region."
+  ],
+  "modalities": {
+    "worse": [
+      "morning, mental exertion, after eating, touch, spices, stimulants, narcotics, dry weather, cold"
+    ],
+    "better": [
+      "from a nap, if allowed to finish it",
+      "in evening, while at rest, in damp, wet weather (Caust), strong pressure"
+    ]
+  },
+  "mind_symptoms": [
+    "Very irritable: sensitive to all impressions. Ugly, malicious. Cannot bear noises, odors, light, etc. Does not want to be touched. Time passes too slowly. Even the least ailment affects her greatly. Disposed to reproach others. Sullen, fault-finding."
+  ],
+  "head_symptoms": [
+    "Headache in occiput or over eyes, with vertigo; brain feels turning in a circle. Oversensitiveness. Vertigo, with momentary loss of consciousness. Intoxicated feeling; worse, morning, mental exertion, tobacco, alcohol, coffee, open air. Pressing pain on vertex, as if a nail driven in. Vertigo in morning and after dinner. Scalp sensitive. Frontal headache, with desire to press the head against something. Congestive headache, associated with hæmorrhoids. Headache in the sunshine (Glon; Nat carb). Feels distended and sore within, after a debauch."
+  ],
+  "respiratory_symptoms": [
+    "Catarrhal hoarseness, with scraping in throat. Spasmodic constriction. Asthma, with fullness in stomach, morning or after eating. Cough, with sensation as if something were torn loose in chest. Shallow respiration. Oppressed breathing. Tight, dry hacking cough; at times with bloody expectoration. Cough brings on bursting headache and bruised pain in epigastric region."
+  ],
+  "gi_symptoms": [
+    "Sour taste, and nausea in the morning, after eating. Weight and pain in stomach; worse, eating, some time after. Flatulence and pyrosis. Sour, bitter eructations. Nausea and vomiting, with much retching. Ravenous hunger, especially about a day before an attack of dyspepsia. Region of stomach very sensitive to pressure (Bry; Ars). Epigastrium bloated, with pressure s of a stone, several hours after eating. Desire for stimulants. Loves fats and tolerates them well (Puls opposite). Dyspepsia from drinking strong coffee. Difficult belching of gas. Wants to vomit, but cannot."
+  ],
+  "urinary_symptoms": [
+    "Easily excited desire. Emissions from high living. Bad effects of sexual excesses. Constrictive pain in testicles. Orchitis (Hama; Puls). Spermatorrhœa, with dreams, backache, burning in spine, weakness and irritability."
+  ],
+  "musculoskeletal_symptoms": [
+    "Arms and hands go to sleep. Paresis of arms, with shocks. Legs numb; feel paralyzed; cramps in calves and soles. Partial paralysis, from overexertion or getting soaked (Rhus). Cracking in knee-joints during motion. Drags his feet when walking. Sensation of sudden loss of power of arms and legs in the morning."
+  ],
+  "skin_symptoms": [
+    "Body burning hot, especially face; yet cannot move or uncover without feeling chilly. Urticaria, with gastric derangement. Acne; skin red and blotchy."
+  ],
+  "sleep_symptoms": [
+    "Cannot sleep after 3 am until towards morning; awakes feeling wretchedly. Drowsy after meals, and in early evening. Dreams full of bustle and hurry. Better after a short sleep, unless aroused."
+  ],
+  "fever_symptoms": [
+    "Cold stage predominates. Paroxysms anticipate in morning. Excessive rigor, with blueness of finger-nails. Aching in limbs and back, and gastric symptoms. Chilly; must be covered in every stage of fever. Perspiration sour; only one side of body. Chilliness on being uncovered, yet he does not allow being covered. Dry heat of the body."
+  ],
+  "complementary_remedies": [
+    "Strychnia"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/n/nux-v.htm",
+    "title": "NUX VOMICA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:07:21.578Z"
+  },
+  "confidence_score": 0.8
+}

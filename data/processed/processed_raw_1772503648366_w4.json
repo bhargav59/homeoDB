@@ -1,0 +1,48 @@
+{
+  "name": "THALLIUM METALLICUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "The Metal Thallium"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Trembling. Paralytic feeling. Lancinating pains, like electric shocks. Very tired. Chronic myelitis. Numbness in fingers and toes, with extension up lower extremities, involving lower abdomen and perineum. Paralysis of lower limbs. Cyanosis of extremities. Formication, beginning in fingers and extending through pelvis, perineum and inner thighs to feet."
+  ],
+  "guiding_symptoms": [
+    "Trembling. Paralytic feeling. Lancinating pains, like electric shocks. Very tired. Chronic myelitis. Numbness in fingers and toes, with extension up lower extremities, involving lower abdomen and perineum. Paralysis of lower limbs. Cyanosis of extremities. Formication, beginning in fingers and extending through pelvis, perineum and inner thighs to feet."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [
+    "Trembling. Paralytic feeling. Lancinating pains, like electric shocks. Very tired. Chronic myelitis. Numbness in fingers and toes, with extension up lower extremities, involving lower abdomen and perineum. Paralysis of lower limbs. Cyanosis of extremities. Formication, beginning in fingers and extending through pelvis, perineum and inner thighs to feet."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Lathyr",
+    "Caust",
+    "Arg nit",
+    "Plumbum"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/t/thal-met.htm",
+    "title": "THALLIUM METALLICUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:07:28.366Z"
+  },
+  "confidence_score": 0.38
+}

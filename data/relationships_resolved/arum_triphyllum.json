@@ -1,0 +1,47 @@
+{
+  "remedy_name": "ARUM TRIPHYLLUM",
+  "source_file": "raw_1772433324539.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      {
+        "original": "Buttermilk",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      }
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Ammon carb",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "Ailanthus",
+        "resolved_name": "AILANTHUS GLANDULOSA",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Cepa",
+        "resolved_name": "ALLIUM CEPA",
+        "confidence": 0.8,
+        "method": "substring"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": [
+      {
+        "original": "Buttermilk",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      }
+    ]
+  },
+  "resolved_at": "2026-03-11T01:50:08.569Z"
+}

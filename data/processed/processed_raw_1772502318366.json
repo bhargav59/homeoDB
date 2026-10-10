@@ -1,0 +1,73 @@
+{
+  "name": "IGNATIA AMARA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "St. Ignatius Bean"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Sour eructation. All-gone feeling in stomach; much flatulence; hiccough. Cramps in stomach; worse slightest contact. Averse to ordinary diet; longs for great variety of indigestible articles. Craving for acid things. Sinking in stomach, relieved by taking a deep breath.",
+    "Feels hollow, heavy; worse, stooping. Headache as if a nail were driven out through the side. Cramp-like pain over root of nose. Congestive headaches following anger or grief; worse, smoking or smelling tobacco, inclines head forward.",
+    "Dry, spasmodic cough in quick successive shocks. Spasm of glottis (Calc). Reflex coughs. Coughing increases the desire to cough. Much sighing. Hollow spasmodic cough, worse in the evening, little expectoration, leaving pain in trachea.",
+    "Jerking of limbs. Pain in tendo-Achillis and calf. Ulcerative pain in soles."
+  ],
+  "guiding_symptoms": [
+    "Sour eructation. All-gone feeling in stomach; much flatulence; hiccough. Cramps in stomach; worse slightest contact. Averse to ordinary diet; longs for great variety of indigestible articles. Craving for acid things. Sinking in stomach, relieved by taking a deep breath.",
+    "Feels hollow, heavy; worse, stooping. Headache as if a nail were driven out through the side. Cramp-like pain over root of nose. Congestive headaches following anger or grief; worse, smoking or smelling tobacco, inclines head forward.",
+    "Dry, spasmodic cough in quick successive shocks. Spasm of glottis (Calc). Reflex coughs. Coughing increases the desire to cough. Much sighing. Hollow spasmodic cough, worse in the evening, little expectoration, leaving pain in trachea."
+  ],
+  "modalities": {
+    "worse": [
+      "in the morning, open air, after meals, coffee, smoking, liquids, external warmth"
+    ],
+    "better": [
+      "while eating, change of position"
+    ]
+  },
+  "mind_symptoms": [
+    "Changeable mood; introspective; silently brooding. Melancholic, sad, tearful. Not communicative. Sighing and sobbing. After shocks, grief, disappointment."
+  ],
+  "head_symptoms": [
+    "Feels hollow, heavy; worse, stooping. Headache as if a nail were driven out through the side. Cramp-like pain over root of nose. Congestive headaches following anger or grief; worse, smoking or smelling tobacco, inclines head forward."
+  ],
+  "respiratory_symptoms": [
+    "Dry, spasmodic cough in quick successive shocks. Spasm of glottis (Calc). Reflex coughs. Coughing increases the desire to cough. Much sighing. Hollow spasmodic cough, worse in the evening, little expectoration, leaving pain in trachea."
+  ],
+  "gi_symptoms": [
+    "Sour eructation. All-gone feeling in stomach; much flatulence; hiccough. Cramps in stomach; worse slightest contact. Averse to ordinary diet; longs for great variety of indigestible articles. Craving for acid things. Sinking in stomach, relieved by taking a deep breath."
+  ],
+  "urinary_symptoms": [
+    "Menses, black, too early, too profuse, or scanty. During menses great languor, with spasmodic pains in stomach and abdomen. Feminine sexual frigidity. Suppression from grief."
+  ],
+  "musculoskeletal_symptoms": [
+    "Jerking of limbs. Pain in tendo-Achillis and calf. Ulcerative pain in soles."
+  ],
+  "skin_symptoms": [
+    "Itching, nettle-rash. Very sensitive to draught of air. Excoriation, especially around vagina and mouth."
+  ],
+  "sleep_symptoms": [
+    "Very light. Jerking of limbs on going to sleep. Insomnia from grief, cares, with itching of arms and violent yawning. Dreams continuing a long time; troubling him."
+  ],
+  "fever_symptoms": [
+    "Chill, with thirst; not relieved by external heat. During fever, itching; nettle-rash all over body."
+  ],
+  "complementary_remedies": [
+    "Zinc",
+    "Kali phos",
+    "Sep",
+    "Cimicif"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/i/ign.htm",
+    "title": "IGNATIA AMARA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:45:18.366Z"
+  },
+  "confidence_score": 0.8
+}

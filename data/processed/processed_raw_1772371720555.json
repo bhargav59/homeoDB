@@ -1,0 +1,57 @@
+{
+  "name": "ALFALFA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Medicago Sativa, California Clover or Lucerne"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Increased thirst. Appetite impaired, but chiefly increased even to bulimia. He must eat frequently, so that he cannot wait for regular meals; hungry in forenoon (Sul). Much nibbling of food and craving for sweets.",
+    "Dull, heavy feeling in occiput, in and above the eyes, worse toward evening. Pain in left side of head. Violent headache."
+  ],
+  "guiding_symptoms": [
+    "Increased thirst. Appetite impaired, but chiefly increased even to bulimia. He must eat frequently, so that he cannot wait for regular meals; hungry in forenoon (Sul). Much nibbling of food and craving for sweets.",
+    "Dull, heavy feeling in occiput, in and above the eyes, worse toward evening. Pain in left side of head. Violent headache."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [
+    "It induces mental exhilaration of buoyancy, i.e, a general feeling of well being; clear and bright, so that all blues are dissipated. Dull, drowsy, stupid (Gels); gloomy and irritable, worse during evening."
+  ],
+  "head_symptoms": [
+    "Dull, heavy feeling in occiput, in and above the eyes, worse toward evening. Pain in left side of head. Violent headache."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "Increased thirst. Appetite impaired, but chiefly increased even to bulimia. He must eat frequently, so that he cannot wait for regular meals; hungry in forenoon (Sul). Much nibbling of food and craving for sweets."
+  ],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [],
+  "sleep_symptoms": [
+    "Slept better than usual, especially in early morning; it induces quiet, reposeful and refreshing sleep."
+  ],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Avena sat",
+    "Dipodium punct",
+    "Gels",
+    "Hydr",
+    "Kali phos"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/a/alf.htm",
+    "title": "ALFALFA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-01T13:28:40.555Z"
+  },
+  "confidence_score": 0.6799999999999999
+}

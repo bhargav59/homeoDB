@@ -1,0 +1,23 @@
+{
+  "name": "Cough, Cold & Catarrh",
+  "url": "https://www.wheezalstore.com/product/29687080/Cough--Cold---Catarrh",
+  "collection_id": "bio_combination",
+  "title": "Cough, Cold & Catarrh",
+  "price": "₹99",
+  "description": "",
+  "image": "",
+  "scraped_at": "2026-03-26T05:28:10.472Z",
+  "composition": [
+    "Ferrum Phos. 3x",
+    "Kali Mur. 3x",
+    "Mag. Phos. 3x",
+    "Nat. Mur. 3x",
+    "Nat. Sulph. 3x"
+  ],
+  "indications": [
+    "Acute cough",
+    "Cold with headache",
+    "Pain in chest"
+  ],
+  "bc_number": "BC-6"
+}

@@ -1,0 +1,65 @@
+{
+  "name": "MERCURIUS CORROSIVUS",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Corrosive Sublimate"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Incessant, green, bilious vomiting. Epigastrium very sensitive.",
+    "Delirium, stupor. Frontal pain, congestion of head with burning in cheeks. Drawing pain in periosteum of skull.",
+    "Pain in larynx as cut with knife. Aphonia. Cough, with bloody expectoration. Pulse rapid and intermittent. Stitches through side of chest.",
+    "Urine.--Intense burning in urethra. Urine hot, burning, scanty or suppressed; bloody, greenish discharge. Albuminous. Tenesmus of bladder. Stabbing pain extending up urethra into bladder. Perspiration after urinating."
+  ],
+  "guiding_symptoms": [
+    "Incessant, green, bilious vomiting. Epigastrium very sensitive.",
+    "Delirium, stupor. Frontal pain, congestion of head with burning in cheeks. Drawing pain in periosteum of skull.",
+    "Pain in larynx as cut with knife. Aphonia. Cough, with bloody expectoration. Pulse rapid and intermittent. Stitches through side of chest."
+  ],
+  "modalities": {
+    "worse": [
+      "evening, night, acids,"
+    ],
+    "better": [
+      "while at rest"
+    ]
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Delirium, stupor. Frontal pain, congestion of head with burning in cheeks. Drawing pain in periosteum of skull."
+  ],
+  "respiratory_symptoms": [
+    "Pain in larynx as cut with knife. Aphonia. Cough, with bloody expectoration. Pulse rapid and intermittent. Stitches through side of chest.",
+    "Urine.--Intense burning in urethra. Urine hot, burning, scanty or suppressed; bloody, greenish discharge. Albuminous. Tenesmus of bladder. Stabbing pain extending up urethra into bladder. Perspiration after urinating."
+  ],
+  "gi_symptoms": [
+    "Incessant, green, bilious vomiting. Epigastrium very sensitive."
+  ],
+  "urinary_symptoms": [
+    "Penis and testes enormously swollen. Chancres assume phagedćnic appearance. Gonorrhśa; urethra orifice red, swollen; glans sore and hot. Discharge greenish, thick."
+  ],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [
+    "Chilly from slightest exposure. Profuse perspiration; surface cold."
+  ],
+  "complementary_remedies": [
+    "Ars",
+    "Lach",
+    "allays spasm and nervous irritability"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/m/merc-c.htm",
+    "title": "MERCURIUS CORROSIVUS - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:00:47.174Z"
+  },
+  "confidence_score": 0.8
+}

@@ -1,0 +1,71 @@
+{
+  "name": "CHAMOMILLA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "German Chamomile"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Eructations, foul. Nausea after coffee. Sweats after eating or drinking. Aversion to warm drinks. Tongue yellow; taste bitter. Bilious vomiting. Acid rising; regurgitation of food. Bitter, bilious vomiting. Pressive gastralgia, as from a stone (Bry; Abies n).",
+    "Throbbing headache in one-half of the brain. Inclined to bend head backward. Hot, clammy sweat on forehead and scalp.",
+    "Hoarseness, hawking, rawness of larynx. Irritable, dry, tickling cough; suffocative tightness of chest, with bitter expectoration in daytime. Rattling of mucus in child's chest.",
+    "Violent rheumatic pains drive him out of bed at night; compelled to walk about. Burning of soles at night (Sulph). Ankles give way in the afternoon. Nightly paralytic loss of power in the feet, unable to step on them.",
+    "Insupportable pain in loins and hips. Lumbago. Stiffness of neck muscles."
+  ],
+  "guiding_symptoms": [
+    "Eructations, foul. Nausea after coffee. Sweats after eating or drinking. Aversion to warm drinks. Tongue yellow; taste bitter. Bilious vomiting. Acid rising; regurgitation of food. Bitter, bilious vomiting. Pressive gastralgia, as from a stone (Bry; Abies n).",
+    "Throbbing headache in one-half of the brain. Inclined to bend head backward. Hot, clammy sweat on forehead and scalp.",
+    "Hoarseness, hawking, rawness of larynx. Irritable, dry, tickling cough; suffocative tightness of chest, with bitter expectoration in daytime. Rattling of mucus in child's chest."
+  ],
+  "modalities": {
+    "worse": [
+      "by heat, anger, open air, wind, night"
+    ],
+    "better": [
+      "from being carried, warm wet weather"
+    ]
+  },
+  "mind_symptoms": [
+    "Whining restlessness. Child wants many things which he refuses again. Piteous moaning because he cannot have what he wants. Child can only be quieted when carried about and petted constantly. Impatient, intolerant of being spoken to or interrupted; extremely sensitive to every pain; always complaining. Spiteful, snappish. Complaints from anger and vexation. Mental calmness contraindicates Chamom."
+  ],
+  "head_symptoms": [
+    "Throbbing headache in one-half of the brain. Inclined to bend head backward. Hot, clammy sweat on forehead and scalp."
+  ],
+  "respiratory_symptoms": [
+    "Hoarseness, hawking, rawness of larynx. Irritable, dry, tickling cough; suffocative tightness of chest, with bitter expectoration in daytime. Rattling of mucus in child's chest."
+  ],
+  "gi_symptoms": [
+    "Eructations, foul. Nausea after coffee. Sweats after eating or drinking. Aversion to warm drinks. Tongue yellow; taste bitter. Bilious vomiting. Acid rising; regurgitation of food. Bitter, bilious vomiting. Pressive gastralgia, as from a stone (Bry; Abies n)."
+  ],
+  "urinary_symptoms": [
+    "Uterine hæmorrhages. Profuse discharge of clotted, dark blood, with labor-like pains. Labor pains spasmodic; press upward (Gels). Patient intolerant of pain (Caul; Caust; Gels; Hyos; Puls). Nipples inflamed; tender to touch. Infant's breasts tender. Yellow, acrid leucorrhœa (Ars; Sep; Sulph)."
+  ],
+  "musculoskeletal_symptoms": [
+    "Violent rheumatic pains drive him out of bed at night; compelled to walk about. Burning of soles at night (Sulph). Ankles give way in the afternoon. Nightly paralytic loss of power in the feet, unable to step on them."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [
+    "Drowsiness with moaning, weeping and wailing during sleep; anxious, frightened dreams, with half-open eyes."
+  ],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Cypriped",
+    "Anthemis",
+    "Aconite",
+    "Puls",
+    "Coffea"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/c/cham.htm",
+    "title": "CHAMOMILLA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:17:21.266Z"
+  },
+  "confidence_score": 0.8
+}

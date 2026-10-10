@@ -1,0 +1,67 @@
+{
+  "name": "HELLEBORUS NIGER",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Snow-rose"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Forehead wrinkled in folds. Cold sweat. Stupefying headache. Rolls head day and night; moaning, sudden screams. Bores head into pillow; beats it with hands. Dull pain in occiput, with sensation of water swashing inside. Headache culminates in vomiting.",
+    "Frequent sighing. Respiration irregular. Chest constricted; gasps for breath. Hydrothorax (Merc sulph).",
+    "Automatic motion of one arm and leg. Limbs heavy and painful. Stretching of limbs. Thumb drawn into palm (Cupr). Vesicular eruption between fingers and toes."
+  ],
+  "guiding_symptoms": [
+    "Forehead wrinkled in folds. Cold sweat. Stupefying headache. Rolls head day and night; moaning, sudden screams. Bores head into pillow; beats it with hands. Dull pain in occiput, with sensation of water swashing inside. Headache culminates in vomiting.",
+    "Frequent sighing. Respiration irregular. Chest constricted; gasps for breath. Hydrothorax (Merc sulph).",
+    "Automatic motion of one arm and leg. Limbs heavy and painful. Stretching of limbs. Thumb drawn into palm (Cupr). Vesicular eruption between fingers and toes."
+  ],
+  "modalities": {
+    "worse": [
+      "from evening until morning, from uncovering"
+    ],
+    "better": []
+  },
+  "mind_symptoms": [
+    "Slow in answering. Thoughtless; staring. Involuntary sighing. Complete unconsciousness. Picks lips and clothes."
+  ],
+  "head_symptoms": [
+    "Forehead wrinkled in folds. Cold sweat. Stupefying headache. Rolls head day and night; moaning, sudden screams. Bores head into pillow; beats it with hands. Dull pain in occiput, with sensation of water swashing inside. Headache culminates in vomiting."
+  ],
+  "respiratory_symptoms": [
+    "Frequent sighing. Respiration irregular. Chest constricted; gasps for breath. Hydrothorax (Merc sulph)."
+  ],
+  "gi_symptoms": [
+    "Gurgling, as if bowels were full of water. Swollen, painful to touch."
+  ],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [
+    "Automatic motion of one arm and leg. Limbs heavy and painful. Stretching of limbs. Thumb drawn into palm (Cupr). Vesicular eruption between fingers and toes."
+  ],
+  "skin_symptoms": [
+    "Pale, dropsical, itching. Livid spots on skin. Sudden, watery, swelling of skin. Falling off of hair and nails. Angio-neurotic œdema."
+  ],
+  "sleep_symptoms": [
+    "Sudden screams in sleep. Soporous sleep. Cri encephalique. Cannot be fully aroused."
+  ],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Threatening effusion",
+    "Tuberc",
+    "Apis",
+    "Zinc",
+    "Opium"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/h/hell.htm",
+    "title": "HELLEBORUS NIGER - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:42:00.683Z"
+  },
+  "confidence_score": 0.8
+}

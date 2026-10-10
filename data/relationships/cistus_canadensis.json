@@ -1,0 +1,24 @@
+{
+  "remedy_name": "CISTUS CANADENSIS",
+  "source_file": "raw_1772500883197.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/c/cist.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      "Rhus"
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Conium",
+      "Carbo",
+      "Calc",
+      "Arg n"
+    ],
+    "incompatible": [],
+    "antidotes": [
+      "Rhus"
+    ]
+  },
+  "parsed_at": "2026-03-03T15:23:37.432Z"
+}

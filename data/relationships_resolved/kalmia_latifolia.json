@@ -1,0 +1,40 @@
+{
+  "remedy_name": "KALMIA LATIFOLIA",
+  "source_file": "raw_1772502675379.json",
+  "relationships": {
+    "complementary": [
+      {
+        "original": "Benz acid",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      }
+    ],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Kalmia contains Arbutin g v",
+        "resolved_name": "KALMIA LATIFOLIA",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Spigelia",
+        "resolved_name": "SPIGELIA ANTHELMIA",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Pulsat",
+        "resolved_name": "PULSATILLA",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:10.050Z"
+}

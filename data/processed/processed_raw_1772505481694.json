@@ -1,0 +1,53 @@
+{
+  "name": "TONGO",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "TONGO-DIPTERIX ODORATA"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Tearing pain in supra-orbital nerve, with heat and throbbing pain in head and epiphora. Confused, especially the occiput, with somnolence and a sort of intoxication. Trembling in right upper lid. Coryza; nose stopped, must breathe through mouth.",
+    "Tearing pains in hip-joints, femur, and knee, especially left side."
+  ],
+  "guiding_symptoms": [
+    "Tearing pain in supra-orbital nerve, with heat and throbbing pain in head and epiphora. Confused, especially the occiput, with somnolence and a sort of intoxication. Trembling in right upper lid. Coryza; nose stopped, must breathe through mouth.",
+    "Tearing pains in hip-joints, femur, and knee, especially left side."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Tearing pain in supra-orbital nerve, with heat and throbbing pain in head and epiphora. Confused, especially the occiput, with somnolence and a sort of intoxication. Trembling in right upper lid. Coryza; nose stopped, must breathe through mouth."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [
+    "Tearing pains in hip-joints, femur, and knee, especially left side."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "them in hay-fever",
+    "also",
+    "Trifol",
+    "Napth",
+    "Sabad"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/t/tong.htm",
+    "title": "TONGO-DIPTERIX ODORATA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:38:01.694Z"
+  },
+  "confidence_score": 0.44
+}

@@ -1,0 +1,47 @@
+{
+  "name": "HERACLEUM SPHONDYLIUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Hogweed"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Pain with inclination to vomit. Bitter risings and taste. Hungry but unable to eat. Abdominal and spleenic pain.",
+    "Aches, with drowsiness, worse moving in open air, better tying up head with cloth. Much fatty perspiration on head and violent itching. Seborrhśa capitis. Sick headache."
+  ],
+  "guiding_symptoms": [
+    "Pain with inclination to vomit. Bitter risings and taste. Hungry but unable to eat. Abdominal and spleenic pain.",
+    "Aches, with drowsiness, worse moving in open air, better tying up head with cloth. Much fatty perspiration on head and violent itching. Seborrhśa capitis. Sick headache."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Aches, with drowsiness, worse moving in open air, better tying up head with cloth. Much fatty perspiration on head and violent itching. Seborrhśa capitis. Sick headache."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "Pain with inclination to vomit. Bitter risings and taste. Hungry but unable to eat. Abdominal and spleenic pain."
+  ],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/h/hera.htm",
+    "title": "HERACLEUM SPHONDYLIUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:42:49.838Z"
+  },
+  "confidence_score": 0.38
+}

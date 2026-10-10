@@ -1,0 +1,27 @@
+{
+  "remedy_name": "MERCURIUS SOLUBILIS",
+  "source_file": "raw_1772503235687.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/m/merc.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Capparis coriaccea (polyuria",
+      "glandular affections",
+      "mucous diarrhśa",
+      "influenza)",
+      "ptyalism",
+      "dysphagia",
+      "wasting of body and much debility",
+      "cholera infantum)",
+      "Kali hyd",
+      "Mercur acet (Congestion with stiffness",
+      "dryness and heat of parts affected"
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "parsed_at": "2026-03-03T15:23:37.543Z"
+}

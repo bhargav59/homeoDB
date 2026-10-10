@@ -1,0 +1,77 @@
+{
+  "name": "LYCOPODIUM CLAVATUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Club Moss"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Dyspepsia due to farinaceous and fermentable food, cabbage, beans, etc. Excessive hunger. Aversion to bread, etc. Desire for sweet things. Food tastes sour. Sour eructations. Great weakness of digestion. Bulimia, with much bloating. After eating, pressure in stomach, with bitter taste in mouth. Eating ever so little creates fullness. Cannot eat oysters. Rolling of flatulence (Chin; Carb). Wakes at night feeling hungry. Hiccough. Incomplete burning eructations rise only to pharynx there burn for hours. Likes to take food and drink hot. Sinking sensation; worse night.",
+    "Shakes head without apparent cause. Twists face and mouth. Pressing headache on vertex; worse from 4 to 8 pm, and from lying down or stooping, if not eating regularly (Cact). Throbbing headache after every paroxysm of coughing. Headaches over eyes in severe colds; better, uncovering (Sulph). Vertigo in morning on rising. Pain in temples, as if they were screwed toward each other. Tearing pain in occiput; better, fresh air. Great falling out of hair. Eczema; moist oozing behind ears. Deep furrows on forehead. Premature baldness and gray hair.",
+    "Tickling cough. Dyspnœa. Tensive, constrictive, burning pain in chest. Cough worse going down hill. Cough deep, hollow. Expectorations gray, thick, bloody, purulent, salty (Ars; Phos; Puls). Night cough, tickling as from Sulphur fumes. Catarrh of the chest in infants, seems full of mucus rattling. Neglected pneumonia, with great dyspnœa, flaying of alæ nasæ and presence of mucous rales.",
+    "Aneurism (Baryta carb). Aortic disease. Palpitation at night. Cannot lie on left side.",
+    "Numbness, also drawing and tearing in limbs, especially while at rest or at night. Heaviness of arms. Tearing in shoulder and elbow joints. One foot hot, the other cold. Chronic gout, with chalky deposits in joints. Profuse sweat of the feet. Pain in heel on treading as from a pebble. Painful callosities on soles; toes and fingers contracted. Sciatica, worse right side. Cannot lie on painful side. Hands and feet numb. Right foot hot, left cold. Cramps in calves and toes at night in bed. Limbs go to sleep. Twitching and jerking.",
+    "Burning between scapulæ as of hot coals. Pain in small of back."
+  ],
+  "guiding_symptoms": [
+    "Dyspepsia due to farinaceous and fermentable food, cabbage, beans, etc. Excessive hunger. Aversion to bread, etc. Desire for sweet things. Food tastes sour. Sour eructations. Great weakness of digestion. Bulimia, with much bloating. After eating, pressure in stomach, with bitter taste in mouth. Eating ever so little creates fullness. Cannot eat oysters. Rolling of flatulence (Chin; Carb). Wakes at night feeling hungry. Hiccough. Incomplete burning eructations rise only to pharynx there burn for hours. Likes to take food and drink hot. Sinking sensation; worse night.",
+    "Shakes head without apparent cause. Twists face and mouth. Pressing headache on vertex; worse from 4 to 8 pm, and from lying down or stooping, if not eating regularly (Cact). Throbbing headache after every paroxysm of coughing. Headaches over eyes in severe colds; better, uncovering (Sulph). Vertigo in morning on rising. Pain in temples, as if they were screwed toward each other. Tearing pain in occiput; better, fresh air. Great falling out of hair. Eczema; moist oozing behind ears. Deep furrows on forehead. Premature baldness and gray hair.",
+    "Tickling cough. Dyspnœa. Tensive, constrictive, burning pain in chest. Cough worse going down hill. Cough deep, hollow. Expectorations gray, thick, bloody, purulent, salty (Ars; Phos; Puls). Night cough, tickling as from Sulphur fumes. Catarrh of the chest in infants, seems full of mucus rattling. Neglected pneumonia, with great dyspnœa, flaying of alæ nasæ and presence of mucous rales."
+  ],
+  "modalities": {
+    "worse": [
+      "right side, from right to left, from above downward, 4 to 8 pm",
+      "from heat or warm room, hot air, bed"
+    ],
+    "better": [
+      "from warm drinks"
+    ]
+  },
+  "mind_symptoms": [
+    "Melancholy; afraid to be alone. Little things annoy, Extremely sensitive. Averse to undertaking new things. Head strong and haughty when sick. Loss of self-confidence. Hurried when eating. Constant fear of breaking down under stress. Apprehensive. Weak memory, confused thoughts; spells or writes wrong words and syllables. Failing brain-power (Anac; Phos; Baryt). Cannot bear to see anything new. Cannot read what he writes. Sadness in morning on awaking."
+  ],
+  "head_symptoms": [
+    "Shakes head without apparent cause. Twists face and mouth. Pressing headache on vertex; worse from 4 to 8 pm, and from lying down or stooping, if not eating regularly (Cact). Throbbing headache after every paroxysm of coughing. Headaches over eyes in severe colds; better, uncovering (Sulph). Vertigo in morning on rising. Pain in temples, as if they were screwed toward each other. Tearing pain in occiput; better, fresh air. Great falling out of hair. Eczema; moist oozing behind ears. Deep furrows on forehead. Premature baldness and gray hair."
+  ],
+  "respiratory_symptoms": [
+    "Tickling cough. Dyspnœa. Tensive, constrictive, burning pain in chest. Cough worse going down hill. Cough deep, hollow. Expectorations gray, thick, bloody, purulent, salty (Ars; Phos; Puls). Night cough, tickling as from Sulphur fumes. Catarrh of the chest in infants, seems full of mucus rattling. Neglected pneumonia, with great dyspnœa, flaying of alæ nasæ and presence of mucous rales."
+  ],
+  "gi_symptoms": [
+    "Dyspepsia due to farinaceous and fermentable food, cabbage, beans, etc. Excessive hunger. Aversion to bread, etc. Desire for sweet things. Food tastes sour. Sour eructations. Great weakness of digestion. Bulimia, with much bloating. After eating, pressure in stomach, with bitter taste in mouth. Eating ever so little creates fullness. Cannot eat oysters. Rolling of flatulence (Chin; Carb). Wakes at night feeling hungry. Hiccough. Incomplete burning eructations rise only to pharynx there burn for hours. Likes to take food and drink hot. Sinking sensation; worse night."
+  ],
+  "urinary_symptoms": [
+    "No erectile power; impotence. Premature emission (Calad; Sel; Agn). Enlarge prostate. Condylomata."
+  ],
+  "musculoskeletal_symptoms": [
+    "Numbness, also drawing and tearing in limbs, especially while at rest or at night. Heaviness of arms. Tearing in shoulder and elbow joints. One foot hot, the other cold. Chronic gout, with chalky deposits in joints. Profuse sweat of the feet. Pain in heel on treading as from a pebble. Painful callosities on soles; toes and fingers contracted. Sciatica, worse right side. Cannot lie on painful side. Hands and feet numb. Right foot hot, left cold. Cramps in calves and toes at night in bed. Limbs go to sleep. Twitching and jerking."
+  ],
+  "skin_symptoms": [
+    "Ulcerates. Abscesses beneath skin; worse warm applications. Hives; worse, warmth. Violent itching; fissured eruptions. Acne. Chronic eczema associated with urinary, gastric and hepatic disorders; bleeds easily. Skin becomes thick and indurated. Varicose veins, nævi, erectile tumors. Brown spots, freckles worse on left side of face and nose. Dry, shrunken, especially palms; hair becomes prematurely gray. Dropsies. Offensive secretions; viscid and offensive perspiration, especially of feet and axilla. Psoriasis."
+  ],
+  "sleep_symptoms": [
+    "Drowsy during day. Starting in sleep. Dreams of accidents."
+  ],
+  "fever_symptoms": [
+    "Chill between 3 and 4 pm, followed by sweat. Icy coldness. Feels as if lying on ice. One chill is followed by another (Calc; Sil; Hep)."
+  ],
+  "complementary_remedies": [
+    "Carbo-Nitrogenoid Constitution: Sulphur",
+    "Rhus",
+    "Urtica",
+    "Mercur",
+    "Hepar"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/l/lyc.htm",
+    "title": "LYCOPODIUM CLAVATUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:56:55.953Z"
+  },
+  "confidence_score": 0.8
+}

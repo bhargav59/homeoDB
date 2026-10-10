@@ -1,0 +1,30 @@
+{
+  "remedy_name": "CHAMOMILLA",
+  "source_file": "raw_1772500641266.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/c/cham.htm",
+  "relationships": {
+    "complementary": [
+      "Bell"
+    ],
+    "antidoted_by": [
+      "Camph"
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Cypriped",
+      "Anthemis",
+      "Aconite",
+      "Puls",
+      "Coffea",
+      "Bellad",
+      "Staphis",
+      "Ignat"
+    ],
+    "incompatible": [],
+    "antidotes": [
+      "Camph"
+    ]
+  },
+  "parsed_at": "2026-03-03T15:23:37.422Z"
+}

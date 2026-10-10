@@ -1,0 +1,58 @@
+{
+  "name": "PALLADIUM METALLICUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "The Metal"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Feels as if swung backward and forward. Temporo-parietal neuralgia with pain in shoulder. Pain across top of head from ear to ear; worse after an evening's entertainment, with irritability and sour eructations. Sallow complexion.",
+    "Pruritus. Tired feeling in small of back. Fleeting, neuralgic pains in extremities, Heavy and tired in limbs. Darting pain from toes to hips. Rheumatic pain in right shoulder; in right hip. Sciatica."
+  ],
+  "guiding_symptoms": [
+    "Feels as if swung backward and forward. Temporo-parietal neuralgia with pain in shoulder. Pain across top of head from ear to ear; worse after an evening's entertainment, with irritability and sour eructations. Sallow complexion.",
+    "Pruritus. Tired feeling in small of back. Fleeting, neuralgic pains in extremities, Heavy and tired in limbs. Darting pain from toes to hips. Rheumatic pain in right shoulder; in right hip. Sciatica."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [
+    "Weeping mood. Love of approbation. Pride; easily offended. Inclined to use violent language. Keeps up brightly when in company, much exhausted afterwards, and pains aggravated."
+  ],
+  "head_symptoms": [
+    "Feels as if swung backward and forward. Temporo-parietal neuralgia with pain in shoulder. Pain across top of head from ear to ear; worse after an evening's entertainment, with irritability and sour eructations. Sallow complexion."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "Shooting pain from navel to pelvis. Sensation as if intestines were bitten off. Intestines feel strangulated. Soreness of abdomen, swelling in right groin. Flatulency."
+  ],
+  "urinary_symptoms": [
+    "Uterine prolapse and retroversion. Subacute pelvic peritonitis, with right-sided pain and backache; menorrhagia. Cutting pain in uterus; relieved after stool. Pain and swelling in region of right ovary. Shooting or burning pain in pelvis and bearing-down; relieved by rubbing. Soreness and shooting pain from navel of breast. Glairy leucorrhœa. Menstrual discharge while nursing. Stitches in right breast near nipple. It is indicated in that gynæcological condition where the disease had its inception in the right ovary, the uterine prolapse and retroversion, the subacute pelvic peritonitis and concomitant symptoms being secondary (F. Aguilar, M. D)."
+  ],
+  "musculoskeletal_symptoms": [
+    "Pruritus. Tired feeling in small of back. Fleeting, neuralgic pains in extremities, Heavy and tired in limbs. Darting pain from toes to hips. Rheumatic pain in right shoulder; in right hip. Sciatica."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Arg",
+    "Helon",
+    "Lil",
+    "Apis"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/p/pall.htm",
+    "title": "PALLADIUM METALLICUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:06:17.275Z"
+  },
+  "confidence_score": 0.62
+}

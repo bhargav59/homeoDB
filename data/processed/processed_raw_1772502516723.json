@@ -1,0 +1,54 @@
+{
+  "name": "JUNIPERUS COMMUNIS",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Juniper Berries"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Irritable, sensitive to external impressions; hot, full and heavy head; lachrymation, with coryza, profuse, fluent, with constant sneezing; loss of smell and taste; coryza with cough.",
+    "Cough with scanty, loaded urine.",
+    "Dry cough from sternal region all over chest. Hoarseness, larynx painful. Paroxysmal cough, with suffocative obstruction of respiration. Cough with sneezing. Severe dyspnśa with cough. Tightness across chest. Asthmatic attacks, cannot endure a close, warm room. Whooping-cough."
+  ],
+  "guiding_symptoms": [
+    "Irritable, sensitive to external impressions; hot, full and heavy head; lachrymation, with coryza, profuse, fluent, with constant sneezing; loss of smell and taste; coryza with cough.",
+    "Cough with scanty, loaded urine.",
+    "Dry cough from sternal region all over chest. Hoarseness, larynx painful. Paroxysmal cough, with suffocative obstruction of respiration. Cough with sneezing. Severe dyspnśa with cough. Tightness across chest. Asthmatic attacks, cannot endure a close, warm room. Whooping-cough."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Irritable, sensitive to external impressions; hot, full and heavy head; lachrymation, with coryza, profuse, fluent, with constant sneezing; loss of smell and taste; coryza with cough."
+  ],
+  "respiratory_symptoms": [
+    "Cough with scanty, loaded urine.",
+    "Dry cough from sternal region all over chest. Hoarseness, larynx painful. Paroxysmal cough, with suffocative obstruction of respiration. Cough with sneezing. Severe dyspnśa with cough. Tightness across chest. Asthmatic attacks, cannot endure a close, warm room. Whooping-cough."
+  ],
+  "gi_symptoms": [],
+  "urinary_symptoms": [
+    "Strangury; bloody, scanty urine, violet odor (Tereb). Weight in kidney region. Prostatic discharge. Renal hyperćmia (Eucalyptol)."
+  ],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Sabina"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/j/juni-c.htm",
+    "title": "JUNIPERUS COMMUNIS - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:48:36.723Z"
+  },
+  "confidence_score": 0.56
+}

@@ -1,0 +1,63 @@
+{
+  "name": "LAC CANINUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Dog's Milk"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Sensation of walking or floating in the air (Sticta). Pain first one side, then the other. Blurred vision, nausea and vomiting at height of attack of headache. Occipital pain, with shooting extending to forehead. Sensation as if brain were alternately contracted and relaxed. Noises in ears. Reverberation of voice.",
+    "Sciatica, right side. Legs feel numb and stiff, cramps in feet. Rheumatic pains in extremities and back, from one side to the other. Pain in arms to fingers. Burning in palms and soles."
+  ],
+  "guiding_symptoms": [
+    "Sensation of walking or floating in the air (Sticta). Pain first one side, then the other. Blurred vision, nausea and vomiting at height of attack of headache. Occipital pain, with shooting extending to forehead. Sensation as if brain were alternately contracted and relaxed. Noises in ears. Reverberation of voice.",
+    "Sciatica, right side. Legs feel numb and stiff, cramps in feet. Rheumatic pains in extremities and back, from one side to the other. Pain in arms to fingers. Burning in palms and soles."
+  ],
+  "modalities": {
+    "worse": [
+      "morning of one day and in the evening of next"
+    ],
+    "better": [
+      "cold, cold drinks"
+    ]
+  },
+  "mind_symptoms": [
+    "Very forgetful; in writing, makes mistakes. Despondent; thinks her disease incurable. Attacks of rage. Visions of snakes. Thinks himself of little consequence."
+  ],
+  "head_symptoms": [
+    "Sensation of walking or floating in the air (Sticta). Pain first one side, then the other. Blurred vision, nausea and vomiting at height of attack of headache. Occipital pain, with shooting extending to forehead. Sensation as if brain were alternately contracted and relaxed. Noises in ears. Reverberation of voice."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [],
+  "urinary_symptoms": [
+    "Menses too early, profuse, flow in gushes. Breasts swollen; painful before (Calc c; Con; Puls) and better on appearance of menses. Mastitis; worse, least jar. Helps to dry up milk. Sinking at epigastrium. Sexual organs easily excited. Backache; spine very sensitive to touch or pressure. Galactorrhœa."
+  ],
+  "musculoskeletal_symptoms": [
+    "Sciatica, right side. Legs feel numb and stiff, cramps in feet. Rheumatic pains in extremities and back, from one side to the other. Pain in arms to fingers. Burning in palms and soles."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [
+    "Dreams of snakes."
+  ],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Lach",
+    "Con",
+    "eye symptoms",
+    "photophobia",
+    "asthenopia"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/l/lac-c.htm",
+    "title": "LAC CANINUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:52:13.047Z"
+  },
+  "confidence_score": 0.8
+}

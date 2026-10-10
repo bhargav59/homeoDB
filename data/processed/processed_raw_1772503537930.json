@@ -1,0 +1,49 @@
+{
+  "name": "NATRIUM NITRICUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Nitrate of Sodium"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Sour risings. Aversions to coffee. Flatulence, with pressure in pit of stomach and pain in chest; worse motion, better eructation.",
+    "Dull. Indisposed to mental and bodily exertion. Pressing inward pain. Otalgia. Inward pressing in malar bones. Nosebleed.",
+    "Pain in region of heart. Pulse slower and softer."
+  ],
+  "guiding_symptoms": [
+    "Sour risings. Aversions to coffee. Flatulence, with pressure in pit of stomach and pain in chest; worse motion, better eructation.",
+    "Dull. Indisposed to mental and bodily exertion. Pressing inward pain. Otalgia. Inward pressing in malar bones. Nosebleed.",
+    "Pain in region of heart. Pulse slower and softer."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Dull. Indisposed to mental and bodily exertion. Pressing inward pain. Otalgia. Inward pressing in malar bones. Nosebleed."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "Sour risings. Aversions to coffee. Flatulence, with pressure in pit of stomach and pain in chest; worse motion, better eructation."
+  ],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/n/nat-n.htm",
+    "title": "NATRIUM NITRICUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:05:37.930Z"
+  },
+  "confidence_score": 0.5
+}

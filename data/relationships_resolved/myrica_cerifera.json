@@ -1,0 +1,59 @@
+{
+  "remedy_name": "MYRICA CERIFERA",
+  "source_file": "raw_1772503436548.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      {
+        "original": "Digit",
+        "resolved_name": "DIGITALIS",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      }
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Ptel",
+        "resolved_name": "PTELEA TRIFOLIATA",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Cornus cir",
+        "resolved_name": "CORNUS CIRCINATA",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Chelid",
+        "resolved_name": "CHELIDONIUM MAJUS",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Lept",
+        "resolved_name": "LEPTANDRA VIRGINICA",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "Fagop",
+        "resolved_name": "FAGOPYRUM ESCULENTUM",
+        "confidence": 0.8,
+        "method": "substring"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": [
+      {
+        "original": "Digit",
+        "resolved_name": "DIGITALIS",
+        "confidence": 0.85,
+        "method": "prefix_abbrev"
+      }
+    ]
+  },
+  "resolved_at": "2026-03-11T01:50:10.395Z"
+}

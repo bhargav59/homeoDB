@@ -1,0 +1,22 @@
+{
+  "remedy_name": "CORALLIUM RUBRUM",
+  "source_file": "raw_1772501076849.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/c/cor-r.htm",
+  "relationships": {
+    "complementary": [
+      "Sulph"
+    ],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Bellad",
+      "Droser",
+      "Mephit",
+      "Caust"
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "parsed_at": "2026-03-03T15:23:37.440Z"
+}

@@ -1,0 +1,20 @@
+{
+  "remedy_name": "AGNUS CASTUS",
+  "source_file": "raw_1772371673777.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/a/agn.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Selenium",
+      "Phosph ac",
+      "Camphor",
+      "Lycop"
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "parsed_at": "2026-03-03T15:23:37.323Z"
+}

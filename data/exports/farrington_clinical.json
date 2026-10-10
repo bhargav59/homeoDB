@@ -1,0 +1,51 @@
+[
+  {
+    "remedy_name": "ACONITUM NAPELLUS",
+    "abbreviation": "Acon.",
+    "author": "E.A. Farrington",
+    "source_book": "Clinical Materia Medica",
+    "kingdom": "Plant",
+    "temperament_constitution": "Plethoric, robust",
+    "miasmatic_clearing": [
+      "Psora"
+    ],
+    "thermal_state": "Chilly",
+    "keynotes": [
+      "Sudden onset",
+      "Fear of death",
+      "Ailments from dry cold wind"
+    ],
+    "modalities": {
+      "aggravation": [
+        "Evening and night",
+        "Dry cold winds"
+      ],
+      "amelioration": [
+        "Open air"
+      ]
+    },
+    "mind_mental_symptoms": [
+      "Great fear, anxiety, and worry accompany every ailment"
+    ],
+    "clinical_indications": [
+      "Fever",
+      "Croup",
+      "Neuralgia"
+    ],
+    "relationships": {
+      "complementary": [
+        "Coffea",
+        "Sulphur"
+      ],
+      "inimical": [],
+      "antidoted_by": [
+        "Nux vomica"
+      ],
+      "follows_well": [
+        "Arnica",
+        "Belladonna"
+      ]
+    },
+    "potency_posology_advice": "30c to 200c for acute cases."
+  }
+]

@@ -1,0 +1,61 @@
+{
+  "name": "HELONIAS DIOICA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Unicorn-root"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Burning sensation on top. Headache, better mental exertion.",
+    "Sensation as if a cool wind streamed up calves of legs. Feet feel numb when sitting.",
+    "Pain and weight in back; tired and weak. Aching and burning across the lumbar region; can trace outlines of kidneys by constant burning. Boring pain in lumbar region, extending down legs. Great languor, better exercising."
+  ],
+  "guiding_symptoms": [
+    "Burning sensation on top. Headache, better mental exertion.",
+    "Sensation as if a cool wind streamed up calves of legs. Feet feel numb when sitting.",
+    "Pain and weight in back; tired and weak. Aching and burning across the lumbar region; can trace outlines of kidneys by constant burning. Boring pain in lumbar region, extending down legs. Great languor, better exercising."
+  ],
+  "modalities": {
+    "worse": [
+      "motion, touch"
+    ],
+    "better": [
+      "when doing something (mental diversion)"
+    ]
+  },
+  "mind_symptoms": [
+    "Profound melancholy. Patient is better when kept busy, with mind engaged, when doing something. Irritable; cannot endure the least contradiction."
+  ],
+  "head_symptoms": [
+    "Burning sensation on top. Headache, better mental exertion."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [],
+  "urinary_symptoms": [
+    "Dragging in sacral region, with prolapse, especially after a miscarriage. Pruritus vulvć. Backache after miscarriage (Kali c). Weight and soreness in womb; conscious of womb. Menses too frequent, too profuse. Leucorrhśa. Breasts swollen, nipples painful and tender. Parts hot, red, swollen; burn and itch terribly. Albuminuria during pregnancy. Debility attending the menopause.",
+    "Urine.--Albuminous, phosphatic; profuse and clear, saccharine. Diabetes."
+  ],
+  "musculoskeletal_symptoms": [
+    "Sensation as if a cool wind streamed up calves of legs. Feet feel numb when sitting."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Agrimonia-Cockleburr--(painful kidneys",
+    "Bronchorrhśa and catarrh of bladder"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/h/helon.htm",
+    "title": "HELONIAS DIOICA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:42:20.230Z"
+  },
+  "confidence_score": 0.6799999999999999
+}

@@ -1,0 +1,27 @@
+{
+  "remedy_name": "UVA URSI",
+  "source_file": "raw_1772505653006.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "found also in Kalmia",
+        "resolved_name": "KALMIA LATIFOLIA",
+        "confidence": 0.8,
+        "method": "substring"
+      },
+      {
+        "original": "given in",
+        "resolved_name": "AGAVE AMERICANA",
+        "confidence": 0.55,
+        "method": "levenshtein_3"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:11.664Z"
+}

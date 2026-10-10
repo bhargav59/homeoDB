@@ -1,0 +1,17 @@
+{
+  "remedy_name": "JUNIPERUS COMMUNIS",
+  "source_file": "raw_1772502516723.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/j/juni-c.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Sabina"
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "parsed_at": "2026-03-03T15:23:37.505Z"
+}

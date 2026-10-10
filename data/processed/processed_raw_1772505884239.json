@@ -1,0 +1,49 @@
+{
+  "name": "YUCCA FILAMENTOSA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Bear-grass"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Aches as if top of head would fly off. Arteries of forehead throb. Nose red."
+  ],
+  "guiding_symptoms": [
+    "Aches as if top of head would fly off. Arteries of forehead throb. Nose red."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Aches as if top of head would fly off. Arteries of forehead throb. Nose red."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "Deep pain in right side over liver, going through back. Stool yellowish brown, with bile."
+  ],
+  "urinary_symptoms": [
+    "Burning and swelling of the prepuce, with redness of meatus. Gonorrhśa (Cann; Tussil)."
+  ],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [
+    "Erythematous redness."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/y/yuc.htm",
+    "title": "YUCCA FILAMENTOSA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:44:44.238Z"
+  },
+  "confidence_score": 0.6799999999999999
+}

@@ -1,0 +1,30 @@
+{
+  "name": "General Tonic",
+  "url": "https://www.wheezalstore.com/product/29687103/General-Tonic",
+  "collection_id": "bio_combination",
+  "title": "General Tonic",
+  "price": "₹99",
+  "description": "",
+  "image": "",
+  "scraped_at": "2026-03-26T05:29:48.236Z",
+  "composition": [
+    "Calc. Fluor. 3x",
+    "Calc. Phos. 3x",
+    "Calc. Sulph. 3x",
+    "Ferrum Phos. 3x",
+    "Kali Mur. 3x",
+    "Kali Phos. 3x",
+    "Kali Sulph. 3x",
+    "Mag. Phos. 3x",
+    "Nat. Mur. 3x",
+    "Nat. Phos. 3x",
+    "Nat. Sulph. 3x",
+    "Silicea 6x"
+  ],
+  "indications": [
+    "Comprehensive tonic",
+    "Post-illness recovery",
+    "General health"
+  ],
+  "bc_number": "BC-28"
+}

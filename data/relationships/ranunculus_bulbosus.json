@@ -1,0 +1,31 @@
+{
+  "remedy_name": "RANUNCULUS BULBOSUS",
+  "source_file": "raw_1772504444472.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/r/ran-b.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      "Bry"
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Ranunc acris",
+      "night-sweats-more on thighs)",
+      "Ranunc repens",
+      "Ranunc flammula (ulceration",
+      "gangrene of arm)",
+      "also: Bry",
+      "Croton",
+      "Mez",
+      "Euphorb"
+    ],
+    "incompatible": [
+      "Sulph"
+    ],
+    "antidotes": [
+      "Bry"
+    ]
+  },
+  "parsed_at": "2026-03-03T15:23:37.711Z"
+}

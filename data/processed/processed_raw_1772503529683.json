@@ -1,0 +1,73 @@
+{
+  "name": "NATRIUM MURIATICUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Chloride of Sodium"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Hungry, yet loose flesh (Iod). Heartburn, with palpitation. Unquenchable thirst. Sweats while eating. Craving for salt. Aversion to bread, to anything slimy, like oysters, fats. Throbbing in pit. Sticking sensation in cardiac orifice.",
+    "Throbs. Blinding headache. Aches as if a thousand little hammers were knocking on the brain, in the morning on awakening, after menstruation, from sunrise to sunset. Feels too large; cold. Anćmic headache of school-girls; nervous, discouraged, broken down. Chronic headache, semi-lateral, congestive, from sunrise to sunset, with pale face, nausea, vomiting; periodical; from eyestrain; menstrual. Before attack, numbness and tingling in lips, tongue and nose, relieved by sleep. Frontal sinus inflammation.",
+    "Cough from a tickling in the pit of stomach, accompanied by stitches in liver and spurting of urine (Caust; Squilla). Stitches all over chest. Cough, with bursting pain in head. Shortness of breath, especially on going upstairs (Calc). Whooping-cough with flow of tears with cough.",
+    "Tachycardia. Sensation of coldness of heart. Heart and chest feel constricted. Fluttering, palpitating; intermittent pulse. Heart's pulsations shake body. Intermits on lying down.",
+    "Pain in back, with desire for some firm support (Rhus; Sep). Every movement accelerates the circulation. Palms hot and perspiring. Arms and legs, but especially knees, feel weak. Hangnails. Dryness and cracking about finger-nails. Numbness and tingling in fingers and lower extremities. Ankles weak and turn easily. Painful contraction of hamstrings (Caust). Cracking in joints on motion. Coldness of legs with congestion to head, chest, and stomach."
+  ],
+  "guiding_symptoms": [
+    "Hungry, yet loose flesh (Iod). Heartburn, with palpitation. Unquenchable thirst. Sweats while eating. Craving for salt. Aversion to bread, to anything slimy, like oysters, fats. Throbbing in pit. Sticking sensation in cardiac orifice.",
+    "Throbs. Blinding headache. Aches as if a thousand little hammers were knocking on the brain, in the morning on awakening, after menstruation, from sunrise to sunset. Feels too large; cold. Anćmic headache of school-girls; nervous, discouraged, broken down. Chronic headache, semi-lateral, congestive, from sunrise to sunset, with pale face, nausea, vomiting; periodical; from eyestrain; menstrual. Before attack, numbness and tingling in lips, tongue and nose, relieved by sleep. Frontal sinus inflammation.",
+    "Cough from a tickling in the pit of stomach, accompanied by stitches in liver and spurting of urine (Caust; Squilla). Stitches all over chest. Cough, with bursting pain in head. Shortness of breath, especially on going upstairs (Calc). Whooping-cough with flow of tears with cough."
+  ],
+  "modalities": {
+    "worse": [
+      "noise, music, warm room, lying down about 10 a m",
+      ", at seashore, mental exertion, consolation, heat, talking"
+    ],
+    "better": [
+      "open air, cold bathing, going without regular meals, lying on right side",
+      "pressure against back, tight clothing"
+    ]
+  },
+  "mind_symptoms": [
+    "Psychic causes of disease; ill effects of grief, fright, anger, etc. Depressed, particularly in chronic diseases. Consolation aggravates. Irritable; gets into a passion about trifles. Awkward, hasty. Wants to be alone to cry. Tears with laughter."
+  ],
+  "head_symptoms": [
+    "Throbs. Blinding headache. Aches as if a thousand little hammers were knocking on the brain, in the morning on awakening, after menstruation, from sunrise to sunset. Feels too large; cold. Anćmic headache of school-girls; nervous, discouraged, broken down. Chronic headache, semi-lateral, congestive, from sunrise to sunset, with pale face, nausea, vomiting; periodical; from eyestrain; menstrual. Before attack, numbness and tingling in lips, tongue and nose, relieved by sleep. Frontal sinus inflammation."
+  ],
+  "respiratory_symptoms": [
+    "Cough from a tickling in the pit of stomach, accompanied by stitches in liver and spurting of urine (Caust; Squilla). Stitches all over chest. Cough, with bursting pain in head. Shortness of breath, especially on going upstairs (Calc). Whooping-cough with flow of tears with cough."
+  ],
+  "gi_symptoms": [
+    "Hungry, yet loose flesh (Iod). Heartburn, with palpitation. Unquenchable thirst. Sweats while eating. Craving for salt. Aversion to bread, to anything slimy, like oysters, fats. Throbbing in pit. Sticking sensation in cardiac orifice."
+  ],
+  "urinary_symptoms": [
+    "Emission, even after coitus. Impotence with retarded emission."
+  ],
+  "musculoskeletal_symptoms": [
+    "Pain in back, with desire for some firm support (Rhus; Sep). Every movement accelerates the circulation. Palms hot and perspiring. Arms and legs, but especially knees, feel weak. Hangnails. Dryness and cracking about finger-nails. Numbness and tingling in fingers and lower extremities. Ankles weak and turn easily. Painful contraction of hamstrings (Caust). Cracking in joints on motion. Coldness of legs with congestion to head, chest, and stomach."
+  ],
+  "skin_symptoms": [
+    "Greasy, oily, especially on hairy parts. Dry eruptions, especially on margin of hairy scalp and bends of joints. Fever blisters. Urticaria; itch and burn. Crusty eruptions in bends of limbs, margin of scalp, behind ears (Caust). Warts on palms of hands. Eczema; raw, red, and inflamed; worse, eating salt, at seashore. Affects hair follicles. Alopecia. Hives, itching after exertion. Greasy skin."
+  ],
+  "sleep_symptoms": [
+    "Sleepy in forenoon. Nervous jerking during sleep. Dreams of robbers. Sleepless from grief."
+  ],
+  "fever_symptoms": [
+    "Chill between 9 and 11 am. Heat; violent thirst, increases with fever. Fever-blisters. Coldness of the body, and continued chilliness very marked. Hydrćmia in chronic malarial states with weakness, constipation, loss of appetite, etc. Sweats on every exertion."
+  ],
+  "complementary_remedies": [
+    "Aqua marina-Isotonic plasma"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/n/nat-m.htm",
+    "title": "NATRIUM MURIATICUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:05:29.683Z"
+  },
+  "confidence_score": 0.8
+}

@@ -1,0 +1,62 @@
+{
+  "name": "SENECIO AUREUS",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Golden Ragwort"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Sour eructations; nausea.",
+    "Dull, stupefying headache. Wavelike dizziness from occiput to sinciput. Sharp pains over left eye, and through left temple. Fullness of nasal passages; burning; sneezing; profuse flow.",
+    "Acute inflammatory conditions of upper respiratory tract. Hoarseness. Cough loose, with labored inspiration. Chest sore and raw. Dyspnœa on ascending (Calc). Dry teasing cough, stitching chest pains."
+  ],
+  "guiding_symptoms": [
+    "Sour eructations; nausea.",
+    "Dull, stupefying headache. Wavelike dizziness from occiput to sinciput. Sharp pains over left eye, and through left temple. Fullness of nasal passages; burning; sneezing; profuse flow.",
+    "Acute inflammatory conditions of upper respiratory tract. Hoarseness. Cough loose, with labored inspiration. Chest sore and raw. Dyspnœa on ascending (Calc). Dry teasing cough, stitching chest pains."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [
+    "Inability to fix mind upon any one subject. Despondent. Nervous and irritable."
+  ],
+  "head_symptoms": [
+    "Dull, stupefying headache. Wavelike dizziness from occiput to sinciput. Sharp pains over left eye, and through left temple. Fullness of nasal passages; burning; sneezing; profuse flow."
+  ],
+  "respiratory_symptoms": [
+    "Acute inflammatory conditions of upper respiratory tract. Hoarseness. Cough loose, with labored inspiration. Chest sore and raw. Dyspnœa on ascending (Calc). Dry teasing cough, stitching chest pains."
+  ],
+  "gi_symptoms": [
+    "Sour eructations; nausea."
+  ],
+  "urinary_symptoms": [
+    "Scanty, high-colored, bloody, with much mucus and tenesmus. Great heat and constant urging. Nephritis. Irritable bladder of children, with headache. Renal colic (Pareira; Ocim; Berb)."
+  ],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [],
+  "sleep_symptoms": [
+    "Great drowsiness, with unpleasant dreams. Nervousness and sleeplessness."
+  ],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "rigid muscles",
+    "chiefly of neck and shoulders",
+    "also",
+    "in cancer"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/s/senec.htm",
+    "title": "SENECIO AUREUS - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:27:30.489Z"
+  },
+  "confidence_score": 0.8
+}

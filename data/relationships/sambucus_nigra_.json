@@ -1,0 +1,26 @@
+{
+  "remedy_name": "Sambucus Nigra.",
+  "source_file": "raw_1772508047510_clarke_dictionary_w4.json",
+  "source_url": "https://www.homeoint.org/clarke/s/samb_nig.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      "Ars",
+      "to: Ars"
+    ],
+    "follows_well": [
+      "Op"
+    ],
+    "inimical": [],
+    "compare": [
+      "In Millar's asthma",
+      "Ar"
+    ],
+    "incompatible": [],
+    "antidotes": [
+      "d by: Ars",
+      "Ars"
+    ]
+  },
+  "parsed_at": "2026-03-03T15:23:38.417Z"
+}

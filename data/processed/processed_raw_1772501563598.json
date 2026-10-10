@@ -1,0 +1,57 @@
+{
+  "name": "EUPATORIUM PURPUREUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Queen of the Meadow"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Left-sided headache with vertigo. Pain from left shoulder to occiput. Sick headache beginning in morning, worse afternoon and evening, worse in cold air.",
+    "Weight and heaviness in loins and back."
+  ],
+  "guiding_symptoms": [
+    "Left-sided headache with vertigo. Pain from left shoulder to occiput. Sick headache beginning in morning, worse afternoon and evening, worse in cold air.",
+    "Weight and heaviness in loins and back."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Left-sided headache with vertigo. Pain from left shoulder to occiput. Sick headache beginning in morning, worse afternoon and evening, worse in cold air."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [],
+  "urinary_symptoms": [
+    "Deep, dull pain in kidneys. Burning in bladder and urethra on urinating. Insufficient flow; milky. Strangury. Hćmaturia. Constant desire; bladder feels dull. Dysuria. Vesical irritability in women. Diabetes insipidus."
+  ],
+  "musculoskeletal_symptoms": [
+    "Weight and heaviness in loins and back."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [
+    "No thirst during chill, but much frontal ache. Chill commences in back. Violent shaking, with comparatively little coldness. Bone-pains."
+  ],
+  "complementary_remedies": [
+    "Senecio",
+    "Cannab sat",
+    "Helon",
+    "Phos ac",
+    "Triticum"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/e/eup-pur.htm",
+    "title": "EUPATORIUM PURPUREUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:32:43.598Z"
+  },
+  "confidence_score": 0.62
+}

@@ -1,0 +1,45 @@
+{
+  "remedy_name": "ABROTANUM",
+  "source_file": "raw_1772371512040.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Scrophularia",
+        "resolved_name": "SCROPHULARIA NODOSA",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Bryonia",
+        "resolved_name": "BRYONIA ALBA",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Stellaria",
+        "resolved_name": "STELLARIA MEDIA",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Benzoic acid",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      },
+      {
+        "original": "in gout",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:08.323Z"
+}

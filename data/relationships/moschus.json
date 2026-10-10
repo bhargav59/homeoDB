@@ -1,0 +1,26 @@
+{
+  "remedy_name": "MOSCHUS",
+  "source_file": "raw_1772503386807.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/m/mosch.htm",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      "Camph"
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Nux mosch",
+      "Asaf",
+      "Valer",
+      "Sumbul",
+      "Ign",
+      "Castor"
+    ],
+    "incompatible": [],
+    "antidotes": [
+      "Camph"
+    ]
+  },
+  "parsed_at": "2026-03-03T15:23:37.551Z"
+}

@@ -1,0 +1,51 @@
+{
+  "name": "MERCURIUS CYANATUS",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Cyanide of Mercury"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Nausea, vomiting, bilious, bloody; hiccough; abdomen painful, tender to pressure.",
+    "Great excitement, fits of passion; fury; talkativeness. Atrocious headache. Eyes sunken; face pale."
+  ],
+  "guiding_symptoms": [
+    "Nausea, vomiting, bilious, bloody; hiccough; abdomen painful, tender to pressure.",
+    "Great excitement, fits of passion; fury; talkativeness. Atrocious headache. Eyes sunken; face pale."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Great excitement, fits of passion; fury; talkativeness. Atrocious headache. Eyes sunken; face pale."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "Nausea, vomiting, bilious, bloody; hiccough; abdomen painful, tender to pressure."
+  ],
+  "urinary_symptoms": [
+    "Amber color, painful, albuminous, scanty. Nephritis with great debility and chilliness. Suppression of urine."
+  ],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [
+    "Moisture, with icy coldness."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/m/merc-cy.htm",
+    "title": "MERCURIUS CYANATUS - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:00:57.149Z"
+  },
+  "confidence_score": 0.6799999999999999
+}

@@ -1,0 +1,66 @@
+{
+  "name": "ACETICUM ACIDUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Glacial Acetic Acid"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Salivation. Fermentation in stomach. Intense burning thirst. Cold drinks distress. Vomits after every kind of food. Epigastric tenderness. Burning pain as of an ulcer. Cancer of stomach. Sour belching and vomiting. Burning waterbrash and profuse salivation. Hyperchlorhydria and gastralgia. Violent burning pain in stomach and chest, followed by coldness of skin and cold sweat on forehead. Stomach feels as if she had taken a lot of vinegar.",
+    "Nervous headache, from abuse of narcotics. Blood rushes to head with delirium. Temporal vessels distended. Pain across root of tongue.",
+    "Hoarse, hissing respiration; difficult breathing; cough when inhaling. Membranous croup. Irritation of trachea and bronchial tubes. False membrane in throat. Profuse bronchorrhœa. Putrid sore throat (gargle).",
+    "Emaciation. Œdema of feet and legs.",
+    "Pain in back, relieved only by lying on abdomen."
+  ],
+  "guiding_symptoms": [
+    "Salivation. Fermentation in stomach. Intense burning thirst. Cold drinks distress. Vomits after every kind of food. Epigastric tenderness. Burning pain as of an ulcer. Cancer of stomach. Sour belching and vomiting. Burning waterbrash and profuse salivation. Hyperchlorhydria and gastralgia. Violent burning pain in stomach and chest, followed by coldness of skin and cold sweat on forehead. Stomach feels as if she had taken a lot of vinegar.",
+    "Nervous headache, from abuse of narcotics. Blood rushes to head with delirium. Temporal vessels distended. Pain across root of tongue.",
+    "Hoarse, hissing respiration; difficult breathing; cough when inhaling. Membranous croup. Irritation of trachea and bronchial tubes. False membrane in throat. Profuse bronchorrhœa. Putrid sore throat (gargle)."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [
+    "Irritable, worried about business affairs."
+  ],
+  "head_symptoms": [
+    "Nervous headache, from abuse of narcotics. Blood rushes to head with delirium. Temporal vessels distended. Pain across root of tongue."
+  ],
+  "respiratory_symptoms": [
+    "Hoarse, hissing respiration; difficult breathing; cough when inhaling. Membranous croup. Irritation of trachea and bronchial tubes. False membrane in throat. Profuse bronchorrhœa. Putrid sore throat (gargle)."
+  ],
+  "gi_symptoms": [
+    "Salivation. Fermentation in stomach. Intense burning thirst. Cold drinks distress. Vomits after every kind of food. Epigastric tenderness. Burning pain as of an ulcer. Cancer of stomach. Sour belching and vomiting. Burning waterbrash and profuse salivation. Hyperchlorhydria and gastralgia. Violent burning pain in stomach and chest, followed by coldness of skin and cold sweat on forehead. Stomach feels as if she had taken a lot of vinegar."
+  ],
+  "urinary_symptoms": [
+    "Excessive catamenia. Hæmorrhages after labor. Nausea of pregnancy. Breasts painfully enlarged, distended with milk. Milk impoverished, bluish, transparent, sour. Anæmia of nursing mothers."
+  ],
+  "musculoskeletal_symptoms": [
+    "Emaciation. Œdema of feet and legs."
+  ],
+  "skin_symptoms": [
+    "Pale, waxen, œdematous. Burning, dry, hot skin, or bathed in profuse sweat. Diminished sensibility of the surface of body. Useful after stings, bites, etc. Varicose swellings. Scurvy; anasarca. Bruises; sprains."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [
+    "Hectic, with drenching night-sweats. Red spot on left cheek. No thirst in fever. Ebullitions. Sweat profuse, cold."
+  ],
+  "complementary_remedies": [
+    "Ammon acet (Profuse saccharine urine",
+    "patient is bathed in sweat"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/a/acet-ac.htm",
+    "title": "ACETICUM ACIDUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-01T13:25:47.614Z"
+  },
+  "confidence_score": 0.8
+}

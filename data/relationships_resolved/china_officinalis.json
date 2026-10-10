@@ -1,0 +1,28 @@
+{
+  "remedy_name": "CHINA OFFICINALIS",
+  "source_file": "raw_1772500701120.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [
+      {
+        "original": "Arn",
+        "resolved_name": "ARNICA MONTANA",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      }
+    ],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [],
+    "incompatible": [],
+    "antidotes": [
+      {
+        "original": "Arn",
+        "resolved_name": "ARNICA MONTANA",
+        "confidence": 0.95,
+        "method": "abbreviation"
+      }
+    ]
+  },
+  "resolved_at": "2026-03-11T01:50:08.933Z"
+}

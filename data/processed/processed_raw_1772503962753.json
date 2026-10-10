@@ -1,0 +1,59 @@
+{
+  "name": "PAEONIA OFFICINALIS",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Peony"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Sticking pain in left chest. Heat in chest. Dull shooting from front to back through heart.",
+    "Rush of blood to head and face. Nervous. Vertigo when moving. Burning in eyes and ringing in ears.",
+    "Pain in wrist and fingers; knees and toes. Weakness of legs, inhibiting walking."
+  ],
+  "guiding_symptoms": [
+    "Sticking pain in left chest. Heat in chest. Dull shooting from front to back through heart.",
+    "Rush of blood to head and face. Nervous. Vertigo when moving. Burning in eyes and ringing in ears.",
+    "Pain in wrist and fingers; knees and toes. Weakness of legs, inhibiting walking."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Rush of blood to head and face. Nervous. Vertigo when moving. Burning in eyes and ringing in ears."
+  ],
+  "respiratory_symptoms": [
+    "Sticking pain in left chest. Heat in chest. Dull shooting from front to back through heart."
+  ],
+  "gi_symptoms": [
+    "Biting, itching in anus; orifice swollen. Burning in anus after stool; then internal chilliness. Fistula ani, diarrhśa, with anal burning and internal chilliness. Painful ulcer, oozing offensive moisture on perineum. Hćmorrhoids, fissures, ulceration of anus and perineum, purple, covered with crusts. Atrocious pains with and after each stool. Sudden, pasty diarrhśa, with faintness in abdomen."
+  ],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [
+    "Pain in wrist and fingers; knees and toes. Weakness of legs, inhibiting walking."
+  ],
+  "skin_symptoms": [
+    "Sensitive, painful. Ulcers below coccyx, around sacrum; varicose veins. Ulcers in general, from pressure, bedsores, etc. Itching, burning, as from nettles."
+  ],
+  "sleep_symptoms": [
+    "Terrifying dreams, nightmare."
+  ],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Glechoma-Ground Ivy--(rectal symptom"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/p/paeon.htm",
+    "title": "PAEONIA OFFICINALIS - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:12:42.751Z"
+  },
+  "confidence_score": 0.6799999999999999
+}

@@ -1,0 +1,45 @@
+{
+  "name": "NITROMURIATICUM ACIDUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Aqua Regia"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Sour eructations, with empty hungry feeling in stomach; not relieved by eating. Salivation, worse at night."
+  ],
+  "guiding_symptoms": [
+    "Sour eructations, with empty hungry feeling in stomach; not relieved by eating. Salivation, worse at night."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Gums bleed easily. Ptyalism. Constant drooling at night (Merc). Cankers; small, superficial ulceration over inside of mouth and tongue. Metallic taste (Cupr met)."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "Sour eructations, with empty hungry feeling in stomach; not relieved by eating. Salivation, worse at night."
+  ],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/n/nit-m-ac.htm",
+    "title": "NITROMURIATICUM ACIDUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:06:02.691Z"
+  },
+  "confidence_score": 0.44
+}

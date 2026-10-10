@@ -1,0 +1,47 @@
+{
+  "name": "BARYTA ACETICA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Acetate of Barium"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Drawing pain down whole left leg. Crawling, with burning stitches. Paralysis. Lumbago and rheumatic pain in muscles and joints."
+  ],
+  "guiding_symptoms": [
+    "Drawing pain down whole left leg. Crawling, with burning stitches. Paralysis. Lumbago and rheumatic pain in muscles and joints."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [
+    "Forgetful; wavering long between opposite resolutions. Lack of self confidence."
+  ],
+  "head_symptoms": [
+    "Feeling of cobweb in face."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [
+    "Drawing pain down whole left leg. Crawling, with burning stitches. Paralysis. Lumbago and rheumatic pain in muscles and joints."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/b/bar-act.htm",
+    "title": "BARYTA ACETICA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:04:52.246Z"
+  },
+  "confidence_score": 0.44
+}

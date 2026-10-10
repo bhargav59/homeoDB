@@ -1,0 +1,63 @@
+{
+  "name": "ZIZIA AUREA",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Meadow Parsnip"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Pressure on top, in right temple, associated with backache.",
+    "Dry cough, with stitches in chest. Dyspnśa.",
+    "Unusual tired feeling. Chorea, especially during sleep. Fidgety legs (Tarant). Lameness in arms and spasmodic twitching."
+  ],
+  "guiding_symptoms": [
+    "Pressure on top, in right temple, associated with backache.",
+    "Dry cough, with stitches in chest. Dyspnśa.",
+    "Unusual tired feeling. Chorea, especially during sleep. Fidgety legs (Tarant). Lameness in arms and spasmodic twitching."
+  ],
+  "modalities": {
+    "worse": [
+      "during sleep"
+    ],
+    "better": []
+  },
+  "mind_symptoms": [
+    "Suicidal; depressed; laughing and weeping moods alternate."
+  ],
+  "head_symptoms": [
+    "Pressure on top, in right temple, associated with backache."
+  ],
+  "respiratory_symptoms": [
+    "Dry cough, with stitches in chest. Dyspnśa."
+  ],
+  "gi_symptoms": [],
+  "urinary_symptoms": [
+    "Great lassitude following coitus. Sexual power increased."
+  ],
+  "musculoskeletal_symptoms": [
+    "Unusual tired feeling. Chorea, especially during sleep. Fidgety legs (Tarant). Lameness in arms and spasmodic twitching."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Agar",
+    "Stram",
+    "Tarant",
+    "Cicuta",
+    "Aethusa"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/z/ziz.htm",
+    "title": "ZIZIA AUREA - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:45:27.701Z"
+  },
+  "confidence_score": 0.74
+}

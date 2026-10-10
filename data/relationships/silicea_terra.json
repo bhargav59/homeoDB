@@ -1,0 +1,22 @@
+{
+  "remedy_name": "SILICEA TERRA",
+  "source_file": "raw_1772504901146.json",
+  "source_url": "https://www.homeoint.org/books/boericmm/s/sil.htm",
+  "relationships": {
+    "complementary": [
+      "Thuja"
+    ],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      "Black Gunpowder 3x (Abscesses",
+      "boils",
+      "carbuncles",
+      "limb purple"
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "parsed_at": "2026-03-03T15:23:37.731Z"
+}

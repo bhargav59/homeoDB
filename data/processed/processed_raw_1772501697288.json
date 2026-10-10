@@ -1,0 +1,51 @@
+{
+  "name": "FERRUM PICRICUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Picrate of Iron"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Indigestion, furred tongue, headache after meals, especially in bilious, dark-haired persons.",
+    "Pain in right side of neck and down right arm. Locomotor ataxia, ocular stage. Hands covered with warts."
+  ],
+  "guiding_symptoms": [
+    "Indigestion, furred tongue, headache after meals, especially in bilious, dark-haired persons.",
+    "Pain in right side of neck and down right arm. Locomotor ataxia, ocular stage. Hands covered with warts."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Deafness before menses. Crackling in ears and low-pitched voice. Vascular deafness. Dental neuralgia, radiating towards ears and eyes. Humming in ears as from telegraph wires. Tinnitus."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "Indigestion, furred tongue, headache after meals, especially in bilious, dark-haired persons."
+  ],
+  "urinary_symptoms": [
+    "Pain along entire urethra. Frequent micturition at night, with full feeling and pressure in rectum. Smarting at neck of bladder and penis (Barosma). Retention of urine."
+  ],
+  "musculoskeletal_symptoms": [
+    "Pain in right side of neck and down right arm. Locomotor ataxia, ocular stage. Hands covered with warts."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/f/ferr-pic.htm",
+    "title": "FERRUM PICRICUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:34:57.288Z"
+  },
+  "confidence_score": 0.5
+}

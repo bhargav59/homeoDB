@@ -1,0 +1,74 @@
+{
+  "name": "CACTUS GRANDIFLORUS",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Night-blooming Cereus"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Constriction, pulsation, or heaviness in stomach. Vomiting of blood.",
+    "Oppressed breathing as from a weight on chest. Constriction in chest, as if bound, hindering respiration. Inflammation of diaphragm. Heart-constriction, as from an iron band. Angina pectoris. Palpitation; pain shooting down left arm. Hćmoptysis, with convulsive, spasmodic cough. Diaphragmitis, with great difficulty of breathing.",
+    "Headache if obliged to pass dinner hour (Ars; Lach; Lyc). Sensation as of a weight on vertex. Right-sided pulsating pain. Congestive headaches, periodical, threatening apoplexy. Blood-vessels to the head distended. Feels as if head were compressed in a vise. Pulsation in ears. Dim sight. Right sided prosopalgia, constricting pains, returns at same hour daily (Cedron).",
+    "Endocarditis with mitral insufficiency together with violent and rapid action. Acts best in the incipiency of cardiac incompetence. Heart weakness of arterio-sclerosis. Tobacco heart. Violent palpitation; worse lying on left side, at approach of menses. Angina pectoris, with suffocation, cold sweat, and ever-present iron band feeling. Pain in apex, shooting down left arm. Palpitation, with vertigo; dyspnśa, flatulence. Constriction; very acute pains and stitches in heart; pulse feeble, irregular, quick, without strength. Endocardial murmurs, excessive impulse, increased prćcordial dullness, enlarged ventricle. Low blood pressure.",
+    "Śdema of hands and feet. Hands soft; feet enlarged. Numbness of left arm. Icy-cold hands. Restless legs."
+  ],
+  "guiding_symptoms": [
+    "Constriction, pulsation, or heaviness in stomach. Vomiting of blood.",
+    "Oppressed breathing as from a weight on chest. Constriction in chest, as if bound, hindering respiration. Inflammation of diaphragm. Heart-constriction, as from an iron band. Angina pectoris. Palpitation; pain shooting down left arm. Hćmoptysis, with convulsive, spasmodic cough. Diaphragmitis, with great difficulty of breathing.",
+    "Headache if obliged to pass dinner hour (Ars; Lach; Lyc). Sensation as of a weight on vertex. Right-sided pulsating pain. Congestive headaches, periodical, threatening apoplexy. Blood-vessels to the head distended. Feels as if head were compressed in a vise. Pulsation in ears. Dim sight. Right sided prosopalgia, constricting pains, returns at same hour daily (Cedron)."
+  ],
+  "modalities": {
+    "worse": [
+      "about noon, lying on left side",
+      "walking, going upstairs, 11 am and 11 pm"
+    ],
+    "better": [
+      "open air"
+    ]
+  },
+  "mind_symptoms": [
+    "Melancholy, taciturn, sad, ill-humored. Fear of death. Screams with pain. Anxiety."
+  ],
+  "head_symptoms": [
+    "Headache if obliged to pass dinner hour (Ars; Lach; Lyc). Sensation as of a weight on vertex. Right-sided pulsating pain. Congestive headaches, periodical, threatening apoplexy. Blood-vessels to the head distended. Feels as if head were compressed in a vise. Pulsation in ears. Dim sight. Right sided prosopalgia, constricting pains, returns at same hour daily (Cedron)."
+  ],
+  "respiratory_symptoms": [
+    "Oppressed breathing as from a weight on chest. Constriction in chest, as if bound, hindering respiration. Inflammation of diaphragm. Heart-constriction, as from an iron band. Angina pectoris. Palpitation; pain shooting down left arm. Hćmoptysis, with convulsive, spasmodic cough. Diaphragmitis, with great difficulty of breathing."
+  ],
+  "gi_symptoms": [
+    "Constriction, pulsation, or heaviness in stomach. Vomiting of blood."
+  ],
+  "urinary_symptoms": [
+    "Constriction in uterine region and ovaries. Dysmenorrhśa; pulsating pain in uterus and ovaries. Vaginismus. Menses early, dark, pitch-like (Cocc; Mag c); cease on lying down, with heart symptoms."
+  ],
+  "musculoskeletal_symptoms": [
+    "Śdema of hands and feet. Hands soft; feet enlarged. Numbness of left arm. Icy-cold hands. Restless legs."
+  ],
+  "skin_symptoms": [],
+  "sleep_symptoms": [
+    "Sleepless on account of pulsation in different parts of body. Frightful dreams."
+  ],
+  "fever_symptoms": [
+    "Fever every day at same hour. Coldness in back and icy-cold hands. Intermittent; paroxysms about midday (11 am) incomplete in their stages, accompanied by hćmorrhages. Coldness predominates; cold sweat, with great anguish. Persistent subnormal temperature."
+  ],
+  "complementary_remedies": [
+    "Digital",
+    "Spigel",
+    "Convallar",
+    "Kalmia",
+    "Naja"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/c/cact.htm",
+    "title": "CACTUS GRANDIFLORUS - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:09:25.886Z"
+  },
+  "confidence_score": 0.8
+}

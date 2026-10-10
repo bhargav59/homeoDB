@@ -1,0 +1,76 @@
+{
+  "name": "PETROLEUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Crude Rock-oil"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Heartburn; hot, sharp, sour eructation. Distention. Feeling of great emptiness. Strong aversion to fat food, meat; worse, eating cabbage. Hunger, immediately after stool. Nausea, with accumulation of water in mouth. Gastralgia when stomach is empty; relieved by constant eating (Anac; Sep). Ravenous hunger. Must rise at night and eat (Psorin). Odor of garlic.",
+    "Sensitive, as of a cold breeze blowing on it. Feels numb, as if made of wood; occiput heavy, as of lead (Opium). Vertigo on rising, felt in occiput, as if intoxicated, or like sea-sickness. Moist eruption on scalp; worse, back and ears. Scalp sore to touch, followed by numbness. Headache, must hold temples to relieve; provoked by shaking while coughing. Use thirtieth.",
+    "Hoarseness (Carbo; Caust; Phos) dry cough and oppression of chest; worse, cold air. Dry cough at night, coming deep from chest. Croup and laryngeal diphtheria.",
+    "Sensation of coldness (Carb an; Nat mur). Fainting, with ebullitions, heat and palpitation.",
+    "Chronic sprains. Fetid sweat in axillć. Knees stiff. Tips of fingers rough, cracked, fissured every winter. Scalding sensation in knee. Cracking in joints.",
+    "Pain in nape of neck, stiff and painful. Weakness in small of back. Coccyx painful."
+  ],
+  "guiding_symptoms": [
+    "Heartburn; hot, sharp, sour eructation. Distention. Feeling of great emptiness. Strong aversion to fat food, meat; worse, eating cabbage. Hunger, immediately after stool. Nausea, with accumulation of water in mouth. Gastralgia when stomach is empty; relieved by constant eating (Anac; Sep). Ravenous hunger. Must rise at night and eat (Psorin). Odor of garlic.",
+    "Sensitive, as of a cold breeze blowing on it. Feels numb, as if made of wood; occiput heavy, as of lead (Opium). Vertigo on rising, felt in occiput, as if intoxicated, or like sea-sickness. Moist eruption on scalp; worse, back and ears. Scalp sore to touch, followed by numbness. Headache, must hold temples to relieve; provoked by shaking while coughing. Use thirtieth.",
+    "Hoarseness (Carbo; Caust; Phos) dry cough and oppression of chest; worse, cold air. Dry cough at night, coming deep from chest. Croup and laryngeal diphtheria."
+  ],
+  "modalities": {
+    "worse": [
+      "dampness, before and during a thunder-storm, from riding in cars, passive motion",
+      "in winter, eating, from mental states"
+    ],
+    "better": [
+      "warm air",
+      "lying with head high",
+      "dry weather"
+    ]
+  },
+  "mind_symptoms": [
+    "Marked aggravation from mental emotions. Loses his way in streets. Thinks he is double, or some one else lying alongside. Feels that death is near, and must hurry to settle affairs. Irritable, easily offended, vexed at everything. Low-spirited, with dimness of sight."
+  ],
+  "head_symptoms": [
+    "Sensitive, as of a cold breeze blowing on it. Feels numb, as if made of wood; occiput heavy, as of lead (Opium). Vertigo on rising, felt in occiput, as if intoxicated, or like sea-sickness. Moist eruption on scalp; worse, back and ears. Scalp sore to touch, followed by numbness. Headache, must hold temples to relieve; provoked by shaking while coughing. Use thirtieth."
+  ],
+  "respiratory_symptoms": [
+    "Hoarseness (Carbo; Caust; Phos) dry cough and oppression of chest; worse, cold air. Dry cough at night, coming deep from chest. Croup and laryngeal diphtheria."
+  ],
+  "gi_symptoms": [
+    "Heartburn; hot, sharp, sour eructation. Distention. Feeling of great emptiness. Strong aversion to fat food, meat; worse, eating cabbage. Hunger, immediately after stool. Nausea, with accumulation of water in mouth. Gastralgia when stomach is empty; relieved by constant eating (Anac; Sep). Ravenous hunger. Must rise at night and eat (Psorin). Odor of garlic."
+  ],
+  "urinary_symptoms": [
+    "Herpetic eruption on perineum. Prostate inflamed and swollen. Itching in urethra."
+  ],
+  "musculoskeletal_symptoms": [
+    "Chronic sprains. Fetid sweat in axillć. Knees stiff. Tips of fingers rough, cracked, fissured every winter. Scalding sensation in knee. Cracking in joints."
+  ],
+  "skin_symptoms": [
+    "Itching at night. Chilblains, moist, itch and burn. Bed-sores. Skin dry, constricted, very sensitive, rough and cracked, leathery. Herpes. Slightest scratch makes skin suppurate (Hepar). Intertrigo; psoriasis of hands. Thick, greenish crusts, burning and itching; redness, raw; cracks bleed easily. Eczema. Rhagades worse in winter."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [
+    "Chilliness, followed by sweat. Flushes of heat, particularly of the face and head; worse at night. Perspiration on feet and axillć."
+  ],
+  "complementary_remedies": [
+    "Carbo",
+    "Graph",
+    "Sulph",
+    "Phos"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/p/petr.htm",
+    "title": "PETROLEUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:06:21.641Z"
+  },
+  "confidence_score": 0.8
+}

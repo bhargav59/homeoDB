@@ -1,0 +1,51 @@
+{
+  "name": "AMMONIACUM GUMMI",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Gum Ammoniac"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Catarrhal headache due to closure of frontal sinuses.",
+    "Difficult breathing. Chronic bronchial catarrh. Large accumulation of purulent matter and feeble expectoration; worse cold weather. Mucus tough and hard. Heart beats stronger, extends to pit of stomach. Coarse rattling of chest in old people."
+  ],
+  "guiding_symptoms": [
+    "Catarrhal headache due to closure of frontal sinuses.",
+    "Difficult breathing. Chronic bronchial catarrh. Large accumulation of purulent matter and feeble expectoration; worse cold weather. Mucus tough and hard. Heart beats stronger, extends to pit of stomach. Coarse rattling of chest in old people."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Catarrhal headache due to closure of frontal sinuses."
+  ],
+  "respiratory_symptoms": [
+    "Difficult breathing. Chronic bronchial catarrh. Large accumulation of purulent matter and feeble expectoration; worse cold weather. Mucus tough and hard. Heart beats stronger, extends to pit of stomach. Coarse rattling of chest in old people."
+  ],
+  "gi_symptoms": [],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [
+    "Senega",
+    "Tart emet",
+    "Balsam Peru"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/a/ammc.htm",
+    "title": "AMMONIACUM GUMMI - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-01T13:32:54.623Z"
+  },
+  "confidence_score": 0.56
+}

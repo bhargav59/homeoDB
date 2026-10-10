@@ -1,0 +1,45 @@
+{
+  "name": "ARSENICUM METALLICUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Metallic Arsenic"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Low spirited, memory weak. Desire to be alone. Annoyed by visions, causing her to cry. Head feels too large. Left-sided headache up to eyes and into ears. Headache worse stooping and lying down. Śdematous swelling of forehead."
+  ],
+  "guiding_symptoms": [
+    "Low spirited, memory weak. Desire to be alone. Annoyed by visions, causing her to cry. Head feels too large. Left-sided headache up to eyes and into ears. Headache worse stooping and lying down. Śdematous swelling of forehead."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Low spirited, memory weak. Desire to be alone. Annoyed by visions, causing her to cry. Head feels too large. Left-sided headache up to eyes and into ears. Headache worse stooping and lying down. Śdematous swelling of forehead."
+  ],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "Sore pain in liver goes through to shoulders and spine. Pain in spleen down to groin. Pain in breast extends to hip and spleen. Diarrhśa, burning watery stools with relief of pain."
+  ],
+  "urinary_symptoms": [],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/a/ars-met.htm",
+    "title": "ARSENICUM METALLICUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-02T06:34:40.171Z"
+  },
+  "confidence_score": 0.5
+}

@@ -1,0 +1,45 @@
+{
+  "name": "PETROSELINUM SATIVUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Parsley"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Thirsty and hungry, but desire fails on beginning to eat or drink."
+  ],
+  "guiding_symptoms": [
+    "Thirsty and hungry, but desire fails on beginning to eat or drink."
+  ],
+  "modalities": {
+    "worse": [],
+    "better": []
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [],
+  "respiratory_symptoms": [],
+  "gi_symptoms": [
+    "Thirsty and hungry, but desire fails on beginning to eat or drink."
+  ],
+  "urinary_symptoms": [
+    "Burning, tingling, from perineum throughout whole urethra; sudden urging, to urinate; frequent, voluptuous tickling in fossa navicularis. Gonorrhśa; sudden, irresistible desire to urinate; intense biting, itching, deep in urethra; milky discharge."
+  ],
+  "musculoskeletal_symptoms": [],
+  "skin_symptoms": [],
+  "sleep_symptoms": [],
+  "fever_symptoms": [],
+  "complementary_remedies": [],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/p/petros.htm",
+    "title": "PETROSELINUM SATIVUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T02:14:38.121Z"
+  },
+  "confidence_score": 0.44
+}

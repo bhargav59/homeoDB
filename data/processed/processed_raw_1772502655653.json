@@ -1,0 +1,66 @@
+{
+  "name": "KALIUM SULPHURICUM",
+  "abbreviation": "Unknown",
+  "common_names": [
+    "Potassium Sulphate"
+  ],
+  "kingdom": "Unknown",
+  "family": "Unknown",
+  "miasm": "Unknown",
+  "constitution": "Unknown",
+  "thermal_state": "Unknown",
+  "key_symptoms": [
+    "Tongue coated yellow and slimy. Insipid, pappy taste. Gums painful. Burning thirst, nausea, and vomiting. Load feeling. Dread of hot drinks.",
+    "Rheumatic headache, beginning in evening. Bald spots. Dandruff and scaldhead.",
+    "Coarse rales. Rattling of mucus in chest (Tart em). Post-grippal cough, especially in children. Bronchial asthma, with yellow expectoration. Cough; worse in evening and in hot atmosphere. Croupy hoarseness (Hep; Spong).",
+    "Pain in nape, back and limbs, worse in warm room. Shifting, wandering pains."
+  ],
+  "guiding_symptoms": [
+    "Tongue coated yellow and slimy. Insipid, pappy taste. Gums painful. Burning thirst, nausea, and vomiting. Load feeling. Dread of hot drinks.",
+    "Rheumatic headache, beginning in evening. Bald spots. Dandruff and scaldhead.",
+    "Coarse rales. Rattling of mucus in chest (Tart em). Post-grippal cough, especially in children. Bronchial asthma, with yellow expectoration. Cough; worse in evening and in hot atmosphere. Croupy hoarseness (Hep; Spong)."
+  ],
+  "modalities": {
+    "worse": [
+      "in evening, heated room"
+    ],
+    "better": [
+      "cool, open air"
+    ]
+  },
+  "mind_symptoms": [],
+  "head_symptoms": [
+    "Rheumatic headache, beginning in evening. Bald spots. Dandruff and scaldhead."
+  ],
+  "respiratory_symptoms": [
+    "Coarse rales. Rattling of mucus in chest (Tart em). Post-grippal cough, especially in children. Bronchial asthma, with yellow expectoration. Cough; worse in evening and in hot atmosphere. Croupy hoarseness (Hep; Spong)."
+  ],
+  "gi_symptoms": [
+    "Tongue coated yellow and slimy. Insipid, pappy taste. Gums painful. Burning thirst, nausea, and vomiting. Load feeling. Dread of hot drinks."
+  ],
+  "urinary_symptoms": [
+    "Gonorrhœa; discharge slimy, yellowish-green. Orchitis. Gleet."
+  ],
+  "musculoskeletal_symptoms": [
+    "Pain in nape, back and limbs, worse in warm room. Shifting, wandering pains."
+  ],
+  "skin_symptoms": [
+    "Psoriasis (Ars; Thyroid). Eczema; burning, itching, papular eruption. Nettle-rash. Polypi. Epithelioma. Seborrhœa. Favus. Ring-worm of scalp or beard with abundant scales."
+  ],
+  "sleep_symptoms": [],
+  "fever_symptoms": [
+    "Rise of temperature at night. Intermittent fever, with yellow, slimy tongue."
+  ],
+  "complementary_remedies": [
+    "Kali sulph chromico"
+  ],
+  "antidoted_by": [],
+  "follows_well": [],
+  "inimical_remedies": [],
+  "source": {
+    "url": "https://www.homeoint.org/books/boericmm/k/kali-s.htm",
+    "title": "KALIUM SULPHURICUM - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE",
+    "scraped_at": "2026-03-03T01:50:55.653Z"
+  },
+  "confidence_score": 0.8
+}

@@ -1,0 +1,33 @@
+{
+  "remedy_name": "JACARANDA CAROBA",
+  "source_file": "raw_1772502448680.json",
+  "relationships": {
+    "complementary": [],
+    "antidoted_by": [],
+    "follows_well": [],
+    "inimical": [],
+    "compare": [
+      {
+        "original": "Thuja",
+        "resolved_name": "THUJA OCCIDENTALIS",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "Corallium",
+        "resolved_name": "CORALLIUM RUBRUM",
+        "confidence": 1,
+        "method": "exact"
+      },
+      {
+        "original": "especially of eye and throat",
+        "resolved_name": null,
+        "confidence": 0,
+        "method": "unresolved"
+      }
+    ],
+    "incompatible": [],
+    "antidotes": []
+  },
+  "resolved_at": "2026-03-11T01:50:09.979Z"
+}
