@@ -77,40 +77,30 @@ def process_file(conn, filepath):
         modalities = format_modalities(record.get("modalities", {}))
         mind_symptoms = join_list(record.get("mind_mental_symptoms", []))
         
-        # Fields not present in the new specific schema are left empty
-        head_symptoms = ""
-        respiratory_symptoms = ""
-        gi_symptoms = ""
-        urinary_symptoms = ""
-        skin_symptoms = ""
-        fever_symptoms = ""
-        
-        print(f" -> Upserting: {remedy_name}")
+        print(f" -> Upserting/Merging: {remedy_name}")
         
         cur.execute("SELECT 1 FROM mm_enhanced WHERE remedy_name = %s", (remedy_name,))
         exists = cur.fetchone()
         
         if exists:
+            # CONCATENATE data instead of overwriting so we combine chunks of the same remedy!
             cur.execute("""
                 UPDATE mm_enhanced 
-                SET abbreviation = %s, key_symptoms = %s, guiding_symptoms = %s, 
-                    modalities = %s, mind_symptoms = %s, head_symptoms = %s, 
-                    respiratory_symptoms = %s, gi_symptoms = %s, urinary_symptoms = %s, 
-                    skin_symptoms = %s, fever_symptoms = %s
+                SET abbreviation = COALESCE(NULLIF(abbreviation, ''), %s), 
+                    key_symptoms = COALESCE(key_symptoms, '') || ' \n ' || %s, 
+                    guiding_symptoms = COALESCE(guiding_symptoms, '') || ' \n ' || %s, 
+                    modalities = COALESCE(modalities, '') || ' \n ' || %s, 
+                    mind_symptoms = COALESCE(mind_symptoms, '') || ' \n ' || %s
                 WHERE remedy_name = %s
-            """, (abbreviation, key_symptoms, guiding_symptoms, modalities, mind_symptoms, 
-                  head_symptoms, respiratory_symptoms, gi_symptoms, urinary_symptoms, 
-                  skin_symptoms, fever_symptoms, remedy_name))
+            """, (abbreviation, key_symptoms, guiding_symptoms, modalities, mind_symptoms, remedy_name))
         else:
             cur.execute("""
                 INSERT INTO mm_enhanced (
                     remedy_name, abbreviation, key_symptoms, guiding_symptoms, 
                     modalities, mind_symptoms, head_symptoms, respiratory_symptoms, 
                     gi_symptoms, urinary_symptoms, skin_symptoms, fever_symptoms
-                ) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
-            """, (remedy_name, abbreviation, key_symptoms, guiding_symptoms, modalities, 
-                  mind_symptoms, head_symptoms, respiratory_symptoms, gi_symptoms, 
-                  urinary_symptoms, skin_symptoms, fever_symptoms))
+                ) VALUES (%s, %s, %s, %s, %s, %s, '', '', '', '', '', '')
+            """, (remedy_name, abbreviation, key_symptoms, guiding_symptoms, modalities, mind_symptoms))
                   
         cur.execute("""
             UPDATE mm_enhanced
@@ -129,15 +119,14 @@ def process_file(conn, filepath):
     print(f"Finished {filepath}.")
 
 def main():
-    print("=== POSTGRESQL SEQUENTIAL INDEXING ===")
+    print("=== POSTGRESQL SEQUENTIAL INDEXING (WITH CHUNK MERGING) ===")
     conn = connect_db()
     if not conn:
         return
         
-    # Ensure the table exists
     create_table_if_not_exists(conn)
         
-    files = glob.glob("data/exports/*_seq.json")
+    files = glob.glob("data/exports/*_full.json") + glob.glob("data/exports/*_seq.json")
     if not files:
         print("No sequential export files found in data/exports/")
         return
